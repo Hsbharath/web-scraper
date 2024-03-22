@@ -1134,7 +1134,7 @@ async function scrapeListOfConstituenciesStateWise() {
         </div>
     </div>
 </div>`;
-    // Load HTML content using Cheerio
+
     const $ = cheerio.load(html);
 
     // Initialize an object to store constituencies by state
