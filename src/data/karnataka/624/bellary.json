@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Y. Devendrappa",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 40107878,
+    "liabilities": 250000
+  },
+  {
+    "name": "A. Devadas",
+    "age": "51",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1943531,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Eshwarappa",
+    "age": "40",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 304000,
+    "liabilities": 1350000
+  },
+  {
+    "name": "B. Raghu",
+    "age": "35",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 202855,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Gulappa",
+    "age": "69",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9378000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Naveen Kumar. S",
+    "age": "29",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 837500,
+    "liabilities": 500000
+  },
+  {
+    "name": "Nayakara Ramappa",
+    "age": "30",
+    "party": "Indian Labour Party (Ambedkar Phule)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 910000,
+    "liabilities": 0
+  },
+  {
+    "name": "P. D. Ramanayaka",
+    "age": "43",
+    "party": "Republican Party of India (Karnataka)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 293970,
+    "liabilities": 315000
+  },
+  {
+    "name": "T. Veeresh",
+    "age": "35",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1360778,
+    "liabilities": 30000
+  },
+  {
+    "name": "V. S. Ugrappa",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 108217325,
+    "liabilities": 22231164
+  },
+  {
+    "name": "Yeruru Pampapathi",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1600000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Selvam.G",
+    "age": "44",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48172936,
+    "liabilities": 0
+  },
+  {
+    "name": "Devarajan C",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Elangovan M",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maragadam M",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 201000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maragatham K",
+    "age": "36",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19631546,
+    "liabilities": 6500000
+  },
+  {
+    "name": "Munusamy A",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21615246,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh S",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2642293,
+    "liabilities": 0
+  },
+  {
+    "name": "Sekar.D",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1435000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sivaranjani.D",
+    "age": "26",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15014,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinothraj R",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21000,
+    "liabilities": 0
+  }
+]

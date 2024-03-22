@@ -1,0 +1,74 @@
+[
+  {
+    "name": "T. N. Prathapan",
+    "age": "58",
+    "party": "INC",
+    "criminal": "7",
+    "education": "12th Pass",
+    "assets": 8609349,
+    "liabilities": 2978120
+  },
+  {
+    "name": "N D Venu",
+    "age": "45",
+    "party": "CPI(ML) Red Star",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 38500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nikhil",
+    "age": "25",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 113066,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen K P",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 8903412,
+    "liabilities": 2665000
+  },
+  {
+    "name": "Rajaji Mathew Thomas",
+    "age": "64",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2884096,
+    "liabilities": 2150000
+  },
+  {
+    "name": "Sonu",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 6286500,
+    "liabilities": 1703000
+  },
+  {
+    "name": "Suresh Gopi",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 101534170,
+    "liabilities": 6124303
+  },
+  {
+    "name": "Suvith",
+    "age": "29",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 306277,
+    "liabilities": 0
+  }
+]

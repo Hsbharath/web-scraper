@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Goddeti Madhavi",
+    "age": "26",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 141179,
+    "liabilities": 0
+  },
+  {
+    "name": "Anumula Vamsi Krishna",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Biddika Ramaiah",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 415000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Kasi Viswanadha Veera Venkata Satyanarayana Reddy Kosuri",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 11443485,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Kangala Baladora",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 340500,
+    "liabilities": 0
+  },
+  {
+    "name": "Narava Satyavathi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 964000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shruti Devi Vyricherla",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 23592023,
+    "liabilities": 0
+  },
+  {
+    "name": "Swamula Subrahamanyam",
+    "age": "50",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2100000,
+    "liabilities": 870000
+  },
+  {
+    "name": "Vampuru Gangulaiah",
+    "age": "49",
+    "party": "Janasena Party",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2567059,
+    "liabilities": 320000
+  },
+  {
+    "name": "Vyricherla Kishore Chandra Suryanarayana Deo",
+    "age": "72",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 65729020,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Srinivas Kesineni",
+    "age": "53",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 808152415,
+    "liabilities": 512332955
+  },
+  {
+    "name": "Andukuri Vijaya Bhaskar",
+    "age": "49",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bolisetty Hari Babu",
+    "age": "60",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 45608000,
+    "liabilities": 10944696
+  },
+  {
+    "name": "Dileep Kilaru",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1369017847,
+    "liabilities": 4262122
+  },
+  {
+    "name": "Gandhi Dhanekula",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10590000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Lurthu Meri Daila",
+    "age": "43",
+    "party": "Mundadugu Praja Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madabathula Chandra Sekhar",
+    "age": "31",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammad Ishaq",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5276961,
+    "liabilities": 512010
+  },
+  {
+    "name": "Muttamasetty Lakshmana Siva Prasad Babu",
+    "age": "66",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 33169811,
+    "liabilities": 137447
+  },
+  {
+    "name": "Nandini Nallaghatla",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 509343,
+    "liabilities": 409343
+  },
+  {
+    "name": "Naraharisetty Narasimha Rao",
+    "age": "58",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 19342702,
+    "liabilities": 6788257
+  },
+  {
+    "name": "Prasad Veera Potluri",
+    "age": "48",
+    "party": "YSRCP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3477616326,
+    "liabilities": 209577562
+  },
+  {
+    "name": "Riyaz Dada Miya Shaik",
+    "age": "32",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Siva Prasad Padala",
+    "age": "62",
+    "party": "Navarang Congress Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1650000,
+    "liabilities": 0
+  }
+]

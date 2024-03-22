@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Prathap Simha",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 18723762,
+    "liabilities": 6586698
+  },
+  {
+    "name": "Alagudu Lingaraju",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1146000,
+    "liabilities": 0
+  },
+  {
+    "name": "Alishan. S",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 22700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anand Kumar. M",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14177000,
+    "liabilities": 2850000
+  },
+  {
+    "name": "Asharani V",
+    "age": "42",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 42594246,
+    "liabilities": 3200000
+  },
+  {
+    "name": "Ayub Khan",
+    "age": "43",
+    "party": "Indian New Congress Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 60450000,
+    "liabilities": 0
+  },
+  {
+    "name": "C.H.Vijayashankar",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 46434790,
+    "liabilities": 3500000
+  },
+  {
+    "name": "Dr. B. Chandra (Chandregowda)",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 20100180,
+    "liabilities": 11200000
+  },
+  {
+    "name": "G.M. Mahadeva",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 163450,
+    "liabilities": 0
+  },
+  {
+    "name": "K.S.Somasunder",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 630400,
+    "liabilities": 200000
+  },
+  {
+    "name": "Kaveriamma.N.K.",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 715000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lokesh Kumar.G.",
+    "age": "36",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2093000,
+    "liabilities": 200000
+  },
+  {
+    "name": "M J Suresh Gowda",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15657000,
+    "liabilities": 772533
+  },
+  {
+    "name": "N. Nagesh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26150,
+    "liabilities": 0
+  },
+  {
+    "name": "Ningappa B D",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 926000,
+    "liabilities": 100000
+  },
+  {
+    "name": "P.K. Biddappa",
+    "age": "60",
+    "party": "Karnataka Praja Party (RaithaParva)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12625000,
+    "liabilities": 980000
+  },
+  {
+    "name": "R. Mahesha",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1533000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Raju S/O Late Chaluvashetty",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandhya P S",
+    "age": "40",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2479768,
+    "liabilities": 120000
+  },
+  {
+    "name": "Srinivasaiah",
+    "age": "80",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 620000,
+    "liabilities": 0
+  },
+  {
+    "name": "Venkatesha D Nayaka",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6959654,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Gaddigoudar Parvatagouda Chandanagouda",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 43980663,
+    "liabilities": 7987991
+  },
+  {
+    "name": "Adagal Rajendra",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1858950,
+    "liabilities": 850000
+  },
+  {
+    "name": "Basanagouda Ramanagouda Meti",
+    "age": "47",
+    "party": "Secular Democratic Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10775000,
+    "liabilities": 787000
+  },
+  {
+    "name": "Jamindar Maruti",
+    "age": "37",
+    "party": "Karnataka Jantha Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2500000,
+    "liabilities": 0
+  },
+  {
+    "name": "M Shashikumar Hlepadi",
+    "age": "44",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 29973500,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Mahmad Husen Mujawar",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Muttappa Mudakappa Hirekumbi",
+    "age": "45",
+    "party": "Raita Bharat Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Muttu S Surakod",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3099000,
+    "liabilities": 960000
+  },
+  {
+    "name": "Parashuram Laxman Neelnaik",
+    "age": "48",
+    "party": "Republican Party of India (Karnataka)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3125000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pendari Buddesab Makabulsab",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 590590,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramanagoud S Balawad",
+    "age": "39",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 273750,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi Shivappa Padasalagi",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 29214743,
+    "liabilities": 9743277
+  },
+  {
+    "name": "Shivarajkumar Ajjappa Talawar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 109000,
+    "liabilities": 0
+  },
+  {
+    "name": "Veena Kashappanavar",
+    "age": "38",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 78375219,
+    "liabilities": 26784734
+  }
+]

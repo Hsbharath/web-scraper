@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Abdussamad Samadani",
+    "age": "62",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19370167,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Tasleem Rahmani",
+    "age": "58",
+    "party": "SDPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 21166892,
+    "liabilities": 1450000
+  },
+  {
+    "name": "V.P. Sanu",
+    "age": "32",
+    "party": "CPI(M)",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 344416,
+    "liabilities": 0
+  }
+]

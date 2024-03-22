@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Margani Bharat Ram",
+    "age": "36",
+    "party": "YSRCP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 458205360,
+    "liabilities": 17814757
+  },
+  {
+    "name": "Akula Satyanarayana",
+    "age": "55",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 673924565,
+    "liabilities": 461954372
+  },
+  {
+    "name": "Bandaru Rajeswara Rao",
+    "age": "59",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 205700,
+    "liabilities": 0
+  },
+  {
+    "name": "Geddam David Nelson Babu",
+    "age": "60",
+    "party": "Ambedkarite Party of India",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 5020544,
+    "liabilities": 760000
+  },
+  {
+    "name": "Kuruvella Bhanu Chandar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meda Srinivasa Rao",
+    "age": "50",
+    "party": "Rashtriya Praja Congress (Secular)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 35830000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Nalluri Vijaya Srinivasa Rao",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 562700,
+    "liabilities": 261693
+  },
+  {
+    "name": "Paravasthu Satya Gopinath Das",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3939990,
+    "liabilities": 0
+  },
+  {
+    "name": "Roopa Rammohan Maganti",
+    "age": "45",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 431848590,
+    "liabilities": 324874000
+  },
+  {
+    "name": "Srinivasa Rao Sangisetti",
+    "age": "50",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 6835000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Venu Kollapu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1330000,
+    "liabilities": 900000
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Subbarayan.K",
+    "age": "71",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8035576,
+    "liabilities": 500000
+  },
+  {
+    "name": "A.Senthilvel",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4256700,
+    "liabilities": 0
+  },
+  {
+    "name": "C.Ayyanar",
+    "age": "56",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandirakumar, V.S.",
+    "age": "46",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 51756996,
+    "liabilities": 41924988
+  },
+  {
+    "name": "Kanagaraj, P.",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 292800,
+    "liabilities": 200596
+  },
+  {
+    "name": "Kathiresan, L.",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 781042,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar, D.",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1605000,
+    "liabilities": 8000000
+  },
+  {
+    "name": "M.S.M.Anandan",
+    "age": "56",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 93884772,
+    "liabilities": 10278297
+  },
+  {
+    "name": "P Jaganathan",
+    "age": "50",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12862368,
+    "liabilities": 0
+  },
+  {
+    "name": "P.Jaganathan",
+    "age": "60",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1545719,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajkumar, S.",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Selvam, S.R.",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 61558069,
+    "liabilities": 15537415
+  }
+]

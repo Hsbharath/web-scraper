@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Suresh Babu Nandigam",
+    "age": "43",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4158610,
+    "liabilities": 269000
+  },
+  {
+    "name": "Bussa Nagaraju",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 194000,
+    "liabilities": 0
+  },
+  {
+    "name": "Challagali Kishore Kumar",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 3185877,
+    "liabilities": 0
+  },
+  {
+    "name": "China Nageswara Rao Sadhu",
+    "age": "35",
+    "party": "Mundadugu Praja Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1259090,
+    "liabilities": 196000
+  },
+  {
+    "name": "Gadde Haribabu",
+    "age": "40",
+    "party": "Navodayam Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Gella Nagamalli",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 448500,
+    "liabilities": 465000
+  },
+  {
+    "name": "Golla Baburao",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 78000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jesudasu Seelam",
+    "age": "67",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 126397634,
+    "liabilities": 8342498
+  },
+  {
+    "name": "Kanthiraj Devanand",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 34436000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Kattepogu Vijay Kumar",
+    "age": "53",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 454000,
+    "liabilities": 0
+  },
+  {
+    "name": "Malyadri Sriram",
+    "age": "65",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 42520353,
+    "liabilities": 598794
+  },
+  {
+    "name": "Nuthakki Rama Rao",
+    "age": "71",
+    "party": "All India Praja Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 72376055,
+    "liabilities": 0
+  },
+  {
+    "name": "Thumati Ravi",
+    "age": "46",
+    "party": "All Peoples Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3418000,
+    "liabilities": 0
+  }
+]

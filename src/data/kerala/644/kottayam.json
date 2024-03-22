@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Thomas Chazhikadan",
+    "age": "66",
+    "party": "Kerala Congress (M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 26027478,
+    "liabilities": 495778
+  },
+  {
+    "name": "Ignatious Illimoottil",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 16000,
+    "liabilities": 175000
+  },
+  {
+    "name": "Jijo Joseph",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 354000,
+    "liabilities": 0
+  },
+  {
+    "name": "P C Thomas",
+    "age": "68",
+    "party": "Kerala Congress",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 27643705,
+    "liabilities": 4036712
+  },
+  {
+    "name": "Prakash",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 588200,
+    "liabilities": 45000
+  },
+  {
+    "name": "Thomas J Nidhiry",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6046650,
+    "liabilities": 0
+  },
+  {
+    "name": "Vasavan",
+    "age": "64",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7361071,
+    "liabilities": 637399
+  }
+]

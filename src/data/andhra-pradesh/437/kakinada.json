@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Vanga Geetha Viswanatham",
+    "age": "55",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 202528594,
+    "liabilities": 34416887
+  },
+  {
+    "name": "Ankadi Sathibabu",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Appalakonda Vangalapudi",
+    "age": "28",
+    "party": "Mundadugu Praja Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 514707,
+    "liabilities": 508707
+  },
+  {
+    "name": "Buddala Geetha Devi",
+    "age": "34",
+    "party": "Praja Shanthi Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Donam Neelakantam",
+    "age": "49",
+    "party": "All India Praja Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1477500,
+    "liabilities": 640000
+  },
+  {
+    "name": "Godugu Satyanarayana",
+    "age": "40",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 28000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyothula Venkateswara Rao",
+    "age": "62",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 173451539,
+    "liabilities": 1150000
+  },
+  {
+    "name": "Kakileti Ravindra",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1820000,
+    "liabilities": 750000
+  },
+  {
+    "name": "Mallipudi Sri Ramachandra Murthy",
+    "age": "66",
+    "party": "INC",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3995000,
+    "liabilities": 595000
+  },
+  {
+    "name": "Medisetti Vijaya Kumar",
+    "age": "53",
+    "party": "IND",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 46243484,
+    "liabilities": 11358500
+  },
+  {
+    "name": "Peddimsetti Venkateswara Rao",
+    "age": "46",
+    "party": "Jana Jagruti Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 23742000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sathi Veera Lakshmi",
+    "age": "38",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Chalamalasetty",
+    "age": "49",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 253266524,
+    "liabilities": 18310000
+  },
+  {
+    "name": "Vasamsetty Venakta Ramana",
+    "age": "0",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4850000,
+    "liabilities": 2170000
+  },
+  {
+    "name": "Yalla Venkata Rama Mohana Rao",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 107992410,
+    "liabilities": 18424937
+  }
+]

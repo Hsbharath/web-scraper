@@ -1,0 +1,209 @@
+[
+  {
+    "name": "K. Navaskani",
+    "age": "39",
+    "party": "IUML",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 364738171,
+    "liabilities": 47008615
+  },
+  {
+    "name": "Alla Pichai",
+    "age": "75",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18513000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Anandharaj. M",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1516792,
+    "liabilities": 450000
+  },
+  {
+    "name": "Asan Ali. A",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 307501,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Krishnaraja",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 165000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Ananth",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 102000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deva Sitham. I",
+    "age": "32",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 222839,
+    "liabilities": 182660
+  },
+  {
+    "name": "G. Kesav Yadav",
+    "age": "56",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21892000,
+    "liabilities": 4100000
+  },
+  {
+    "name": "Jawahir Ali. H",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 415000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jeyapandian. R",
+    "age": "26",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 1680653,
+    "liabilities": 1923301
+  },
+  {
+    "name": "K. Kurunthappan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2736915,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Panchatcharam",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 14675585,
+    "liabilities": 6589619
+  },
+  {
+    "name": "Karuppasamy. N",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 540000,
+    "liabilities": 300000
+  },
+  {
+    "name": "N. Kathiravan",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1610000,
+    "liabilities": 340000
+  },
+  {
+    "name": "Nainar Nagenthran",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 194674653,
+    "liabilities": 80459602
+  },
+  {
+    "name": "P. Loganathan",
+    "age": "39",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 13000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhakaran. S",
+    "age": "37",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 1625726,
+    "liabilities": 85000
+  },
+  {
+    "name": "Rajanikanth Agamudaiyar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 19639173,
+    "liabilities": 718569
+  },
+  {
+    "name": "S. Mohamed Ali Jinnah",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 293000,
+    "liabilities": 0
+  },
+  {
+    "name": "T. Bhuvaneswari",
+    "age": "37",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 955530,
+    "liabilities": 350000
+  },
+  {
+    "name": "V. Vinayagamoorthy",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "V.D.N. Anandh. B.E",
+    "age": "38",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 49057656,
+    "liabilities": 6103249
+  },
+  {
+    "name": "Vijaya Baskar",
+    "age": "30",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2636018,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "B.N.Bache Gowda",
+    "age": "76",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1153501141,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdulkarim Desai",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8599316,
+    "liabilities": 3100000
+  },
+  {
+    "name": "Alanguru Kanakalakshmi",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3920000,
+    "liabilities": 0
+  },
+  {
+    "name": "D.Palya Khadar Subhan Khan",
+    "age": "48",
+    "party": "Samajwadi Janata Party(Karnataka)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. C.S.Dwarakanath",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 40844395,
+    "liabilities": 0
+  },
+  {
+    "name": "L. Nagaraj",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 21470000,
+    "liabilities": 30000
+  },
+  {
+    "name": "M.Veerappa Moily",
+    "age": "79",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 234515884,
+    "liabilities": 104316683
+  },
+  {
+    "name": "Muniraju.G",
+    "age": "30",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 36399,
+    "liabilities": 0
+  },
+  {
+    "name": "Nagendra Rao Shinde",
+    "age": "43",
+    "party": "Karnataka Jantha Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16019934,
+    "liabilities": 511131
+  },
+  {
+    "name": "Nalina.K.S",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 66925,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasrulla",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 17000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nazir Ahmed",
+    "age": "62",
+    "party": "Karnataka Karmikara Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7537378,
+    "liabilities": 0
+  },
+  {
+    "name": "Phaniraj.S.V",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3053000,
+    "liabilities": 575000
+  },
+  {
+    "name": "S.R.Nageshareddy",
+    "age": "36",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 670000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Varalakshmi",
+    "age": "48",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 969310,
+    "liabilities": 0
+  }
+]

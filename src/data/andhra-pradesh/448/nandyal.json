@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Pocha Brahmananda Reddy",
+    "age": "60",
+    "party": "YSRCP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 585932911,
+    "liabilities": 177035582
+  },
+  {
+    "name": "Adinarayana Inty",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 33885898,
+    "liabilities": 4479155
+  },
+  {
+    "name": "B.C. Ramanatha Reddy",
+    "age": "54",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 26418457,
+    "liabilities": 2329020
+  },
+  {
+    "name": "Bhuma Kishor Reddy",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 19574000,
+    "liabilities": 2275000
+  },
+  {
+    "name": "C. Surendra Nath Reddy",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 925000,
+    "liabilities": 0
+  },
+  {
+    "name": "D. Mahammad Rafi",
+    "age": "29",
+    "party": "B. C. United Front",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 190000
+  },
+  {
+    "name": "D. P. Jamal Basha",
+    "age": "48",
+    "party": "Anna YSR Congress Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 450000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Dr. Lakshmi Kantha Reddy Chitla",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 170000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Elluri Bhupal",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20000,
+    "liabilities": 20000
+  },
+  {
+    "name": "I.V. Pakkir Reddy",
+    "age": "70",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 10948558,
+    "liabilities": 390264
+  },
+  {
+    "name": "Jestadi Sudhakar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 462788,
+    "liabilities": 0
+  },
+  {
+    "name": "K.P. Kambagiriswamy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1400000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Lakshmi Narasaiah Jangiti",
+    "age": "33",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3305200,
+    "liabilities": 877441
+  },
+  {
+    "name": "Mandra Sivananda Reddy",
+    "age": "57",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 348903562,
+    "liabilities": 68693655
+  },
+  {
+    "name": "Poluru Guruvaiah",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pula. Nagamaddilety",
+    "age": "40",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ruddireddy Radhakrishna",
+    "age": "38",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 500000,
+    "liabilities": 280000
+  },
+  {
+    "name": "S. A. Indumathi",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1960002,
+    "liabilities": 3498000
+  },
+  {
+    "name": "S.P.Y. Reddy",
+    "age": "69",
+    "party": "Janasena Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 333760526,
+    "liabilities": 9594811
+  },
+  {
+    "name": "Vangala Parameswara Reddy.",
+    "age": "40",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2300000,
+    "liabilities": 2500000
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Benny Behanan",
+    "age": "66",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 20461931,
+    "liabilities": 915938
+  },
+  {
+    "name": "Fredy Jackson Pereira",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26000,
+    "liabilities": 103000
+  },
+  {
+    "name": "Innocent",
+    "age": "71",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 67456404,
+    "liabilities": 670000
+  },
+  {
+    "name": "Johnson N",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 69950,
+    "liabilities": 0
+  },
+  {
+    "name": "Jose Thomas",
+    "age": "63",
+    "party": "Marxist Communist Party of India (United)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11081369,
+    "liabilities": 0
+  },
+  {
+    "name": "M R Sathyadevan",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4701000,
+    "liabilities": 0
+  },
+  {
+    "name": "Moideen Kunju P P",
+    "age": "57",
+    "party": "SDPI",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 22464245,
+    "liabilities": 66731
+  },
+  {
+    "name": "Mujeeb Rahman T A",
+    "age": "42",
+    "party": "Peoples Democratic Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4943000,
+    "liabilities": 0
+  },
+  {
+    "name": "Radhakrishnan",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 21383000,
+    "liabilities": 5462000
+  },
+  {
+    "name": "Subramanian",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1136320,
+    "liabilities": 2133
+  },
+  {
+    "name": "Sujatha N A",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 353000,
+    "liabilities": 782000
+  }
+]

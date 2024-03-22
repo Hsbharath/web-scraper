@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Bhagwanth Khuba",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 51836416,
+    "liabilities": 10239000
+  },
+  {
+    "name": "Abdus Sattar Mujahed",
+    "age": "53",
+    "party": "Akhil Bharatiya Muslim League (Secular)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2585000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ambresh Kencha",
+    "age": "36",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17381000,
+    "liabilities": 926000
+  },
+  {
+    "name": "Dayanand",
+    "age": "32",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 17000,
+    "liabilities": 75000
+  },
+  {
+    "name": "Eshwar",
+    "age": "57",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 123313691,
+    "liabilities": 7332800
+  },
+  {
+    "name": "Maulappa",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2846000,
+    "liabilities": 936000
+  },
+  {
+    "name": "Maulasab",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1552000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Merajuddin",
+    "age": "34",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 130800,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Abdul Wakeel",
+    "age": "47",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 785000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Yousuf",
+    "age": "42",
+    "party": "Praja Satta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 103950,
+    "liabilities": 0
+  },
+  {
+    "name": "Moulvi Zameruddin",
+    "age": "65",
+    "party": "National Development Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2401259,
+    "liabilities": 100000
+  },
+  {
+    "name": "Rajambi",
+    "age": "56",
+    "party": "Bhartiya Bahujan Kranti Dal",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajkumar",
+    "age": "33",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1180000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8360000,
+    "liabilities": 650000
+  },
+  {
+    "name": "S.H Bukhari",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10212000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saibanna",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 721300,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh",
+    "age": "34",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaik Abdul Gaffar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 340512,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharad",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7428000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Shivaraj",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2942000,
+    "liabilities": 85000
+  },
+  {
+    "name": "Shrimanth Yevate Patil",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sugriv Bharat Kachave",
+    "age": "29",
+    "party": "Kranti Kari Jai Hind Sena",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  }
+]

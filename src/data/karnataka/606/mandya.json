@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Sumalatha Ambareesh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 234154139,
+    "liabilities": 14232295
+  },
+  {
+    "name": "Arvind Premanand",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8104000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Lingegowda",
+    "age": "75",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2960000,
+    "liabilities": 0
+  },
+  {
+    "name": "C.P. Divakar",
+    "age": "44",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 75815000,
+    "liabilities": 4500000
+  },
+  {
+    "name": "D C Jayashankara",
+    "age": "64",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 8118000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "G. Manjunath",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 24000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurulingaiah",
+    "age": "37",
+    "party": "Indian New Congress Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2000,
+    "liabilities": 0
+  },
+  {
+    "name": "H.Narayana",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 95000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kowdle Channappa",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1717000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lingegowda S H",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8045600,
+    "liabilities": 650000
+  },
+  {
+    "name": "M. Sumalatha",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1200000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.L. Shashikumar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 660000,
+    "liabilities": 1160000
+  },
+  {
+    "name": "Manjunath B",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 19080000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Nanjundaswamy",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8502897,
+    "liabilities": 0
+  },
+  {
+    "name": "Nikhil Kumaraswamy",
+    "age": "31",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 740087761,
+    "liabilities": 353629176
+  },
+  {
+    "name": "Premakumara .V.V",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 143609,
+    "liabilities": 0
+  },
+  {
+    "name": "Santhosh Mandya Gowda",
+    "age": "34",
+    "party": "Engineers Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 767000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Satheesh Kumar .T.N",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumalatha",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7125000,
+    "liabilities": 560000
+  },
+  {
+    "name": "Sumalatha W/O Darshan K.",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2823601,
+    "liabilities": 0
+  },
+  {
+    "name": "T.K. Dasar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3080000,
+    "liabilities": 0
+  }
+]

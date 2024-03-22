@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kodikunnil Suresh",
+    "age": "56",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 12965129,
+    "liabilities": 982819
+  },
+  {
+    "name": "Ajayakumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 127400,
+    "liabilities": 0
+  },
+  {
+    "name": "Aji Pathanapuram",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1530000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Bimalji K",
+    "age": "41",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 52486,
+    "liabilities": 0
+  },
+  {
+    "name": "Chittayam Gopakumar",
+    "age": "53",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3725488,
+    "liabilities": 953336
+  },
+  {
+    "name": "Kuttan K",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1110940,
+    "liabilities": 202000
+  },
+  {
+    "name": "Raghavan R",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 117062,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajagopalan",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 300447,
+    "liabilities": 0
+  },
+  {
+    "name": "Sahadevan",
+    "age": "64",
+    "party": "Bharath Dharma Jana Sena",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4926063,
+    "liabilities": 400000
+  },
+  {
+    "name": "Usha",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 32985,
+    "liabilities": 0
+  }
+]

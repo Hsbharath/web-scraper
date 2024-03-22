@@ -1,0 +1,128 @@
+[
+  {
+    "name": "M.K.Raghavan",
+    "age": "66",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 12502009,
+    "liabilities": 3174805
+  },
+  {
+    "name": "A Pradeep Kumar",
+    "age": "55",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 11915342,
+    "liabilities": 2079872
+  },
+  {
+    "name": "Adv.Prakash Babu",
+    "age": "39",
+    "party": "BJP",
+    "criminal": "22",
+    "education": "Post Graduate",
+    "assets": 3524377,
+    "liabilities": 343064
+  },
+  {
+    "name": "M.K. Raghavan Nair",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1178726,
+    "liabilities": 160000
+  },
+  {
+    "name": "N. Raghavn",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1523300,
+    "liabilities": 800000
+  },
+  {
+    "name": "Nusrath Jahan",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 19702571,
+    "liabilities": 2271406
+  },
+  {
+    "name": "P Sankaran (A.Sekhar)",
+    "age": "69",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10885015,
+    "liabilities": 200000
+  },
+  {
+    "name": "P. Raghavan",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 483000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar E T",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1337000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep.V.K",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 307000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeepan N",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 706000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Babu Chaithram",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9625000,
+    "liabilities": 3607000
+  },
+  {
+    "name": "Raghu K",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5570000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "T. Raghavan",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2563000,
+    "liabilities": 433000
+  }
+]

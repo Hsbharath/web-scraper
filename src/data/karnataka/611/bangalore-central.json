@@ -1,0 +1,200 @@
+[
+  {
+    "name": "P. C. Mohan",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 755529306,
+    "liabilities": 312521957
+  },
+  {
+    "name": "A. Christhuraj",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 691000,
+    "liabilities": 375000
+  },
+  {
+    "name": "Arun Prasad A",
+    "age": "44",
+    "party": "Viduthalai Chiruthaigal Katchi",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 46500,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Krishna Prasad",
+    "age": "64",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8110000,
+    "liabilities": 550000
+  },
+  {
+    "name": "C. B. K. Rama",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 152317000,
+    "liabilities": 0
+  },
+  {
+    "name": "C.J. Aditya",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 353000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Philip Mariyan",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2218000,
+    "liabilities": 0
+  },
+  {
+    "name": "Francis Binny Jose",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 625000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Hunsur K. Chandrashekar",
+    "age": "40",
+    "party": "Democratic Prajakranthi Party Secularist",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6375000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jenifar J. Russell",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5180922,
+    "liabilities": 0
+  },
+  {
+    "name": "Kempurajan",
+    "age": "42",
+    "party": "Republican Sena",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.K. Pasha",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mellegatti Shridevi",
+    "age": "41",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1629828,
+    "liabilities": 0
+  },
+  {
+    "name": "Nawaz Dilber",
+    "age": "42",
+    "party": "Karnataka Karmikara Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1100000,
+    "liabilities": 13000
+  },
+  {
+    "name": "Pradeep Mendonca",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5859181,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Raj",
+    "age": "53",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 320963268,
+    "liabilities": 38320377
+  },
+  {
+    "name": "Raparti Anil Kumar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1252000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rizwan Arshad",
+    "age": "39",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 158434648,
+    "liabilities": 45079101
+  },
+  {
+    "name": "S. Mohan Kumar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21125300,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Pandurangan",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7550000,
+    "liabilities": 1109000
+  },
+  {
+    "name": "Srinivasan R",
+    "age": "48",
+    "party": "Indian Christian Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 760000,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Asif Bukhari",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 368000,
+    "liabilities": 0
+  }
+]

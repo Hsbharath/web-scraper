@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Dayanidhi Maran",
+    "age": "52",
+    "party": "DMK",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 116790616,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandranathan S",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 69289,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinakaran G",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Govindraj L",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7015000,
+    "liabilities": 5300000
+  },
+  {
+    "name": "Gunasekar N",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Kumar Jain",
+    "age": "41",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12900000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kameela Nasser",
+    "age": "54",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 71905468,
+    "liabilities": 9490525
+  },
+  {
+    "name": "Karnan C S",
+    "age": "63",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10750000,
+    "liabilities": 0
+  },
+  {
+    "name": "Karthikeyan R",
+    "age": "31",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17606805,
+    "liabilities": 10680758
+  },
+  {
+    "name": "Kuppusamy K",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 37000,
+    "liabilities": 0
+  },
+  {
+    "name": "M Parthasarathi",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhanagopal T",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1752500,
+    "liabilities": 0
+  },
+  {
+    "name": "Najimunnissa",
+    "age": "48",
+    "party": "Anaithu Makkal Katchi",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1040000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasar K",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 192000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabakaran N",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhakaran K M",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pushparaj J L",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 149000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghavan M",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 99000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Ramchand",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11287869,
+    "liabilities": 217873
+  },
+  {
+    "name": "Ravichandran M",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17290000,
+    "liabilities": 12579000
+  },
+  {
+    "name": "Sam Paul S R",
+    "age": "41",
+    "party": "Pattali Makkal Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 299512500,
+    "liabilities": 258028373
+  },
+  {
+    "name": "Sampaul",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 54500,
+    "liabilities": 0
+  },
+  {
+    "name": "Samuel Paul P",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 350808,
+    "liabilities": 0
+  },
+  {
+    "name": "Sasikumar",
+    "age": "36",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 1881716,
+    "liabilities": 288000
+  },
+  {
+    "name": "Sheik Mohamed K",
+    "age": "48",
+    "party": "SDPI",
+    "criminal": "3",
+    "education": "Others",
+    "assets": 2274313,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Babu D",
+    "age": "43",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 28920971,
+    "liabilities": 8062407
+  },
+  {
+    "name": "Tamilarasan V V",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96000,
+    "liabilities": 0
+  },
+  {
+    "name": "V R Geethalakshmi",
+    "age": "51",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "V Radhakrishnan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 51629805,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaithiyanathan R",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1443454,
+    "liabilities": 0
+  },
+  {
+    "name": "Valarmathi K",
+    "age": "46",
+    "party": "Akila India Vallalar Peravai",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2280000,
+    "liabilities": 0
+  }
+]

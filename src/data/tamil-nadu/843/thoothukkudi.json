@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Kanimozhi Karunanidhi",
+    "age": "51",
+    "party": "DMK",
+    "criminal": "6",
+    "education": "Graduate Professional",
+    "assets": 303373130,
+    "liabilities": 19290928
+  },
+  {
+    "name": "Amalan Rajiv Bonifas",
+    "age": "35",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1953000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anto Hillery M",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7822000,
+    "liabilities": 2360118
+  },
+  {
+    "name": "Bala Murugan, P.",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1390500,
+    "liabilities": 302314
+  },
+  {
+    "name": "Christantine Rajasekar, S.",
+    "age": "55",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 32936394,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Dr. Bhuvaneswaran, M.",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 78031419,
+    "liabilities": 4074230
+  },
+  {
+    "name": "Dr. Tamilisai Soundararajan",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 109907600,
+    "liabilities": 10987000
+  },
+  {
+    "name": "Er.Pradeep Ganesan, M.P.",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 13174636,
+    "liabilities": 5837372
+  },
+  {
+    "name": "Gabriel James Fernando",
+    "age": "56",
+    "party": "Peoples Party of India(secular)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7300224,
+    "liabilities": 1021600
+  },
+  {
+    "name": "Ganesan, M.",
+    "age": "28",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 491603,
+    "liabilities": 0
+  },
+  {
+    "name": "Germanus, S.",
+    "age": "74",
+    "party": "Christian Democratic Front",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1846500,
+    "liabilities": 0
+  },
+  {
+    "name": "Guru, K.",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "James, G.",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2499000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasper Gnana Martin, G.",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4674500,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaya Ganesh, D.",
+    "age": "36",
+    "party": "Naam Indiar Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5905654,
+    "liabilities": 2098505
+  },
+  {
+    "name": "Jeyaraj, A.",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1076184,
+    "liabilities": 0
+  },
+  {
+    "name": "Lourdes, S.",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 135480,
+    "liabilities": 0
+  },
+  {
+    "name": "Maharajan, M.",
+    "age": "30",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 704747,
+    "liabilities": 80000
+  },
+  {
+    "name": "Marakatha Raghava Raj, T.",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pon Kumaran, T.P.S.",
+    "age": "50",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17886890,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponnusamy, M.",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1068688,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponraj, S.",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1550436,
+    "liabilities": 281812
+  },
+  {
+    "name": "Rajakumar Naidu, E.V.S.",
+    "age": "50",
+    "party": "Tamil Telugu National Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11949800,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajalingam, M.",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajkumar Poliah",
+    "age": "35",
+    "party": "Universal Brotherhood Movement",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 129000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rama Krishnan, M.",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1040000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramakrishnan, P.",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1070812,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh, A.",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 160684,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi Sankar, J.",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 853000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sankaralingam, M.",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saravanan, G.",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 171960,
+    "liabilities": 0
+  },
+  {
+    "name": "Selvin, B.",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 513000,
+    "liabilities": 0
+  },
+  {
+    "name": "Senai Natarajan, R.",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1613258,
+    "liabilities": 545976
+  },
+  {
+    "name": "Siva, V.",
+    "age": "33",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 22300,
+    "liabilities": 0
+  },
+  {
+    "name": "Sivaneswaran, J.",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1515000,
+    "liabilities": 1387073
+  },
+  {
+    "name": "Subhashini Mallathi, R.C.",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31632804,
+    "liabilities": 17426363
+  },
+  {
+    "name": "Sunman, V.",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 145454,
+    "liabilities": 0
+  }
+]

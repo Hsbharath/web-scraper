@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Selvaraj M",
+    "age": "63",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4572837,
+    "liabilities": 1251381
+  },
+  {
+    "name": "Ambikapathi D",
+    "age": "39",
+    "party": "Makkal Sananayaga Kudiyarasu Katchi,",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 87000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anitha V",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1521000,
+    "liabilities": 0
+  },
+  {
+    "name": "Guruviah K",
+    "age": "61",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6839043,
+    "liabilities": 97731
+  },
+  {
+    "name": "Jagadeesh J",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 315500,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayalakshmi",
+    "age": "30",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 176000,
+    "liabilities": 11000
+  },
+  {
+    "name": "Malathi P",
+    "age": "25",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 119000,
+    "liabilities": 55400
+  },
+  {
+    "name": "Prem S",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 101682,
+    "liabilities": 0
+  },
+  {
+    "name": "Sambathkumar A",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 21000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sampath R",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1042100,
+    "liabilities": 118000
+  },
+  {
+    "name": "Saravanan M",
+    "age": "41",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18492618,
+    "liabilities": 1429090
+  },
+  {
+    "name": "Sengodi T",
+    "age": "36",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 793540,
+    "liabilities": 0
+  },
+  {
+    "name": "Sivakumar P",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 128000,
+    "liabilities": 49000
+  },
+  {
+    "name": "Soundararajan M",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vedarethinam G",
+    "age": "50",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  }
+]

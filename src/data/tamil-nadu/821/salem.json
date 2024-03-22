@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Parthiban.S.R",
+    "age": "49",
+    "party": "DMK",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 60045532,
+    "liabilities": 4039841
+  },
+  {
+    "name": "Ahamed Shahjahan.M",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hariharan.K",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 642000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Kalaimannan.C",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 277112,
+    "liabilities": 0
+  },
+  {
+    "name": "Madeswaran.S",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 55000,
+    "liabilities": 320000
+  },
+  {
+    "name": "Manimaran.C",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 330096,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan.P",
+    "age": "63",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3816019,
+    "liabilities": 120000
+  },
+  {
+    "name": "Murthy Kamarajar.M",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 126482,
+    "liabilities": 0
+  },
+  {
+    "name": "Natarajan.C",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 21212365,
+    "liabilities": 3750000
+  },
+  {
+    "name": "Prabhu Manikandan.M",
+    "age": "28",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2750000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Pravina.G",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20499000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Raja.A",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4491000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramachandran.K.T",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 523896,
+    "liabilities": 0
+  },
+  {
+    "name": "Rasa.A",
+    "age": "57",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 15668882,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi.A",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 49000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sadaiyan.M",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 425000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saravanan.K.R.S",
+    "age": "44",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15055729,
+    "liabilities": 0
+  },
+  {
+    "name": "Selvam.S.K",
+    "age": "57",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 9748974,
+    "liabilities": 100000
+  },
+  {
+    "name": "Silambarasan.C",
+    "age": "32",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 167792,
+    "liabilities": 0
+  },
+  {
+    "name": "Sivaraman.S",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surulivel.N.K",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 29162302,
+    "liabilities": 4007849
+  },
+  {
+    "name": "Tamilarasan.T",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 282000,
+    "liabilities": 0
+  }
+]

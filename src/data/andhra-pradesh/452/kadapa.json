@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Yeduguri Sandinti Avinash Reddy",
+    "age": "34",
+    "party": "YSRCP",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 186969794,
+    "liabilities": 22833319
+  },
+  {
+    "name": "Ameen Peeran Shaik",
+    "age": "48",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 83993,
+    "liabilities": 9000
+  },
+  {
+    "name": "Chadipirala Adi Narayana Reddy",
+    "age": "61",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30742398,
+    "liabilities": 961319
+  },
+  {
+    "name": "Chadipiralla Siva Narayana Reddy",
+    "age": "53",
+    "party": "Navarang Congress Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 11320100,
+    "liabilities": 591000
+  },
+  {
+    "name": "Gona Purushottam Reddy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 22473647,
+    "liabilities": 9206703
+  },
+  {
+    "name": "Gujjula Eswaraiah",
+    "age": "50",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 327881,
+    "liabilities": 100000
+  },
+  {
+    "name": "Gundlakunta Sreeramulu",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16452000,
+    "liabilities": 1130000
+  },
+  {
+    "name": "Jakku Chenna Krishna Reddy",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 24746957,
+    "liabilities": 12380000
+  },
+  {
+    "name": "Lakshmi Reddy Putha",
+    "age": "32",
+    "party": "Rajyadhikara Party",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 7300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nyamatulla Shaik",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4909000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Pedakala Varalakshmi",
+    "age": "43",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11034583,
+    "liabilities": 2402564
+  },
+  {
+    "name": "Siva Chandra Reddy Komma",
+    "age": "0",
+    "party": "Anna YSR Congress Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5160000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Sri Rama Chandra Singareddy",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 84971019,
+    "liabilities": 15886451
+  },
+  {
+    "name": "Venu Gopal Rachineni",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3100000,
+    "liabilities": 200000
+  }
+]

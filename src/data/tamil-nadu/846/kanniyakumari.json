@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Vasanthakumar H",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4174930444,
+    "liabilities": 1547511439
+  },
+  {
+    "name": "Balasubramanian. E",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 126000,
+    "liabilities": 0
+  },
+  {
+    "name": "Esakkimuthu. N",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 949000,
+    "liabilities": 0
+  },
+  {
+    "name": "J.Ebenezer",
+    "age": "32",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 26570028,
+    "liabilities": 4664663
+  },
+  {
+    "name": "Jackson M S",
+    "age": "44",
+    "party": "Democratic Corruption Liberation Front",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1270000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Lekshmanan. E",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 113416099,
+    "liabilities": 12551484
+  },
+  {
+    "name": "Nagoor Meeran Peer Mohamed. U",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 32100,
+    "liabilities": 82000
+  },
+  {
+    "name": "P. Radhakrishnan",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 74996453,
+    "liabilities": 0
+  },
+  {
+    "name": "Paulraj. C.M.",
+    "age": "54",
+    "party": "CPI(ML) Red Star",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 4175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Peachi Muthu. E",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 371685,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ravi Kumar. T",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2502516,
+    "liabilities": 0
+  },
+  {
+    "name": "Santhakumar N",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1367579,
+    "liabilities": 0
+  },
+  {
+    "name": "Subi. T",
+    "age": "27",
+    "party": "The Future India Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2737618,
+    "liabilities": 877473
+  },
+  {
+    "name": "V. Jainteen",
+    "age": "41",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6208507,
+    "liabilities": 9000000
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Udasi. S.C.",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 718499195,
+    "liabilities": 165566495
+  },
+  {
+    "name": "Ayubakhan A Pathan",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6529968,
+    "liabilities": 2665862
+  },
+  {
+    "name": "Basavaraj. S. Desai",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1212859,
+    "liabilities": 488988
+  },
+  {
+    "name": "Bommoji Ramappa Siddappa",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3783500,
+    "liabilities": 0
+  },
+  {
+    "name": "D.R. Patil",
+    "age": "72",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 53424424,
+    "liabilities": 2574740
+  },
+  {
+    "name": "Hanumanthappa D Kabbar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1387000,
+    "liabilities": 55000
+  },
+  {
+    "name": "Ishwar Patil",
+    "age": "37",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1867000,
+    "liabilities": 710000
+  },
+  {
+    "name": "Shylesh Nazare Ashok",
+    "age": "49",
+    "party": "Indian Labour Party (Ambedkar Phule)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13457336,
+    "liabilities": 420000
+  },
+  {
+    "name": "Siddappa Kallappa Poojar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 70500,
+    "liabilities": 0
+  },
+  {
+    "name": "Veerabhadrappa Veerappa Kabbinada",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 215000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Nalin Kumar Kateel",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 14678300,
+    "liabilities": 4450945
+  },
+  {
+    "name": "Abdul Hameed",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 668000,
+    "liabilities": 0
+  },
+  {
+    "name": "Alexander",
+    "age": "61",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 30510500,
+    "liabilities": 850000
+  },
+  {
+    "name": "Deepak Rajesh Coelho",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4415000,
+    "liabilities": 0
+  },
+  {
+    "name": "H. Suresh Poojary",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 277000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maxim Pinto",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 24860000,
+    "liabilities": 15780000
+  },
+  {
+    "name": "Mithun M Rai",
+    "age": "34",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 32963608,
+    "liabilities": 14804098
+  },
+  {
+    "name": "Mohammad Khalid",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 150500,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Eliyas",
+    "age": "57",
+    "party": "SDPI",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 501640,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Sathish Saliyan",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2081489,
+    "liabilities": 1410607
+  },
+  {
+    "name": "Supreeth Kumar Poojary",
+    "age": "43",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2038000,
+    "liabilities": 142150
+  },
+  {
+    "name": "Venkatesh Bende",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 205000,
+    "liabilities": 125000
+  },
+  {
+    "name": "Vijay Shreenivas C",
+    "age": "47",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 977230,
+    "liabilities": 570000
+  }
+]

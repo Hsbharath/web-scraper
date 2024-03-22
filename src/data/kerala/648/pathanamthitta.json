@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Anto Antony",
+    "age": "62",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6075876,
+    "liabilities": 7723227
+  },
+  {
+    "name": "Binu",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 52201,
+    "liabilities": 0
+  },
+  {
+    "name": "Jose George",
+    "age": "42",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31870,
+    "liabilities": 0
+  },
+  {
+    "name": "K Surendran",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "240",
+    "education": "Graduate",
+    "assets": 4044300,
+    "liabilities": 1308799
+  },
+  {
+    "name": "Ratheesh Kumar R",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 127300,
+    "liabilities": 0
+  },
+  {
+    "name": "Shibu P",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 325000,
+    "liabilities": 0
+  },
+  {
+    "name": "Veena George",
+    "age": "42",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20179396,
+    "liabilities": 6643517
+  },
+  {
+    "name": "Veena V",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 51500,
+    "liabilities": 270000
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Dr.K.Jayakumar",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 24583769,
+    "liabilities": 0
+  },
+  {
+    "name": "A.Manikandan",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 332400,
+    "liabilities": 53000
+  },
+  {
+    "name": "C.Bharath",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 711047,
+    "liabilities": 0
+  },
+  {
+    "name": "C.Kalanithi",
+    "age": "39",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 319000,
+    "liabilities": 150000
+  },
+  {
+    "name": "D.Anandaraj",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 17055961,
+    "liabilities": 1700000
+  },
+  {
+    "name": "D.Ravi Pariyanar",
+    "age": "43",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 145000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr.P.Venugopal",
+    "age": "66",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 22771385,
+    "liabilities": 1249867
+  },
+  {
+    "name": "G.Arulraj",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1817032,
+    "liabilities": 0
+  },
+  {
+    "name": "G.George",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 44000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.Chandrasekar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 844000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.Kamalanathan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 5302800,
+    "liabilities": 0
+  },
+  {
+    "name": "Logarangan .M",
+    "age": "35",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19730000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Vetriselvi",
+    "age": "42",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Murugesan",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1220000,
+    "liabilities": 0
+  },
+  {
+    "name": "N.Vikraman",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 25500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pon.Raja",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 74387951,
+    "liabilities": 11197323
+  },
+  {
+    "name": "R.Anbuchezhian",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5200000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Sargunam",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 619500,
+    "liabilities": 0
+  },
+  {
+    "name": "V.Gunasekaran",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 429210,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijaya .R",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 371570,
+    "liabilities": 0
+  }
+]

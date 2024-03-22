@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Adoor Prakash",
+    "age": "63",
+    "party": "INC",
+    "criminal": "7",
+    "education": "Graduate Professional",
+    "assets": 144098612,
+    "liabilities": 27622685
+  },
+  {
+    "name": "A.Sampath",
+    "age": "56",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 38448688,
+    "liabilities": 3611333
+  },
+  {
+    "name": "Ajmal Ismail",
+    "age": "36",
+    "party": "SDPI",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 1508680,
+    "liabilities": 200000
+  },
+  {
+    "name": "Anitha",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Attingal Ajith Kumar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50800,
+    "liabilities": 0
+  },
+  {
+    "name": "Devadathan",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Irinjayam Suresh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "K.G.Mohanan",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maheen Thevarupara",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 335500,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj M",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 69850,
+    "liabilities": 0
+  },
+  {
+    "name": "P.Ramsagar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 589800,
+    "liabilities": 26510
+  },
+  {
+    "name": "Prakash G",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2752411,
+    "liabilities": 650000
+  },
+  {
+    "name": "Satheesh Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 918440,
+    "liabilities": 175000
+  },
+  {
+    "name": "Shailaja",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 125190,
+    "liabilities": 0
+  },
+  {
+    "name": "Sobha Surendran",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "40",
+    "education": "Graduate",
+    "assets": 1981638,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Soman",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14110,
+    "liabilities": 0
+  },
+  {
+    "name": "Vipinlal Palode",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 504936,
+    "liabilities": 623334
+  },
+  {
+    "name": "Vivekanandhan",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 425999,
+    "liabilities": 0
+  }
+]

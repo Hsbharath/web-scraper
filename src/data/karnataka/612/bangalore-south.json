@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Tejasvi Surya",
+    "age": "28",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1346593,
+    "liabilities": 0
+  },
+  {
+    "name": "A.Raju",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 54419000,
+    "liabilities": 460000
+  },
+  {
+    "name": "Ambrose D Mello",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "B.Chikka Nagesha",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 739626,
+    "liabilities": 0
+  },
+  {
+    "name": "B.K.Hariprasad",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 150801799,
+    "liabilities": 34400000
+  },
+  {
+    "name": "B.Sreenivasulu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2011625,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagya.S",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 87780000,
+    "liabilities": 7878679
+  },
+  {
+    "name": "Brahmanand.N",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 34225000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chetan Chaman",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1437610,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Banuprakash A.S",
+    "age": "43",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13151631,
+    "liabilities": 928000
+  },
+  {
+    "name": "Dr.John Basco Philips",
+    "age": "47",
+    "party": "Indian Christian Front",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "G Venkatesh Bhovi",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3417000,
+    "liabilities": 5000
+  },
+  {
+    "name": "K.C.Nagabhushana Reddy",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 160347647,
+    "liabilities": 16727517
+  },
+  {
+    "name": "Kollur Manjunatha Naik",
+    "age": "38",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 2521500,
+    "liabilities": 120000
+  },
+  {
+    "name": "Madesh.V",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 637553,
+    "liabilities": 0
+  },
+  {
+    "name": "Manohar Iyer",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 119497520,
+    "liabilities": 2080647
+  },
+  {
+    "name": "Prashantha.C",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 148000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravikumara.T",
+    "age": "37",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1348000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Santhosh Min B",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 4040,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Sadiq Pasha",
+    "age": "44",
+    "party": "Karnataka Karmikara Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5293600,
+    "liabilities": 305000
+  },
+  {
+    "name": "Thyagaraj",
+    "age": "35",
+    "party": "Republican Sena",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 723000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vatal Nagaraj",
+    "age": "70",
+    "party": "Kannada Chalavali Vatal Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 65560974,
+    "liabilities": 1310271
+  },
+  {
+    "name": "Yogeesh Nagaraj",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 61045000,
+    "liabilities": 0
+  }
+]

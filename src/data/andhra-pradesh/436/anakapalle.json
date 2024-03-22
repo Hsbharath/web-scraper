@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dr.Beesetti Venkata Satyavathi",
+    "age": "52",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 91526244,
+    "liabilities": 11139279
+  },
+  {
+    "name": "Adari Anand Kumar",
+    "age": "43",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 410547212,
+    "liabilities": 205591400
+  },
+  {
+    "name": "Appala Naidu Tummagonta",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Chintala Partha Sarathi",
+    "age": "56",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 335308506,
+    "liabilities": 110928567
+  },
+  {
+    "name": "Dr Gandi Venkata Satyanarayana Rao",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 57688924,
+    "liabilities": 9497894
+  },
+  {
+    "name": "K B Swaroop",
+    "age": "51",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 24454500,
+    "liabilities": 0
+  },
+  {
+    "name": "P.S.Ajay Kumar",
+    "age": "57",
+    "party": "CPI(ML)(L)",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 1258000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ruthala Srirama Murthy",
+    "age": "49",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 27611641,
+    "liabilities": 0
+  },
+  {
+    "name": "Taadi Veera Jagadeeshwari",
+    "age": "65",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 286242307,
+    "liabilities": 318680
+  },
+  {
+    "name": "Vadlamuri Krishna Swaroop",
+    "age": "46",
+    "party": "Dalita Bahujana Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16500,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Raja Amareshwara Naik",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30638375,
+    "liabilities": 678532
+  },
+  {
+    "name": "B. V Naik",
+    "age": "53",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 101129729,
+    "liabilities": 5703400
+  },
+  {
+    "name": "B. Venkana Gouda Nayaka",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1706000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Somashekhar Yadagiri",
+    "age": "54",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 631854,
+    "liabilities": 0
+  },
+  {
+    "name": "Niranjan Nayak",
+    "age": "30",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Sridhar Kotagiri",
+    "age": "46",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 462808829,
+    "liabilities": 33560974
+  },
+  {
+    "name": "Alaga Ravi Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Chinnam Rama Kotayya",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100961778,
+    "liabilities": 7713964
+  },
+  {
+    "name": "Gurunadha Rao Jetti",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 69600598,
+    "liabilities": 2402881
+  },
+  {
+    "name": "Josyula China Venkata Suryanarayana",
+    "age": "62",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12035000,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Maganti Venkateswara Rao",
+    "age": "59",
+    "party": "TDP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 199762023,
+    "liabilities": 33303902
+  },
+  {
+    "name": "Mathe Bobby",
+    "age": "29",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mendem Santhosh Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "V Siva Rama Krishna",
+    "age": "55",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2700000,
+    "liabilities": 0
+  }
+]

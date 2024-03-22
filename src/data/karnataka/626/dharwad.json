@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Pralhad Joshi",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 111384447,
+    "liabilities": 51736254
+  },
+  {
+    "name": "B. G. Sangannavar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2268600,
+    "liabilities": 0
+  },
+  {
+    "name": "Dundasi Abdulrahiman Mahammad Hanif",
+    "age": "49",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 31990000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Gangadhar Badiger",
+    "age": "37",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 95105,
+    "liabilities": 0
+  },
+  {
+    "name": "Hashinabanu Tapalvale",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "Irappa Madar",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 317000,
+    "liabilities": 950000
+  },
+  {
+    "name": "Makhtum Khan Hasanalikhan Sirdesai",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 65610000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Mallikarjunagouda Giriyappagouda Balanagoudra",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 6135260,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Maradagi Veerappa Gurushantappa",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7650000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Raju Anantsa Naikwadi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1800000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Harishchandra Kamble",
+    "age": "35",
+    "party": "Azad Mazdoor Kissan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 79835,
+    "liabilities": 0
+  },
+  {
+    "name": "Revanshiddappa Basavaraj Talawar",
+    "age": "28",
+    "party": "Bharatiya Prajagala Kalyana Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1640000,
+    "liabilities": 175000
+  },
+  {
+    "name": "Santosh Nandur",
+    "age": "40",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2281541,
+    "liabilities": 172551
+  },
+  {
+    "name": "Shakeel Ahmad Abdulsattar Dodwad",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 347750,
+    "liabilities": 0
+  },
+  {
+    "name": "Somashekhar Peeraji Yadav",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 324209,
+    "liabilities": 0
+  },
+  {
+    "name": "Udayakumar Ayyappa Ambiger",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 785161,
+    "liabilities": 129180
+  },
+  {
+    "name": "Vadiraj Mannari Madhusudhan",
+    "age": "49",
+    "party": "All India Hindustan Congress Party",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 1135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kulkarni",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 197860927,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod D Ghodke",
+    "age": "54",
+    "party": "Proutist Bloc India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 105000,
+    "liabilities": 45000
+  }
+]

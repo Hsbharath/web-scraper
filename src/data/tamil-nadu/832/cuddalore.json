@@ -1,0 +1,191 @@
+[
+  {
+    "name": "T. R. V .S. Ramesh",
+    "age": "48",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 423378552,
+    "liabilities": 102828604
+  },
+  {
+    "name": "A. Jayamani",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 910000,
+    "liabilities": 0
+  },
+  {
+    "name": "A. Manikandan",
+    "age": "43",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 491750,
+    "liabilities": 920000
+  },
+  {
+    "name": "A. Marimuthu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 368000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Jeyaprakash",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1407500,
+    "liabilities": 748000
+  },
+  {
+    "name": "Chelladurai",
+    "age": "35",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chitra R",
+    "age": "40",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 640737,
+    "liabilities": 0
+  },
+  {
+    "name": "D. Sankar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 242500,
+    "liabilities": 0
+  },
+  {
+    "name": "D. Senthamarai Kannan",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7544600,
+    "liabilities": 2950000
+  },
+  {
+    "name": "Dr Govindasamy R",
+    "age": "69",
+    "party": "Pattali Makkal Katchi",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 254147934,
+    "liabilities": 1065600
+  },
+  {
+    "name": "K. Hemanth Kumar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7395000,
+    "liabilities": 900000
+  },
+  {
+    "name": "K. Raman",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2556600,
+    "liabilities": 680000
+  },
+  {
+    "name": "K. Thangavel",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10008914,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Kuppusamy",
+    "age": "65",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2453000,
+    "liabilities": 0
+  },
+  {
+    "name": "M Pavadai Raja",
+    "age": "40",
+    "party": "Agila India Makkal Kazhagam",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 986000,
+    "liabilities": 350000
+  },
+  {
+    "name": "M. Raghunathan",
+    "age": "48",
+    "party": "Ilantamilar Munnani Kazhagam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Sathiyaseelan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 101100,
+    "liabilities": 0
+  },
+  {
+    "name": "Moovandhan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2492000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajamohan S",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11337000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "S. Dhanasekaran",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 439950,
+    "liabilities": 0
+  },
+  {
+    "name": "V. Annamalai",
+    "age": "44",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 88267747,
+    "liabilities": 0
+  }
+]

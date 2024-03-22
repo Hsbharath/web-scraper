@@ -1,0 +1,101 @@
+[
+  {
+    "name": "E T Mohammed Basheer",
+    "age": "72",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8103274,
+    "liabilities": 0
+  },
+  {
+    "name": "Adv. K.C. Nazeer",
+    "age": "40",
+    "party": "SDPI",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 2985000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anvar P.V. Raseena Manzil",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1027930,
+    "liabilities": 0
+  },
+  {
+    "name": "Anwar P.V. Alumkuzhi",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 159195,
+    "liabilities": 0
+  },
+  {
+    "name": "Bindu",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 261510,
+    "liabilities": 0
+  },
+  {
+    "name": "Muhammed Basheer Koyissery",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 667375,
+    "liabilities": 0
+  },
+  {
+    "name": "Muhammed Basheer Mangalassery",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5521032,
+    "liabilities": 0
+  },
+  {
+    "name": "Muhammed Basheer Nechiyan",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3941000,
+    "liabilities": 0
+  },
+  {
+    "name": "Poonthura Siraj",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11247200,
+    "liabilities": 0
+  },
+  {
+    "name": "Rema",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Post Graduate",
+    "assets": 24482797,
+    "liabilities": 0
+  },
+  {
+    "name": "Sameera Pa",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2400,
+    "liabilities": 0
+  }
+]

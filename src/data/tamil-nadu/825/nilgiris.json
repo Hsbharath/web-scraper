@@ -1,0 +1,92 @@
+[
+  {
+    "name": "A. Raja",
+    "age": "55",
+    "party": "DMK",
+    "criminal": "6",
+    "education": "Graduate Professional",
+    "assets": 49591024,
+    "liabilities": 1424914
+  },
+  {
+    "name": "Arumukam, P.",
+    "age": "43",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Illiterate",
+    "assets": 44000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar, R",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1826000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Thiyagarajan",
+    "age": "59",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12467318,
+    "liabilities": 0
+  },
+  {
+    "name": "Nagarajan, A.",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 74000,
+    "liabilities": 188995
+  },
+  {
+    "name": "Raja, K.",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1147696,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajarathinam, M.",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4692563,
+    "liabilities": 1167871
+  },
+  {
+    "name": "Rajenthiran, N.",
+    "age": "55",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 56013763,
+    "liabilities": 810218
+  },
+  {
+    "name": "Ramaswamy, M.",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 56129105,
+    "liabilities": 0
+  },
+  {
+    "name": "Subramani, M.",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1486790,
+    "liabilities": 335000
+  }
+]

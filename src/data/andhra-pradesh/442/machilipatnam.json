@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Balashowry Vallabhaneni",
+    "age": "50",
+    "party": "YSRCP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 990575840,
+    "liabilities": 746310844
+  },
+  {
+    "name": "Bandreddi Ramakrishna",
+    "age": "44",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 100800000,
+    "liabilities": 37600000
+  },
+  {
+    "name": "Gandhi Dhanekula",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1530000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Gollu Krishna",
+    "age": "55",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Others",
+    "assets": 8795000,
+    "liabilities": 11400000
+  },
+  {
+    "name": "Gudivaka Ramanjaneyulu",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32695161,
+    "liabilities": 10500000
+  },
+  {
+    "name": "Gudivaka Venkata Naga Basava Rao",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10375500,
+    "liabilities": 1830000
+  },
+  {
+    "name": "Konakalla Narayana Rao",
+    "age": "68",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 58649214,
+    "liabilities": 16809408
+  },
+  {
+    "name": "Nadakuditi Naga Gayathri",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8921500,
+    "liabilities": 4390000
+  },
+  {
+    "name": "Peram Siva Nageswara Rao",
+    "age": "51",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 32000000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Valluru Venkateswara Rao",
+    "age": "78",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21825290,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Vijaya Lakshmi Chalapaka",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1208274,
+    "liabilities": 0
+  },
+  {
+    "name": "Yarlagadda Rama Mohana Rao",
+    "age": "56",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10086000,
+    "liabilities": 0
+  }
+]

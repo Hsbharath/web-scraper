@@ -1,0 +1,110 @@
+[
+  {
+    "name": "K. Muraleedharan",
+    "age": "62",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 114379340,
+    "liabilities": 0
+  },
+  {
+    "name": "Aluva Aneesh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5168226,
+    "liabilities": 750000
+  },
+  {
+    "name": "C.O.T. Naseer",
+    "age": "37",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 71346,
+    "liabilities": 220554
+  },
+  {
+    "name": "Jatheesh A P",
+    "age": "43",
+    "party": "National Labour Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1795447,
+    "liabilities": 265000
+  },
+  {
+    "name": "Jayarajan Pandaraparambil",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 127686,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayarajan.P",
+    "age": "66",
+    "party": "CPI(M)",
+    "criminal": "10",
+    "education": "10th Pass",
+    "assets": 9072440,
+    "liabilities": 620213
+  },
+  {
+    "name": "K.Sudhakaran",
+    "age": "64",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1100158,
+    "liabilities": 0
+  },
+  {
+    "name": "Muraleedharan.K Kuttiyil Veedu",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10807704,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Muraleedharan.K Sandram",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4360293,
+    "liabilities": 1135000
+  },
+  {
+    "name": "Musthafa Kommeri",
+    "age": "37",
+    "party": "SDPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1255522,
+    "liabilities": 0
+  },
+  {
+    "name": "Sajeevan V. K",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 3530403,
+    "liabilities": 1754758
+  },
+  {
+    "name": "Santosh Kumar",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2376600,
+    "liabilities": 50000
+  }
+]

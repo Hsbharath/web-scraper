@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Karti P Chidambaram",
+    "age": "47",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Graduate Professional",
+    "assets": 793729024,
+    "liabilities": 174081116
+  },
+  {
+    "name": "A.Antony Sesu Raja",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1792000,
+    "liabilities": 800000
+  },
+  {
+    "name": "A.Radha Krishnan",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 220000,
+    "liabilities": 335000
+  },
+  {
+    "name": "A.Velladurai",
+    "age": "51",
+    "party": "Ezhuchi Tamilargal Munnetra Kazhagam",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2815600,
+    "liabilities": 63000
+  },
+  {
+    "name": "Arimalam Thiagi.Subramanian Muthuraja",
+    "age": "80",
+    "party": "Agila India Makkal Kazhagam",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "C.Chidambaram",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 722500,
+    "liabilities": 0
+  },
+  {
+    "name": "C.Saravanan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1390000,
+    "liabilities": 0
+  },
+  {
+    "name": "H.Raja",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 26223393,
+    "liabilities": 5910000
+  },
+  {
+    "name": "K.Chellakkannu",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kavingnar Snekan",
+    "age": "46",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 19662950,
+    "liabilities": 4500000
+  },
+  {
+    "name": "L.Kasinathan",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 25600000,
+    "liabilities": 7000000
+  },
+  {
+    "name": "M.Chinnaiah",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 453710,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Mohammed Rabeek",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 578000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Prabhakaran",
+    "age": "34",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 91500,
+    "liabilities": 60000
+  },
+  {
+    "name": "M.Raja",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Rajasekar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "N.Karthick",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "P.Rajendhiran",
+    "age": "59",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 166000,
+    "liabilities": 0
+  },
+  {
+    "name": "P.Selvaraj",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 480000,
+    "liabilities": 100000
+  },
+  {
+    "name": "R.Natarajan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1613258,
+    "liabilities": 545976
+  },
+  {
+    "name": "Sakthi Priya V",
+    "age": "27",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 467200,
+    "liabilities": 42000
+  },
+  {
+    "name": "Saravanan.K",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1040000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Senthamilselvi.R",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6320000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Senthil Kumar.C",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 47000,
+    "liabilities": 0
+  },
+  {
+    "name": "Singadurai.R",
+    "age": "28",
+    "party": "IND",
+    "criminal": "9",
+    "education": "12th Pass",
+    "assets": 250000,
+    "liabilities": 175000
+  }
+]

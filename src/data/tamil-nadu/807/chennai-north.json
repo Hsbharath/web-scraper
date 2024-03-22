@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Dr. Kalanidhi Veeraswamy",
+    "age": "49",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 405294714,
+    "liabilities": 258386550
+  },
+  {
+    "name": "A.G. Damodharan",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 177000,
+    "liabilities": 0
+  },
+  {
+    "name": "A.G. Mourya",
+    "age": "62",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 41590000,
+    "liabilities": 12497000
+  },
+  {
+    "name": "Alagaapuram R. Mohanraj",
+    "age": "65",
+    "party": "DMDK",
+    "criminal": "6",
+    "education": "12th Pass",
+    "assets": 45742218,
+    "liabilities": 2831960
+  },
+  {
+    "name": "C.Dhanraj",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2928000,
+    "liabilities": 0
+  },
+  {
+    "name": "G. Srinivasan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 685000,
+    "liabilities": 0
+  },
+  {
+    "name": "J. Dharanidharan",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 455000,
+    "liabilities": 0
+  },
+  {
+    "name": "J. Sebastin",
+    "age": "42",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Prabhakaran",
+    "age": "35",
+    "party": "Makkalatchi Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 156000,
+    "liabilities": 52800
+  },
+  {
+    "name": "Kaliyammal P",
+    "age": "33",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 1157000,
+    "liabilities": 130000
+  },
+  {
+    "name": "Kameshwaran",
+    "age": "44",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 204500,
+    "liabilities": 0
+  },
+  {
+    "name": "L. Raj",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 730000,
+    "liabilities": 0
+  },
+  {
+    "name": "L.Praveen Kumar",
+    "age": "38",
+    "party": "Peoples Party of India(secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9858000,
+    "liabilities": 5029648
+  },
+  {
+    "name": "M.L. Ravi",
+    "age": "54",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8543800,
+    "liabilities": 4642000
+  },
+  {
+    "name": "N. Satheesh Kannan",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 843000,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Marimuthu",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5164400,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Santhana Krishnan",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14263825,
+    "liabilities": 0
+  },
+  {
+    "name": "R. Arul Murugan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52500,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Ganesh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 197000,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Prithviraj",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 707000,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Robert Gnana Sekar",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 325000,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Selvaraj",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 973400,
+    "liabilities": 0
+  },
+  {
+    "name": "V. Saravanan",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 353700,
+    "liabilities": 0
+  }
+]

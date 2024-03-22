@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ravikumar D",
+    "age": "58",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 6509860,
+    "liabilities": 1369031
+  },
+  {
+    "name": "Abirami P",
+    "age": "36",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 894700,
+    "liabilities": 200000
+  },
+  {
+    "name": "Anbalagan T",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2207000,
+    "liabilities": 575000
+  },
+  {
+    "name": "Anbin Poyyamozhi S",
+    "age": "48",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 122000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arasan K",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 330000,
+    "liabilities": 0
+  },
+  {
+    "name": "Desingu A",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 45694,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganapathy N",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7953000,
+    "liabilities": 2150000
+  },
+  {
+    "name": "Kaliyamurthy G",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 181000,
+    "liabilities": 1000
+  },
+  {
+    "name": "Kathirvel M",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 625000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakalatha D",
+    "age": "30",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 1353000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Raja S",
+    "age": "33",
+    "party": "Anaithu India Makkal Katchi",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 781000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajasekaran M",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 491555,
+    "liabilities": 150000
+  },
+  {
+    "name": "Vadivel Ravanan S",
+    "age": "66",
+    "party": "Pattali Makkal Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1925000,
+    "liabilities": 0
+  }
+]

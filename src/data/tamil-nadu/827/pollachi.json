@@ -1,0 +1,128 @@
+[
+  {
+    "name": "K Shanmugasundaram",
+    "age": "49",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 133109284,
+    "liabilities": 13360639
+  },
+  {
+    "name": "Ansari S",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 123000,
+    "liabilities": 0
+  },
+  {
+    "name": "Balaji G",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 87923,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesha Moorthy A",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 466400,
+    "liabilities": 0
+  },
+  {
+    "name": "K Ramasamy",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10128000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendran C",
+    "age": "47",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 313473295,
+    "liabilities": 68668270
+  },
+  {
+    "name": "Manickavel C",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 366399,
+    "liabilities": 0
+  },
+  {
+    "name": "Mookambika R",
+    "age": "40",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 99775631,
+    "liabilities": 900000
+  },
+  {
+    "name": "Muthukumar C",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2626422,
+    "liabilities": 0
+  },
+  {
+    "name": "Muthukumar S",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 151116580,
+    "liabilities": 8389361
+  },
+  {
+    "name": "Rajendhiran R G",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2838321,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanuja U",
+    "age": "35",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 584781,
+    "liabilities": 0
+  },
+  {
+    "name": "Shanmugasundaram K N",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2761271,
+    "liabilities": 0
+  },
+  {
+    "name": "Shanmugasundaram V",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1926957,
+    "liabilities": 0
+  }
+]

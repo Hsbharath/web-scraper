@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Kunhalikutty",
+    "age": "67",
+    "party": "IUML",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 52932535,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Majeed Faizy",
+    "age": "48",
+    "party": "SDPI",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 1203908,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Salam",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2233000,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Os Nissar Methar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 309002654,
+    "liabilities": 1180000
+  },
+  {
+    "name": "Praveen Kumar",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 113000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanu Nk",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 268100,
+    "liabilities": 108000
+  },
+  {
+    "name": "Unnikrishnan",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12100000,
+    "liabilities": 0
+  },
+  {
+    "name": "V.P. Sanu",
+    "age": "30",
+    "party": "CPI(M)",
+    "criminal": "9",
+    "education": "Post Graduate",
+    "assets": 5438969,
+    "liabilities": 0
+  }
+]

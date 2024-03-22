@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Anantkumar Hegde",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 84755455,
+    "liabilities": 41016655
+  },
+  {
+    "name": "Anand Asnotikar",
+    "age": "39",
+    "party": "JD(S)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 721916901,
+    "liabilities": 23800806
+  },
+  {
+    "name": "Anita Ashok Shet",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6378641,
+    "liabilities": 2710000
+  },
+  {
+    "name": "Balakrishna Arjun Patil",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2200858,
+    "liabilities": 37500
+  },
+  {
+    "name": "Chidanand Harijan",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1465000,
+    "liabilities": 270000
+  },
+  {
+    "name": "Kundabai Ganapati Parulekar",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9187152,
+    "liabilities": 8500000
+  },
+  {
+    "name": "Manjunath Sadashiv",
+    "age": "34",
+    "party": "Bharat Bhoomi Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 870000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Zabrood Khateeb",
+    "age": "44",
+    "party": "IND",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 549390,
+    "liabilities": 239000
+  },
+  {
+    "name": "Nagaraj Anant Shirali",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5593000,
+    "liabilities": 26000
+  },
+  {
+    "name": "Nagaraj Naik",
+    "age": "36",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 81095,
+    "liabilities": 260610
+  },
+  {
+    "name": "Nagraj Shridhar Shet",
+    "age": "32",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhakar Kira Jogalekar",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11413020,
+    "liabilities": 1040190
+  },
+  {
+    "name": "Sunil Pawar",
+    "age": "32",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 171808,
+    "liabilities": 139887
+  }
+]

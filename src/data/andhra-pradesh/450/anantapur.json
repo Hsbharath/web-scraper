@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Talari Rangaiah",
+    "age": "48",
+    "party": "YSRCP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 11773091,
+    "liabilities": 1135547
+  },
+  {
+    "name": "G. Lalitha",
+    "age": "56",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1279676,
+    "liabilities": 0
+  },
+  {
+    "name": "Giddama Ranganayakulu",
+    "age": "43",
+    "party": "Vishwa Jana Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 661000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hamsa Devineni",
+    "age": "33",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8762212,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Jagadeesh Devaragudi",
+    "age": "58",
+    "party": "CPI",
+    "criminal": "9",
+    "education": "8th Pass",
+    "assets": 25613277,
+    "liabilities": 2761973
+  },
+  {
+    "name": "Juturu Chinna Reddy Pavan Reddy",
+    "age": "46",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 373887429,
+    "liabilities": 84550726
+  },
+  {
+    "name": "K Rajiv Reddy",
+    "age": "30",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7264263,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Lingutla Rangaiah",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 208000,
+    "liabilities": 40000
+  },
+  {
+    "name": "M.Venkatesulu",
+    "age": "49",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2345567,
+    "liabilities": 312273
+  },
+  {
+    "name": "Padchuri Radha Krishna",
+    "age": "40",
+    "party": "Radical Democrats Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1045000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pothuru Rangaiah",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1509000,
+    "liabilities": 130000
+  },
+  {
+    "name": "Somanath Deshmukh",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9327000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Vadde Kasinath",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1054611,
+    "liabilities": 350000
+  },
+  {
+    "name": "Viswa Prasad Yadav Sankireddy",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4165000,
+    "liabilities": 0
+  }
+]

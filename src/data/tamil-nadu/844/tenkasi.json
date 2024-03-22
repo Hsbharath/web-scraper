@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Dhanush M Kumar",
+    "age": "44",
+    "party": "DMK",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 51360700,
+    "liabilities": 2896862
+  },
+  {
+    "name": "Baratharaj. S",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1273750,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepan. M",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5470000,
+    "liabilities": 784646
+  },
+  {
+    "name": "Dhanuskodi P",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 157000,
+    "liabilities": 105140
+  },
+  {
+    "name": "Dr.K.Krishnasamy",
+    "age": "66",
+    "party": "AIADMK",
+    "criminal": "9",
+    "education": "Post Graduate",
+    "assets": 259584771,
+    "liabilities": 16220826
+  },
+  {
+    "name": "M. Ponnuthai",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 148000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mathivanan.S.S",
+    "age": "32",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 42385,
+    "liabilities": 0
+  },
+  {
+    "name": "Moorthy. D",
+    "age": "49",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 26581000,
+    "liabilities": 0
+  },
+  {
+    "name": "Muneeswaran. K",
+    "age": "44",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1096500,
+    "liabilities": 0
+  },
+  {
+    "name": "Muthu Murugan. M",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 125000,
+    "liabilities": 36000
+  },
+  {
+    "name": "Palani Samy.S",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 109000,
+    "liabilities": 0
+  },
+  {
+    "name": "Perumalsamy. S",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 777500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponnusamy.R",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6231135,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponnuthai G",
+    "age": "24",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 118000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponnuthai M",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 251000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ponnuthai. S",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4743888,
+    "liabilities": 484000
+  },
+  {
+    "name": "Ravi. K",
+    "age": "33",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1353000,
+    "liabilities": 1530000
+  },
+  {
+    "name": "Selvakumar. M",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 440214,
+    "liabilities": 24000
+  },
+  {
+    "name": "Siva Jayaprakash.S",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5458035,
+    "liabilities": 0
+  },
+  {
+    "name": "Subbiah. S",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 265000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sundaram N",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 850785,
+    "liabilities": 0
+  },
+  {
+    "name": "Suriya Ragupathy. T",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 523544,
+    "liabilities": 0
+  },
+  {
+    "name": "Thamarai Selvam. K",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1011876,
+    "liabilities": 60000
+  },
+  {
+    "name": "Thangaraj. C",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 265000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Vairavan. P",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1552120,
+    "liabilities": 300000
+  }
+]

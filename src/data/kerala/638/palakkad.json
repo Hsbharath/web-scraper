@@ -1,0 +1,83 @@
+[
+  {
+    "name": "V K Sreekandan",
+    "age": "49",
+    "party": "INC",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 6356399,
+    "liabilities": 2709000
+  },
+  {
+    "name": "Balakrishnan",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 572978,
+    "liabilities": 91978
+  },
+  {
+    "name": "C Chandran",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8420129,
+    "liabilities": 370116
+  },
+  {
+    "name": "Hari Arumbil",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishnakumar C",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "10",
+    "education": "Graduate",
+    "assets": 11298644,
+    "liabilities": 1448919
+  },
+  {
+    "name": "M B Rajesh",
+    "age": "48",
+    "party": "CPI(M)",
+    "criminal": "10",
+    "education": "Post Graduate",
+    "assets": 16762314,
+    "liabilities": 651136
+  },
+  {
+    "name": "P Rajesh",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 125000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh S/O Mani",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 310000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Thulaseedharan",
+    "age": "50",
+    "party": "SDPI",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 163273,
+    "liabilities": 0
+  }
+]

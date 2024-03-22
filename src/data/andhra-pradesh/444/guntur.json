@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Jayadev Galla",
+    "age": "53",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3051485242,
+    "liabilities": 203452417
+  },
+  {
+    "name": "Araveti Hazarath Rao",
+    "age": "68",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14924686,
+    "liabilities": 180700
+  },
+  {
+    "name": "Bonaboyina Srinivasa Rao",
+    "age": "50",
+    "party": "Janasena Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 32876690,
+    "liabilities": 12482935
+  },
+  {
+    "name": "Dasari Kiran Babu",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5980980,
+    "liabilities": 2645782
+  },
+  {
+    "name": "Doppalapudi Veera Das",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5990000,
+    "liabilities": 880000
+  },
+  {
+    "name": "Jacob Vidyasagar Nakka",
+    "age": "51",
+    "party": "Viduthalai Chiruthaigal Katchi",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 3073000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayaprakash Narayana Valluru",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 39526187,
+    "liabilities": 0
+  },
+  {
+    "name": "Jeldi Raja Mohan",
+    "age": "61",
+    "party": "All India Praja Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4209000,
+    "liabilities": 30000
+  },
+  {
+    "name": "Mannava Hariprasad",
+    "age": "55",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14668071,
+    "liabilities": 107102
+  },
+  {
+    "name": "Modugula Venugopala Reddy",
+    "age": "52",
+    "party": "YSRCP",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 137466129,
+    "liabilities": 1675274
+  },
+  {
+    "name": "Ramarao Simhadri",
+    "age": "41",
+    "party": "Praja Shanthi Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 219000,
+    "liabilities": 0
+  },
+  {
+    "name": "Samudrala Chinna Kotaiah",
+    "age": "41",
+    "party": "National Dalitha Dhal Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2024577,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Sarabandi Raju Sikhinam",
+    "age": "35",
+    "party": "Indian Labour Party (Ambedkar Phule)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaik Jaleel",
+    "age": "43",
+    "party": "Navarang Congress Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 72625000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaik Mastanvali",
+    "age": "53",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 62806111,
+    "liabilities": 0
+  },
+  {
+    "name": "Ullagi David Jayakumar",
+    "age": "61",
+    "party": "Hardam Manavtawadi Rashtriya Dal",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 131900,
+    "liabilities": 0
+  },
+  {
+    "name": "Umar Basha Shaik",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15008000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Yanamadala Venkata Suresh",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1302000,
+    "liabilities": 0
+  }
+]

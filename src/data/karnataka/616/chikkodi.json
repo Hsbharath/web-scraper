@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Annasaheb Shankar Jolle",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 344922831,
+    "liabilities": 195595693
+  },
+  {
+    "name": "Appasaheb Shripati Kurane",
+    "age": "37",
+    "party": "Bharipa Bahujan Mahasangh",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1184890,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Subhash Nerle",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 34771,
+    "liabilities": 0
+  },
+  {
+    "name": "Kallappa Adiveppa Gudasi",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6185000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Machchendra Davalu Kadapure",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 186398,
+    "liabilities": 0
+  },
+  {
+    "name": "Magdum Ismailmagdum",
+    "age": "58",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2531500,
+    "liabilities": 281000
+  },
+  {
+    "name": "Mohan Gurappa Motannavar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1392350,
+    "liabilities": 255000
+  },
+  {
+    "name": "Prakash Babanna Hukkeri",
+    "age": "72",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 192138555,
+    "liabilities": 3881000
+  },
+  {
+    "name": "Praveenkumar Baligatti",
+    "age": "27",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shrinik Annasaheb Jangate",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1000000,
+    "liabilities": 160000
+  },
+  {
+    "name": "Vishwnath Kalloli Wajantri",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 151500,
+    "liabilities": 40000
+  }
+]

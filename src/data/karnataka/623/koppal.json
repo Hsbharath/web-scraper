@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Karadi Sanganna Amarappa",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 28725791,
+    "liabilities": 22475333
+  },
+  {
+    "name": "Annojirao.G",
+    "age": "43",
+    "party": "Sarva Janata Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2926000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandimath Sharanayya",
+    "age": "37",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 63000,
+    "liabilities": 0
+  },
+  {
+    "name": "Comrade B.Basavalingappa",
+    "age": "42",
+    "party": "Marxist Leninist Party of India (Red Flag)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4055000,
+    "liabilities": 794764
+  },
+  {
+    "name": "Hemaraj Veerapur",
+    "age": "44",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.Rajashekar Basavaraj Hitnal",
+    "age": "38",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 84922164,
+    "liabilities": 38412374
+  },
+  {
+    "name": "Mallikarjun Hadapad",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1297000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nagaraj Kalal",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6798500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pa.Ya. Ganesh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1895206,
+    "liabilities": 461484
+  },
+  {
+    "name": "Satishreddy",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 82000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivaputrappa. Gumagera",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 8475000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Suresh Gouda Mundinamane",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh.H",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 177000,
+    "liabilities": 0
+  }
+]

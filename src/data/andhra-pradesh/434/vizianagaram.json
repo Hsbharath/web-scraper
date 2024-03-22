@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Bellana Chandra Sekhar",
+    "age": "57",
+    "party": "YSRCP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 21035766,
+    "liabilities": 11130148
+  },
+  {
+    "name": "Adiraju Yedla",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 47214000,
+    "liabilities": 3088876
+  },
+  {
+    "name": "Anandsagar Pogru",
+    "age": "55",
+    "party": "Samaanya Praja Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4697147,
+    "liabilities": 1702000
+  },
+  {
+    "name": "Ashok Gajapathi Raju Pusapati",
+    "age": "67",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 183534582,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanalakoti Ramana",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 860000,
+    "liabilities": 0
+  },
+  {
+    "name": "Govinda Rao Lagudu",
+    "age": "40",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 280456,
+    "liabilities": 0
+  },
+  {
+    "name": "Kovvuri Surya Bhavani",
+    "age": "38",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1710000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lingala Chiranjeevi",
+    "age": "28",
+    "party": "Andhra Chaitanya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 330000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukka Sreenivasa Rao",
+    "age": "39",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 13428596,
+    "liabilities": 0
+  },
+  {
+    "name": "Pentapati Rajesh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 50000,
+    "liabilities": 16000
+  },
+  {
+    "name": "Ramu Naidu Yijurothu",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanyasi Raju Pakalapati",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 125155000,
+    "liabilities": 22688000
+  },
+  {
+    "name": "Venkata Trindha Rao Veluri",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 94198,
+    "liabilities": 0
+  },
+  {
+    "name": "Yella Rao Siyyadula",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 57000,
+    "liabilities": 0
+  }
+]

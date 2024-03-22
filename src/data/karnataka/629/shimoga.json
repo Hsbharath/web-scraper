@@ -1,0 +1,110 @@
+[
+  {
+    "name": "B.Y.Raghavendra",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 674093851,
+    "liabilities": 14150647
+  },
+  {
+    "name": "Guddappa",
+    "age": "55",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 3100000,
+    "liabilities": 150000
+  },
+  {
+    "name": "K.C.Vinay Rajavath",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1855573,
+    "liabilities": 600000
+  },
+  {
+    "name": "Krishna K",
+    "age": "39",
+    "party": "Pyramid Party of India",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 121961,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Yusuf Khan",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1540000,
+    "liabilities": 237000
+  },
+  {
+    "name": "N.T.Vijayakumar",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 110000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Madhubangarappa",
+    "age": "52",
+    "party": "JD(S)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 615887761,
+    "liabilities": 170909000
+  },
+  {
+    "name": "S.Umesha Varma",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2960000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Umeshappa",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 705000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashikumar S.Gowda",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shekara Naik",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 40409500,
+    "liabilities": 3112000
+  },
+  {
+    "name": "Venkatesh R",
+    "age": "31",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2493000,
+    "liabilities": 0
+  }
+]

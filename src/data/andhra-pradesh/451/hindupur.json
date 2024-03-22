@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kuruva Gorantla Madhav",
+    "age": "50",
+    "party": "YSRCP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 1787356,
+    "liabilities": 730332
+  },
+  {
+    "name": "Gogula Pulakunta Jayanth",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3196142,
+    "liabilities": 16710
+  },
+  {
+    "name": "K.T.Sreedhar",
+    "age": "41",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 43462500,
+    "liabilities": 8128000
+  },
+  {
+    "name": "Mitta Parthasarathi",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 357849990,
+    "liabilities": 106820000
+  },
+  {
+    "name": "Mugi Surya Prakash",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 43266800,
+    "liabilities": 0
+  },
+  {
+    "name": "N.Kristappa",
+    "age": "63",
+    "party": "TDP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 51375301,
+    "liabilities": 1011804
+  },
+  {
+    "name": "Ramamohan D.G.",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 447500,
+    "liabilities": 0
+  },
+  {
+    "name": "S.R.Anjaneyulu",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 43000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Ram Mohan",
+    "age": "33",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 89797,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Rajmohan Unnithan",
+    "age": "65",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 21570257,
+    "liabilities": 862257
+  },
+  {
+    "name": "Adv. Basheer Alady",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1438476,
+    "liabilities": 0
+  },
+  {
+    "name": "Govindan B Alinthazhe",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 17000,
+    "liabilities": 0
+  },
+  {
+    "name": "K P Sathishchnadran",
+    "age": "61",
+    "party": "CPI(M)",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 6481669,
+    "liabilities": 1015342
+  },
+  {
+    "name": "Narendra Kumar K",
+    "age": "42",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 3123000,
+    "liabilities": 380000
+  },
+  {
+    "name": "Rameshan Bandadka",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 64132,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranadivan R K",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 153228,
+    "liabilities": 67598
+  },
+  {
+    "name": "Ravish Thanthri Kuntar",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 6843278,
+    "liabilities": 1901899
+  },
+  {
+    "name": "Saji",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1727000,
+    "liabilities": 30000
+  }
+]

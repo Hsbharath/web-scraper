@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Shashi Tharoor",
+    "age": "63",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Doctorate",
+    "assets": 350022585,
+    "liabilities": 0
+  },
+  {
+    "name": "Binu.D",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Christopher Shaju",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1825000,
+    "liabilities": 330000
+  },
+  {
+    "name": "Devadathan",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Divakaran.C",
+    "age": "76",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 9006945,
+    "liabilities": 1318000
+  },
+  {
+    "name": "Gopakumar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 310533,
+    "liabilities": 10500
+  },
+  {
+    "name": "Jain Wilson",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Johny Thampy",
+    "age": "54",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kirankumar.S.K",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1993880,
+    "liabilities": 595000
+  },
+  {
+    "name": "Kummanam Rajasekharan",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 1105732,
+    "liabilities": 0
+  },
+  {
+    "name": "Mini S",
+    "age": "44",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 125235,
+    "liabilities": 0
+  },
+  {
+    "name": "Mithra Kumar G",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2752500,
+    "liabilities": 0
+  },
+  {
+    "name": "P Keralavarmaraja",
+    "age": "77",
+    "party": "Pravasi Nivasi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6300000,
+    "liabilities": 0
+  },
+  {
+    "name": "S Suseelan",
+    "age": "66",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sasi T",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1660184,
+    "liabilities": 368753
+  },
+  {
+    "name": "Subi",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 351000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Vishnu S Ambadi",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1763500,
+    "liabilities": 5970000
+  }
+]

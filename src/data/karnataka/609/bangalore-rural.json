@@ -1,0 +1,137 @@
+[
+  {
+    "name": "D.K. Suresh",
+    "age": "52",
+    "party": "INC",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 3388920717,
+    "liabilities": 519320305
+  },
+  {
+    "name": "Ashwathnarayangowda",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 293535096,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Gopal",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 850000,
+    "liabilities": 489650
+  },
+  {
+    "name": "D M Madegowda",
+    "age": "38",
+    "party": "Republican Sena",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 849106,
+    "liabilities": 489650
+  },
+  {
+    "name": "Dr Chinnappa Y Chikkahagade",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8810000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Dr. M Venkataswamy",
+    "age": "64",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 595000,
+    "liabilities": 0
+  },
+  {
+    "name": "Eswara",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "H.T. Chikkaraju",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4050000,
+    "liabilities": 1250000
+  },
+  {
+    "name": "J T Prakash",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4563000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.C. Devaraju",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 205000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Manjunatha M",
+    "age": "32",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 913400,
+    "liabilities": 598250
+  },
+  {
+    "name": "N. Krishnappa",
+    "age": "67",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8625000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghu Janagere",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6828000,
+    "liabilities": 4700000
+  },
+  {
+    "name": "Rama T C",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 379033,
+    "liabilities": 0
+  },
+  {
+    "name": "Venkateshappa",
+    "age": "51",
+    "party": "Sarva Janata Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 225000,
+    "liabilities": 0
+  }
+]

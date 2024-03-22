@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Dean Kuriakose",
+    "age": "37",
+    "party": "INC",
+    "criminal": "204",
+    "education": "Post Graduate",
+    "assets": 13395011,
+    "liabilities": 10000000
+  },
+  {
+    "name": "Baby K. A.",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Biju Krishnan",
+    "age": "49",
+    "party": "Bharath Dharma Jana Sena",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 16347063,
+    "liabilities": 1789000
+  },
+  {
+    "name": "Gomathy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "4",
+    "education": "8th Pass",
+    "assets": 136000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Joice George",
+    "age": "49",
+    "party": "IND",
+    "criminal": "9",
+    "education": "Post Graduate",
+    "assets": 16306010,
+    "liabilities": 3169941
+  },
+  {
+    "name": "Leethesh P. T.",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 354696,
+    "liabilities": 540000
+  },
+  {
+    "name": "M. Selvaraj",
+    "age": "60",
+    "party": "Viduthalai Chiruthaigal Katchi",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 1335247,
+    "liabilities": 493000
+  },
+  {
+    "name": "Reji Njallani",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4953535,
+    "liabilities": 466018
+  }
+]

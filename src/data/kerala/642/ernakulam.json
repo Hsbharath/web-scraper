@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Hibi Eden",
+    "age": "35",
+    "party": "INC",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 7908467,
+    "liabilities": 200000
+  },
+  {
+    "name": "Abdul Khader",
+    "age": "59",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3497836,
+    "liabilities": 0
+  },
+  {
+    "name": "Alphons Kannanthanam",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 115836275,
+    "liabilities": 0
+  },
+  {
+    "name": "Aswathi Rajappan",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2026,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6006488,
+    "liabilities": 0
+  },
+  {
+    "name": "Laila Rasheed",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3125000,
+    "liabilities": 0
+  },
+  {
+    "name": "Niamathulla",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14986063,
+    "liabilities": 2100000
+  },
+  {
+    "name": "P Rajeev",
+    "age": "51",
+    "party": "CPI(M)",
+    "criminal": "6",
+    "education": "Graduate Professional",
+    "assets": 48174090,
+    "liabilities": 1629133
+  },
+  {
+    "name": "Rajeev Nagan",
+    "age": "50",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 870000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Shajahan Abdulkhadar",
+    "age": "54",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1672500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sreedharan",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5460200,
+    "liabilities": 0
+  },
+  {
+    "name": "V M Faisal",
+    "age": "40",
+    "party": "SDPI",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 3250000,
+    "liabilities": 535000
+  },
+  {
+    "name": "Vivek K Vijayan",
+    "age": "36",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3521814,
+    "liabilities": 0
+  }
+]

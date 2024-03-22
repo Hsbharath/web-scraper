@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Premachandran N K",
+    "age": "58",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "5",
+    "education": "Graduate Professional",
+    "assets": 17500650,
+    "liabilities": 3270587
+  },
+  {
+    "name": "Adv.K.V.Sabu",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 26550000,
+    "liabilities": 6400000
+  },
+  {
+    "name": "Dr.Sreekumar.J",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 56353474,
+    "liabilities": 33341227
+  },
+  {
+    "name": "Jayarajan",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1237000,
+    "liabilities": 0
+  },
+  {
+    "name": "K N Balagopal",
+    "age": "55",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 9463866,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Nagaraj G",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 8000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Saji Kollam",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 726145,
+    "liabilities": 0
+  },
+  {
+    "name": "Suni Kalluvathukkal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 121660,
+    "liabilities": 30000
+  },
+  {
+    "name": "Twinkle Prabhakaran",
+    "age": "41",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 70150,
+    "liabilities": 100000
+  }
+]

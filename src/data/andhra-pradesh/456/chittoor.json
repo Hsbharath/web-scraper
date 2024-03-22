@@ -1,0 +1,74 @@
+[
+  {
+    "name": "N. Reddeppa",
+    "age": "68",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17355862,
+    "liabilities": 1341542
+  },
+  {
+    "name": "A. Hemanth",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Punyamurthy",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "Others",
+    "assets": 30323800,
+    "liabilities": 21635686
+  },
+  {
+    "name": "Cheemala. Rangappa",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12832000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayaram Duggani",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naramalli Siva Prasad",
+    "age": "68",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 69628816,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Ramachandran",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3580500,
+    "liabilities": 2313000
+  },
+  {
+    "name": "Pallipattu. Abhinav Vishnu",
+    "age": "27",
+    "party": "Mundadugu Praja Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 92600,
+    "liabilities": 0
+  }
+]

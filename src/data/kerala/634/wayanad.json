@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Rahul Gandhi",
+    "age": "48",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 158877063,
+    "liabilities": 7201904
+  },
+  {
+    "name": "Adv. Sreejith P R",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 120,
+    "liabilities": 476158
+  },
+  {
+    "name": "Babu Mani",
+    "age": "52",
+    "party": "SDPI",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1924402,
+    "liabilities": 577000
+  },
+  {
+    "name": "Biju Kakkathode",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 174490,
+    "liabilities": 162200
+  },
+  {
+    "name": "Dr. K Padmarajan",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1511000,
+    "liabilities": 0
+  },
+  {
+    "name": "John P P",
+    "age": "54",
+    "party": "Secular Democratic Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17442823,
+    "liabilities": 500000
+  },
+  {
+    "name": "K M Sivaprasad Gandhi",
+    "age": "40",
+    "party": "Indian Gandhiyan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14391000,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Mohamed P K",
+    "age": "67",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3586455,
+    "liabilities": 0
+  },
+  {
+    "name": "Mujeeb Rahman",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 437890,
+    "liabilities": 0
+  },
+  {
+    "name": "Narukara Gopi",
+    "age": "55",
+    "party": "IND",
+    "criminal": "7",
+    "education": "12th Pass",
+    "assets": 7976000,
+    "liabilities": 800000
+  },
+  {
+    "name": "P.P. Suneer",
+    "age": "50",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13815960,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen K P",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 8909412,
+    "liabilities": 2665000
+  },
+  {
+    "name": "Raghul Gandhi K S/O Krishnan P",
+    "age": "30",
+    "party": "Agila India Makkal Kazhagam",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 126500,
+    "liabilities": 145000
+  },
+  {
+    "name": "Rahul Gandhi K E S/O Valsamma",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5515,
+    "liabilities": 0
+  },
+  {
+    "name": "Sebastian Wayanad",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1456386,
+    "liabilities": 40000
+  },
+  {
+    "name": "Shijo M Varghese",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6491083,
+    "liabilities": 392797
+  },
+  {
+    "name": "Siby Vayalil",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5656330,
+    "liabilities": 5634268
+  },
+  {
+    "name": "Thrissur Nazeer",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 428795,
+    "liabilities": 0
+  },
+  {
+    "name": "Usha K",
+    "age": "43",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 793888,
+    "liabilities": 83000
+  }
+]

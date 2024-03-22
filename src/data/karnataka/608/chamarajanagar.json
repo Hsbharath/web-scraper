@@ -1,0 +1,92 @@
+[
+  {
+    "name": "V Srinivas Prasad",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 143804441,
+    "liabilities": 324909
+  },
+  {
+    "name": "Anand Jivan Ram",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Shivakumara",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 16580750,
+    "liabilities": 11600000
+  },
+  {
+    "name": "G.D. Rajagopal",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 23000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hanur Nagaraju",
+    "age": "49",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 550100,
+    "liabilities": 98000
+  },
+  {
+    "name": "M Pradeep Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 165000,
+    "liabilities": 0
+  },
+  {
+    "name": "N Ambarish",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 105000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Prasanna Kumar B",
+    "age": "30",
+    "party": "Karnataka Praja Party (RaithaParva)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1556524,
+    "liabilities": 192544
+  },
+  {
+    "name": "R Dhruvanarayana",
+    "age": "58",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 92418254,
+    "liabilities": 2190481
+  },
+  {
+    "name": "Subbaiah",
+    "age": "50",
+    "party": "Indian New Congress Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 37000,
+    "liabilities": 0
+  }
+]

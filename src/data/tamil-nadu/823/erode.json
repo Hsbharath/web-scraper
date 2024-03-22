@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Ganeshamurthi A",
+    "age": "72",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 43110000,
+    "liabilities": 2060000
+  },
+  {
+    "name": "Ananthi S",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 466000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arunachalam A",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 50546411,
+    "liabilities": 0
+  },
+  {
+    "name": "Chitra P",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12473344,
+    "liabilities": 717500
+  },
+  {
+    "name": "Dharmalingam S",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3817600,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesamoorthy M",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3690703,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganeshamurthy A C",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20687892,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopal M",
+    "age": "32",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 465000,
+    "liabilities": 210000
+  },
+  {
+    "name": "Karthikeyan P",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1565000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kathirvel A",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 101000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuppusamy P",
+    "age": "56",
+    "party": "Ulzaipali Makkal Katchy",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 324500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuppusamy R",
+    "age": "41",
+    "party": "Ganasangam Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mani A",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 896000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manimaran G",
+    "age": "52",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 77573699,
+    "liabilities": 29371716
+  },
+  {
+    "name": "Natarajan A",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paramasivam N",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saravanakumar A",
+    "age": "43",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 11919500,
+    "liabilities": 3257200
+  },
+  {
+    "name": "Seethalakshmi M K",
+    "age": "43",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 10895377,
+    "liabilities": 0
+  },
+  {
+    "name": "Senthilkumar K C",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27500000,
+    "liabilities": 7900000
+  },
+  {
+    "name": "Subramanian K",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3017297,
+    "liabilities": 0
+  }
+]

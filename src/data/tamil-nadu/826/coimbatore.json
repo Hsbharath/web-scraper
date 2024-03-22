@@ -1,0 +1,128 @@
+[
+  {
+    "name": "P R Natarajan",
+    "age": "68",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 20284430,
+    "liabilities": 3234168
+  },
+  {
+    "name": "A Natarajan",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7000,
+    "liabilities": 0
+  },
+  {
+    "name": "C P Radhakrishnan",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 671140166,
+    "liabilities": 23686000
+  },
+  {
+    "name": "G Kanagasabapathy",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "M Dhanapal",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 168000,
+    "liabilities": 93000
+  },
+  {
+    "name": "N R Appathurai",
+    "age": "68",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 300815900,
+    "liabilities": 3555000
+  },
+  {
+    "name": "P Govindan",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3895500,
+    "liabilities": 0
+  },
+  {
+    "name": "P Manikandan",
+    "age": "32",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 245000,
+    "liabilities": 0
+  },
+  {
+    "name": "P Radhakrishnan",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21202,
+    "liabilities": 0
+  },
+  {
+    "name": "R Mahendran",
+    "age": "55",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1333052340,
+    "liabilities": 115756111
+  },
+  {
+    "name": "S Kalyanasundaram",
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 855083,
+    "liabilities": 0
+  },
+  {
+    "name": "U Radhakrishnan",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3022000,
+    "liabilities": 1350000
+  },
+  {
+    "name": "V Krishnan",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15903000,
+    "liabilities": 870000
+  },
+  {
+    "name": "V Pushpanantham",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 379500,
+    "liabilities": 0
+  }
+]

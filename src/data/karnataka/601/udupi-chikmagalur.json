@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Shobha Karandlaje",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 104872668,
+    "liabilities": 49936840
+  },
+  {
+    "name": "Abdul Rahman",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 334000,
+    "liabilities": 1840000
+  },
+  {
+    "name": "Amrith Shenoy P",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 284900000,
+    "liabilities": 3425000
+  },
+  {
+    "name": "Comrade Vijaykumar",
+    "age": "45",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 529000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.C. Prakash",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3290000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.K Dayananda",
+    "age": "69",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31315500,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Maggalamakki Ganesh",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4306246,
+    "liabilities": 1674000
+  },
+  {
+    "name": "P. Goutham Prabhu",
+    "age": "31",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2408385,
+    "liabilities": 700000
+  },
+  {
+    "name": "P. Parameshwara",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 4994000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Madhwaraj",
+    "age": "50",
+    "party": "JD(S)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 990739778,
+    "liabilities": 21813972
+  },
+  {
+    "name": "Shekar Havanje",
+    "age": "0",
+    "party": "Republican Party of India (Karnataka)",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 1265000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Suresh Kunder",
+    "age": "64",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4677035,
+    "liabilities": 2600000
+  }
+]

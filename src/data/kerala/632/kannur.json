@@ -1,0 +1,119 @@
+[
+  {
+    "name": "K Sudhakaran",
+    "age": "70",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 29699206,
+    "liabilities": 7468633
+  },
+  {
+    "name": "Abdul Jabbar K K",
+    "age": "45",
+    "party": "SDPI",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 3410000,
+    "liabilities": 0
+  },
+  {
+    "name": "Aparna R",
+    "age": "27",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 777958,
+    "liabilities": 0
+  },
+  {
+    "name": "C K Padmanabhan",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3290900,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Sreemathi W/O Sudeep Kumar C. V",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 878967,
+    "liabilities": 225709
+  },
+  {
+    "name": "K. Sudhakaran S/O Krishnan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1505020,
+    "liabilities": 367497
+  },
+  {
+    "name": "K. Sudhakaran S/O Kunhiraman",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2673964,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuriakose",
+    "age": "44",
+    "party": "Secular Democratic Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6837320,
+    "liabilities": 1000000
+  },
+  {
+    "name": "P K Sreemathi",
+    "age": "69",
+    "party": "CPI(M)",
+    "criminal": "10",
+    "education": "12th Pass",
+    "assets": 24590760,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Sreemathi W/O Raveendran",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2635987,
+    "liabilities": 900000
+  },
+  {
+    "name": "Praveen Arimbrathodiyil",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3983015,
+    "liabilities": 37918
+  },
+  {
+    "name": "Radhamani Narayanakumar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 482000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhakaran P. K S/O Krishna Pilla",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4510000,
+    "liabilities": 300000
+  }
+]

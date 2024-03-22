@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ramya Haridas",
+    "age": "32",
+    "party": "INC",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 1152816,
+    "liabilities": 0
+  },
+  {
+    "name": "Babu T V",
+    "age": "61",
+    "party": "Bharath Dharma Jana Sena",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 1261055,
+    "liabilities": 685000
+  },
+  {
+    "name": "Dr.Jayan.C.Kuthanur",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 901000,
+    "liabilities": 72369
+  },
+  {
+    "name": "Krishnankutty",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1400000,
+    "liabilities": 0
+  },
+  {
+    "name": "P.K.Biju",
+    "age": "44",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 4083003,
+    "liabilities": 519379
+  },
+  {
+    "name": "Pretheep Kumar P K",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 650099,
+    "liabilities": 0
+  }
+]

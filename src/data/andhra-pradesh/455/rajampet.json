@@ -1,0 +1,83 @@
+[
+  {
+    "name": "P.V.Midhun Reddy",
+    "age": "42",
+    "party": "YSRCP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 665085701,
+    "liabilities": 205473477
+  },
+  {
+    "name": "Asadi Venkatadri",
+    "age": "61",
+    "party": "Rashtriya Krantikari Samajwadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 850000,
+    "liabilities": 80000
+  },
+  {
+    "name": "D.A. Sathya Prabha",
+    "age": "68",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2204833211,
+    "liabilities": 593275186
+  },
+  {
+    "name": "Karimulla Khan Pattan",
+    "age": "40",
+    "party": "Navataram Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1677823,
+    "liabilities": 0
+  },
+  {
+    "name": "Khader Valli Shaik",
+    "age": "35",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25648000,
+    "liabilities": 444000
+  },
+  {
+    "name": "M.Shajahan Basha",
+    "age": "48",
+    "party": "INC",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 27400500,
+    "liabilities": 5600000
+  },
+  {
+    "name": "Mukram Syed",
+    "age": "42",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 600000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Naresh Kumar Poojala",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 73786,
+    "liabilities": 0
+  },
+  {
+    "name": "Pasupuleti Venkataramana",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 595000,
+    "liabilities": 0
+  }
+]

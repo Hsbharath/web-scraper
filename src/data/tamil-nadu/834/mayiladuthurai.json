@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Ramalingam S",
+    "age": "74",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13355095,
+    "liabilities": 215000
+  },
+  {
+    "name": "Abdul Baseeth",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 44415,
+    "liabilities": 0
+  },
+  {
+    "name": "Annadurai. K",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1291267,
+    "liabilities": 171380
+  },
+  {
+    "name": "Asaimani. S",
+    "age": "64",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17159486,
+    "liabilities": 354102
+  },
+  {
+    "name": "Devados. P",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 22000,
+    "liabilities": 20000
+  },
+  {
+    "name": "Habeeb Mohamed. U",
+    "age": "65",
+    "party": "All Pensioner’s Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1010000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalyanasundaram N",
+    "age": "66",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5670000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kannan. R",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1829202,
+    "liabilities": 0
+  },
+  {
+    "name": "Kannapiran. M",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 160000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Kappur Dhakshinamoorthy. M",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5150000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Krithivasan. S",
+    "age": "82",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 56463527,
+    "liabilities": 5700000
+  },
+  {
+    "name": "Raja N",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 100,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajasekar. A",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6361000,
+    "liabilities": 1404743
+  },
+  {
+    "name": "Rajesh P",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100,
+    "liabilities": 0
+  },
+  {
+    "name": "Refayudeen. M",
+    "age": "46",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 8606404,
+    "liabilities": 6100000
+  },
+  {
+    "name": "Samidurai E",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 200,
+    "liabilities": 0
+  },
+  {
+    "name": "Senthamizhan. S",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 6270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shanmugam. M",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Srinivasan. V",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1934800,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhashini. K",
+    "age": "27",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 525600,
+    "liabilities": 57500
+  },
+  {
+    "name": "Subramanian. P",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1196000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sugumaran. K",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 38200,
+    "liabilities": 8000
+  },
+  {
+    "name": "Thirugnanasambandam. D",
+    "age": "78",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1889700,
+    "liabilities": 600000
+  },
+  {
+    "name": "Thirunavukkarasu R",
+    "age": "82",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vanidhas. M",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 627500,
+    "liabilities": 300000
+  },
+  {
+    "name": "Vilvanathan. M",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 8000000,
+    "liabilities": 3300000
+  }
+]

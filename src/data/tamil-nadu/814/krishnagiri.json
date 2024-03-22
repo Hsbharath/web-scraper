@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr.A.Chellakumar",
+    "age": "58",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 121087979,
+    "liabilities": 66817959
+  },
+  {
+    "name": "Ajaz.S",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 588540,
+    "liabilities": 0
+  },
+  {
+    "name": "B.Govindan",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2191000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devappa.Y",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3600000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.Kuppan",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2655000,
+    "liabilities": 200000
+  },
+  {
+    "name": "K.P.Munusamy",
+    "age": "67",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 115619769,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Kumarasan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1366000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.Meena",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 478655,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhusoodhanan.N",
+    "age": "37",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10336958,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Nagesh.L",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 206000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.Ganesa Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 7227602,
+    "liabilities": 1057578
+  },
+  {
+    "name": "Srikarunya Subrahmanyam",
+    "age": "50",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1300000,
+    "liabilities": 0
+  },
+  {
+    "name": "T.V.S.Gandhi",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 66698,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Magunta Sreenivasulu Reddy",
+    "age": "65",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 266583686,
+    "liabilities": 91302133
+  },
+  {
+    "name": "Bellamkonda Saibabu",
+    "age": "49",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13866784,
+    "liabilities": 2472903
+  },
+  {
+    "name": "Billa Chennaiah",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2837000,
+    "liabilities": 1846848
+  },
+  {
+    "name": "Dr Sirivella Prasad",
+    "age": "51",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2069078,
+    "liabilities": 0
+  },
+  {
+    "name": "Kavuri Venu Babu Naidu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2291000,
+    "liabilities": 1050000
+  },
+  {
+    "name": "Konda Praveen Kumar",
+    "age": "45",
+    "party": "Navodayam Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Yattapu",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2800000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Maram Srinivasa Reddy",
+    "age": "27",
+    "party": "Praja Shanthi Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 52197,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Ayyappa",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 136431,
+    "liabilities": 47495
+  },
+  {
+    "name": "Sidda Raghava Rao",
+    "age": "61",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 916836770,
+    "liabilities": 129414369
+  },
+  {
+    "name": "Thoganti Sreenivasulu",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19563101,
+    "liabilities": 2920000
+  },
+  {
+    "name": "Venkatesan Baburao",
+    "age": "34",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Venkatesh Vepuri",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 41836,
+    "liabilities": 0
+  }
+]

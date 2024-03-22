@@ -1,0 +1,110 @@
+[
+  {
+    "name": "A M Ariff",
+    "age": "54",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 15268906,
+    "liabilities": 2220700
+  },
+  {
+    "name": "Akhilesh",
+    "age": "38",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 106000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parthasarathy Varma",
+    "age": "51",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1208704,
+    "liabilities": 0
+  },
+  {
+    "name": "Prasanth",
+    "age": "33",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 20360,
+    "liabilities": 0
+  },
+  {
+    "name": "Radhakrishnan",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 16484722,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajeevan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 873152,
+    "liabilities": 0
+  },
+  {
+    "name": "Santhosh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1022408,
+    "liabilities": 25000
+  },
+  {
+    "name": "Satheesh Shenoy",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 133968000,
+    "liabilities": 27689000
+  },
+  {
+    "name": "Shan K S",
+    "age": "36",
+    "party": "SDPI",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 6497803,
+    "liabilities": 925236
+  },
+  {
+    "name": "Shanimol",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18665943,
+    "liabilities": 825000
+  },
+  {
+    "name": "Thahir",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Varkala Raj",
+    "age": "59",
+    "party": "Peoples Democratic Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1576000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Palanimanickam.S.S",
+    "age": "68",
+    "party": "DMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 42452076,
+    "liabilities": 2368600
+  },
+  {
+    "name": "Abdulbuhari.K",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishnakumar.N",
+    "age": "44",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4857567,
+    "liabilities": 37000
+  },
+  {
+    "name": "Murugesan.P",
+    "age": "62",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 649749591,
+    "liabilities": 363510252
+  },
+  {
+    "name": "Muthuvel.S",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3778000,
+    "liabilities": 1008000
+  },
+  {
+    "name": "Natarajan.N.R",
+    "age": "52",
+    "party": "Tamil Maanila Congress (Moopanar)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 152293009,
+    "liabilities": 30542133
+  },
+  {
+    "name": "Panasaiarangan.K.N",
+    "age": "56",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 259026,
+    "liabilities": 70000
+  },
+  {
+    "name": "Samantha.K.S",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 301197,
+    "liabilities": 270000
+  },
+  {
+    "name": "Sampath Ramadoss",
+    "age": "53",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9400851,
+    "liabilities": 1375452
+  },
+  {
+    "name": "Selvaraj.R",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8874369,
+    "liabilities": 776000
+  },
+  {
+    "name": "Stalin.R",
+    "age": "26",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 126000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijayakumar.T",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 242100,
+    "liabilities": 650000
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chinta Anuradha",
+    "age": "46",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 85993362,
+    "liabilities": 2431407
+  },
+  {
+    "name": "Ganti Harish Madhur",
+    "age": "30",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 73049918,
+    "liabilities": 1537488
+  },
+  {
+    "name": "Janga Goutham",
+    "age": "49",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14768500,
+    "liabilities": 0
+  },
+  {
+    "name": "Manepalli Ayyaji Vema",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6785061,
+    "liabilities": 0
+  },
+  {
+    "name": "Mojas Raja Sekhar Duggirala",
+    "age": "59",
+    "party": "Janasena Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 28930012,
+    "liabilities": 0
+  },
+  {
+    "name": "Mortha Sivarama Krishna",
+    "age": "29",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Muralikrishna Kanderi",
+    "age": "41",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 12796,
+    "liabilities": 0
+  },
+  {
+    "name": "Panthagada Vijaya Chakravarthy",
+    "age": "65",
+    "party": "RPI(Khobragade)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajani Chelle",
+    "age": "30",
+    "party": "Jana Jagruti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 261767,
+    "liabilities": 0
+  },
+  {
+    "name": "Revu Sudhakar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11000,
+    "liabilities": 0
+  }
+]

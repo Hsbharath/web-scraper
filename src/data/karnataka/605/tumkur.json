@@ -1,0 +1,137 @@
+[
+  {
+    "name": "G S Basavaraj",
+    "age": "78",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 510779150,
+    "liabilities": 113844867
+  },
+  {
+    "name": "B. S. Mallikarjunaiah",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 15351735,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Chaya Rajashankar",
+    "age": "50",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 37939797,
+    "liabilities": 0
+  },
+  {
+    "name": "D Sharadhishayana",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1600000,
+    "liabilities": 0
+  },
+  {
+    "name": "G Nagendra",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 459000,
+    "liabilities": 0
+  },
+  {
+    "name": "H. D. Devegowda",
+    "age": "86",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 60084453,
+    "liabilities": 9798283
+  },
+  {
+    "name": "J. K. Sami",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "K V Srinivas Kalkere",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 325800,
+    "liabilities": 189000
+  },
+  {
+    "name": "K. C. Hanumantharaya",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35028248,
+    "liabilities": 0
+  },
+  {
+    "name": "Kapanigowda",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahalakshmi C. P.",
+    "age": "32",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "N Shivanna",
+    "age": "74",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 985119,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash. R. A. Jain",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 48640000,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddaramegowda T. B.",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6301000,
+    "liabilities": 1605000
+  },
+  {
+    "name": "T. N. Kumara Swamy",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 579565,
+    "liabilities": 0
+  }
+]

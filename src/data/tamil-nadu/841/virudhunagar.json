@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Manickam Tagore, B.",
+    "age": "44",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 49705799,
+    "liabilities": 3600203
+  },
+  {
+    "name": "Advocate.Thangapandian, M.",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 779539,
+    "liabilities": 100000
+  },
+  {
+    "name": "Alagarsamy, N.",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 205000,
+    "liabilities": 0
+  },
+  {
+    "name": "Alagarsamy, R.",
+    "age": "47",
+    "party": "DMDK",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 12671316,
+    "liabilities": 338783
+  },
+  {
+    "name": "Arulmozhithevan",
+    "age": "36",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15835879,
+    "liabilities": 0
+  },
+  {
+    "name": "Backiyaraj, K.",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 293000,
+    "liabilities": 0
+  },
+  {
+    "name": "Balachandar, N.",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr.Dhanushkodi, M.",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4794245,
+    "liabilities": 290000
+  },
+  {
+    "name": "Elango, S.",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 260000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganeshkumar, S.",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Govindan, A.",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 72000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalyanasundaram, A.",
+    "age": "39",
+    "party": "IND",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 1075000,
+    "liabilities": 776000
+  },
+  {
+    "name": "Kavitha, A.",
+    "age": "41",
+    "party": "Ahila India Dhayaga Makkal Munnetra Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3440000,
+    "liabilities": 425354
+  },
+  {
+    "name": "Manikandan, R.",
+    "age": "35",
+    "party": "Ezhuchi Tamilargal Munnetra Kazhagam",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 227000,
+    "liabilities": 0
+  },
+  {
+    "name": "Packiaraj, E.",
+    "age": "35",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 122593,
+    "liabilities": 39522
+  },
+  {
+    "name": "Palanichamy Kudumbar, P.",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paramasiva Iyyappan, S.",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35254454,
+    "liabilities": 7836152
+  },
+  {
+    "name": "Perumalsamy, M.",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1426000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Sabari Ponraj, B.",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 470000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sakkaravarthy, P.",
+    "age": "59",
+    "party": "All India Puratchi Thalaivar Makkal Munnettra",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6460000,
+    "liabilities": 3000000
+  },
+  {
+    "name": "Sankaranarayanan, N.",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 96540,
+    "liabilities": 0
+  },
+  {
+    "name": "Selvakumar, M.",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 73000,
+    "liabilities": 0
+  },
+  {
+    "name": "Senthilkumar, S.",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sugan Rajeev, M.",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1197000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Thiagarajan, P.I.D.",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1453770,
+    "liabilities": 0
+  },
+  {
+    "name": "Umayorubagam, M.",
+    "age": "67",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 333000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vallinayagam, N.",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5920000,
+    "liabilities": 380000
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "D.M. Kathir Anand",
+    "age": "43",
+    "party": "DMK",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 587579451,
+    "liabilities": 3307588
+  },
+  {
+    "name": "A.C. Shanmugam",
+    "age": "67",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1275861609,
+    "liabilities": 396224694
+  },
+  {
+    "name": "A.Vijay Poul Raja",
+    "age": "43",
+    "party": "Republican Sena",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6253305,
+    "liabilities": 5543
+  },
+  {
+    "name": "Agni Sriramachandran",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 525000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arumugam .P",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 99000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Bishop Godfrey Noble",
+    "age": "48",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 269610432,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Deepalakshmi",
+    "age": "34",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1259183,
+    "liabilities": 348000
+  },
+  {
+    "name": "E. Karunanithi",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1000000,
+    "liabilities": 0
+  },
+  {
+    "name": "G.S. Ganesan Yadav",
+    "age": "41",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1668500,
+    "liabilities": 150000
+  },
+  {
+    "name": "J.S.K",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1078984,
+    "liabilities": 350000
+  },
+  {
+    "name": "K. Kathiravan",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 330000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Sugumar",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 675000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Balaraman",
+    "age": "81",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Kathiravan",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 430000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.R. Venkatesan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 127000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohanam",
+    "age": "66",
+    "party": "Marumalarchi Janata Katchi",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1638340,
+    "liabilities": 900000
+  },
+  {
+    "name": "Murali",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Chellapandian",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 354500,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Raashid Ahmed",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 16054905,
+    "liabilities": 1500000
+  },
+  {
+    "name": "R. Naresh Kumar",
+    "age": "27",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 173500,
+    "liabilities": 160000
+  },
+  {
+    "name": "S. Shanmugam",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 359264,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Tamil Selvan",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 155000,
+    "liabilities": 0
+  },
+  {
+    "name": "V. Sekar",
+    "age": "60",
+    "party": "All Pensioners Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4270000,
+    "liabilities": 0
+  },
+  {
+    "name": "V. Selvaraj",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2913000,
+    "liabilities": 100000
+  }
+]

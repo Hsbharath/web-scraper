@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Prajwal R",
+    "age": "28",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 97848632,
+    "liabilities": 37253210
+  },
+  {
+    "name": "H M Chandregowda",
+    "age": "65",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124718018,
+    "liabilities": 26075626
+  },
+  {
+    "name": "M. Mahesh (Al: Lokesh)",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 302010,
+    "liabilities": 0
+  },
+  {
+    "name": "Manju A",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 231571214,
+    "liabilities": 28860107
+  },
+  {
+    "name": "R G Sathisha",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinodraj K H",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1290000,
+    "liabilities": 38000
+  }
+]

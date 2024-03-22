@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Adala Prabhakara Reddy",
+    "age": "70",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2211663364,
+    "liabilities": 152281255
+  },
+  {
+    "name": "Beeda Masthan Rao",
+    "age": "60",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1654392880,
+    "liabilities": 680973688
+  },
+  {
+    "name": "Butti Nagaraju",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9430000,
+    "liabilities": 4073216
+  },
+  {
+    "name": "Chandra Rajagopal",
+    "age": "67",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 2353200,
+    "liabilities": 240000
+  },
+  {
+    "name": "Chevuru Devakumar Reddy",
+    "age": "61",
+    "party": "INC",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 73819429,
+    "liabilities": 3948741
+  },
+  {
+    "name": "Chinni Venkateswarlu",
+    "age": "67",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. S. Suresh Babu",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 9550548,
+    "liabilities": 0
+  },
+  {
+    "name": "Kankanala Penchala Naidu",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Meda Malla Reddy",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1640000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narasapuram Prasad",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 8563000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sannapureddy Suresh Reddy",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 28828964,
+    "liabilities": 700000
+  },
+  {
+    "name": "Shaik Mahaboob Basha (Mabu)",
+    "age": "35",
+    "party": "RPI(A)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": null,
+    "liabilities": 0
+  }
+]

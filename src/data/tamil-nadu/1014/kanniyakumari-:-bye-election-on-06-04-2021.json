@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Vijayakumar Alias Viyay Vasanth",
+    "age": "37",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 532275977,
+    "liabilities": 176841
+  },
+  {
+    "name": "Jerome Lourdhu Raja A.",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1472040,
+    "liabilities": 0
+  },
+  {
+    "name": "Radhakrishnan P.",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 74951321,
+    "liabilities": 0
+  },
+  {
+    "name": "Shuba Charles",
+    "age": "58",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 264149506,
+    "liabilities": 147000480
+  }
+]

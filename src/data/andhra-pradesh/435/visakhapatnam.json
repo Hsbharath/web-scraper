@@ -1,0 +1,128 @@
+[
+  {
+    "name": "M V V Satyanarayana",
+    "age": "52",
+    "party": "YSRCP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 2023905124,
+    "liabilities": 160030959
+  },
+  {
+    "name": "Anmish Varma",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Jaya Venu Gopal",
+    "age": "30",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 95000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharat Mathukumilli",
+    "age": "29",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2325373550,
+    "liabilities": 9591144
+  },
+  {
+    "name": "Daggubati Purandeswari",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 324038450,
+    "liabilities": 34949036
+  },
+  {
+    "name": "Durgaprasad. Guntu",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3803500,
+    "liabilities": 497400
+  },
+  {
+    "name": "Gampala Somasundaram",
+    "age": "76",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3340000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gannu Mallayya",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2113580,
+    "liabilities": 0
+  },
+  {
+    "name": "George Bangari",
+    "age": "46",
+    "party": "Viduthalai Chiruthaigal Katchi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1200000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Kothapalli Geetha",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 86754722,
+    "liabilities": 2394398
+  },
+  {
+    "name": "Pedada Ramanikumari",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 117936000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pulapaka Raja Sekhar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 67295,
+    "liabilities": 50000
+  },
+  {
+    "name": "R. Udaya Gowri",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 6110000,
+    "liabilities": 5543000
+  },
+  {
+    "name": "V.V. Lakshmi Narayana",
+    "age": "53",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 86465496,
+    "liabilities": 0
+  }
+]

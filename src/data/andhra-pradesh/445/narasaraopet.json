@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Lavu Sri Krishna Devarayalu",
+    "age": "36",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 177710073,
+    "liabilities": 10142413
+  },
+  {
+    "name": "Allu Venkata Reddy",
+    "age": "49",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16364000,
+    "liabilities": 1290000
+  },
+  {
+    "name": "Durgampudi Rami Reddy",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1945300,
+    "liabilities": 70000
+  },
+  {
+    "name": "Gaddala Venu",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanakam Srinivasarao",
+    "age": "40",
+    "party": "National Nava Kranthi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanna Lakshmi Narayana",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 391360844,
+    "liabilities": 22561506
+  },
+  {
+    "name": "Kante Sayanna",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2251000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narasimharao Parimi",
+    "age": "31",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 451000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pakkala Suribabu",
+    "age": "60",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 74537563,
+    "liabilities": 19126000
+  },
+  {
+    "name": "Rayapati Sambasiva Rao",
+    "age": "75",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 437940180,
+    "liabilities": 1233171
+  },
+  {
+    "name": "Reddyboina Prasanna Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 12500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaik Nayub Kamal",
+    "age": "50",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 55264531,
+    "liabilities": 5468120
+  },
+  {
+    "name": "Surabhi Devasahayam",
+    "age": "47",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 423688,
+    "liabilities": 0
+  }
+]

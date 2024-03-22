@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Vishnuprasad. M.K",
+    "age": "46",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 234564815,
+    "liabilities": 33409505
+  },
+  {
+    "name": "Elumalai K",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Elumalai S",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Elumalai V",
+    "age": "63",
+    "party": "AIADMK",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 111158268,
+    "liabilities": 1884554
+  },
+  {
+    "name": "Perumal M",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramamurthy C",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 57000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramamurthy S",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 358000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sakthivel K",
+    "age": "37",
+    "party": "Tamil Nadu Ilangyar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 100199,
+    "liabilities": 0
+  },
+  {
+    "name": "Senjeraja K.N.K",
+    "age": "43",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 33750,
+    "liabilities": 0
+  },
+  {
+    "name": "Senthamizhan G",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 22006894,
+    "liabilities": 11328495
+  },
+  {
+    "name": "Shaji V",
+    "age": "41",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 44642380,
+    "liabilities": 20565404
+  },
+  {
+    "name": "Sivaprakash K",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 101000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sundar K",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9450000,
+    "liabilities": 3000000
+  },
+  {
+    "name": "Tamilarasi A",
+    "age": "37",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2934243,
+    "liabilities": 0
+  }
+]

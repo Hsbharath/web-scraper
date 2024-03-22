@@ -1,0 +1,128 @@
+[
+  {
+    "name": "S. Muniswamy",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 174557500,
+    "liabilities": 19865690
+  },
+  {
+    "name": "Ashok Chakravarthi M.B",
+    "age": "38",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 350000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Shankarappa",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5753000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanamatnalli Venkateshappa",
+    "age": "43",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Ramesh Babu. V.M.",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 145830000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "G. Chikkanarayana",
+    "age": "43",
+    "party": "Republican Sena",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 950000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayaprasad M.G",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48130500,
+    "liabilities": 12100000
+  },
+  {
+    "name": "K.H. Muniyappa",
+    "age": "71",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 329443821,
+    "liabilities": 143795090
+  },
+  {
+    "name": "Medihala Chalavadi M Chandrashekar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1010000,
+    "liabilities": 0
+  },
+  {
+    "name": "Munirajappa. P",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 970000,
+    "liabilities": 0
+  },
+  {
+    "name": "N.C. Subbarayappa",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 629000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumaresan. L",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10015000,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Ramanji. R",
+    "age": "29",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 86500,
+    "liabilities": 370000
+  },
+  {
+    "name": "Sarvesh N.M.",
+    "age": "32",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1505000,
+    "liabilities": 0
+  }
+]

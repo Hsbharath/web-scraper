@@ -1,0 +1,272 @@
+[
+  {
+    "name": "D.V. Sadananda Gowda",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 209384539,
+    "liabilities": 104302653
+  },
+  {
+    "name": "Abdul Azeez",
+    "age": "46",
+    "party": "Karnataka Pragnyavantha Janatha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 622054,
+    "liabilities": 58000
+  },
+  {
+    "name": "Abdul Basheer",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1350000,
+    "liabilities": 10132000
+  },
+  {
+    "name": "Abdul Karim Hashimpeer Desai",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16599316,
+    "liabilities": 12400000
+  },
+  {
+    "name": "Ahmed Khan",
+    "age": "33",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7139,
+    "liabilities": 0
+  },
+  {
+    "name": "Amirtha Jai Kumar Essac Yesaiah",
+    "age": "43",
+    "party": "Karnataka Karmikara Paksha",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 213000,
+    "liabilities": 0
+  },
+  {
+    "name": "C. Ravi Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Meer Layaq Hussain",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.N. Jagadesh Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 66824637,
+    "liabilities": 661000
+  },
+  {
+    "name": "Krishna Byregowda",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 132509044,
+    "liabilities": 15596951
+  },
+  {
+    "name": "Krishna Murthy V .",
+    "age": "39",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6124000,
+    "liabilities": 80000
+  },
+  {
+    "name": "Krishnaiah",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 722500,
+    "liabilities": 25000
+  },
+  {
+    "name": "Kumar L.",
+    "age": "54",
+    "party": "Bharatiya Prajagala Kalyana Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7916090,
+    "liabilities": 0
+  },
+  {
+    "name": "L. Nagaraj",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 21470000,
+    "liabilities": 30000
+  },
+  {
+    "name": "N. Narayana Swamy Navakoti",
+    "age": "52",
+    "party": "Jai Vijaya Bharathi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5468000,
+    "liabilities": 410000
+  },
+  {
+    "name": "N.Hanume Gowda",
+    "age": "56",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 9052030,
+    "liabilities": 1242906
+  },
+  {
+    "name": "Parameshwar Gowda",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prasanna Kumar Iyengar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10115799,
+    "liabilities": 5557000
+  },
+  {
+    "name": "Santhosh M.",
+    "age": "33",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 1401411,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiva Manjesh K.S.",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20620000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumatha K.S.",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21396307,
+    "liabilities": 0
+  },
+  {
+    "name": "Sun Star D.Jairam",
+    "age": "65",
+    "party": "Gareeb Aadmi Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Hydri Babloo",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 200512,
+    "liabilities": 0
+  },
+  {
+    "name": "Thimmaraj Gowda (Shenganadu)",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 17249678,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Tulasappa K Dasar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3080000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Babu Pillegowda",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 864407,
+    "liabilities": 550000
+  },
+  {
+    "name": "V. Venkataraju",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 428000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Venkatesa Setty",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 330000,
+    "liabilities": 0
+  },
+  {
+    "name": "Venu M.",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 860000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar V.Nayak",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 180572,
+    "liabilities": 117945
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Angadi Suresh",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 366164525,
+    "liabilities": 198479638
+  },
+  {
+    "name": "Anand Ramesh Patil",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 866102,
+    "liabilities": 250000
+  },
+  {
+    "name": "Anil Baban Hegade",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 246837,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashutosh Shashikant Kamble",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30129,
+    "liabilities": 0
+  },
+  {
+    "name": "Badaroddin Mohammadyusuf Kamdod",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18012500,
+    "liabilities": 0
+  },
+  {
+    "name": "Buland Deepak Dalavi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1449699,
+    "liabilities": 0
+  },
+  {
+    "name": "Chetak Kumar Yallappa Kamble",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhananjay Rajaram Patil",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6730605,
+    "liabilities": 3520000
+  },
+  {
+    "name": "Dilshaad Sikandar Tahashildar",
+    "age": "44",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 95000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr.Virupakshappa Sadhunavar",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 315866105,
+    "liabilities": 225214094
+  },
+  {
+    "name": "Gajanan Amrut Thokanekar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 212500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesh Daddikar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 1820007,
+    "liabilities": 116326
+  },
+  {
+    "name": "Gopal Balavantrao Desai",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5800000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Kallappa Krishnappa Kowadkar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5141500,
+    "liabilities": 30000
+  },
+  {
+    "name": "Kavita Deepak Kole",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 250600,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishnakant Kamanna Birje",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3724000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Lakshmanarav Melage",
+    "age": "85",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 896000,
+    "liabilities": 0
+  },
+  {
+    "name": "Laxman Bhimarao Dalavi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 468000,
+    "liabilities": 66970
+  },
+  {
+    "name": "Mahadev Maruti Manganakar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 870200,
+    "liabilities": 0
+  },
+  {
+    "name": "Manjunath Rajappanavar",
+    "age": "38",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2212500,
+    "liabilities": 0
+  },
+  {
+    "name": "Maruti Siddappa Chougule",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2980500,
+    "liabilities": 0
+  },
+  {
+    "name": "Megharaj Shivagoudappa Khanagoudar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Nagesh Subhash Bobate",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 93500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nanda Maruti Kodachwadkar",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3795000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Neelkanth Mahadev Patil",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 40801000,
+    "liabilities": 725000
+  },
+  {
+    "name": "Niteen Dhondiba Anandache",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 570169,
+    "liabilities": 0
+  },
+  {
+    "name": "Onkarsingh C Bhatia",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 57620000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Pandurang Mallappa Pattan",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25200,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhakar Bhujang Patil",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 85200,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Balappa Nesarkar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 35500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pranam Prakash Patil",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 212500,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Yallappa Patil",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 240500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Raju Changappa Divatage",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 932500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramchandra Dattoba Patil",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 334000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramchandra Krishna Gaonkar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1736000,
+    "liabilities": 15000
+  },
+  {
+    "name": "Ranjit Kallappa Patil",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 4460500,
+    "liabilities": 400000
+  },
+  {
+    "name": "Sachin Manohar Nikam",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 152500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Shantaram Kelavekar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1549200,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Vasant Lad",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 250500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kamble",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 586000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Chogule",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3534061,
+    "liabilities": 400000
+  },
+  {
+    "name": "Shankar Pandappa Rathod",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10775000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Shivaraj Narayan Patil",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 270570,
+    "liabilities": 0
+  },
+  {
+    "name": "Shrikant Balkrishna Kadam",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3145814,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Shubham Vikrant Shelke",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 294000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Guddakayu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7484000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Vittal Dasar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 688500,
+    "liabilities": 500000
+  },
+  {
+    "name": "Suresh Basappa Maralingannavar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1509000,
+    "liabilities": 30000
+  },
+  {
+    "name": "Suresh Khemanna Rajukar",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 413773,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Naik",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 401000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Uday Ramappa Kundargi",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 29650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Krishna Madar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 305301,
+    "liabilities": 50000
+  },
+  {
+    "name": "Vijay Laxman Patil",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6706796,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinayak Balakrishna More",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 269796,
+    "liabilities": 500000
+  },
+  {
+    "name": "Vinayak Gopal Gunjatkar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 26633646,
+    "liabilities": 1188000
+  },
+  {
+    "name": "Vishwanath Buwaji",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75294,
+    "liabilities": 0
+  }
+]

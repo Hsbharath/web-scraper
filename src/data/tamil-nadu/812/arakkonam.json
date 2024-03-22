@@ -1,0 +1,137 @@
+[
+  {
+    "name": "S. Jagathrakshakan",
+    "age": "71",
+    "party": "DMK",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 1146984897,
+    "liabilities": 166365972
+  },
+  {
+    "name": "A.K. Moorthy",
+    "age": "55",
+    "party": "Pattali Makkal Katchi",
+    "criminal": "6",
+    "education": "Post Graduate",
+    "assets": 46023417,
+    "liabilities": 7710578
+  },
+  {
+    "name": "C. Moorthy",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 82000,
+    "liabilities": 50000
+  },
+  {
+    "name": "D. Doss",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr.T.M.S. Sadhu Muthu Kirshan Erjendran",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "G. Moorthy",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1683000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Parthiban",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 133000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Savitha",
+    "age": "33",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 51000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.S. Krishnan",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Panchu Udayakumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "R. Elamvazhudhi",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2220000,
+    "liabilities": 0
+  },
+  {
+    "name": "R. Ramesh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendran N.",
+    "age": "61",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10961100,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Shettu",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 256100,
+    "liabilities": 0
+  },
+  {
+    "name": "Y.R. Pavendhan",
+    "age": "40",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3520000,
+    "liabilities": 0
+  }
+]

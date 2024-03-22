@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Dnv Senthilkumar.S",
+    "age": "41",
+    "party": "DMK",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 48477451,
+    "liabilities": 6053502
+  },
+  {
+    "name": "Anbumani Ramadoss",
+    "age": "50",
+    "party": "Pattali Makkal Katchi",
+    "criminal": "12",
+    "education": "Graduate Professional",
+    "assets": 338535112,
+    "liabilities": 72681681
+  },
+  {
+    "name": "Annadhurai. K",
+    "age": "43",
+    "party": "Ganasangam Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arivazhagan.P",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11315861,
+    "liabilities": 600000
+  },
+  {
+    "name": "Dr. Elango.S",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11045381,
+    "liabilities": 0
+  },
+  {
+    "name": "Durai.S",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4170618,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Manivasagam.C",
+    "age": "54",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 266328,
+    "liabilities": 36000
+  },
+  {
+    "name": "Padmarajan.K.Dr",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1511000,
+    "liabilities": 0
+  },
+  {
+    "name": "Palaniappan.P",
+    "age": "57",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 48079072,
+    "liabilities": 5306342
+  },
+  {
+    "name": "Rajasekar.D",
+    "age": "43",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 16426500,
+    "liabilities": 5394587
+  },
+  {
+    "name": "Rukumani Devi.R",
+    "age": "30",
+    "party": "Naam Tamilar Katchi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1378000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sakthivel.V",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14575062,
+    "liabilities": 62367
+  },
+  {
+    "name": "Saravanan.S",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 805528,
+    "liabilities": 155500
+  },
+  {
+    "name": "Sivanandham.C",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 144000,
+    "liabilities": 0
+  },
+  {
+    "name": "Venkatachalam.C",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 337180,
+    "liabilities": 79500
+  }
+]

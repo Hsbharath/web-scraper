@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Dr Sanjeev Kumar",
+    "age": "52",
+    "party": "YSRCP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 325914387,
+    "liabilities": 62070621
+  },
+  {
+    "name": "Abdul Waris",
+    "age": "58",
+    "party": "SDPI",
+    "criminal": "4",
+    "education": "8th Pass",
+    "assets": 5110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ahmed Ali Khan",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 158831414,
+    "liabilities": 0
+  },
+  {
+    "name": "B. Shiva Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5237200,
+    "liabilities": 627000
+  },
+  {
+    "name": "Dandu Seshu Yadav",
+    "age": "39",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1950000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devarapogu Maddilety",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 523616,
+    "liabilities": 0
+  },
+  {
+    "name": "G Sanjeeva Kumar",
+    "age": "38",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hatcholi Thomas",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2752615,
+    "liabilities": 238020
+  },
+  {
+    "name": "Kasula Rajasekhar",
+    "age": "46",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4650560,
+    "liabilities": 1808144
+  },
+  {
+    "name": "Kommireddy Prabhakar Reddy",
+    "age": "58",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 1659077,
+    "liabilities": 85000
+  },
+  {
+    "name": "Kotla Jaya Surya Prakash Reddy",
+    "age": "67",
+    "party": "TDP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 174762674,
+    "liabilities": 1450000
+  },
+  {
+    "name": "M. Naganna",
+    "age": "66",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 444500,
+    "liabilities": 15000
+  },
+  {
+    "name": "P.V. Parthasarathi",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 297510890,
+    "liabilities": 62328052
+  },
+  {
+    "name": "P.V. Srihari",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 25865207,
+    "liabilities": 5975759
+  },
+  {
+    "name": "S.Md. Shafath",
+    "age": "30",
+    "party": "Rayalaseema Rashtra Samithi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5000000,
+    "liabilities": 0
+  },
+  {
+    "name": "T. Beechupally",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 192000,
+    "liabilities": 0
+  }
+]

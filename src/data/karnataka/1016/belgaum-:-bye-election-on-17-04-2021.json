@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Angadi Mangal Suresh",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1372971953,
+    "liabilities": 995443806
+  },
+  {
+    "name": "Satish Laxmanarao Jarkiholi",
+    "age": "58",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1484281108,
+    "liabilities": 154186032
+  },
+  {
+    "name": "Shri Venkateshwara Maha Swamiji",
+    "age": "35",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 374481101,
+    "liabilities": 370000000
+  },
+  {
+    "name": "Shubham Vikrant Shelke",
+    "age": "26",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 1039700,
+    "liabilities": 0
+  },
+  {
+    "name": "Sreekant Padasalagi",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1578900,
+    "liabilities": 75000
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Rammohannaidu Kinjarapu",
+    "age": "32",
+    "party": "TDP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 122791042,
+    "liabilities": 12000000
+  },
+  {
+    "name": "Betha Vivekananda Maharaj",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 133000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dola Jagan Mohana Rao",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12390000,
+    "liabilities": 3846000
+  },
+  {
+    "name": "Matta Satish Chakravarthy",
+    "age": "37",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1450117,
+    "liabilities": 10060
+  },
+  {
+    "name": "Metta Ramarao",
+    "age": "53",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 63385326,
+    "liabilities": 0
+  },
+  {
+    "name": "Naidugari Rajasekhar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 41500,
+    "liabilities": 0
+  },
+  {
+    "name": "Namballa Krishna Mohan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 707000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Perla Samba Murthy",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 375199993,
+    "liabilities": 120000000
+  },
+  {
+    "name": "Srinivas Duvvada",
+    "age": "52",
+    "party": "YSRCP",
+    "criminal": "13",
+    "education": "Post Graduate",
+    "assets": 52821196,
+    "liabilities": 25848939
+  }
+]

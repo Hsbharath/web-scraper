@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Jigajinagi Ramesh Chandappa",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 504122985,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Balaji Dyamanna Waddar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 211500,
+    "liabilities": 125000
+  },
+  {
+    "name": "Dadasab Siddappa Bagayat",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 17776767,
+    "liabilities": 850000
+  },
+  {
+    "name": "Dhareppa Mahadev Ardhavar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3226500,
+    "liabilities": 675000
+  },
+  {
+    "name": "Dondiba Ramu Rathod",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7870917,
+    "liabilities": 76000
+  },
+  {
+    "name": "Dr. Sunita Devanand Chavan",
+    "age": "42",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 49482018,
+    "liabilities": 14184713
+  },
+  {
+    "name": "Gurubasava. P . Rabakavi",
+    "age": "25",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21000,
+    "liabilities": 92000
+  },
+  {
+    "name": "Pujari Shrinath Sangappa",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 2680100,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramappa Harijan",
+    "age": "36",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 4184000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Rudrappa Deyappa Chalawadi",
+    "age": "55",
+    "party": "Bharipa Bahujan Mahasangh",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4163500,
+    "liabilities": 200000
+  },
+  {
+    "name": "Shrivenkateshwar Maha Swamiji",
+    "age": "31",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9,
+    "liabilities": 45000
+  },
+  {
+    "name": "Yamanappa Vittal Gunadal",
+    "age": "37",
+    "party": "Republican Party of India (Karnataka)",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 370000,
+    "liabilities": 0
+  }
+]

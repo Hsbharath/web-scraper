@@ -1,0 +1,164 @@
+[
+  {
+    "name": "A Narayanaswamy",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96197642,
+    "liabilities": 0
+  },
+  {
+    "name": "Arunachalam Y",
+    "age": "34",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1599000,
+    "liabilities": 0
+  },
+  {
+    "name": "B N Chandrappa",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48222730,
+    "liabilities": 0
+  },
+  {
+    "name": "C H Narayanaswamy",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3097437,
+    "liabilities": 0
+  },
+  {
+    "name": "D Pennappa Turuvanur",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 530000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendrappa",
+    "age": "42",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1576000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 111000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Y",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 5386644,
+    "liabilities": 818173
+  },
+  {
+    "name": "L Rangappa",
+    "age": "67",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 48273444,
+    "liabilities": 2300000
+  },
+  {
+    "name": "L Venugopal",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3332000,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Lokesha M K",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 351520,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahanthesh C U",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 555210,
+    "liabilities": 0
+  },
+  {
+    "name": "Niranjana A D Cheelangi",
+    "age": "38",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 421700,
+    "liabilities": 35000
+  },
+  {
+    "name": "R Hanumanthappa",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1870700,
+    "liabilities": 630000
+  },
+  {
+    "name": "Ramesha V",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2429000,
+    "liabilities": 480000
+  },
+  {
+    "name": "S Meetyanaik",
+    "age": "48",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2441136,
+    "liabilities": 900000
+  },
+  {
+    "name": "Thippeswamy T",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3550000,
+    "liabilities": 0
+  },
+  {
+    "name": "V S Bhutharaja",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 700000,
+    "liabilities": 100000
+  }
+]

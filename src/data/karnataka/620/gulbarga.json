@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Umesh G Jadhav",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 37490597,
+    "liabilities": 0
+  },
+  {
+    "name": "D. K. Konkate Keroor",
+    "age": "42",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1178000,
+    "liabilities": 125000
+  },
+  {
+    "name": "Dr. M. P. Darakeshwaraiah",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3194000,
+    "liabilities": 0
+  },
+  {
+    "name": "G. Timmaraju",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. B. Vasu",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 705340,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Lambani",
+    "age": "26",
+    "party": "Uttama Prajaakeeya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 38000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mallikarjun Kharge",
+    "age": "77",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 157722896,
+    "liabilities": 3122000
+  },
+  {
+    "name": "Rajkumar",
+    "age": "41",
+    "party": "Bhartiya Bahujan Kranti Dal",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 490000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Bheemsingh Chavan",
+    "age": "34",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 5410000,
+    "liabilities": 650000
+  },
+  {
+    "name": "S. M. Sharma",
+    "age": "35",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 198372,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Jadhav",
+    "age": "58",
+    "party": "Bharatiya Peoples Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Jadhav",
+    "age": "32",
+    "party": "Sarva Janata Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  }
+]
