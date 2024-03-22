@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Kiren Rijiju",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15279000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jarjum Ete",
+    "age": "56",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 38265000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jomin Nyokir Kara",
+    "age": "38",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 23990000,
+    "liabilities": 0
+  },
+  {
+    "name": "Khyoda Apik",
+    "age": "42",
+    "party": "NPP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 300737886,
+    "liabilities": 7500000
+  },
+  {
+    "name": "Nabam Tuki",
+    "age": "51",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1002950534,
+    "liabilities": 204955775
+  },
+  {
+    "name": "Rumak Jomoh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 55855,
+    "liabilities": 0
+  },
+  {
+    "name": "Subu Kechi",
+    "age": "45",
+    "party": "Peoples Party of Arunachal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1955000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Pallab Lochan Das",
+    "age": "41",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14445139,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijoy Kumar Tiru",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4136542,
+    "liabilities": 100000
+  },
+  {
+    "name": "M.G.V.K. Bhanu",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 82846198,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Bhuyan",
+    "age": "67",
+    "party": "NCP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 6304000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Orang",
+    "age": "41",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Bahadur Sunar",
+    "age": "50",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15815131,
+    "liabilities": 531152
+  },
+  {
+    "name": "Ziabur Rahman Khan",
+    "age": "36",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 2227138,
+    "liabilities": 193616
+  }
+]

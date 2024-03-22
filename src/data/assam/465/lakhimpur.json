@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Pradan Baruah",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14307978,
+    "liabilities": 5839285
+  },
+  {
+    "name": "Amiya Kumar Handique",
+    "age": "65",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 633000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Borgohain",
+    "age": "51",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 51185000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anup Pratim Borbaruah",
+    "age": "51",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 547573,
+    "liabilities": 0
+  },
+  {
+    "name": "Arup Kalita",
+    "age": "51",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2519069,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhupen Narah",
+    "age": "56",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 746500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Moran",
+    "age": "52",
+    "party": "Assam Dristi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 29622141,
+    "liabilities": 1591682
+  },
+  {
+    "name": "Hem Kanta Miri",
+    "age": "37",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 256271,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Ambaz Uddin",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Probhu Lal Vaisnava",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1900000,
+    "liabilities": 324000
+  },
+  {
+    "name": "Ubaidur Rahman",
+    "age": "36",
+    "party": "Asom Jana Morcha",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2690160,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Topon Kumar Gogoi",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12597461,
+    "liabilities": 455398
+  },
+  {
+    "name": "Arbin Kumar Boruah",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5857886,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamala Raj Konwar",
+    "age": "60",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 18839210,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanak Gogoi",
+    "age": "42",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 23894,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandita Nag",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10558481,
+    "liabilities": 6000000
+  },
+  {
+    "name": "Raj Kumar Duwara",
+    "age": "53",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ribulaya Gogoi",
+    "age": "38",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1119987,
+    "liabilities": 585
+  },
+  {
+    "name": "Sushanta Borgohain",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21516244,
+    "liabilities": 0
+  }
+]

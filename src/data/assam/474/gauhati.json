@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Queen Oja",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 630219570,
+    "liabilities": 34034178
+  },
+  {
+    "name": "Alimuddin Ahmed",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7373200,
+    "liabilities": 2914356
+  },
+  {
+    "name": "Bobbeeta Sharma",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 162399812,
+    "liabilities": 17591733
+  },
+  {
+    "name": "Dr. Avijit Chakraborty",
+    "age": "49",
+    "party": "Bharatiya Gana Parishad",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1271260,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Faruk Ahmed Bhuyan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 9272500,
+    "liabilities": 200000
+  },
+  {
+    "name": "Junmoni Devi Khaund",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 344270772,
+    "liabilities": 131643595
+  },
+  {
+    "name": "Mamoni Sarma",
+    "age": "55",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 61000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Sharma",
+    "age": "45",
+    "party": "AITC",
+    "criminal": "5",
+    "education": "10th Pass",
+    "assets": 7300018,
+    "liabilities": 1833258
+  },
+  {
+    "name": "Pankaj Das",
+    "age": "48",
+    "party": "Swarna Bharat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 59950517,
+    "liabilities": 2975976
+  },
+  {
+    "name": "Partha Pratim Baruah",
+    "age": "30",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 67050,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajib Kakati",
+    "age": "46",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6786796,
+    "liabilities": 2095250
+  },
+  {
+    "name": "Ratul Kumar Choudhury",
+    "age": "47",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2441699,
+    "liabilities": 300000
+  },
+  {
+    "name": "Rubi Neog",
+    "age": "40",
+    "party": "National Republican Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 167000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sadek Ali",
+    "age": "48",
+    "party": "RPI(A)",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 2773226,
+    "liabilities": 0
+  },
+  {
+    "name": "Sri Shankha Sinha",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 779928,
+    "liabilities": 93540
+  },
+  {
+    "name": "Upamanyu Hazarika",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 64530377,
+    "liabilities": 2602358
+  },
+  {
+    "name": "Utpal Borgohain",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7796625,
+    "liabilities": 60000
+  }
+]

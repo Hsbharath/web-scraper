@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Shri Dilip Saikia",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6206286,
+    "liabilities": 0
+  },
+  {
+    "name": "Ainul Haque",
+    "age": "36",
+    "party": "Asom Jana Morcha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhubaneswar Kalita",
+    "age": "67",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 126699173,
+    "liabilities": 0
+  },
+  {
+    "name": "Gandheswar Mochahari",
+    "age": "47",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayanta Kumar Kalita",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4160000,
+    "liabilities": 155000
+  },
+  {
+    "name": "Kazi Nekib Ahmed",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17022000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mani Ram Basumatari",
+    "age": "41",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4270311,
+    "liabilities": 0
+  },
+  {
+    "name": "Prodeep Kumar Daimary",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1035500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sri Biren Basak",
+    "age": "44",
+    "party": "Bharatiya Gana Parishad",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10286450,
+    "liabilities": 2187142
+  },
+  {
+    "name": "Sudhendu Mohan Talukdar",
+    "age": "43",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3840000,
+    "liabilities": 1430957
+  },
+  {
+    "name": "Swarnalata Chaliha",
+    "age": "44",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32900,
+    "liabilities": 0
+  }
+]

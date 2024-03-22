@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rameswar Teli",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4370067,
+    "liabilities": 0
+  },
+  {
+    "name": "Apurba Saikia",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 613735,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaben Baruah",
+    "age": "59",
+    "party": "NPP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 17339652,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Titus Bhengra",
+    "age": "60",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 910903,
+    "liabilities": 0
+  },
+  {
+    "name": "Israil Nanda",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8797182,
+    "liabilities": 1004704
+  },
+  {
+    "name": "Md. Nurul Huda Imdadul Islam Saikia",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7041827,
+    "liabilities": 1648
+  },
+  {
+    "name": "Paban Singh Ghatowar",
+    "age": "67",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 57488181,
+    "liabilities": 0
+  },
+  {
+    "name": "Rubul Buragohain",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 103362,
+    "liabilities": 30000
+  }
+]

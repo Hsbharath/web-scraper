@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Kripanath Mallah",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1871040,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajoy Kumar Sarkar",
+    "age": "64",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 288098,
+    "liabilities": 0
+  },
+  {
+    "name": "Anupam Singha",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 190360,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandan Das",
+    "age": "27",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hiralal Rabidas",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5453171,
+    "liabilities": 0
+  },
+  {
+    "name": "Nikhil Ranjan Das",
+    "age": "50",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parikshit Roy",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 790000,
+    "liabilities": 0
+  },
+  {
+    "name": "Probash Chandra Sarkar",
+    "age": "47",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 143000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rabindra Chandra Das",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Radheshyam Biswas",
+    "age": "66",
+    "party": "AIUDF",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12170204,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Das",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 717404,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramnarayan Suklabaidya",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satyajit Das",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 80000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Swarup Das",
+    "age": "37",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 9106386,
+    "liabilities": 4782191
+  }
+]

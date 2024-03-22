@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Badruddin Ajmal",
+    "age": "63",
+    "party": "AIUDF",
+    "criminal": "7",
+    "education": "Post Graduate",
+    "assets": 788064044,
+    "liabilities": 10159381
+  },
+  {
+    "name": "Abu Taher Bepari",
+    "age": "52",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 37395652,
+    "liabilities": 2210543
+  },
+  {
+    "name": "Alakesh Roy",
+    "age": "39",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2540000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anamika Sarkar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Johirul Islam Khan",
+    "age": "36",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 478362,
+    "liabilities": 0
+  },
+  {
+    "name": "Mehbubar Rahman",
+    "age": "46",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 490400,
+    "liabilities": 0
+  },
+  {
+    "name": "Mir Hussain Sarkar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 168201,
+    "liabilities": 359305
+  },
+  {
+    "name": "Nripen Das",
+    "age": "45",
+    "party": "Bharatiya National Janta Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nurul Islam Choudhury",
+    "age": "67",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6623252,
+    "liabilities": 120410
+  },
+  {
+    "name": "Rukunur Zaman",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1290000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shajahan Sheikh",
+    "age": "49",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 513496,
+    "liabilities": 0
+  },
+  {
+    "name": "Shukur Ali",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surat Jaman Mondal",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1661652,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Kumar Ray",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 63245,
+    "liabilities": 0
+  },
+  {
+    "name": "Zabed Islam",
+    "age": "51",
+    "party": "Asom Gana Parishad",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12133685,
+    "liabilities": 1391293
+  }
+]

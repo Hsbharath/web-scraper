@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Abdul Khaleque",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7398753,
+    "liabilities": 2703693
+  },
+  {
+    "name": "Arfan Ali",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4771389,
+    "liabilities": 0
+  },
+  {
+    "name": "Aroon Barooa",
+    "age": "62",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 703000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashahak Ali Dewan",
+    "age": "65",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhadreswar Barman",
+    "age": "45",
+    "party": "National Republican Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 80300,
+    "liabilities": 0
+  },
+  {
+    "name": "Chitralekha Das",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2270544,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Deepak Das",
+    "age": "66",
+    "party": "Asom Gana Parishad",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 23701000,
+    "liabilities": 1032000
+  },
+  {
+    "name": "Matiar Rahman",
+    "age": "35",
+    "party": "The National Road Map Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 503696,
+    "liabilities": 0
+  },
+  {
+    "name": "Pranabjyoti Das Rajbonshi",
+    "age": "45",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3456311,
+    "liabilities": 0
+  },
+  {
+    "name": "Rafiqul Islam",
+    "age": "44",
+    "party": "AIUDF",
+    "criminal": "2",
+    "education": "Doctorate",
+    "assets": 3389683,
+    "liabilities": 430436
+  },
+  {
+    "name": "Rejaul Karim",
+    "age": "36",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 568374,
+    "liabilities": 450000
+  },
+  {
+    "name": "Saniara Parbin",
+    "age": "29",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5070000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santanu Mukherjee",
+    "age": "44",
+    "party": "Bharatiya Gana Parishad",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1205081,
+    "liabilities": 0
+  }
+]

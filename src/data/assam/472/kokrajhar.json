@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Naba Kumar Sarania",
+    "age": "50",
+    "party": "IND",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 13013994,
+    "liabilities": 175069
+  },
+  {
+    "name": "Biraj Deka",
+    "age": "26",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1533900,
+    "liabilities": 248000
+  },
+  {
+    "name": "Charan Iswary",
+    "age": "39",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 565596,
+    "liabilities": 25000
+  },
+  {
+    "name": "Pramila Rani Brahma",
+    "age": "69",
+    "party": "Bodoland Peoples Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 44714985,
+    "liabilities": 0
+  },
+  {
+    "name": "Prasanjit Kumar Das",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 496809,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Narzary",
+    "age": "45",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1257550,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjoy Kr. Brahma",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 102438,
+    "liabilities": 0
+  },
+  {
+    "name": "Sabda Ram Rabha",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5327404,
+    "liabilities": 200000
+  },
+  {
+    "name": "Urkhao Gwra Brahma",
+    "age": "56",
+    "party": "United Peoples Party, Liberal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15108266,
+    "liabilities": 0
+  }
+]

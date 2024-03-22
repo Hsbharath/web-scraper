@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Pradyut Bordoloi",
+    "age": "59",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 74143272,
+    "liabilities": 4011152
+  },
+  {
+    "name": "Azgor Ali",
+    "age": "38",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 950000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sahadeb Das",
+    "age": "54",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 427137,
+    "liabilities": 0
+  },
+  {
+    "name": "Saiful Islam Choudhury",
+    "age": "52",
+    "party": "Asom Jana Morcha",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9421596,
+    "liabilities": 1264426
+  },
+  {
+    "name": "Sri Rupak Sharma",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 62717347,
+    "liabilities": 7224404
+  },
+  {
+    "name": "Sukanta Mazumdar",
+    "age": "36",
+    "party": "Bharatiya Gana Parishad",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 328914,
+    "liabilities": 68000
+  },
+  {
+    "name": "Zakir Hussain",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4185000,
+    "liabilities": 0
+  }
+]

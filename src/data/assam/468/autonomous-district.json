@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Horen Sing Bey",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 20693570,
+    "liabilities": 5956209
+  },
+  {
+    "name": "Biren Singh Engti",
+    "age": "76",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7866276,
+    "liabilities": 0
+  },
+  {
+    "name": "Holiram Terang",
+    "age": "61",
+    "party": "Autonomous State Demand Committee",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 53785471,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Lienkhochon",
+    "age": "39",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6830962,
+    "liabilities": 1606436
+  }
+]

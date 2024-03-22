@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Gaurav Gogoi",
+    "age": "36",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13727834,
+    "liabilities": 1250000
+  },
+  {
+    "name": "Abdul Aziz",
+    "age": "60",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3594488,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Hariqul Islam Bhuyan",
+    "age": "51",
+    "party": "Asom Jana Morcha",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Moni Madhab Mahanta",
+    "age": "41",
+    "party": "Asom Gana Parishad",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2750757,
+    "liabilities": 0
+  },
+  {
+    "name": "Shree Diganta Kumar Saikia",
+    "age": "48",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 16212412,
+    "liabilities": 0
+  },
+  {
+    "name": "Sri Bhaskar Sarmah",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10978456,
+    "liabilities": 0
+  },
+  {
+    "name": "Sri Jiten Gogoi",
+    "age": "57",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 90303570,
+    "liabilities": 1100000
+  }
+]

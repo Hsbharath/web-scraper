@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Rajdeep Roy",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29901767,
+    "liabilities": 6976701
+  },
+  {
+    "name": "Ashitava Dutta",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 460000,
+    "liabilities": 202952
+  },
+  {
+    "name": "Ashutosh Bhattacharjee",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 397019,
+    "liabilities": 800000
+  },
+  {
+    "name": "Badrul Islam Barbhuiya",
+    "age": "44",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2636943,
+    "liabilities": 0
+  },
+  {
+    "name": "Hitabrata Roy",
+    "age": "76",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3365000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohendra Chandra Das",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 162949,
+    "liabilities": 0
+  },
+  {
+    "name": "Nazia Yasmin Mazumdar",
+    "age": "38",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11172625,
+    "liabilities": 1680213
+  },
+  {
+    "name": "Nazmul Haque Laskar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 519748,
+    "liabilities": 0
+  },
+  {
+    "name": "Puran Lal Goala",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 410761,
+    "liabilities": 0
+  },
+  {
+    "name": "Sabindra Das",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 128684,
+    "liabilities": 0
+  },
+  {
+    "name": "Shuvadip Datta",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7370000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Shyam Deo Kurmi",
+    "age": "66",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4731177,
+    "liabilities": 0
+  },
+  {
+    "name": "Smt. Sushmita Dev",
+    "age": "46",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 106707145,
+    "liabilities": 19405127
+  }
+]

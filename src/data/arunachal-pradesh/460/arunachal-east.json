@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Tapir Gao",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 136628259,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandey Mili",
+    "age": "38",
+    "party": "JD(S)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12720974,
+    "liabilities": 0
+  },
+  {
+    "name": "C. C. Singpho",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27303830,
+    "liabilities": 0
+  },
+  {
+    "name": "Lowangcha Wanglat",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 353530297,
+    "liabilities": 4168771
+  },
+  {
+    "name": "Mongol Yomso",
+    "age": "47",
+    "party": "Peoples Party of Arunachal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10452925,
+    "liabilities": 0
+  }
+]
