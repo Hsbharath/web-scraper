@@ -1138,6 +1138,7 @@ async function scrapeListOfConstituenciesStateWise() {
     const $ = cheerio.load(html);
 
     // Initialize an object to store constituencies by state
+    const statesInformation = [];
     const constituenciesByState = {};
 
     // Find the <div> containing constituency information
@@ -1149,6 +1150,7 @@ async function scrapeListOfConstituenciesStateWise() {
         .find('button')
         .attr('onclick');
       const stateId = extractStateId(onclickAttribute);
+      const stateInfo = $(constituencyDiv).find('button').text().trim();
       const stateName = $(constituencyDiv)
         .find('button')
         .text()
@@ -1156,6 +1158,10 @@ async function scrapeListOfConstituenciesStateWise() {
         .replaceAll(' ', '-')
         .replaceAll('&', 'and')
         .toLowerCase();
+      const stateObj = {
+        [stateInfo]: stateName,
+      };
+      statesInformation.push(stateObj);
 
       // Create an array for the state if it doesn't exist
       if (!constituenciesByState[stateName]) {
@@ -1182,23 +1188,26 @@ async function scrapeListOfConstituenciesStateWise() {
             });
           }
         });
-      //console.log(constituenciesByState);
-      const dataFolderPath = path.join(__dirname, `/data/${stateName}`);
-      // const jsonFilePath = path.join(
-      //   dataFolderPath,
-      //   `${constituencyFile}.json`
-      // );
 
+      const dataFolderPath = path.join(__dirname, `/data/${stateName}`);
       if (!fs.existsSync(dataFolderPath)) {
         fs.mkdirSync(dataFolderPath);
       }
     });
 
-    //  Object.entries(constituenciesByState).map(([key, value]) => {
-    //    if (key === 'kerala') {
-    //      scrapeConstituencies(value);
-    //    }
-    //  });
+    const stateFolderPath = path.join(__dirname, `/data/_stateIds`);
+    if (!fs.existsSync(stateFolderPath)) {
+      fs.mkdirSync(stateFolderPath);
+    }
+    const jsonFilePath = path.join(stateFolderPath, `statesIds.json`);
+    fs.writeFileSync(jsonFilePath, JSON.stringify(statesInformation, null, 2));
+
+    Object.entries(constituenciesByState).map(([key, value]) => {
+      console.log(value);
+      //  if (key === 'kerala') {
+      //    scrapeConstituencies(value);
+      //  }
+    });
   } catch (error) {
     console.error('Error:', error);
   } finally {
