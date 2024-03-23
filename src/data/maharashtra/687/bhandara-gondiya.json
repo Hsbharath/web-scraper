@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Sunil Baburao Mendhe",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 627543615,
+    "liabilities": 19861338
+  },
+  {
+    "name": "Bhimrao Duryodhan Borkar",
+    "age": "67",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 61036926,
+    "liabilities": 383856
+  },
+  {
+    "name": "Devidas Santuji Lanjewar",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4780376,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Sunil Sampat Chawale",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 3600500,
+    "liabilities": 75000
+  },
+  {
+    "name": "Dr. Vijaya Rajesh Nandurkar",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 36343297,
+    "liabilities": 3616000
+  },
+  {
+    "name": "Gajbhiye Pramod Hiraman",
+    "age": "46",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 113000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaiswal Virendrakumar Kasturchand",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 36751774,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Kalchuri Nilesh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maraskolhe Bhojraj Isulal",
+    "age": "47",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nana Jairam",
+    "age": "64",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 57462818,
+    "liabilities": 2050134
+  },
+  {
+    "name": "Nanhe Karu Nagoji",
+    "age": "68",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5995146,
+    "liabilities": 60000
+  },
+  {
+    "name": "Patle Rajendra Sahasram",
+    "age": "56",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 32513000,
+    "liabilities": 7500000
+  },
+  {
+    "name": "Suhas Anil Funde",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumit Vijay Pande",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 745119,
+    "liabilities": 50000
+  }
+]

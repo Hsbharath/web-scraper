@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Bholanath (B.P. Saroj)",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 259027394,
+    "liabilities": 11194163
+  },
+  {
+    "name": "Brijesh Kumar",
+    "age": "40",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 185000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chanchal Kumar",
+    "age": "27",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1219255,
+    "liabilities": 0
+  },
+  {
+    "name": "Dasharath",
+    "age": "51",
+    "party": "Prithviraj Janshakti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1141332,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 198000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Amarnath Paswan",
+    "age": "42",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 5693817,
+    "liabilities": 0
+  },
+  {
+    "name": "Gangaram",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 28000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra",
+    "age": "37",
+    "party": "Bhartiya Manav Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 208000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandlal",
+    "age": "38",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2553000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Nath",
+    "age": "70",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4441330,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajkeshar",
+    "age": "0",
+    "party": "Sajag Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2335000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Naresh",
+    "age": "45",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 247200,
+    "liabilities": 0
+  },
+  {
+    "name": "Tribhuvan Ram",
+    "age": "70",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 102095537,
+    "liabilities": 11700000
+  }
+]

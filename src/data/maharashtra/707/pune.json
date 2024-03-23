@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Adv. Kumar Devba Kalel Patil",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 306000,
+    "liabilities": 432900
+  },
+  {
+    "name": "Adv. Mahesh Gajendragadkar",
+    "age": "57",
+    "party": "Swarna Bharat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16457070,
+    "liabilities": 94000
+  },
+  {
+    "name": "Adv. Ramesh Devaram Dharmavat",
+    "age": "37",
+    "party": "People’s Union Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 237825757,
+    "liabilities": 0
+  },
+  {
+    "name": "Amol Alias Yabes S. Tujare",
+    "age": "34",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amol Jayraj Shinde",
+    "age": "32",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 390000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anand Prakash Vanjape",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2297000,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Balasaheb Misal Patil",
+    "age": "44",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1925349,
+    "liabilities": 80000
+  },
+  {
+    "name": "Chandrakant Parmeshwar Sawant",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5886000,
+    "liabilities": 4391625
+  },
+  {
+    "name": "Chincholikar Jayant Eknath",
+    "age": "52",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 74019,
+    "liabilities": 0
+  },
+  {
+    "name": "Girish Bhalchandra Bapat",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 57959302,
+    "liabilities": 1793891
+  },
+  {
+    "name": "Hemant Baburao Kolekar Patil Alias Hemant Patil",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 50595000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Jadhav Anil Narayan",
+    "age": "35",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 18703428,
+    "liabilities": 0
+  },
+  {
+    "name": "Jafar Khursid Choudhari",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 215000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Javed Shabbir Sayyed",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Johnson Vasant Kolhapure",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 207,
+    "liabilities": 0
+  },
+  {
+    "name": "Krupal Paluskar",
+    "age": "33",
+    "party": "Prabuddha Republican Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 552000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kshirsagar Kanchan Devdas",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1355000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Ramkisan Joshi",
+    "age": "63",
+    "party": "INC",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 67624702,
+    "liabilities": 35212523
+  },
+  {
+    "name": "Nikhil Umesh Zingade",
+    "age": "33",
+    "party": "Bharatiya Praja Surajya Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2750000,
+    "liabilities": 2300000
+  },
+  {
+    "name": "Prof. Nalawade Hanmant Mahadeo",
+    "age": "49",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4700000,
+    "liabilities": 3100000
+  },
+  {
+    "name": "Rahul Vishwas Joshi",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11680000,
+    "liabilities": 2300000
+  },
+  {
+    "name": "Rajesh Surendrakumar Agarwal",
+    "age": "48",
+    "party": "Hamari Apni Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 42151794,
+    "liabilities": 2851036
+  },
+  {
+    "name": "Rakesh Prabhakar Chavan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 20608100,
+    "liabilities": 600000
+  },
+  {
+    "name": "Ravindra Bansiram Mahapure",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Baburao Jadhav",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2215000,
+    "liabilities": 165000
+  },
+  {
+    "name": "Sayyad Raj Faiyaz",
+    "age": "42",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5200000,
+    "liabilities": 3650000
+  },
+  {
+    "name": "Sim Khirid",
+    "age": "45",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 34464531,
+    "liabilities": 5665918
+  },
+  {
+    "name": "Suhas Popat Gajarmal",
+    "age": "33",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 771,
+    "liabilities": 22000
+  },
+  {
+    "name": "Uttam Pandurang Shinde",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 245310000,
+    "liabilities": 0
+  }
+]

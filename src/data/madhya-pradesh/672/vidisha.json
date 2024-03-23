@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ramakant Bhargava",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30032282,
+    "liabilities": 3332012
+  },
+  {
+    "name": "Anil Malviya Patrakar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1970453,
+    "liabilities": 432101
+  },
+  {
+    "name": "Devendra Singh Chouhan",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 33443000,
+    "liabilities": 1390000
+  },
+  {
+    "name": "Geetawali Er. P.S. Ahirwar",
+    "age": "51",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 40124085,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Lal Bhadoriya",
+    "age": "47",
+    "party": "Prajatantrik Samadhan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 652000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahant Pratap Giri",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo. Talat Khan",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 209397,
+    "liabilities": 0
+  },
+  {
+    "name": "Naveen Jatav",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3313000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Ramkrishna Surywanshi",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 106000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailendra Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6716000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailendra Rameshchandra Patel",
+    "age": "43",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 130523815,
+    "liabilities": 1677179
+  },
+  {
+    "name": "Sudhir Kumar",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6925972,
+    "liabilities": 224529
+  },
+  {
+    "name": "Vivek",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 208519,
+    "liabilities": 20000
+  }
+]

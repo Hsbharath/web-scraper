@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sadhvi Niranjan Jyoti",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10667372,
+    "liabilities": 910148
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "56",
+    "party": "Janhit Bharat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3273573,
+    "liabilities": 0
+  },
+  {
+    "name": "Beni Prasad",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Juber Ahmad",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2708670,
+    "liabilities": 243387
+  },
+  {
+    "name": "Kamta Prasad",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 238000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Chandra Sahu",
+    "age": "42",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30086078,
+    "liabilities": 11191125
+  },
+  {
+    "name": "Rajkumar",
+    "age": "40",
+    "party": "Vikas Insaf Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Sachan",
+    "age": "63",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Post Graduate",
+    "assets": 350670770,
+    "liabilities": 67794880
+  },
+  {
+    "name": "Ram Kumar",
+    "age": "68",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3586000,
+    "liabilities": 387000
+  },
+  {
+    "name": "Sukhdev Prasad",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 74544921,
+    "liabilities": 4500729
+  }
+]

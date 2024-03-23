@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Heena Vijaykumar Gavit",
+    "age": "31",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 271634532,
+    "liabilities": 15291251
+  },
+  {
+    "name": "Adv. K. C. Padavi",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 45236068,
+    "liabilities": 3237933
+  },
+  {
+    "name": "Ajay Karamsing Gavit",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 78340,
+    "liabilities": 0
+  },
+  {
+    "name": "Anturlikar Sushil Suresh",
+    "age": "33",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7030314,
+    "liabilities": 3500000
+  },
+  {
+    "name": "Arjunsing Diwansing Vasave",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1651102,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Daulatsing Padvi",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1692000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Dr. Natawadkar Suhas Jayant",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 42504576,
+    "liabilities": 5933112
+  },
+  {
+    "name": "Koli Ananda Sukalal",
+    "age": "52",
+    "party": "IND",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 204757,
+    "liabilities": 2177500
+  },
+  {
+    "name": "Krishna Thoga Gavit",
+    "age": "57",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5295000,
+    "liabilities": 4900000
+  },
+  {
+    "name": "Rekha Suresh Desai",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 741000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandip Abhimanyu Valvi",
+    "age": "42",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 81625,
+    "liabilities": 0
+  }
+]

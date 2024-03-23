@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Amol Ramsing Kolhe",
+    "age": "38",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 43351521,
+    "liabilities": 1488116
+  },
+  {
+    "name": "Aadhalrao Shivaji Dattatrey",
+    "age": "64",
+    "party": "SHS",
+    "criminal": "10",
+    "education": "Others",
+    "assets": 290165511,
+    "liabilities": 49898166
+  },
+  {
+    "name": "Balasaheb Jaysingh Ghadage",
+    "age": "59",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 13185000,
+    "liabilities": 615000
+  },
+  {
+    "name": "Bhau Ramchandra Aadagale",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10549500,
+    "liabilities": 35000
+  },
+  {
+    "name": "Chhaya Prabhakar Solanke",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7822405,
+    "liabilities": 750000
+  },
+  {
+    "name": "Gangadhar Nathu Yadav",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2188000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Ghare Mohan Damodar",
+    "age": "52",
+    "party": "Baliraja Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 13986000,
+    "liabilities": 4000000
+  },
+  {
+    "name": "Kagadi Jamirkhan Afzal",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 42840000,
+    "liabilities": 5700000
+  },
+  {
+    "name": "Nitin Muralidhar Kuchekar",
+    "age": "36",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11500,
+    "liabilities": 9770000
+  },
+  {
+    "name": "Ovhal Rahul Raghunath",
+    "age": "36",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 1199794,
+    "liabilities": 60000
+  },
+  {
+    "name": "Raeesa Shakil Shaikh",
+    "age": "45",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5190000,
+    "liabilities": 3650000
+  },
+  {
+    "name": "Samshad Anwar Ansari",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4436000,
+    "liabilities": 5600000
+  },
+  {
+    "name": "Sanjay Baba Bansode",
+    "age": "42",
+    "party": "Bhartiya Bahujan Kranti Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15361250,
+    "liabilities": 170000
+  },
+  {
+    "name": "Sanjay Laxman Padwal",
+    "age": "50",
+    "party": "Bhartiya Navjawan Sena (Paksha)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 225000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shahid Farukh Shaikh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 290000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashikant Rajaram Desai",
+    "age": "48",
+    "party": "Hamari Apni Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6326504,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivaji Uttamrao Pawar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4773000,
+    "liabilities": 2355000
+  },
+  {
+    "name": "Shrikant Nivrutti Chabukswar",
+    "age": "53",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11043568,
+    "liabilities": 940000
+  },
+  {
+    "name": "Somnath Hiraman Mali",
+    "age": "47",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "6",
+    "education": "8th Pass",
+    "assets": 56300,
+    "liabilities": 75000
+  },
+  {
+    "name": "Sonali Thorat",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3300690,
+    "liabilities": 9200
+  },
+  {
+    "name": "Vahida Shahenu Shaikh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 205000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Vikas Rajaram Aashtul",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 23000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Vasant Chandgude",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4485000,
+    "liabilities": 1300000
+  }
+]

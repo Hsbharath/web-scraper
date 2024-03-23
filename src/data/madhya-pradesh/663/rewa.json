@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Janardan Prasad Mishra",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20359750,
+    "liabilities": 580627
+  },
+  {
+    "name": "Akhilesh Saket",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10300267,
+    "liabilities": 194963
+  },
+  {
+    "name": "Arun Kumar",
+    "age": "45",
+    "party": "Shri Janta Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 55000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Kumar Satnami",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3813000,
+    "liabilities": 0
+  },
+  {
+    "name": "Babulal Kol",
+    "age": "42",
+    "party": "Adhikar Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1200,
+    "liabilities": 0
+  },
+  {
+    "name": "Badriprasad",
+    "age": "63",
+    "party": "Akhil Bhartiya Apna Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1180000,
+    "liabilities": 0
+  },
+  {
+    "name": "Brahm Datta Mishra",
+    "age": "56",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 2575000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhotu Kol",
+    "age": "32",
+    "party": "Jan Samman party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10225,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Kumar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5947000,
+    "liabilities": 0
+  },
+  {
+    "name": "Girijesh Singh Senger",
+    "age": "49",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3498413,
+    "liabilities": 265000
+  },
+  {
+    "name": "Ram Gopal Singh",
+    "age": "57",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 10712938,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Kalesh Saket",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 118000,
+    "liabilities": 0
+  },
+  {
+    "name": "Reeta Tripathi",
+    "age": "38",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanat Kumar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 385783,
+    "liabilities": 0
+  },
+  {
+    "name": "Shakuntala",
+    "age": "53",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 37457633,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivkumar Mishra",
+    "age": "50",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 350500,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddharth Tiwari",
+    "age": "36",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30182893,
+    "liabilities": 1325755
+  },
+  {
+    "name": "Siyasharan Kevat",
+    "age": "63",
+    "party": "Rashtriya Apna Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 10200500,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhranshu Dwivedi",
+    "age": "41",
+    "party": "Kisan Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 631000,
+    "liabilities": 180000
+  },
+  {
+    "name": "Sunit Kumar Pandey",
+    "age": "28",
+    "party": "AARAKSHAN VIRODHI PARTY",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushil Kumar Mishra",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6260000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikash Kumar",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15156991,
+    "liabilities": 3100000
+  }
+]

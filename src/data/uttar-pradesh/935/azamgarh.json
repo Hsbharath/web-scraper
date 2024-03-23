@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Akhilesh Yadav",
+    "age": "45",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 377859166,
+    "liabilities": 2853000
+  },
+  {
+    "name": "Abhimanyu Singh Sunny",
+    "age": "28",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 446300,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Singh",
+    "age": "41",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5220000,
+    "liabilities": 175000
+  },
+  {
+    "name": "Arvind Kumar Pandey",
+    "age": "41",
+    "party": "Nagrik Ekta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6681669,
+    "liabilities": 1032950
+  },
+  {
+    "name": "Budhi Ram",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5855000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Dinesh Lal Yadav Nirahua",
+    "age": "40",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 59380841,
+    "liabilities": 5415364
+  },
+  {
+    "name": "Dr. Rajeev Pandey",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2493309,
+    "liabilities": 0
+  },
+  {
+    "name": "Ehsan Ahmad",
+    "age": "38",
+    "party": "Naitik Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 725500,
+    "liabilities": 50000
+  },
+  {
+    "name": "Gaurav Singh",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3631000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Gorakhram Nishad",
+    "age": "55",
+    "party": "Bahujan Uday Manch",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2152000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Mohinder Kumar",
+    "age": "46",
+    "party": "Sarvshreshth Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 236613,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Singh Samrat",
+    "age": "34",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7782000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Tiwari",
+    "age": "45",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajaram Gond",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2595000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajiv Talwar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4147154,
+    "liabilities": 0
+  }
+]

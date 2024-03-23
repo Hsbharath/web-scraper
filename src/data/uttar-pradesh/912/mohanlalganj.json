@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Kaushal Kishore",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 55530561,
+    "liabilities": 0
+  },
+  {
+    "name": "C.L. Verma",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 83407710,
+    "liabilities": 6808934
+  },
+  {
+    "name": "Ganesh Rawat",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 64381199,
+    "liabilities": 4487364
+  },
+  {
+    "name": "Jagdish Prasad Gautam",
+    "age": "52",
+    "party": "Manavtawadi Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 203514,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish Rawat",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 36406534,
+    "liabilities": 1207090
+  },
+  {
+    "name": "Prabhawati Devi",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 8208579,
+    "liabilities": 750000
+  },
+  {
+    "name": "R.K. Chaudhary",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9185305,
+    "liabilities": 0
+  },
+  {
+    "name": "Radha Devi",
+    "age": "57",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 40823586,
+    "liabilities": 3185660
+  },
+  {
+    "name": "Ram Sagar Paasi",
+    "age": "38",
+    "party": "Samdarshi Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1575603,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Kumar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6008954,
+    "liabilities": 0
+  },
+  {
+    "name": "Shatrohan Lal Rawat",
+    "age": "51",
+    "party": "Lok Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22500000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Sushil Kumar",
+    "age": "29",
+    "party": "Aadarsh Sangram Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 309000,
+    "liabilities": 0
+  }
+]

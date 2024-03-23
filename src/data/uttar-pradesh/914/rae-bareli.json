@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Sonia Gandhi",
+    "age": "72",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 118263916,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Pratap Maurya",
+    "age": "53",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4355882,
+    "liabilities": 290000
+  },
+  {
+    "name": "Dinesh Pratap Singh",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 29676192,
+    "liabilities": 972748
+  },
+  {
+    "name": "Hori Lal",
+    "age": "61",
+    "party": "Pragatisheel Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1078500,
+    "liabilities": 150000
+  },
+  {
+    "name": "Kiran Chaudhary",
+    "age": "42",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2421740,
+    "liabilities": 2498227
+  },
+  {
+    "name": "Naimish Pratap Narayan Singh",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5378564,
+    "liabilities": 29708
+  },
+  {
+    "name": "Pramendra Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5795853,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kureel",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 645000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Ram Narayan",
+    "age": "56",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7795000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Ram Singh",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5332004,
+    "liabilities": 1494584
+  },
+  {
+    "name": "Rameshvar",
+    "age": "40",
+    "party": "Sabka Dal United",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1434563,
+    "liabilities": 0
+  },
+  {
+    "name": "Sartaj Khan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4685105,
+    "liabilities": 0
+  },
+  {
+    "name": "Suneel Kumar S/O Anjani Kumar",
+    "age": "33",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1570600,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Bahadur Singh",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 138159191,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Bahadur Singh",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5265060,
+    "liabilities": 0
+  }
+]

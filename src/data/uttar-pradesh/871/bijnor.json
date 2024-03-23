@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Malook Nagar",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 2499628021,
+    "liabilities": 1016148176
+  },
+  {
+    "name": "Anshu Chaitanya Maharaj",
+    "age": "31",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8147499,
+    "liabilities": 0
+  },
+  {
+    "name": "Babloo Ram",
+    "age": "47",
+    "party": "Bharatiya Sarvodaya Kranti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ilam Singh",
+    "age": "64",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 10336486,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Mahak Singh",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5135575,
+    "liabilities": 250000
+  },
+  {
+    "name": "Mangeram",
+    "age": "57",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5300000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Mohammad Zahid",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1564215,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar",
+    "age": "43",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2880000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasimuddin Siddqui",
+    "age": "56",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 130739688,
+    "liabilities": 0
+  },
+  {
+    "name": "Parvej Aqil",
+    "age": "47",
+    "party": "All India Minorities Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 104992,
+    "liabilities": 0
+  },
+  {
+    "name": "Raja Bhartendra Singh",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 49867061,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajiv Choudhary",
+    "age": "45",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 81718444,
+    "liabilities": 0
+  },
+  {
+    "name": "Sonu",
+    "age": "34",
+    "party": "Jansatta Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  }
+]

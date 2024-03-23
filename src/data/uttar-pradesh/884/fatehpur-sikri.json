@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Rajkumar Chahar",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 14854247,
+    "liabilities": 356404
+  },
+  {
+    "name": "Anil Kumar Kushwaha",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4693000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arti Sharma",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 803000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manisha Singh",
+    "age": "44",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 66740000,
+    "liabilities": 239553
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nawab Gul Chaman Sherwani",
+    "age": "36",
+    "party": "VANCHITSAMAJ INSAAF PARTY",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 37255,
+    "liabilities": 0
+  },
+  {
+    "name": "Pastar Thomsan Massy",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 196400,
+    "liabilities": 0
+  },
+  {
+    "name": "Purushottam Das (Fauzi Bhai)",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3951427,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Babbar",
+    "age": "68",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 182861705,
+    "liabilities": 12294927
+  },
+  {
+    "name": "Ram Bahori",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5387104,
+    "liabilities": 0
+  },
+  {
+    "name": "Sadab Noor",
+    "age": "32",
+    "party": "Adarsh Samaj Party",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sarvesh Kumar",
+    "age": "29",
+    "party": "Bharatiya Majdoor Janta Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 726000,
+    "liabilities": 28883
+  },
+  {
+    "name": "Satendar",
+    "age": "28",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 69000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shreebhagwan Sharma",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 13718806,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Singh Baghel",
+    "age": "67",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 65280898,
+    "liabilities": 0
+  }
+]

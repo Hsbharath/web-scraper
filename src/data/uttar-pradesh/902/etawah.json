@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr Ram Shankar Katheria",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "12",
+    "education": "Doctorate",
+    "assets": 15154538,
+    "liabilities": 7304616
+  },
+  {
+    "name": "Ajay Kumar",
+    "age": "35",
+    "party": "Bhartiya Jan Nayak Party",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4205000,
+    "liabilities": 0
+  },
+  {
+    "name": "Akshash Krishna",
+    "age": "30",
+    "party": "Pichhra Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 343500,
+    "liabilities": 0
+  },
+  {
+    "name": "Arti Devi",
+    "age": "29",
+    "party": "Mahasankalp Janta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3180000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Ashok Kumar Dohare",
+    "age": "45",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24398780,
+    "liabilities": 1900000
+  },
+  {
+    "name": "Dalveer Singh",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 111321,
+    "liabilities": 33000
+  },
+  {
+    "name": "Kamlesh Kumar",
+    "age": "35",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11207526,
+    "liabilities": 2190246
+  },
+  {
+    "name": "Lalta Prasad",
+    "age": "54",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3546200,
+    "liabilities": 40000
+  },
+  {
+    "name": "Pooja",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11207526,
+    "liabilities": 2190246
+  },
+  {
+    "name": "Sanjay Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4364623,
+    "liabilities": 0
+  },
+  {
+    "name": "Shambhu Dayal",
+    "age": "61",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 42060422,
+    "liabilities": 9949035
+  },
+  {
+    "name": "Sita",
+    "age": "0",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3030000,
+    "liabilities": 0
+  }
+]

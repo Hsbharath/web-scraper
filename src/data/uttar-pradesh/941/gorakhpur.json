@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Ravindra Shyamnarayan Shukla Alias Ravi Kishan",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 208494688,
+    "liabilities": 17711043
+  },
+  {
+    "name": "Abhishek Chand",
+    "age": "30",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 545000,
+    "liabilities": 0
+  },
+  {
+    "name": "Awadhesh Kumar Singh",
+    "age": "63",
+    "party": "Shane Hind Fourm",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 124554884,
+    "liabilities": 4190656
+  },
+  {
+    "name": "Dr Ashish Kumar Singh",
+    "age": "40",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14930397,
+    "liabilities": 0
+  },
+  {
+    "name": "Jai Prakash Mishra",
+    "age": "52",
+    "party": "Rashtrawadi Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13665000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Kumar",
+    "age": "31",
+    "party": "Jwala Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 15560000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhusudan Tripathi",
+    "age": "65",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 57660121,
+    "liabilities": 2638815
+  },
+  {
+    "name": "Rambhual Nishad",
+    "age": "58",
+    "party": "SP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 39717782,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Shyamnarayan Yadav",
+    "age": "49",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 8011000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Chandra Dubey",
+    "age": "73",
+    "party": "Socialist Party (India)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 851680,
+    "liabilities": 0
+  }
+]

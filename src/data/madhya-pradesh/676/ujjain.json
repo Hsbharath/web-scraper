@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Anil Firojiya",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26417937,
+    "liabilities": 3203766
+  },
+  {
+    "name": "Ambaram Parmar Chandravanshi",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4016303,
+    "liabilities": 0
+  },
+  {
+    "name": "Babulal Malviya",
+    "age": "56",
+    "party": "INC",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 2181243,
+    "liabilities": 1785483
+  },
+  {
+    "name": "Banesingh Parmar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 109326,
+    "liabilities": 94341
+  },
+  {
+    "name": "Dr. Sagar Solanki",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 923000,
+    "liabilities": 87000
+  },
+  {
+    "name": "Mahesh Marmat",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2126257,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramchandra Parmar",
+    "age": "61",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1260081,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Parmar",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5813661,
+    "liabilities": 1050000
+  },
+  {
+    "name": "Tilakraj Ahirwar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1433000,
+    "liabilities": 0
+  }
+]

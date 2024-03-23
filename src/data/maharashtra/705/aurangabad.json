@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Imtiaz Jaleel Syed",
+    "age": "50",
+    "party": "AIMIM",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 29562768,
+    "liabilities": 6800000
+  },
+  {
+    "name": "Arvind Kisanrao Kamble",
+    "age": "27",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipali Lalaji Misal",
+    "age": "26",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 260000,
+    "liabilities": 1180000
+  },
+  {
+    "name": "Fulare Suresh Asaram",
+    "age": "38",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 4663396,
+    "liabilities": 680000
+  },
+  {
+    "name": "Habib Gayas Shaikh",
+    "age": "53",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 295000,
+    "liabilities": 6000
+  },
+  {
+    "name": "Harshwardhandada Raibhanji Jadhav",
+    "age": "41",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 123952399,
+    "liabilities": 11017453
+  },
+  {
+    "name": "Jagan Baburao Salve",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Jaya Balu Rajkundal",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5225000,
+    "liabilities": 0
+  },
+  {
+    "name": "Khaire Chandrakant",
+    "age": "67",
+    "party": "SHS",
+    "criminal": "9",
+    "education": "12th Pass",
+    "assets": 89820322,
+    "liabilities": 31390310
+  },
+  {
+    "name": "Khan Aejaz Ahemad",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1028150,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunjbihari Jugalkishor Agrawal",
+    "age": "60",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 39193159,
+    "liabilities": 6174351
+  },
+  {
+    "name": "Kurangal Sanjay Baburao",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2245929,
+    "liabilities": 25289
+  },
+  {
+    "name": "Madhukar Bansi Magare",
+    "age": "62",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9211318,
+    "liabilities": 2440135
+  },
+  {
+    "name": "Mahamad Jakir Abdul Kadar",
+    "age": "43",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 229500,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammad Mohasin",
+    "age": "29",
+    "party": "Navbharat Nirman Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Bhanudas Kale",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 917481,
+    "liabilities": 0
+  },
+  {
+    "name": "Sangita Kalyanrao Nirmal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 565000,
+    "liabilities": 29000
+  },
+  {
+    "name": "Shaikh Khaja Shaikh Kasim Kismatwala",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 763100,
+    "liabilities": 130000
+  },
+  {
+    "name": "Shaikh Nadim Shaikh Karim",
+    "age": "45",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Kisanrao Patil",
+    "age": "57",
+    "party": "Maharashtra Swabhimaan Paksh",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 23789960,
+    "liabilities": 4839442
+  },
+  {
+    "name": "Tribhuvan Madhukar Padmakar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 307000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Dhanu Rathod",
+    "age": "65",
+    "party": "Aasra Lokmanch Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 257559,
+    "liabilities": 65536
+  },
+  {
+    "name": "Zambad Subhash Manakchand",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 339452909,
+    "liabilities": 198464347
+  }
+]

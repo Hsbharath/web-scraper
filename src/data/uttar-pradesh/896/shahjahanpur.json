@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Arun Kumar Sagar",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 43448049,
+    "liabilities": 1179697
+  },
+  {
+    "name": "Amar Chandra Jauhar",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 15755445,
+    "liabilities": 1200128
+  },
+  {
+    "name": "Arun Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 208562,
+    "liabilities": 0
+  },
+  {
+    "name": "Brahm Swaroop Sagar",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 52249560,
+    "liabilities": 2159156
+  },
+  {
+    "name": "Dharmvir Balmiki",
+    "age": "27",
+    "party": "Bhartiya Bhaichara Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishan Lal",
+    "age": "59",
+    "party": "Sanyukt Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1690000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunwar Pal Singh",
+    "age": "44",
+    "party": "Jan Seva Sahayak Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3532000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manish Chandra Kori",
+    "age": "32",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1762720,
+    "liabilities": 0
+  },
+  {
+    "name": "Manohar Lal Saroj",
+    "age": "45",
+    "party": "Netaji Subhash Chander Bose Rashtriya Azad Pa",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 2055000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narveer",
+    "age": "39",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10461208,
+    "liabilities": 300000
+  },
+  {
+    "name": "Shyamacharan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2153810,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohan Pal Alias Sonpal",
+    "age": "58",
+    "party": "Bhartiya Krishak Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2352000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Vineet",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 109616,
+    "liabilities": 0
+  }
+]

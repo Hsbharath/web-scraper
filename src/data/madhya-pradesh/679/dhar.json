@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Chhatar Singh Darbar",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 23198238,
+    "liabilities": 2471613
+  },
+  {
+    "name": "Dashrath Bhuwan (Dotriya)",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 14151027,
+    "liabilities": 677716
+  },
+  {
+    "name": "Girwal Dinesh",
+    "age": "38",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 53425064,
+    "liabilities": 4484036
+  },
+  {
+    "name": "Gulsingh Ramsingh Kawache",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11919939,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Kailash Vasuniya",
+    "age": "41",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96342,
+    "liabilities": 0
+  },
+  {
+    "name": "Manish Devid",
+    "age": "31",
+    "party": "Bhartiya Amrit Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 252500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramcharan Maliwad",
+    "age": "41",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 300000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Ramdas Chandrabhanji Tadas",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 65807822,
+    "liabilities": 8961387
+  },
+  {
+    "name": "Adv. Bhaskar Marotrao Neware",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 135345,
+    "liabilities": 0
+  },
+  {
+    "name": "Arvind Shamrao Lillore",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 247887,
+    "liabilities": 0
+  },
+  {
+    "name": "Charulata Khajansing Tokas",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 136123032,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanraj Kotiram Vanjari",
+    "age": "63",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 97629000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dnyaneshwar Laxamnrao Wakudkar",
+    "age": "62",
+    "party": "Lokjagar Party",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 17597448,
+    "liabilities": 150000
+  },
+  {
+    "name": "Gadhave Pravin Rameshwarrao",
+    "age": "34",
+    "party": "Ambedkarist Republican Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1133000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Ganesh Kisanrao Lade",
+    "age": "42",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 189000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish Uddhavrao Wankhede",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandkishor Ramaji Sagar",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 4395000,
+    "liabilities": 2346000
+  },
+  {
+    "name": "Rajesh Marotrao Balpande",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8019000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaileshkumar Premkishorji Agrawal",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 135149000,
+    "liabilities": 2098380
+  },
+  {
+    "name": "Umesh Sadashiv Neware",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 124000,
+    "liabilities": 32138
+  },
+  {
+    "name": "Zitruji Chandruji Borutkar",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19528934,
+    "liabilities": 1600000
+  }
+]

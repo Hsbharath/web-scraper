@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Nitin Jairam Gadkari",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 187916075,
+    "liabilities": 40729055
+  },
+  {
+    "name": "Adv. Ulhas Shalikaram Dupare",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 146000,
+    "liabilities": 0
+  },
+  {
+    "name": "Adv. Vijaya Dilip Bagde",
+    "age": "43",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 218000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ali Ashfaque Ahmed",
+    "age": "48",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1475000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Asim Ali",
+    "age": "28",
+    "party": "Minorities Democratic Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 162000,
+    "liabilities": 2000
+  },
+  {
+    "name": "Comrade Yogesh Krishnarao Thakare",
+    "age": "43",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3506000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dikshita Anand Tembhurne",
+    "age": "32",
+    "party": "Desh Janhit Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 98884,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipak Laxmanrao Maske",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4559259,
+    "liabilities": 16191
+  },
+  {
+    "name": "Dr. Manisha Bangar",
+    "age": "49",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14951925,
+    "liabilities": 1906973
+  },
+  {
+    "name": "Dr. Vinod Kashiram Badole",
+    "age": "63",
+    "party": "Akhil Bhartiya Sarvadharma Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 151887,
+    "liabilities": 350000
+  },
+  {
+    "name": "Gopalkumar Ganeshu Kashyap",
+    "age": "38",
+    "party": "Chhattisgarh Swabhiman Manch",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kartik Gendalal Doke",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Mane Suresh Tatoba",
+    "age": "58",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 84584324,
+    "liabilities": 0
+  },
+  {
+    "name": "Manohar Alias Sagar Pundlikrao Dabrase",
+    "age": "47",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4197060,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kothuji Bawane",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2179000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Mohammad Jamal",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nanabhau Falgunrao Patole",
+    "age": "56",
+    "party": "INC",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 22160504,
+    "liabilities": 1155060
+  },
+  {
+    "name": "Prabhakar Krushnaji Satpaise",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2179000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Prafulla Manikchand Bhange",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7220000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Ruben Domnik Francis",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 100000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Sachin Haridas Somkuwar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3111000,
+    "liabilities": 435000
+  },
+  {
+    "name": "Sachin Jagorao Patil",
+    "age": "46",
+    "party": "IND",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sahil Balchand Turkar",
+    "age": "38",
+    "party": "Bhartiya Manvadhikaar Federal Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1362050,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Vitthal Nikhar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2480000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Shridhar Narayan Salve",
+    "age": "47",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddharth Asaram Kurve",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Suryabhan Kawade",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 217000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Uday Rambhauji Borkar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 19762360,
+    "liabilities": 571000
+  },
+  {
+    "name": "Vanita Jitendra Raut",
+    "age": "37",
+    "party": "Akhil Bharatiya Manavata Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 618945,
+    "liabilities": 14406
+  },
+  {
+    "name": "Vitthhal Nanaji Gaikwad",
+    "age": "64",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3842634,
+    "liabilities": 30000
+  }
+]

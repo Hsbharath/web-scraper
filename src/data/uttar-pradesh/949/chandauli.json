@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr. Mahendra Nath Pandey",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 33359734,
+    "liabilities": 0
+  },
+  {
+    "name": "Arjun Pandey",
+    "age": "66",
+    "party": "Atulya Bharat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 255000,
+    "liabilities": 38000
+  },
+  {
+    "name": "Byasmuni",
+    "age": "35",
+    "party": "Kanshiram Bahujan Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 194939,
+    "liabilities": 0
+  },
+  {
+    "name": "Jangbahadur",
+    "age": "31",
+    "party": "Bhartiya Manav Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10694000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Pratap Singh",
+    "age": "47",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6803000,
+    "liabilities": 104000
+  },
+  {
+    "name": "Liyakat Ali",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11973165,
+    "liabilities": 160626
+  },
+  {
+    "name": "Mahender Yadav",
+    "age": "63",
+    "party": "Pragatisheel Manav Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1810000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Pratap Singh",
+    "age": "67",
+    "party": "Al-Hind Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5008000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Vishwakarma",
+    "age": "36",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2107000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramgovind",
+    "age": "32",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 197703,
+    "liabilities": 9917
+  },
+  {
+    "name": "Sanjay Singh Chauhan",
+    "age": "43",
+    "party": "SP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4015011,
+    "liabilities": 369000
+  },
+  {
+    "name": "Shiv Kanya Kushwaha",
+    "age": "52",
+    "party": "Jan Adhikar Party",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 66018000,
+    "liabilities": 24777000
+  },
+  {
+    "name": "Shivratri",
+    "age": "67",
+    "party": "Prithviraj Janshakti Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 490000,
+    "liabilities": 0
+  }
+]

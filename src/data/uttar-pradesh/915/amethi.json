@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Smriti Irani",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 111099609,
+    "liabilities": 0
+  },
+  {
+    "name": "Afajal Varis",
+    "age": "46",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2257300,
+    "liabilities": 0
+  },
+  {
+    "name": "Bas Deo Maurya",
+    "age": "57",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1975294,
+    "liabilities": 88910
+  },
+  {
+    "name": "Bhagwandeen",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1031000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhurv Lal",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1755324,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. U.P. Shivananda",
+    "age": "68",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 56021821,
+    "liabilities": 5150427
+  },
+  {
+    "name": "Durgesh Singh",
+    "age": "43",
+    "party": "Bharat Prabhat Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 5391000,
+    "liabilities": 2300000
+  },
+  {
+    "name": "Gopal Prasad",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 201577,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopal Swaroop Gandhi",
+    "age": "56",
+    "party": "Kisan Majdoor Berojgar Sangh",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2324000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harun Rasheed",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20587132,
+    "liabilities": 5190998
+  },
+  {
+    "name": "Hemant Kumar",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5777986,
+    "liabilities": 0
+  },
+  {
+    "name": "Lal Babu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1370000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Mo Hasan Lahari",
+    "age": "0",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 4068500,
+    "liabilities": 179000
+  },
+  {
+    "name": "Nathu Ram",
+    "age": "61",
+    "party": "Janvadi Party(Socialist)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 918000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Ramkumar Singh",
+    "age": "32",
+    "party": "Akhand Rashtrawadi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2523000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Shankar",
+    "age": "34",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 618428,
+    "liabilities": 0
+  },
+  {
+    "name": "Rahul Gandhi",
+    "age": "48",
+    "party": "INC",
+    "criminal": "6",
+    "education": "Post Graduate",
+    "assets": 158877063,
+    "liabilities": 7201904
+  },
+  {
+    "name": "Ram Milan",
+    "age": "50",
+    "party": "Rashtriya Apna Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2331893,
+    "liabilities": 17000
+  },
+  {
+    "name": "Ram Sajiwan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramsidh Yadav",
+    "age": "61",
+    "party": "Manavtawadi Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6155815,
+    "liabilities": 0
+  },
+  {
+    "name": "Saritha S Nair",
+    "age": "40",
+    "party": "IND",
+    "criminal": "34",
+    "education": "Others",
+    "assets": 4380000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Shatrunjai Singh",
+    "age": "46",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1495000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 177000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Nandan Singh",
+    "age": "44",
+    "party": "Bharatiya Sampuran Krantikari Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1999445,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kumar Shukla",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2687092,
+    "liabilities": 0
+  },
+  {
+    "name": "Vipin Yadav",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 89000,
+    "liabilities": 0
+  }
+]

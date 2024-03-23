@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Hema Malini Dharmendra Deol",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2508270292,
+    "liabilities": 131288062
+  },
+  {
+    "name": "Chattar Alias Chatrapal Singh Nishad",
+    "age": "48",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 34000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Kumar Gautam",
+    "age": "53",
+    "party": "Bhartiya Anarakshit Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 36742543,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagvir Singh",
+    "age": "40",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 10800000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasvant Singh Baghel",
+    "age": "42",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 69108182,
+    "liabilities": 2440225
+  },
+  {
+    "name": "Jasveer Singh",
+    "age": "45",
+    "party": "Rashtriya Naujawan Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1686500,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Pathak",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 356953188,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Singh",
+    "age": "66",
+    "party": "RLD",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 216820285,
+    "liabilities": 5708000
+  },
+  {
+    "name": "Omprakash",
+    "age": "31",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Phakkad Baba",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 12722,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Krishna",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 359000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdas Tyagi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 255000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdev Gautam",
+    "age": "46",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4054925,
+    "liabilities": 0
+  }
+]

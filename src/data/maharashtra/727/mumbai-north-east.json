@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Manoj Kishorbhai Kotak",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 54661944,
+    "liabilities": 2048000
+  },
+  {
+    "name": "Aiyyar Ganesh",
+    "age": "54",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41428196,
+    "liabilities": 2650010
+  },
+  {
+    "name": "Anil Hebbar Koni",
+    "age": "54",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 39684894,
+    "liabilities": 4059581
+  },
+  {
+    "name": "Baban Sopan Thoke",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1100,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaskar Mohan Goud",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2199000,
+    "liabilities": 8000000
+  },
+  {
+    "name": "Dandge Sukhadev Chandu",
+    "age": "63",
+    "party": "Ambedkarite Party Of India",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dayanand Jagnnath Sohani",
+    "age": "45",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 6487500,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Digambar Shinde",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4298872,
+    "liabilities": 3700000
+  },
+  {
+    "name": "Jatin Rangrao Harne",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 2028,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayashri Minesh Shah",
+    "age": "49",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 17271084,
+    "liabilities": 700000
+  },
+  {
+    "name": "Jitendra Kumar Nanku Pal",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 65000,
+    "liabilities": 39400
+  },
+  {
+    "name": "Niharika Prakashchandra Khondalay",
+    "age": "50",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2927285,
+    "liabilities": 32490
+  },
+  {
+    "name": "Nilesh Ramchandra Kudtarkar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nutan Singh",
+    "age": "34",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 199000,
+    "liabilities": 68257
+  },
+  {
+    "name": "Patil Sanjay Dina",
+    "age": "50",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 26109673,
+    "liabilities": 0
+  },
+  {
+    "name": "Pravin Chandrakant Kedare",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1008627,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Sambhaji Raul",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2862,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Chandrabahadur Singh",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 7700000,
+    "liabilities": 2862000
+  },
+  {
+    "name": "Shahajirao Dhondiba Thorat",
+    "age": "55",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 750953,
+    "liabilities": 250000
+  },
+  {
+    "name": "Shahenaz Begam Mo.Siraj Khan",
+    "age": "43",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 322403,
+    "liabilities": 96836
+  },
+  {
+    "name": "Shahin Parveen Shakil Ahamad Khan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 461765,
+    "liabilities": 0
+  },
+  {
+    "name": "Shrikant Suburao Shinde",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1214989,
+    "liabilities": 0
+  },
+  {
+    "name": "Sneha Ravindra Kurhade",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4220000,
+    "liabilities": 2880000
+  },
+  {
+    "name": "Sushma Motilal Maurya",
+    "age": "38",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4397632,
+    "liabilities": 1404817
+  },
+  {
+    "name": "Vijay Janardan Shiktode",
+    "age": "55",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8788000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Narayan Chaugule",
+    "age": "41",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11335126,
+    "liabilities": 8502053
+  }
+]

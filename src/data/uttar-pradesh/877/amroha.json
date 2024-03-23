@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kunwar Danish Ali",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 74920879,
+    "liabilities": 19579691
+  },
+  {
+    "name": "Akhtar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3300000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Kanwar Singh Tanwar",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1821251171,
+    "liabilities": 10700504
+  },
+  {
+    "name": "Matloob Ahmad",
+    "age": "43",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 6219412,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajpal Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 615600,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajpal Singh Saini",
+    "age": "60",
+    "party": "Jan Shakti Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Robin Tyagi",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 241000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Choudhary",
+    "age": "35",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27003125,
+    "liabilities": 12293421
+  },
+  {
+    "name": "Vikar Ahmad",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3215000,
+    "liabilities": 0
+  }
+]

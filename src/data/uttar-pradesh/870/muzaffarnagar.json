@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sanjeev Kumar Balyan",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 15781189,
+    "liabilities": 2373645
+  },
+  {
+    "name": "Ajit Singh",
+    "age": "78",
+    "party": "RLD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 166125602,
+    "liabilities": 0
+  },
+  {
+    "name": "Ankit",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 852976,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11030000,
+    "liabilities": 1857000
+  },
+  {
+    "name": "Jaipal Singh Saini",
+    "age": "68",
+    "party": "Jansatta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1644000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishan Pal Singh",
+    "age": "60",
+    "party": "Bharat Lok Sewak Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3060252,
+    "liabilities": 1000
+  },
+  {
+    "name": "Mangeram Kashyap",
+    "age": "51",
+    "party": "Majdoor Kisan Union Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2036000,
+    "liabilities": 0
+  },
+  {
+    "name": "Neel Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6587000,
+    "liabilities": 0
+  },
+  {
+    "name": "S.S.K.S. Gangwal",
+    "age": "62",
+    "party": "Bharatiya Bahujan Samta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4452000,
+    "liabilities": 0
+  },
+  {
+    "name": "Yajpal Singh Rathi",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11681000,
+    "liabilities": 0
+  }
+]

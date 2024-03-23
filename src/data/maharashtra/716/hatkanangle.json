@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Dhairyashil Sambhajirao Mane",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 47771462,
+    "liabilities": 41599959
+  },
+  {
+    "name": "Aitawade Vidyasagar Devappa",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Prakash Kurane",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3515450,
+    "liabilities": 0
+  },
+  {
+    "name": "Anandrao Vasantrao Sarnaik (Fouji Bapu)",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 21645000,
+    "liabilities": 7000000
+  },
+  {
+    "name": "Aslam Badshahaji Sayyad",
+    "age": "56",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 23211678,
+    "liabilities": 3782280
+  },
+  {
+    "name": "Dr. Nitin Udal Bhat",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2032849,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr.Prashant Dnyaneshwar Gangavane",
+    "age": "36",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 62448988,
+    "liabilities": 95000
+  },
+  {
+    "name": "Kamble Vishwas Ananda",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 762500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishor Rajaram Panhalkar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 76138,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Vajir Sardar",
+    "age": "40",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 646000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahadev Jagannath Jagadale",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 127200,
+    "liabilities": 88000
+  },
+  {
+    "name": "Patil Raghunath Ramchandra",
+    "age": "68",
+    "party": "IND",
+    "criminal": "9",
+    "education": "Graduate Professional",
+    "assets": 30995000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Raju Mujikrao Shetty",
+    "age": "67",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4236134,
+    "liabilities": 0
+  },
+  {
+    "name": "Sangramsinh Jaysingrao Gaikwad",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2790155,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Ghanshyam Agrawal",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6823627,
+    "liabilities": 208000
+  },
+  {
+    "name": "Shetty Raju Anna",
+    "age": "51",
+    "party": "Swabhimani Paksha",
+    "criminal": "15",
+    "education": "10th Pass",
+    "assets": 24421392,
+    "liabilities": 774059
+  },
+  {
+    "name": "Vijay Bhagwan Chougule",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3245678,
+    "liabilities": 100000
+  }
+]

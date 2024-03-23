@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Ramesh Chand",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 94089148,
+    "liabilities": 21696413
+  },
+  {
+    "name": "Akhilesh",
+    "age": "51",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1232900,
+    "liabilities": 270000
+  },
+  {
+    "name": "Dr Rajesh Kumar Verma",
+    "age": "51",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 13698354,
+    "liabilities": 8192500
+  },
+  {
+    "name": "Kuldeep",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 203000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Sakha",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27151000,
+    "liabilities": 104000
+  },
+  {
+    "name": "Ramakant",
+    "age": "59",
+    "party": "INC",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 82444969,
+    "liabilities": 0
+  },
+  {
+    "name": "Rangnath Mishra",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 124899017,
+    "liabilities": 54880849
+  },
+  {
+    "name": "Saiyyad Mohammad Arif",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10660000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santlal",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 281000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Bahadur",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 140532,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushil",
+    "age": "38",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 61208,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod",
+    "age": "42",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10154320,
+    "liabilities": 0
+  }
+]

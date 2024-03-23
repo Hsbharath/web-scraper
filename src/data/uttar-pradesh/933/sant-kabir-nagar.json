@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Praveen Kumar Nishad",
+    "age": "30",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4300614,
+    "liabilities": 2326248
+  },
+  {
+    "name": "Akhilesh Kumar",
+    "age": "46",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4301046,
+    "liabilities": 709201
+  },
+  {
+    "name": "Anand Kumar Gautam",
+    "age": "29",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 81000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhal Chandra Yadav",
+    "age": "60",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 15341651,
+    "liabilities": 10068345
+  },
+  {
+    "name": "Bhishma Shankar",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 142535633,
+    "liabilities": 0
+  },
+  {
+    "name": "Lotan Prasad",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1201000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Yadav",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35138400,
+    "liabilities": 0
+  }
+]

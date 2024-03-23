@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Ravinder",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27031724,
+    "liabilities": 249400
+  },
+  {
+    "name": "Ajimullah",
+    "age": "64",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2305000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhotelal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1356000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kailash Chauhan",
+    "age": "50",
+    "party": "Janta Kranti Party (Rashtravadi)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 5719229,
+    "liabilities": 1330000
+  },
+  {
+    "name": "Kripa Shankar Prasad",
+    "age": "39",
+    "party": "Bharatiya Samta Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2213000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Saroor Ali",
+    "age": "40",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 201000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Puja Pandey",
+    "age": "33",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 230000,
+    "liabilities": 0
+  },
+  {
+    "name": "R S Kushwaha",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 115246002,
+    "liabilities": 265057
+  },
+  {
+    "name": "Rajaram",
+    "age": "54",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6310007,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Mishra",
+    "age": "61",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 13088751,
+    "liabilities": 903849
+  },
+  {
+    "name": "Ramji Pratap Jigyasu",
+    "age": "44",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 229850,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumeshwar Nath Tiwari",
+    "age": "40",
+    "party": "RASHTRIYA VIKLANG PARTY",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 727004,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Pandey",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Vidya Shanker Pandey",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 53117000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishram",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2202599,
+    "liabilities": 0
+  }
+]

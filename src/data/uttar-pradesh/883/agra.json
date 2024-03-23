@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Satyapal Singh Baghel",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Doctorate",
+    "assets": 74274036,
+    "liabilities": 8606522
+  },
+  {
+    "name": "Ambedkari Hasnuram Ambedkari",
+    "age": "64",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1200,
+    "liabilities": 85000
+  },
+  {
+    "name": "Babu Lal",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5015863,
+    "liabilities": 0
+  },
+  {
+    "name": "Himanshi",
+    "age": "26",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Soni",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 133784385,
+    "liabilities": 22251891
+  },
+  {
+    "name": "Preeta Harit",
+    "age": "54",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 55075753,
+    "liabilities": 0
+  },
+  {
+    "name": "Raja",
+    "age": "30",
+    "party": "Rashtriya Vyapari Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 948885,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramji Lal Vidhyarthi",
+    "age": "61",
+    "party": "Peace Party",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 318500,
+    "liabilities": 0
+  }
+]

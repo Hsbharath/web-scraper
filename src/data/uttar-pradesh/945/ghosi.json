@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Atul Kumar Singh",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "13",
+    "education": "Graduate",
+    "assets": 66536025,
+    "liabilities": 3454591
+  },
+  {
+    "name": "Abushad",
+    "age": "47",
+    "party": "Akhand Samaj Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 371500,
+    "liabilities": 0
+  },
+  {
+    "name": "Atul Kumar Singh",
+    "age": "64",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10411346,
+    "liabilities": 74745
+  },
+  {
+    "name": "Bal Krishna",
+    "age": "70",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 11158421,
+    "liabilities": 673100
+  },
+  {
+    "name": "Geeta",
+    "age": "40",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 137786,
+    "liabilities": 0
+  },
+  {
+    "name": "Harinarayan",
+    "age": "78",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 34341628,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Kishan Lal",
+    "age": "46",
+    "party": "Rashtriya Krantikari Samajwadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1585000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra",
+    "age": "53",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10613500,
+    "liabilities": 0
+  },
+  {
+    "name": "Paras",
+    "age": "66",
+    "party": "Rashtriya Jantantrik Bharat Vikas Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2105000,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Kumar Singh",
+    "age": "45",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 938000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Gond",
+    "age": "44",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 165000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9480939,
+    "liabilities": 0
+  },
+  {
+    "name": "Shefkat Taki",
+    "age": "40",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3800000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Surya Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1861000,
+    "liabilities": 150000
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Anupriya Singh Patel",
+    "age": "37",
+    "party": "Apna Dal (Soneylal)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 26900662,
+    "liabilities": 1805603
+  },
+  {
+    "name": "Adesh Tyagi",
+    "age": "49",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24645000,
+    "liabilities": 0
+  },
+  {
+    "name": "Archana Mishra",
+    "age": "33",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11981000,
+    "liabilities": 2120000
+  },
+  {
+    "name": "Ashish Kumar Tripathi",
+    "age": "27",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2972000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Kumar Pal",
+    "age": "34",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 695000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jeera Devi",
+    "age": "51",
+    "party": "CPI(ML)(L)",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1130061,
+    "liabilities": 180000
+  },
+  {
+    "name": "Lalitesh Pati Tripathi",
+    "age": "41",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 79195975,
+    "liabilities": 2723790
+  },
+  {
+    "name": "Radheshyam Inshan",
+    "age": "64",
+    "party": "Bhartiya Republican Party (Insan)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 586200,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramcharitra Nishad",
+    "age": "54",
+    "party": "SP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26572962,
+    "liabilities": 0
+  }
+]

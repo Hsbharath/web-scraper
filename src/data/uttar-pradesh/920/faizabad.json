@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Lallu Singh",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 31884642,
+    "liabilities": 11276478
+  },
+  {
+    "name": "Anand Sen",
+    "age": "55",
+    "party": "SP",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 43920899,
+    "liabilities": 1560431
+  },
+  {
+    "name": "Asha Devi",
+    "age": "25",
+    "party": "Lok Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 67265,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamlesh Tiwari",
+    "age": "43",
+    "party": "IND",
+    "criminal": "8",
+    "education": "Graduate",
+    "assets": 672000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanchan Yadav",
+    "age": "34",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3474829,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Lal Mani Tripathi (Bhai Sahab)",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8741915,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Tiwari",
+    "age": "46",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21813345,
+    "liabilities": 1534016
+  },
+  {
+    "name": "Manoj Kumar Mishra",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1575000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmal Khatri",
+    "age": "68",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Doctorate",
+    "assets": 14459169,
+    "liabilities": 409256
+  },
+  {
+    "name": "Rajbahadur Urf Rajan Pandey",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 28366730,
+    "liabilities": 500000
+  },
+  {
+    "name": "Sharad Kumar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 788716,
+    "liabilities": 0
+  },
+  {
+    "name": "Sher Afgan",
+    "age": "44",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10228866,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Shankar Pandey",
+    "age": "62",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15509419,
+    "liabilities": 2400000
+  }
+]

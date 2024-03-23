@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dharmendra Kumar",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21766502,
+    "liabilities": 3324300
+  },
+  {
+    "name": "Dharmendra",
+    "age": "36",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 763881,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Kumar",
+    "age": "34",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4320000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hemendra Pal Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 713500,
+    "liabilities": 0
+  },
+  {
+    "name": "Irshad Ali Ansari",
+    "age": "40",
+    "party": "VANCHITSAMAJ INSAAF PARTY",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunwar Sarvraj Singh",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41189445,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakshmi",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 724100,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Ateeq",
+    "age": "61",
+    "party": "National Fifty Fifty Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14289307,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar Yadav",
+    "age": "45",
+    "party": "Bhartiya Krishak Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1696700,
+    "liabilities": 0
+  },
+  {
+    "name": "Priti Kashyap",
+    "age": "27",
+    "party": "Rashtriya Mazdoor Ekta Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2081000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Phal Shakya",
+    "age": "67",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3574800,
+    "liabilities": 0
+  },
+  {
+    "name": "Rishi Pal",
+    "age": "30",
+    "party": "Jan Shakti Ekta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 736500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ruchi Vira",
+    "age": "57",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 241164456,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "35",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 5377315,
+    "liabilities": 0
+  }
+]

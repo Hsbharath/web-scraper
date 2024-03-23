@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr. S T Hasan",
+    "age": "60",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 55795546,
+    "liabilities": 500000
+  },
+  {
+    "name": "Akeel",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2440000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhishm Jeet Singh",
+    "age": "25",
+    "party": "Fauji Janta Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 906000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dileram",
+    "age": "58",
+    "party": "Bhartiya Harit Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10964441,
+    "liabilities": 584000
+  },
+  {
+    "name": "Kunwar Sarvesh Kumar",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 102903614,
+    "liabilities": 600000
+  },
+  {
+    "name": "Mo. Aslam Alias Pasha",
+    "age": "48",
+    "party": "Jan Shakti Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 711541,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo. Imran Khan",
+    "age": "32",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 31547689,
+    "liabilities": 10034039
+  },
+  {
+    "name": "Musaraat Hussain",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8347923,
+    "liabilities": 0
+  },
+  {
+    "name": "Nadir",
+    "age": "45",
+    "party": "Peace Party",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 8896218,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar Saini",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 880000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prince Kumar Sharma",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Roopchand Singh",
+    "age": "67",
+    "party": "Bharatiya Bahujan Samta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8606938,
+    "liabilities": 50000
+  },
+  {
+    "name": "Tej Singh Seny",
+    "age": "49",
+    "party": "Rashtriya Samanta Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5188005,
+    "liabilities": 36000
+  }
+]

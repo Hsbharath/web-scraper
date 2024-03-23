@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ahir Hansraj Gangaramji",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 18300860,
+    "liabilities": 45386
+  },
+  {
+    "name": "Arvind Nanaji Raut",
+    "age": "59",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 6367803,
+    "liabilities": 1501577
+  },
+  {
+    "name": "Dashrath Pandurang Madavi",
+    "age": "60",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9403318,
+    "liabilities": 1790000
+  },
+  {
+    "name": "Dhanorkar Suresh Narayan",
+    "age": "43",
+    "party": "INC",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 137455342,
+    "liabilities": 22752880
+  },
+  {
+    "name": "Gautam Ganpat Nagrale",
+    "age": "58",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5581000,
+    "liabilities": 202010
+  },
+  {
+    "name": "Madhukar Vithal Nistane",
+    "age": "54",
+    "party": "Proutist Bloc, India",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 896000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Milind Pralhad Dahiwale",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 407500,
+    "liabilities": 0
+  },
+  {
+    "name": "Namdeo Keshao Kinnake",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3155000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Namdeo Shedmake",
+    "age": "50",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 358900,
+    "liabilities": 332000
+  },
+  {
+    "name": "Nitesh Anandrao Dongre",
+    "age": "33",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124000,
+    "liabilities": 125000
+  },
+  {
+    "name": "Rajendra Krishnarao Hajare",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Shriramji Mahadole",
+    "age": "48",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 19703000,
+    "liabilities": 6978054
+  },
+  {
+    "name": "Sushil Wasnik",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10485000,
+    "liabilities": 20000
+  }
+]

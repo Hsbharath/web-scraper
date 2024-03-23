@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Guman Singh Damor",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 42072262,
+    "liabilities": 4890940
+  },
+  {
+    "name": "Kamleshwar Bhil",
+    "age": "28",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 62500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kantilal Bhuria",
+    "age": "68",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 90679618,
+    "liabilities": 904000
+  },
+  {
+    "name": "Katara Rukhaman Singh",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1561615,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Singh Patel(Chouhan)",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 152000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nilesh Damor",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 89198,
+    "liabilities": 0
+  },
+  {
+    "name": "Rangla-Kalesh",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20161,
+    "liabilities": 0
+  },
+  {
+    "name": "Suraj Bhabhar",
+    "age": "26",
+    "party": "All India Hindustan Congress Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surajsingh Kaliya",
+    "age": "86",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4502000,
+    "liabilities": 127177
+  }
+]

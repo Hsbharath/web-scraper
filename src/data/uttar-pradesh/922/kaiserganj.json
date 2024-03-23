@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Brij Bhushan Sharan Singh",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 98905402,
+    "liabilities": 61524736
+  },
+  {
+    "name": "Chandra Prakash Pandey",
+    "age": "0",
+    "party": "Naitik Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 153000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandradev Ram Yadav",
+    "age": "66",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 17297000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Dhananjay Sharma",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1313579,
+    "liabilities": 45680
+  },
+  {
+    "name": "Munni",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Prakash Mishra",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar",
+    "age": "39",
+    "party": "Samrat Ashok Sena Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh",
+    "age": "39",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Naraian",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2765500,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Kumar",
+    "age": "34",
+    "party": "Rashtriya Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2980000,
+    "liabilities": 0
+  },
+  {
+    "name": "Wajid",
+    "age": "52",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3533500,
+    "liabilities": 0
+  }
+]

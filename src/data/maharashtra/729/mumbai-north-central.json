@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Poonam Vajendla Rao",
+    "age": "38",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 22242513,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Rehman Anjaria",
+    "age": "46",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1000402,
+    "liabilities": 1709730
+  },
+  {
+    "name": "Akshay Kachru Sanap",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 171000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ankush Ramchandra Karande",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5182791,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Dutt Priya Sunil",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 962096603,
+    "liabilities": 36057947
+  },
+  {
+    "name": "Feroz Abdurrahim Shaikh",
+    "age": "46",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9878738,
+    "liabilities": 236327
+  },
+  {
+    "name": "Imran Mustafa Khan",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 26622008,
+    "liabilities": 5644317
+  },
+  {
+    "name": "Joy Nagesh Bhosale",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8761000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Mehendi Iqbal Hasan Sayyed",
+    "age": "33",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 531200,
+    "liabilities": 0
+  },
+  {
+    "name": "Milind Kamble",
+    "age": "35",
+    "party": "Bharat Jan Aadhar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2892431,
+    "liabilities": 474321
+  },
+  {
+    "name": "Mohammad Mehmood Syed Shah",
+    "age": "47",
+    "party": "All India Minorities Front",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1150550,
+    "liabilities": 200000
+  },
+  {
+    "name": "Mohd. Yahiya Siddique",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 37364,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohommad Mobin Shaikh",
+    "age": "44",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1398900,
+    "liabilities": 0
+  },
+  {
+    "name": "Nooruddin Aftab Azimuddin Sayyed",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 899830,
+    "liabilities": 260300
+  },
+  {
+    "name": "Pandey Harshvardhan Ramsuresh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8511000,
+    "liabilities": 5429000
+  },
+  {
+    "name": "Rajesh Bhavsar",
+    "age": "52",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 69417,
+    "liabilities": 0
+  },
+  {
+    "name": "Sagar Nivrutti Kale",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sundar Baburao Padmuk",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 635500,
+    "liabilities": 0
+  },
+  {
+    "name": "Vansh Bahadur Yadav",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11319000,
+    "liabilities": 0
+  }
+]

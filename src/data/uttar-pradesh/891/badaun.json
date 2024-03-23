@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Sangh Mitra Maurya",
+    "age": "34",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 40372093,
+    "liabilities": 0
+  },
+  {
+    "name": "Atul Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18330769,
+    "liabilities": 1038000
+  },
+  {
+    "name": "Dharmendra Yadav",
+    "age": "40",
+    "party": "SP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 118688322,
+    "liabilities": 26510293
+  },
+  {
+    "name": "Hari Singh",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1176000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Kailash Kumar Mishra",
+    "age": "0",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5234088,
+    "liabilities": 22000
+  },
+  {
+    "name": "Kirpa Shankar Shakya",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 1734000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Mahesh Shriwastav",
+    "age": "44",
+    "party": "Kalyankari Jantantrik Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9479895,
+    "liabilities": 0
+  },
+  {
+    "name": "Saleem Iqwal Shervani",
+    "age": "66",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 763872000,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Swami Paglanand",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6385955,
+    "liabilities": 325000
+  }
+]

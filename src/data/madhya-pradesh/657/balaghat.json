@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Dr. Dhal Singh Bisen",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 88648133,
+    "liabilities": 1530693
+  },
+  {
+    "name": "Abhishek Bilhore",
+    "age": "25",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2006750,
+    "liabilities": 0
+  },
+  {
+    "name": "Advocate Satyaprakash Shulke (Lodhi)",
+    "age": "40",
+    "party": "Madhya Pradesh Jan Vikas Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ali . M. R. Khan",
+    "age": "62",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1806450,
+    "liabilities": 0
+  },
+  {
+    "name": "Baboo Rajendra Dhoke",
+    "age": "62",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11847800,
+    "liabilities": 0
+  },
+  {
+    "name": "Bodhsingh Bhagat",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 44244840,
+    "liabilities": 0
+  },
+  {
+    "name": "Glg Tandekar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1927853,
+    "liabilities": 0
+  },
+  {
+    "name": "Jesingh Tekam",
+    "age": "68",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15810660,
+    "liabilities": 850000
+  },
+  {
+    "name": "Kankar",
+    "age": "68",
+    "party": "BSP",
+    "criminal": "6",
+    "education": "Others",
+    "assets": 20550745,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Karan Singh Naagpure",
+    "age": "38",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1137052,
+    "liabilities": 6000
+  },
+  {
+    "name": "Kishor Samrite",
+    "age": "56",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2147000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Kumar",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10237135,
+    "liabilities": 0
+  },
+  {
+    "name": "Makbool Shah",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meershyam Lilhare Lodhi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2495312,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Bansod",
+    "age": "38",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 205500,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Banjare",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 197000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pitam Borkar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 72000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajan Masih",
+    "age": "62",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2114621,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 672000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ruplal Kutrahe (Samaj Sevak ) Lodhi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 228405,
+    "liabilities": 50000
+  },
+  {
+    "name": "Shatish Kumar",
+    "age": "39",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2117000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shrimati Manisha Vaid",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12880000,
+    "liabilities": 5470000
+  },
+  {
+    "name": "Yuvraj Singh Bais",
+    "age": "65",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 785600,
+    "liabilities": 5000
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Ganesh Singh",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 41719076,
+    "liabilities": 0
+  },
+  {
+    "name": "Acche Lal Kushawaha",
+    "age": "63",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 24846270,
+    "liabilities": 746000
+  },
+  {
+    "name": "Ashok Vishwakarma",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 722500,
+    "liabilities": 0
+  },
+  {
+    "name": "Babu Lal",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 86500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Suresh Tripathi",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16638328,
+    "liabilities": 900000
+  },
+  {
+    "name": "Mahendra Singh",
+    "age": "69",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5200226,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mahesh Sahu \"Pappu\"",
+    "age": "52",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4057018,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoraj Dwivedi",
+    "age": "41",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4755000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo. Jibrail",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2523000,
+    "liabilities": 0
+  },
+  {
+    "name": "Munni Kranti",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2619000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nand Kishore",
+    "age": "40",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasir Khan",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 31300,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajaram Tripathi",
+    "age": "66",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 150375545,
+    "liabilities": 18844623
+  },
+  {
+    "name": "Rajendra Tripathi",
+    "age": "52",
+    "party": "Bharatiya Jan Morcha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 129500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Nivas Sen",
+    "age": "58",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 612715,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Vishwash Pal",
+    "age": "52",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1382000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkushal Kewat",
+    "age": "42",
+    "party": "Bhartiya Manav Samaj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3114765,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Kumar Tiwari",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashank Singh Baghel",
+    "age": "26",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 233985,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Prasad Pandey",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3112401,
+    "liabilities": 63000
+  },
+  {
+    "name": "Vipin Singh Tiwari",
+    "age": "35",
+    "party": "Smart Indians Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 378000,
+    "liabilities": 0
+  }
+]

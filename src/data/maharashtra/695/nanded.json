@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Chikhalikar Pratap Govindrao",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52178606,
+    "liabilities": 594000
+  },
+  {
+    "name": "Abdul Rais Ahmed Abdul Jabbar",
+    "age": "51",
+    "party": "Ambedkar National Congress",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Samad",
+    "age": "62",
+    "party": "SP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6351722,
+    "liabilities": 6110332
+  },
+  {
+    "name": "Ashok Shankarrao Chavan",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1304000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Ashokrao Shankarrao Chavan",
+    "age": "60",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 500037964,
+    "liabilities": 48525290
+  },
+  {
+    "name": "Bhinge Yashpal Narsinghrao",
+    "age": "42",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 8817999,
+    "liabilities": 2050000
+  },
+  {
+    "name": "Kadam Shrirang Uttomrao",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2241500,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhavrao Sambhaji Gaikwad",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1320045,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Prakashrao Talegaonkar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12279837,
+    "liabilities": 4640370
+  },
+  {
+    "name": "Manish Dattatray Wadje",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 650500000,
+    "liabilities": 27200000
+  },
+  {
+    "name": "Mohan Anandrao Waghmare",
+    "age": "36",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjit Gangadharrao Deshmukh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivanand Ashokrao Deshmukh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13137,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Manohar Sonsale",
+    "age": "37",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 120000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Vijay Kumar Singh",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Doctorate",
+    "assets": 56545702,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Sharma",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4775000,
+    "liabilities": 341233
+  },
+  {
+    "name": "Ashok Sharma",
+    "age": "62",
+    "party": "Subhashwadi Bhartiya Samajwadi Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11721492,
+    "liabilities": 0
+  },
+  {
+    "name": "Divya Yog Maya Saraswati",
+    "age": "51",
+    "party": "Rashtriya Bharatiya Jan Jan Party",
+    "criminal": "2",
+    "education": "Illiterate",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dolly Sharma",
+    "age": "34",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21001366,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Lal",
+    "age": "60",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19023713,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Salim Ahmed",
+    "age": "50",
+    "party": "Sabse Achchhi Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3252000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nagendra Kumar",
+    "age": "50",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4392354,
+    "liabilities": 785000
+  },
+  {
+    "name": "Rakesh Suri",
+    "age": "42",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 157942,
+    "liabilities": 0
+  },
+  {
+    "name": "Sewa Ram Kasana",
+    "age": "56",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "5",
+    "education": "10th Pass",
+    "assets": 98576712,
+    "liabilities": 1203000
+  },
+  {
+    "name": "Sunil Nair",
+    "age": "38",
+    "party": "Rashtriya Lok Sarvadhikar Party",
+    "criminal": "3",
+    "education": "Illiterate",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Bansal",
+    "age": "76",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 138522059,
+    "liabilities": 17300000
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Kunwar Pushpendra Singh",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 167159924,
+    "liabilities": 35502582
+  },
+  {
+    "name": "Dilip Singh",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 161787422,
+    "liabilities": 22026230
+  },
+  {
+    "name": "Kamlesh Kumar",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2715000,
+    "liabilities": 675695
+  },
+  {
+    "name": "Kamta Prasad",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6826000,
+    "liabilities": 34000
+  },
+  {
+    "name": "Kedarnath",
+    "age": "64",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 23400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhuraj",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pritam Singh",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 28424501,
+    "liabilities": 15460966
+  },
+  {
+    "name": "Rajesh",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2205400,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Gopal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 931130,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar Sahu",
+    "age": "43",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 123746239,
+    "liabilities": 12041195
+  },
+  {
+    "name": "Sarju Lal",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4447262,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Chandra",
+    "age": "39",
+    "party": "Rashtriya Kranti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10022000,
+    "liabilities": 265000
+  }
+]

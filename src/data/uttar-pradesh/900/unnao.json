@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Swami Sachchidanand Hari Sakshi",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Doctorate",
+    "assets": 40886941,
+    "liabilities": 699025
+  },
+  {
+    "name": "Annu Tandon",
+    "age": "61",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 816046184,
+    "liabilities": 96675048
+  },
+  {
+    "name": "Arun Shanker Shukla",
+    "age": "61",
+    "party": "SP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 458367272,
+    "liabilities": 2074764
+  },
+  {
+    "name": "Chedi Lal",
+    "age": "58",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 13416835,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Chaurasa",
+    "age": "51",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7597500,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Kumar",
+    "age": "56",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8490514,
+    "liabilities": 360315
+  },
+  {
+    "name": "Satyendra Nath Gaur",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 36132000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Shailesh Kushwaha",
+    "age": "42",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 6362500,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Umar Khan",
+    "age": "29",
+    "party": "Nagrik Ekta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1667584,
+    "liabilities": 0
+  }
+]

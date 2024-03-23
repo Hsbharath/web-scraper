@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Dr Rajkumar Ranjan Singh",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 19616174,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Gurumayum Tonsana Sharma",
+    "age": "69",
+    "party": "Manipur Democratic Peoples Front",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 12452000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Iliyash Khan",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1454800,
+    "liabilities": 0
+  },
+  {
+    "name": "Moirangthem Nara Singh",
+    "age": "69",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3558822,
+    "liabilities": 5589692
+  },
+  {
+    "name": "Moirangthem Totomshana Nongshaba",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1500,
+    "liabilities": 0
+  },
+  {
+    "name": "Oinam Jugindro Singh",
+    "age": "68",
+    "party": "Manipur Peoples Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 2731288,
+    "liabilities": 0
+  },
+  {
+    "name": "Oinam Nabakishore Singh",
+    "age": "59",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 17867003,
+    "liabilities": 1401257
+  },
+  {
+    "name": "R.K. Anand",
+    "age": "59",
+    "party": "North East India Development Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5266941,
+    "liabilities": 2963600
+  },
+  {
+    "name": "Rajkumar Somendro Singh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3002505,
+    "liabilities": 630405
+  },
+  {
+    "name": "Senjam Nandeshwore Singh",
+    "age": "60",
+    "party": "Rashtriya Janhit Sangharsh Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2258269,
+    "liabilities": 0
+  },
+  {
+    "name": "Wahengbam Pobitra Singh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 130022,
+    "liabilities": 52379
+  }
+]

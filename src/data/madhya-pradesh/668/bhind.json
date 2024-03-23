@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Sandhya Ray",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 51108660,
+    "liabilities": 13400000
+  },
+  {
+    "name": "Ashok Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 355000,
+    "liabilities": 0
+  },
+  {
+    "name": "Babu Ram Jamor",
+    "age": "67",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12571690,
+    "liabilities": 540000
+  },
+  {
+    "name": "Brikhbhan Dohare",
+    "age": "26",
+    "party": "All Indians Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 177000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devashish",
+    "age": "28",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 746723,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharm Singh Bhargav",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2459000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dileep Kumar Dohare (Advocat)",
+    "age": "31",
+    "party": "Ambedkarite Party of India",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 645100,
+    "liabilities": 0
+  },
+  {
+    "name": "Harkisor Kori",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Singh",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 265000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishori Lal Shakya",
+    "age": "67",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4808000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Chhilwar",
+    "age": "45",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 423175,
+    "liabilities": 0
+  },
+  {
+    "name": "Manohar Lal Patwa (Lalu Kori)",
+    "age": "30",
+    "party": "Jan Adhikar Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 763000,
+    "liabilities": 0
+  },
+  {
+    "name": "Omprakash Shakya",
+    "age": "51",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2112000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Jatav",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramnaresh Jatav",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 451164,
+    "liabilities": 0
+  },
+  {
+    "name": "Roop Singh",
+    "age": "41",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1726000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Garg",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2388000,
+    "liabilities": 77000
+  },
+  {
+    "name": "Vijay Singh Patwa",
+    "age": "39",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2404200,
+    "liabilities": 60000
+  }
+]

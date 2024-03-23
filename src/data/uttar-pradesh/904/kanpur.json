@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Satyadev Pachauri",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 132382819,
+    "liabilities": 31052190
+  },
+  {
+    "name": "Alok Kumar",
+    "age": "38",
+    "party": "Sabhi Jan Party",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 402178,
+    "liabilities": 0
+  },
+  {
+    "name": "Balbir Singh Chandel",
+    "age": "68",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 666367383,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Bhan Sankhwar",
+    "age": "56",
+    "party": "Rashtriya Janmat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 301109,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilshad Ahmed",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 558566,
+    "liabilities": 397848
+  },
+  {
+    "name": "Javed Mohammad Khan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 500000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukti Yadav",
+    "age": "29",
+    "party": "Bharatiya Rashtriya Morcha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Poonam Shukla",
+    "age": "32",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1771655,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Gopal Uttam",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32955000,
+    "liabilities": 110000
+  },
+  {
+    "name": "Ram Kumar",
+    "age": "61",
+    "party": "SP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 198048000,
+    "liabilities": 610000
+  },
+  {
+    "name": "Rina",
+    "age": "31",
+    "party": "Saaf Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 143460,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivam Kushwaha",
+    "age": "27",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 284407,
+    "liabilities": 200000
+  },
+  {
+    "name": "Sriprakash Jaiswal",
+    "age": "74",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 78641628,
+    "liabilities": 0
+  },
+  {
+    "name": "Triveni Narayan Jaiswal",
+    "age": "47",
+    "party": "Adhunik Bharat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2895507,
+    "liabilities": 190000
+  }
+]

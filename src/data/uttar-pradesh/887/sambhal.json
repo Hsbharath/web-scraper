@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Shafiqur Rehman Barq",
+    "age": "86",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13296671,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhoj Raj",
+    "age": "63",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6245326,
+    "liabilities": 0
+  },
+  {
+    "name": "Firoz Khan",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 588000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hasan Raza",
+    "age": "45",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 418000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ilyas",
+    "age": "45",
+    "party": "Bhartiya Hind Fauj",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3476532,
+    "liabilities": 0
+  },
+  {
+    "name": "Karan Singh",
+    "age": "61",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 58417903,
+    "liabilities": 0
+  },
+  {
+    "name": "Major Jagat Pal Singh",
+    "age": "78",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27137444,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Masroor",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 120000,
+    "liabilities": 185000
+  },
+  {
+    "name": "Parameshvar Lal",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 110088877,
+    "liabilities": 4943218
+  },
+  {
+    "name": "Ram Chandra",
+    "age": "27",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 25100,
+    "liabilities": 0
+  },
+  {
+    "name": "Shahla Wajid",
+    "age": "42",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Virendra Kumar",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14776311,
+    "liabilities": 10000
+  }
+]

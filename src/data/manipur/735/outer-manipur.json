@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lorho S. Pfoze",
+    "age": "59",
+    "party": "NPF",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13709352,
+    "liabilities": 0
+  },
+  {
+    "name": "Angam Karung Kom",
+    "age": "63",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 470000,
+    "liabilities": 1460000
+  },
+  {
+    "name": "Ashang Kasar",
+    "age": "43",
+    "party": "North East India Development Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13563720,
+    "liabilities": 0
+  },
+  {
+    "name": "Hangkhanpau Taithul",
+    "age": "55",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3601000,
+    "liabilities": 1516567
+  },
+  {
+    "name": "Houlim Shokhopao Mate",
+    "age": "36",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16891558,
+    "liabilities": 0
+  },
+  {
+    "name": "K. James",
+    "age": "56",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 129198371,
+    "liabilities": 21839605
+  },
+  {
+    "name": "Leikhan Kaipu",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 56020,
+    "liabilities": 0
+  },
+  {
+    "name": "Thangminlien Kipgen",
+    "age": "64",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6663739,
+    "liabilities": 575332
+  }
+]

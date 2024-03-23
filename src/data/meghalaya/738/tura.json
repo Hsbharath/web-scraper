@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Agatha K. Sangma",
+    "age": "38",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29406813,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Mukul Sangma",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 136735735,
+    "liabilities": 3408159
+  },
+  {
+    "name": "Rikman Garrey Momin",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1025030,
+    "liabilities": 0
+  }
+]

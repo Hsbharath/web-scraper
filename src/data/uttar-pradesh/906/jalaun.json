@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Bhanu Pratap Singh",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 10699516,
+    "liabilities": 12265
+  },
+  {
+    "name": "Ajay Singh",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 19137271,
+    "liabilities": 661326
+  },
+  {
+    "name": "Brajlal Khabri",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35424896,
+    "liabilities": 4343988
+  },
+  {
+    "name": "Ram Singh",
+    "age": "51",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 588000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shravan Kumar Pal",
+    "age": "55",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 33942093,
+    "liabilities": 1500000
+  }
+]

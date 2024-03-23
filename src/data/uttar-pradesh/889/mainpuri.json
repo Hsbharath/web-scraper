@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Mulayam Singh Yadav",
+    "age": "79",
+    "party": "SP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 205604593,
+    "liabilities": 22055657
+  },
+  {
+    "name": "Chakrapan5",
+    "age": "32",
+    "party": "Jan Adesh Akshuni Sena",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4391000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hariram Shakya",
+    "age": "81",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12816866,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuldeep Kumar",
+    "age": "27",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 282000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ombeer Lodhi",
+    "age": "0",
+    "party": "Jan Seva Sahayak Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7090100,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Singh Shakya",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 26146972,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajat Kumar",
+    "age": "28",
+    "party": "Bhartiya Jan Nayak Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 2240815,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Singh Katar",
+    "age": "43",
+    "party": "Bhartiya Navodaya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1800000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Singh Yadav",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1182079,
+    "liabilities": 0
+  },
+  {
+    "name": "Savendra Singh",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 28523500,
+    "liabilities": 65000
+  },
+  {
+    "name": "Shyam Singh",
+    "age": "44",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 152465,
+    "liabilities": 0
+  },
+  {
+    "name": "Tej Pratap Singh Jatav",
+    "age": "55",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1675200,
+    "liabilities": 0
+  }
+]

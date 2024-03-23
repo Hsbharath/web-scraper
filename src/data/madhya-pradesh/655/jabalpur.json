@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Rakesh Singh",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 43134351,
+    "liabilities": 1387000
+  },
+  {
+    "name": "Amjad Khan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 217338,
+    "liabilities": 500000
+  },
+  {
+    "name": "Ashok Singh Lodhi",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2540000,
+    "liabilities": 320772
+  },
+  {
+    "name": "Bhushan Prasad Shukla",
+    "age": "57",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7252767,
+    "liabilities": 550000
+  },
+  {
+    "name": "Chandra Prakash Bhatnagar",
+    "age": "56",
+    "party": "AARAKSHAN VIRODHI PARTY",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2270519,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Kumar Yadav",
+    "age": "35",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 340000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Dhanuk",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10300,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Dhai Akshar (Rakesh Sonkar)",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1425000,
+    "liabilities": 114423
+  },
+  {
+    "name": "Er. Rupram Singh",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4048500,
+    "liabilities": 150000
+  },
+  {
+    "name": "Gulab Singh @ Vivek",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 171000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuldeep Ahirwar",
+    "age": "44",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 255500,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakshminarayan Jagnnath Singh Lodhi",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1510000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahu Singh",
+    "age": "43",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Singh S/O Baljor Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Singh S/O Nathuram",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 58000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdayal Prajapat",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 171100,
+    "liabilities": 300000
+  },
+  {
+    "name": "Ramraj Ram",
+    "age": "78",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 520000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shahnaz B Ansari",
+    "age": "42",
+    "party": "Smart Indians Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shree Lal Markam(Bade Shri)",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1002000,
+    "liabilities": 160000
+  },
+  {
+    "name": "Sukhdev Dahiya",
+    "age": "56",
+    "party": "Bhartiya Jan Sampark Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75151,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar Jain \"Vinnu Bhaiya\"",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 20000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vivek Krishna Tankha",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 669118888,
+    "liabilities": 11015354
+  }
+]

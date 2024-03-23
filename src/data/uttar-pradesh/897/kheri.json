@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Ajay Kumar",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 45295455,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Kumar Dixit",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1772410,
+    "liabilities": 0
+  },
+  {
+    "name": "Asif Khan",
+    "age": "40",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7690000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandana Gupta",
+    "age": "37",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 17000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Kumar Yadav",
+    "age": "45",
+    "party": "Lok Jan Sangharsh Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2053200,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 234977,
+    "liabilities": 0
+  },
+  {
+    "name": "Moh. Mumtaz Raza",
+    "age": "39",
+    "party": "Rashtriya Janwadi Party (Socialist)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 81700,
+    "liabilities": 0
+  },
+  {
+    "name": "Paro Kinnar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2000040,
+    "liabilities": 0
+  },
+  {
+    "name": "Purvi Verma",
+    "age": "29",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1579411,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Jeevan",
+    "age": "35",
+    "party": "Bahujan Awam Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 814329,
+    "liabilities": 0
+  },
+  {
+    "name": "Shri Krishna",
+    "age": "34",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2253000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shrikrishna Kumar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1239500,
+    "liabilities": 0
+  },
+  {
+    "name": "Vipnesh Shukla",
+    "age": "68",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9470000,
+    "liabilities": 0
+  },
+  {
+    "name": "Zafar Ali Naqvi",
+    "age": "71",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8936547,
+    "liabilities": 1061456
+  }
+]

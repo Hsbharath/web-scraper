@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-family: 'Crimson Pro', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+button {
+  font-size: 21px;
+  font-family: 'Crimson Pro', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: 100%;
+  max-width: 1200px;
+  overflow: auto;
+}
+
+.my {
+  margin: 15px 0px;
+}
+
+/* Your existing styles */
+.sidenav {
+  position: relative;
+  width: 25%;
+  height: 100vh;
+  padding: 20px;
+}
+
+.content {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 25%;
+  height: 100vh;
+  padding: 20px;
+  background-color: #f1f1f1;
+  overflow-y: auto;
+}
+
+.country {
+  width: 75%;
+  padding: 20px 0;
+}
+
+.state {
+  width: 100%;
+}
+
+.constituency {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.state-btn {
+  width: 100%;
+  background-color: #f0f0f0;
+  border: none;
+  padding: 10px;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+
+.constituency-list a {
+  display: block;
+  padding: 5px 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #333;
+}
+
+.active .constituency-list {
+  display: block;
+}
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+  .country {
+    width: 75%;
+    background-color: #63c97180;
+    color: #fff;
+  }
+}
+
+/* For Tablet View */
+@media screen and (min-device-width: 640px) and (max-device-width: 1024px) {
+  .country {
+    width: 75%;
+    background-color: orange;
+    color: black;
+  }
+}
+
+/* For Mobile Phones Portrait or Landscape View */
+@media screen and (max-device-width: 640px) {
+  .sidenav {
+    display: none;
+  }
+  .country {
+    width: 100%;
+    background-color: chartreuse;
+    color: black;
+  }
+}

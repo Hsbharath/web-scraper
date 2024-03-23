@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Narendra Singh Tomar",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 23062224,
+    "liabilities": 6689767
+  },
+  {
+    "name": "Ashok Rajoriya",
+    "age": "46",
+    "party": "Vishva SHakti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5441500,
+    "liabilities": 0
+  },
+  {
+    "name": "Bajuddeen Baj",
+    "age": "80",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 2058044,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhante Sangh Ratan",
+    "age": "48",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhara Singh",
+    "age": "42",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1335000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dheeraj Singh Mavai",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8086908,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Randhir Singh Ruhal",
+    "age": "61",
+    "party": "Rashtra Nirman Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 40845696,
+    "liabilities": 670033
+  },
+  {
+    "name": "Kartar Singh Bhadana",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "8th Pass",
+    "assets": 441032899,
+    "liabilities": 11599732
+  },
+  {
+    "name": "Laxmi Baghel",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3800923,
+    "liabilities": 0
+  },
+  {
+    "name": "Mehabub Khan",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2347615,
+    "liabilities": 0
+  },
+  {
+    "name": "Munna",
+    "age": "55",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 4135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Singh",
+    "age": "33",
+    "party": "Republican Party of India (Reformist)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 321450,
+    "liabilities": 0
+  },
+  {
+    "name": "Patiram Shakya",
+    "age": "43",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1821000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Pawan Kumar Goyal",
+    "age": "44",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 14474150,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhu Singh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 351000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Singh Bhadoria",
+    "age": "26",
+    "party": "Akhand Rashtrawadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7846051,
+    "liabilities": 78000
+  },
+  {
+    "name": "Rajveer",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6916034,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramlakhan Meena",
+    "age": "28",
+    "party": "Rashtriya Krantikari Samajwadi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4600000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Ramniwas Rawat",
+    "age": "59",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 44669161,
+    "liabilities": 1052042
+  },
+  {
+    "name": "Sanju Sharma",
+    "age": "34",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 778405,
+    "liabilities": 0
+  },
+  {
+    "name": "Sonu Agrwal",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 261851,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumit Mishra",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tejpal Singh Rawat",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3607000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tofeek Khan",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1829400,
+    "liabilities": 0
+  },
+  {
+    "name": "Vivek",
+    "age": "27",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1019055,
+    "liabilities": 0
+  }
+]

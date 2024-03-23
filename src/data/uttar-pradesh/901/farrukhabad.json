@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mukesh Rajput",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 74964501,
+    "liabilities": 388246
+  },
+  {
+    "name": "Luxman",
+    "age": "58",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 2512801,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Agarwal",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 547843588,
+    "liabilities": 174106490
+  },
+  {
+    "name": "Rahul Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 613256,
+    "liabilities": 0
+  },
+  {
+    "name": "Salman Khurshid",
+    "age": "66",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 384280845,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7689598,
+    "liabilities": 2492188
+  },
+  {
+    "name": "Shree Krishan",
+    "age": "56",
+    "party": "Mazdoor Dalit Kisaan Mahila Gareeb Party (Hin",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 23595341,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Pal Singh",
+    "age": "42",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "10",
+    "education": "Graduate",
+    "assets": 12175857,
+    "liabilities": 320000
+  },
+  {
+    "name": "Vipin Kumar Mishra",
+    "age": "30",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2242420,
+    "liabilities": 415000
+  }
+]

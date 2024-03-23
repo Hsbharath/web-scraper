@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rajvir Diler",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14930000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhupendra Kumar",
+    "age": "31",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3222056,
+    "liabilities": 821000
+  },
+  {
+    "name": "Dinesh Sai",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 564824,
+    "liabilities": 0
+  },
+  {
+    "name": "Harswaroop",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5078000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajaram",
+    "age": "65",
+    "party": "Lok Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 794348,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramji Lal Suman",
+    "age": "68",
+    "party": "SP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 20654961,
+    "liabilities": 0
+  },
+  {
+    "name": "Tilak Singh",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2622200,
+    "liabilities": 0
+  },
+  {
+    "name": "Triloki Ram",
+    "age": "71",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 118225490,
+    "liabilities": 9510364
+  }
+]

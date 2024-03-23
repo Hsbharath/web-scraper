@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Ram Shiromani",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19108216,
+    "liabilities": 350000
+  },
+  {
+    "name": "Arjun",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 148940,
+    "liabilities": 0
+  },
+  {
+    "name": "Balmukund",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 315398,
+    "liabilities": 94873
+  },
+  {
+    "name": "Daddan Mishra",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 28788083,
+    "liabilities": 155755
+  },
+  {
+    "name": "Dhirendra Pratap Singh",
+    "age": "54",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Post Graduate",
+    "assets": 110455296,
+    "liabilities": 1671408
+  },
+  {
+    "name": "Hanoman Prassad Mishra",
+    "age": "40",
+    "party": "Kisan Mazdoor Sangharsh Party",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 86000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nabban Khan",
+    "age": "63",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2395000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajwant Singh",
+    "age": "47",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 7600000,
+    "liabilities": 300600
+  },
+  {
+    "name": "Ram Kumar Pandey",
+    "age": "36",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5898888,
+    "liabilities": 0
+  },
+  {
+    "name": "Ugrasen Singh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4262224,
+    "liabilities": 0
+  }
+]

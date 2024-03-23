@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Amit Tripathi",
+    "age": "33",
+    "party": "Adhunik Bharat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5961861,
+    "liabilities": 3650000
+  },
+  {
+    "name": "Arun Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 352000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Paswan",
+    "age": "42",
+    "party": "Sabhi Jan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19041563,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Singh Yadav",
+    "age": "60",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 63553139,
+    "liabilities": 450000
+  },
+  {
+    "name": "Manoj Gupta",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 51872,
+    "liabilities": 0
+  },
+  {
+    "name": "Neeraj Kumar Pasi Advocate",
+    "age": "36",
+    "party": "Justice Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4050471,
+    "liabilities": 0
+  },
+  {
+    "name": "Nisha",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 134448979,
+    "liabilities": 13619617
+  },
+  {
+    "name": "Rajaram Pal",
+    "age": "58",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 19097262,
+    "liabilities": 8600000
+  },
+  {
+    "name": "Ramgopal",
+    "age": "61",
+    "party": "Rashtriya Janutthan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2858000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saurabh Mishra",
+    "age": "26",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 406427,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "46",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1183000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikas Tripathi",
+    "age": "40",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1141980,
+    "liabilities": 0
+  }
+]

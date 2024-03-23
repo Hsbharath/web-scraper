@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Afzal Ansari",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 137938756,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajit Pratap Kushawaha",
+    "age": "46",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 15733302,
+    "liabilities": 6807639
+  },
+  {
+    "name": "Bhanu Prakash Pandey",
+    "age": "57",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 23624984,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharat",
+    "age": "49",
+    "party": "Janta Raj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10215600,
+    "liabilities": 150000
+  },
+  {
+    "name": "Brijendra Kumar Verma",
+    "age": "35",
+    "party": "Kisan Mazdoor Sangharsh Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2513400,
+    "liabilities": 500000
+  },
+  {
+    "name": "Dr. Rajesh Kumar Singh",
+    "age": "47",
+    "party": "Bhartiya Jan Nayak Party",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 11440702,
+    "liabilities": 0
+  },
+  {
+    "name": "Hridaya Narayan",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 43019165,
+    "liabilities": 292165
+  },
+  {
+    "name": "Ishwari Prasad Kushwaha",
+    "age": "58",
+    "party": "CPI(ML)(L)",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 6620093,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Sinha",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 45285263,
+    "liabilities": 6116500
+  },
+  {
+    "name": "Rajesh Kumar Yadav",
+    "age": "36",
+    "party": "Pragatisheel Manav Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 20778237,
+    "liabilities": 600000
+  },
+  {
+    "name": "Ram Pravesh",
+    "age": "34",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5831000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramji",
+    "age": "59",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18257859,
+    "liabilities": 307100
+  },
+  {
+    "name": "Santosh Kumar Yadav",
+    "age": "38",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5868106,
+    "liabilities": 0
+  },
+  {
+    "name": "Ved Prakash",
+    "age": "43",
+    "party": "Nationalist Janshakti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1090000,
+    "liabilities": 0
+  }
+]

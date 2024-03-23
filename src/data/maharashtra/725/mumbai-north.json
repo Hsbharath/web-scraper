@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Gopal Chinnaya Shetty",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "9",
+    "education": "5th Pass",
+    "assets": 157535232,
+    "liabilities": 21136135
+  },
+  {
+    "name": "Akhtar Shaikh",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6053152,
+    "liabilities": 340000
+  },
+  {
+    "name": "Amol Ashokrao Jadhav",
+    "age": "30",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 186600,
+    "liabilities": 400000
+  },
+  {
+    "name": "Andrew John Fernandes",
+    "age": "58",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14471000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ankushrao Shivajirao Patil",
+    "age": "51",
+    "party": "Rashtriya Maratha Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3685000,
+    "liabilities": 175000
+  },
+  {
+    "name": "Bhagvatidan Karnidan Gadhavi",
+    "age": "74",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 13800830,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhannu Sahadewrao Sontakkey",
+    "age": "57",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4322444,
+    "liabilities": 1813248
+  },
+  {
+    "name": "Dr. Raies Khan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 26614900,
+    "liabilities": 0
+  },
+  {
+    "name": "Fateh Mohammad Mansoori Shaikh",
+    "age": "64",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 25642574,
+    "liabilities": 0
+  },
+  {
+    "name": "Manojkumar Jayprakash Singh",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21685000,
+    "liabilities": 20708842
+  },
+  {
+    "name": "Milind Shankar Repe",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 20900183,
+    "liabilities": 7170000
+  },
+  {
+    "name": "Mohammad Azad Ansari",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1750000,
+    "liabilities": 2420000
+  },
+  {
+    "name": "Pawan Kumar Pandey",
+    "age": "44",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 55543198,
+    "liabilities": 1196000
+  },
+  {
+    "name": "Ranjit Bajrangi Tiwari",
+    "age": "43",
+    "party": "Naitik Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Samaysingh Anand Chanda Liya",
+    "age": "52",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1085384,
+    "liabilities": 70000
+  },
+  {
+    "name": "Sunil Uttamrao Thorat",
+    "age": "48",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 890000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Urmila Shrikant Matondkar",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 689063226,
+    "liabilities": 1894201
+  },
+  {
+    "name": "Vilas Hiwale",
+    "age": "44",
+    "party": "Marxist Leninist Party of India (Red Flag)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 201000,
+    "liabilities": 100000
+  }
+]

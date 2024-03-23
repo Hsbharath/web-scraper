@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Prataprao Ganpatrao Jadhav",
+    "age": "58",
+    "party": "SHS",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 116272966,
+    "liabilities": 735482
+  },
+  {
+    "name": "A. Hafeez A. Aziz",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1166769,
+    "liabilities": 700000
+  },
+  {
+    "name": "Ananta Datta Puri",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1699000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Baliram Bhagwan Siraskar",
+    "age": "57",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 43855736,
+    "liabilities": 1730992
+  },
+  {
+    "name": "Dinkar Tukaram Sambare",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31962000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Rajendra Bhaskarrav Shingne",
+    "age": "58",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 95350365,
+    "liabilities": 21940000
+  },
+  {
+    "name": "Gajanan Uttam Shantabai",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2192924,
+    "liabilities": 113902
+  },
+  {
+    "name": "Pratap Pandharinath Patil",
+    "age": "50",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4996000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Banwarilal Masani",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1127000,
+    "liabilities": 3245000
+  },
+  {
+    "name": "Vikas Prakash Nandve",
+    "age": "27",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Wamanrao Ganpatrao Akhare",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3525622,
+    "liabilities": 0
+  }
+]

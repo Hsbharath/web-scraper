@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Shyam Singh Yadav",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 140717620,
+    "liabilities": 3577000
+  },
+  {
+    "name": "Ajay Kumar Sharma",
+    "age": "41",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2329000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil",
+    "age": "43",
+    "party": "Hum Sabki Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2630000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 109283237,
+    "liabilities": 0
+  },
+  {
+    "name": "Brijesh Kumar",
+    "age": "29",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1981152,
+    "liabilities": 0
+  },
+  {
+    "name": "Com. Ashok Kumar Kharwar",
+    "age": "60",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2297800,
+    "liabilities": 0
+  },
+  {
+    "name": "Deo Vrat Mishra",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 510960626,
+    "liabilities": 12512381
+  },
+  {
+    "name": "Krishna Pratap Singh",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 113972361,
+    "liabilities": 1751674
+  },
+  {
+    "name": "Madhavendra Pushkar Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9232000,
+    "liabilities": 0
+  },
+  {
+    "name": "Motiuddin",
+    "age": "35",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Navin",
+    "age": "30",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1021950,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar Pandey",
+    "age": "32",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 1868488,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "43",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4402470,
+    "liabilities": 0
+  },
+  {
+    "name": "Rukamani Devi",
+    "age": "63",
+    "party": "Pragatisheel Manav Samaj Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 612000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sangeeta Devi",
+    "age": "44",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheshmani Maurya",
+    "age": "39",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 496747,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyamlal",
+    "age": "32",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3055000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "33",
+    "party": "Rashtriya Jan Gaurav Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "32",
+    "party": "Andaman & Nicobar Janta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4009970,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishok Kumar Vishwakarma",
+    "age": "47",
+    "party": "Nationalist Janshakti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 857517,
+    "liabilities": 0
+  }
+]

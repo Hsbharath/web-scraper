@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Sujay Radhakrishna Vikhe",
+    "age": "37",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 168664576,
+    "liabilities": 2623964
+  },
+  {
+    "name": "Appasaheb Navnath Palve",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 130000,
+    "liabilities": 115000
+  },
+  {
+    "name": "Bhaskar Fakira Patole",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 290540,
+    "liabilities": 0
+  },
+  {
+    "name": "Dattatraya Appa Waghmode",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5319100,
+    "liabilities": 180000
+  },
+  {
+    "name": "Dhiraj Motilal Batade",
+    "age": "31",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 22000,
+    "liabilities": 0
+  },
+  {
+    "name": "Farukh Ismail Shaikh",
+    "age": "36",
+    "party": "Bharatiya Praja Surajya Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1792478,
+    "liabilities": 560000
+  },
+  {
+    "name": "Kaliram Bahiru Popalghat",
+    "age": "67",
+    "party": "Bhartiya Navjawan Sena (Paksha)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 58000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamal Dashrath Sawant",
+    "age": "61",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 21164925,
+    "liabilities": 1504720
+  },
+  {
+    "name": "Ramnath Gahininath Golhar",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 66085000,
+    "liabilities": 28000000
+  },
+  {
+    "name": "Sainath Bhausaheb Ghorpade",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 4580000,
+    "liabilities": 2450000
+  },
+  {
+    "name": "Sandip Laxman Sakat",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 24600,
+    "liabilities": 0
+  },
+  {
+    "name": "Sangram Arunkaka Jagtap",
+    "age": "34",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 94488381,
+    "liabilities": 32549132
+  },
+  {
+    "name": "Sanjay Dagdu Sawant",
+    "age": "25",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjiv Baban Bhor",
+    "age": "44",
+    "party": "IND",
+    "criminal": "10",
+    "education": "Others",
+    "assets": 10811146,
+    "liabilities": 3222409
+  },
+  {
+    "name": "Shaikh Abid Mohammad Hanif",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 337684,
+    "liabilities": 804254
+  },
+  {
+    "name": "Shridhar Jakhuji Darekar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17083133,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhakar Laxman Avhad",
+    "age": "62",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13949000,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Supekar Dnyandeo Narhari",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1598872,
+    "liabilities": 0
+  },
+  {
+    "name": "Wakale Namdeo Arjun",
+    "age": "51",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 180749234,
+    "liabilities": 250000
+  }
+]

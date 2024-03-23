@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Vinod Kumar Sonkar",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 59336113,
+    "liabilities": 20730086
+  },
+  {
+    "name": "Bachacha Lal",
+    "age": "41",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 81500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chheddu",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 26000,
+    "liabilities": 0
+  },
+  {
+    "name": "Girish Chandra",
+    "age": "52",
+    "party": "INC",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 48145467,
+    "liabilities": 22510000
+  },
+  {
+    "name": "Indrajeet Saroj",
+    "age": "57",
+    "party": "SP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 110999555,
+    "liabilities": 20623099
+  },
+  {
+    "name": "Mishri Lal",
+    "age": "30",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 448500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 956000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Rajdev",
+    "age": "63",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12459352,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Sumer",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7141194,
+    "liabilities": 109000
+  },
+  {
+    "name": "Shailendra Kumar Pasi",
+    "age": "61",
+    "party": "Jansatta Dal Loktantrik",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 38557366,
+    "liabilities": 3268327
+  },
+  {
+    "name": "Shailendra Kumar S/O Gayadeen",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1940866,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailendra Kumar S/O Shiv Prashad",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 985000,
+    "liabilities": 0
+  }
+]

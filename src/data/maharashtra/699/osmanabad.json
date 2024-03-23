@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+    "age": "35",
+    "party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 50299295,
+    "liabilities": 10045858
+  },
+  {
+    "name": "Annasaheb Ramchandra Rathod",
+    "age": "50",
+    "party": "Bhartiya Bahujan Kranti Dal",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 1382000,
+    "liabilities": 170
+  },
+  {
+    "name": "Arjun (Dada) Salgar",
+    "age": "39",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 45000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Aryanraje Kisanrao Shinde",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Mahadev Tate",
+    "age": "36",
+    "party": "Bhapase Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1278500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Shivaji Pandharinath Oman",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9190000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Dr.Vasant Raghunath Munde",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4136000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gore Netaji Nagnathrao",
+    "age": "62",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 33532000,
+    "liabilities": 4400000
+  },
+  {
+    "name": "Jagannath Nivrutti Munde",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 16924103,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Phulsure Vishwanth Sadashiv",
+    "age": "67",
+    "party": "Kranti Kari Jai Hind Sena",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6030156,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranajagjitsinha Padmasinh Patil",
+    "age": "47",
+    "party": "NCP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 412022397,
+    "liabilities": 101327317
+  },
+  {
+    "name": "Sayyad Sultan Ladkhan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 282000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Pandurang Gaikwad",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4919328,
+    "liabilities": 0
+  },
+  {
+    "name": "Tukaram Dasrao Gangawane",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3050000,
+    "liabilities": 530000
+  }
+]

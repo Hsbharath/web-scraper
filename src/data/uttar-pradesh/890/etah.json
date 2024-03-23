@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Rajveer Singh",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 383629735,
+    "liabilities": 100220000
+  },
+  {
+    "name": "Anand Prakash Singh Rajput",
+    "age": "54",
+    "party": "Rashtriya Backward Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7723000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anuj Kumar",
+    "age": "34",
+    "party": "Subhashwadi Bhartiya Samajwadi Party (Subhas",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 94000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "55",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 12720000,
+    "liabilities": 0
+  },
+  {
+    "name": "Atar Singh",
+    "age": "59",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7891600,
+    "liabilities": 445000
+  },
+  {
+    "name": "Bharat Singh",
+    "age": "58",
+    "party": "Rashtriya Kranti Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1550000,
+    "liabilities": 190000
+  },
+  {
+    "name": "Hariom",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2670854,
+    "liabilities": 3108762
+  },
+  {
+    "name": "Indrapal",
+    "age": "56",
+    "party": "Rashtriya Surya Prakash Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1102500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ku. Devendra Singh Yadav",
+    "age": "70",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2046415655,
+    "liabilities": 53156203
+  },
+  {
+    "name": "Naresh Chandra",
+    "age": "44",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3743729,
+    "liabilities": 2701468
+  },
+  {
+    "name": "Parvati Nandan",
+    "age": "53",
+    "party": "Rashtriya Bharatiya Jan Jan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7020269,
+    "liabilities": 0
+  },
+  {
+    "name": "Rashmi Yadav",
+    "age": "45",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 8398348,
+    "liabilities": 506000
+  },
+  {
+    "name": "Satendra Kumar Panda",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 20993298,
+    "liabilities": 3218593
+  },
+  {
+    "name": "Suraj Singh",
+    "age": "77",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13594065,
+    "liabilities": 103328
+  }
+]

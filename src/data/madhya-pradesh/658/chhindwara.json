@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Nakul Nath",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6601946757,
+    "liabilities": 8791712
+  },
+  {
+    "name": "Dhaniram Yaduwanshi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2637000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Singh Uikey",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 131000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gyaneshwar Gajbhiye",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3361876,
+    "liabilities": 0
+  },
+  {
+    "name": "Hemendra Gohar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 46000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jogilal Irpachi",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30230000,
+    "liabilities": 0
+  },
+  {
+    "name": "M. P. Vishwakarma",
+    "age": "69",
+    "party": "Rashtriya Aamjan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 32217000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Manmohan Shah Batti",
+    "age": "56",
+    "party": "Akhil Bhartiya Gondwana Party",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 6264000,
+    "liabilities": 2075000
+  },
+  {
+    "name": "Nathanshah Kawret",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9006200,
+    "liabilities": 236000
+  },
+  {
+    "name": "Rajesh Tantrik",
+    "age": "48",
+    "party": "Ahinsa Samaj Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 26662500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Rajkumar Saryam",
+    "age": "40",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 833000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdas Uikey",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9872654,
+    "liabilities": 294000
+  },
+  {
+    "name": "Rameshwar Dhurve",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Shukla",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 459000,
+    "liabilities": 0
+  }
+]

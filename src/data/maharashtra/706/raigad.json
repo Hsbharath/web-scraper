@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Tatkare Sunil Dattatray",
+    "age": "64",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 127487277,
+    "liabilities": 3221073
+  },
+  {
+    "name": "Anant Gangaram Geete",
+    "age": "67",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 54422110,
+    "liabilities": 21341268
+  },
+  {
+    "name": "Avinash Vasant Patil",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gajendra Parshuram Turbadkar",
+    "age": "50",
+    "party": "Kranti Kari Jai Hind Sena",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 91698,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ghag Sanjay Arjun",
+    "age": "47",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 21864480,
+    "liabilities": 3550000
+  },
+  {
+    "name": "Madhukar Mahadev Khamkar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1938900,
+    "liabilities": 0
+  },
+  {
+    "name": "Milind Bhaguram Salvi",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 3960000,
+    "liabilities": 0
+  },
+  {
+    "name": "Munafar Jainubhidin Choudhary",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1095000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Nathuram Bhaguram Hate",
+    "age": "58",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9146178,
+    "liabilities": 840000
+  },
+  {
+    "name": "Prakash Sakharam Kalke",
+    "age": "34",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3785816,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Janardan Patil",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2862500,
+    "liabilities": 0
+  },
+  {
+    "name": "Suman Bhaskar Koli",
+    "age": "61",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 11042707,
+    "liabilities": 519330
+  },
+  {
+    "name": "Sunil Pandurang Tatkare",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100909,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Sakharam Tatkare",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1032988,
+    "liabilities": 266000
+  },
+  {
+    "name": "Yogesh Kadam",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 36900,
+    "liabilities": 0
+  }
+]

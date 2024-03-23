@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rajbahadur Singh",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 16416828,
+    "liabilities": 547428
+  },
+  {
+    "name": "Devendra Jain",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4799000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Kamal Kumar Khatik",
+    "age": "63",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2203000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanchedilal Kushwaha",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4036384,
+    "liabilities": 80000
+  },
+  {
+    "name": "Mahendra Singh Patel \"Barual\"",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Moh. Khurram Qureshi",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14465000,
+    "liabilities": 494340
+  },
+  {
+    "name": "Prabhu Singh Thakur",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 116106237,
+    "liabilities": 869967
+  },
+  {
+    "name": "Rajkumar Yadav",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4225000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Ramnaresh Tiwari",
+    "age": "34",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 158000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar Sen",
+    "age": "39",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1775711,
+    "liabilities": 160000
+  }
+]

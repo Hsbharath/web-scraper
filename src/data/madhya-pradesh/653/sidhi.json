@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Riti Pathak",
+    "age": "41",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 51541791,
+    "liabilities": 505922
+  },
+  {
+    "name": "Ajay Arjun Singh",
+    "age": "63",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 375482525,
+    "liabilities": 4000000
+  },
+  {
+    "name": "Anup Kumar Singh",
+    "age": "41",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2835000,
+    "liabilities": 2042700
+  },
+  {
+    "name": "Ashish Kumar Singh Chauhan",
+    "age": "35",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 65000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmendra Singh Baghel",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11771500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dileep",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Fatte Bahadur Singh Markam",
+    "age": "63",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6173351,
+    "liabilities": 280000
+  },
+  {
+    "name": "Gyani Jaiswal",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1026900,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1823,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalta",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 100500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmala Prajapati",
+    "age": "45",
+    "party": "Akhil Bhartiya Gondwana Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 8419799,
+    "liabilities": 55000
+  },
+  {
+    "name": "Rakesh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10128000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Das",
+    "age": "65",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7283000,
+    "liabilities": 365000
+  },
+  {
+    "name": "Ram Kripal Basor",
+    "age": "41",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 220250,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Lal Panika",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30814000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Rahees Kol",
+    "age": "40",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 97500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramadhar",
+    "age": "58",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 447600,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramawatar Vishwakarma",
+    "age": "63",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 2080600,
+    "liabilities": 550000
+  },
+  {
+    "name": "Ramkumar Jaysval",
+    "age": "82",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 47282,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramraj",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13737000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramsahay",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 6134,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar Namdeo",
+    "age": "42",
+    "party": "CPI",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 1176000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyam Lal",
+    "age": "47",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10268000,
+    "liabilities": 300000
+  }
+]

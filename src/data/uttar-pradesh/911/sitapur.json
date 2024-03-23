@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Rajesh Verma",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 73129716,
+    "liabilities": 108148
+  },
+  {
+    "name": "Anil Singh",
+    "age": "30",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3762806,
+    "liabilities": 0
+  },
+  {
+    "name": "Geeta Devi",
+    "age": "39",
+    "party": "Bahujan Awam Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Kumar",
+    "age": "48",
+    "party": "Awami Samta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nakul Dubey",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 34286356,
+    "liabilities": 0
+  },
+  {
+    "name": "Pyare Lal Bhargav",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2935267,
+    "liabilities": 0
+  },
+  {
+    "name": "Qaiser Jahan",
+    "age": "45",
+    "party": "INC",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 12560808,
+    "liabilities": 4284514
+  },
+  {
+    "name": "Saiyyad Abbu Bakr",
+    "age": "29",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 259879,
+    "liabilities": 0
+  },
+  {
+    "name": "Shuchita Kumar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 10156000,
+    "liabilities": 0
+  },
+  {
+    "name": "Turab Ali",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 917200,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Kumar Mishra",
+    "age": "52",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 1773960000,
+    "liabilities": 100000000
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5408000,
+    "liabilities": 0
+  }
+]

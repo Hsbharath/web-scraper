@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Subhash Ramrao Bhamre",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 158651112,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Anil Anna",
+    "age": "70",
+    "party": "Loksangram",
+    "criminal": "8",
+    "education": "10th Pass",
+    "assets": 33766982,
+    "liabilities": 28126960
+  },
+  {
+    "name": "Anil Ramdas Jadhav",
+    "age": "25",
+    "party": "Baliraja Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 117000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhamre Subhash Shankar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2751000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Dhiraj Prakash Choradiya",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1380636,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Bhaidas Patil",
+    "age": "48",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1579000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Punamchand Koli",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipak Khandu Amrutkar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3950446,
+    "liabilities": 0
+  },
+  {
+    "name": "Dnyaneshwar Baliram Dhekale",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1290000,
+    "liabilities": 550000
+  },
+  {
+    "name": "Iqbal Ahamad Mohammed Rafiq",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 257166,
+    "liabilities": 0
+  },
+  {
+    "name": "Irfan Mo Isahak",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 475000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kasmi Kamal Hashim Mohammad Aajmi",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 53556808,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunal Rohidas Patil",
+    "age": "45",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 420966036,
+    "liabilities": 585784500
+  },
+  {
+    "name": "Meraj Bi Husain Khan",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 730000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mevati Heena Yusufbhai",
+    "age": "45",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo. Ismail Ansari",
+    "age": "57",
+    "party": "Bharatiya Minorities Suraksha Mahasangh",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1737205,
+    "liabilities": 25000
+  },
+  {
+    "name": "Mohammed Rizwan Mohammed Akbar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Literate",
+    "assets": 2972522,
+    "liabilities": 0
+  },
+  {
+    "name": "Nabi Ahamad Ahmadulla",
+    "age": "46",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 117652383,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandkumar Jagannath Chavhan",
+    "age": "48",
+    "party": "Rashtriya Jansena Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1429000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasim Khan Rauf Khan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 390000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitin Baburao Khare",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pandharinath Chaitram More",
+    "age": "36",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2071000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pinjari Jainuddin Husain",
+    "age": "38",
+    "party": "Bahujan Maha Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 778020,
+    "liabilities": 380000
+  },
+  {
+    "name": "Salim Kasam Pinjari",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6025000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Yashwant Aparanti",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29990502,
+    "liabilities": 0
+  },
+  {
+    "name": "Sitaram Bhaga Wagh",
+    "age": "47",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1230000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Tadvi Ayyub Khan Razzaque Khan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2700000,
+    "liabilities": 80000
+  },
+  {
+    "name": "Taher Sattar Khatik",
+    "age": "49",
+    "party": "Rashtriya Maratha Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 67252185,
+    "liabilities": 200000
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kamlesh Paswan",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 171706883,
+    "liabilities": 6049264
+  },
+  {
+    "name": "Lalchand Prasad",
+    "age": "49",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1294635,
+    "liabilities": 0
+  },
+  {
+    "name": "Sadal Prasad",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8702160,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Prasad",
+    "age": "33",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  }
+]

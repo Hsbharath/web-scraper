@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sangam Lal Gupta",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 248789514,
+    "liabilities": 8895225
+  },
+  {
+    "name": "Akshay Pratap Singh Alias Gopal Ji",
+    "age": "51",
+    "party": "Jansatta Dal Loktantrik",
+    "criminal": "4",
+    "education": "8th Pass",
+    "assets": 156138084,
+    "liabilities": 46218245
+  },
+  {
+    "name": "Ashok Tripathi",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 3746721,
+    "liabilities": 7260000
+  },
+  {
+    "name": "Dr. B. L. Verma",
+    "age": "56",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 65197958,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Rajkumari Ratna Singh",
+    "age": "57",
+    "party": "INC",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 362051733,
+    "liabilities": 1008000
+  },
+  {
+    "name": "Ram Bahadur Sharma",
+    "age": "69",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2051985,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheshnath",
+    "age": "65",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3575808,
+    "liabilities": 0
+  }
+]

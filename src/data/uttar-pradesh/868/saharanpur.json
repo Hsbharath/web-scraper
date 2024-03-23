@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Haji Fazlur Rehman",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 46146135,
+    "liabilities": 60000
+  },
+  {
+    "name": "Amar Bahadur",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7722000,
+    "liabilities": 885528
+  },
+  {
+    "name": "Brijpal Singh",
+    "age": "44",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1221393,
+    "liabilities": 238684
+  },
+  {
+    "name": "Imran Masood",
+    "age": "48",
+    "party": "INC",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 50597337,
+    "liabilities": 0
+  },
+  {
+    "name": "Indu Devi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3058900,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Uvais",
+    "age": "54",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2816921,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Kumar",
+    "age": "50",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 53400,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghav Lakhanpal",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 47543994,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Kumar",
+    "age": "36",
+    "party": "Inqalab Vikas Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2907000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shabnam",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1061500,
+    "liabilities": 0
+  },
+  {
+    "name": "Yogesh Dahiya",
+    "age": "50",
+    "party": "AAP",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 149541616,
+    "liabilities": 1141161
+  }
+]

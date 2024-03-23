@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Unmesh Bhaiyyasaheb Patil",
+    "age": "41",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 12324604,
+    "liabilities": 2529954
+  },
+  {
+    "name": "Anant Prabhakar Mahajan",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1062696,
+    "liabilities": 0
+  },
+  {
+    "name": "Anjali Ratnakar Baviskar",
+    "age": "50",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20388746,
+    "liabilities": 3665000
+  },
+  {
+    "name": "Gulabrao Baburao Deokar",
+    "age": "63",
+    "party": "NCP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 50652517,
+    "liabilities": 8552661
+  },
+  {
+    "name": "Ishwar Dayaram More",
+    "age": "54",
+    "party": "Bahujan Mukti Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 8625000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Lalit Gaurishankar Sharma (Bunty)",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2322463,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Shankar Birhade",
+    "age": "53",
+    "party": "Rashtriya Samajwadi Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Rajesh Kuril",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 571087,
+    "liabilities": 38984
+  },
+  {
+    "name": "Onkaraba Chensing Jadhav",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 143000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rahul Narayan Bansode",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sancheti Rupesh Parasmal",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 892000,
+    "liabilities": 30000
+  },
+  {
+    "name": "Sant Shri Mahahansaji Maharaj Patil",
+    "age": "43",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 1102452,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharad Gorakh Bhamre (Sutar)",
+    "age": "32",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1500,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Shivlal Khairnar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2020000,
+    "liabilities": 0
+  }
+]

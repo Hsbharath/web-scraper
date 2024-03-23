@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Dr. Shrikant Eknath Shinde",
+    "age": "32",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 19616515,
+    "liabilities": 1241233
+  },
+  {
+    "name": "Ajayshyam Ramlakhan Maurya",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7411000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amrish Raj Morajkar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 377489,
+    "liabilities": 100000
+  },
+  {
+    "name": "Asmita Pushkar Puranik",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 25496500,
+    "liabilities": 0
+  },
+  {
+    "name": "Babaji Balaram Patil",
+    "age": "52",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 421863127,
+    "liabilities": 3587200
+  },
+  {
+    "name": "Chandrakant Mote",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11406293,
+    "liabilities": 3242933
+  },
+  {
+    "name": "Dinkar Rangnath Palake",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 577500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Suresh Abhiman Gawai",
+    "age": "50",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12092643,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Gautam Baburao Waghchaure",
+    "age": "56",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Habibur Rehaman Obbadur Khan",
+    "age": "59",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5887500,
+    "liabilities": 0
+  },
+  {
+    "name": "Haresh Sambhaji Bramhane",
+    "age": "43",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 61800,
+    "liabilities": 0
+  },
+  {
+    "name": "Jafarullah Gulam Rab Sayyad",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7033568,
+    "liabilities": 1115180
+  },
+  {
+    "name": "Milind Kashinath Kamble",
+    "age": "35",
+    "party": "Bharat Jan Aadhar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2892431,
+    "liabilities": 474321
+  },
+  {
+    "name": "Mohd. Yusuf Mohd. Farook Khan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 279000,
+    "liabilities": 0
+  },
+  {
+    "name": "Munir Ahmad Ansari",
+    "age": "45",
+    "party": "IUML",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 3459800,
+    "liabilities": 0
+  },
+  {
+    "name": "Nafis Ahamad Ansari",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 863000,
+    "liabilities": 218304
+  },
+  {
+    "name": "Narendra Vaman More",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Abhimanyu Kene",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 8999137,
+    "liabilities": 905000
+  },
+  {
+    "name": "Sanjay Ramrao Hedaoo",
+    "age": "54",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 260000,
+    "liabilities": 814407
+  },
+  {
+    "name": "Santosh Bhikaji Bhalerao",
+    "age": "41",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15031500,
+    "liabilities": 2222000
+  },
+  {
+    "name": "Shiva Krishnamurthy Iyer",
+    "age": "57",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 21800000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sonali Ashok Gangavane",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 572515,
+    "liabilities": 0
+  },
+  {
+    "name": "Suhas Dhananjay Bonde",
+    "age": "47",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 72595476,
+    "liabilities": 2767246
+  },
+  {
+    "name": "Vasim Ali Nazir Ali Sayyed",
+    "age": "40",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 1928182,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Dubey",
+    "age": "33",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 2214355,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Manohar Salve",
+    "age": "45",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 17997,
+    "liabilities": 0
+  },
+  {
+    "name": "Yasmin Banoo Mohammed Salim",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11516326,
+    "liabilities": 0
+  }
+]

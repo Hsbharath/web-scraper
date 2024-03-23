@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Rita Bahuguna Joshi",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "Doctorate",
+    "assets": 26919330,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Abhimanyu Singh Patel",
+    "age": "43",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6819643,
+    "liabilities": 24672
+  },
+  {
+    "name": "Ajay Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 22346181,
+    "liabilities": 1958107
+  },
+  {
+    "name": "Ajeet Kumar Patel",
+    "age": "31",
+    "party": "Pragatisheel Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1881200,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhawani Singh",
+    "age": "46",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2678730,
+    "liabilities": 0
+  },
+  {
+    "name": "Gayatri Prasad",
+    "age": "0",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18227000,
+    "liabilities": 104000
+  },
+  {
+    "name": "Girdhar Gopal Tripathi",
+    "age": "77",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 31397972,
+    "liabilities": 308458
+  },
+  {
+    "name": "Om Guru Charandas",
+    "age": "49",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 246707,
+    "liabilities": 0
+  },
+  {
+    "name": "Rabindra Kumar Srivastava",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 434127,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Singh Patel",
+    "age": "63",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 292681002,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Pal",
+    "age": "47",
+    "party": "Parivartan Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3238000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Shiv Dutt Shukla",
+    "age": "49",
+    "party": "Annadata Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 460000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Prasad",
+    "age": "63",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 39331787,
+    "liabilities": 1562481
+  },
+  {
+    "name": "Yogesh Shukla",
+    "age": "49",
+    "party": "INC",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 4200199,
+    "liabilities": 0
+  }
+]

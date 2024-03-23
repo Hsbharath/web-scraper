@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Sanjay Sadashivrao Mandlik",
+    "age": "54",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 95171892,
+    "liabilities": 10580414
+  },
+  {
+    "name": "Aruna Mohan Mali",
+    "age": "37",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 964227,
+    "liabilities": 0
+  },
+  {
+    "name": "Bajirao Sadashiv Naik",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 570000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Dayanand Maruti Kamble",
+    "age": "47",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 470836,
+    "liabilities": 1235700
+  },
+  {
+    "name": "Dhananjay Mahadik",
+    "age": "47",
+    "party": "NCP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 663140000,
+    "liabilities": 135455000
+  },
+  {
+    "name": "Dundappa Kundappa Shrikant Sir",
+    "age": "68",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1232317,
+    "liabilities": 250000
+  },
+  {
+    "name": "Kisan Keraba Katkar",
+    "age": "64",
+    "party": "Baliraja Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6976481,
+    "liabilities": 0
+  },
+  {
+    "name": "Mane Arvind Bhiva",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 862900,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Mulla Mushtak Ajij",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 99500,
+    "liabilities": 40000
+  },
+  {
+    "name": "Paresh Dattatray Bhosale",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 206000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Balaso Koli (Galatage)",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 114000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Bhairavnath Kogale",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3774357,
+    "liabilities": 109000
+  },
+  {
+    "name": "Sandeep Gundopant Sankpal",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 875000,
+    "liabilities": 535000
+  },
+  {
+    "name": "Siddharth Abaso Nagaratna",
+    "age": "49",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3250200,
+    "liabilities": 0
+  },
+  {
+    "name": "Yuvraj Bhimrao Desai",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2835000,
+    "liabilities": 3100000
+  }
+]

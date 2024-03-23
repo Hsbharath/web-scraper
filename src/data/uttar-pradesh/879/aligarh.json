@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Satish Kumar Gautam",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 109522559,
+    "liabilities": 28095176
+  },
+  {
+    "name": "Ajeet Kumar",
+    "age": "51",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 281852783,
+    "liabilities": 0
+  },
+  {
+    "name": "Amar Singh Mahaur",
+    "age": "52",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2044500,
+    "liabilities": 474336
+  },
+  {
+    "name": "Ashok Kumar Pandey",
+    "age": "35",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 1092000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijendra Singh",
+    "age": "62",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 12863000,
+    "liabilities": 4273034
+  },
+  {
+    "name": "Charan Singh",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Chaudhary",
+    "age": "30",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 31718690,
+    "liabilities": 0
+  },
+  {
+    "name": "Dileep Sharma",
+    "age": "36",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 461000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Shakeel (Adv.)",
+    "age": "46",
+    "party": "Lok Dal",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 1696000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Balmiki",
+    "age": "35",
+    "party": "Bhartiya Bhaichara Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2421000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Chandra Sharma",
+    "age": "48",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 102266526,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaheen",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2167000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakur Manoj Singh",
+    "age": "41",
+    "party": "Rashtravadi Party (Bharat)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6050000,
+    "liabilities": 400000
+  }
+]

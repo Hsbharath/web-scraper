@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Supriya Sadanand Sule",
+    "age": "49",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1408888704,
+    "liabilities": 5500000
+  },
+  {
+    "name": "Adv.Girish Madan Patil",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Alankruta Abhijeet Awade-Bichukale",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 442102,
+    "liabilities": 0
+  },
+  {
+    "name": "Dashrath Nana Raut",
+    "age": "58",
+    "party": "Bharatiya Praja Surajya Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 815000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Shantaram Watvisave",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 51484500,
+    "liabilities": 2690000
+  },
+  {
+    "name": "Dr. Balasaheb Arjun Pol",
+    "age": "47",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 204055,
+    "liabilities": 283000
+  },
+  {
+    "name": "Hemant Baburao Kolekar Patil",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 50595000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Kanchan Rahul Kul",
+    "age": "34",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 47572790,
+    "liabilities": 2250279
+  },
+  {
+    "name": "Mangesh Nilkanth Vanshiv",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5775000,
+    "liabilities": 0
+  },
+  {
+    "name": "Padalkar Navanath Vishnu",
+    "age": "43",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4980257,
+    "liabilities": 3700190
+  },
+  {
+    "name": "Sanjay Shinde",
+    "age": "38",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35722,
+    "liabilities": 15000
+  },
+  {
+    "name": "Savita Bhimrao Kadale",
+    "age": "35",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivaji Rambhau Nandkhile",
+    "age": "54",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Illiterate",
+    "assets": 23790000,
+    "liabilities": 1740000
+  },
+  {
+    "name": "Suresh Baburao Veer",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3694590,
+    "liabilities": 138000
+  },
+  {
+    "name": "Ulhas Mugut Chormale",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3914944,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijaynath Ramchandra Chandere",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3732391,
+    "liabilities": 105775
+  },
+  {
+    "name": "Vishvanath Sitaram Gargade",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 161600,
+    "liabilities": 75000
+  },
+  {
+    "name": "Yuvraj Prakash Bhujbal",
+    "age": "33",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 617200,
+    "liabilities": 0
+  }
+]

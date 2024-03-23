@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Sadhvi Pragya Singh Thakur",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 444224,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Tahir Ansari",
+    "age": "45",
+    "party": "Swarnim Bharat Inquilab",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5137000,
+    "liabilities": 1868000
+  },
+  {
+    "name": "Alok Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29090700,
+    "liabilities": 2700000
+  },
+  {
+    "name": "Bal Ram Singh Tomar",
+    "age": "30",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 141845,
+    "liabilities": 249550
+  },
+  {
+    "name": "Bhaurao Vithoba Fulzele",
+    "age": "59",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5265000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ca Pramod Bhojwani",
+    "age": "47",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7136000,
+    "liabilities": 3200000
+  },
+  {
+    "name": "Deshmukh Riyazuddin Ghayasuddin",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 975150,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Prakash Mishra",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 55053500,
+    "liabilities": 0
+  },
+  {
+    "name": "Digvijaya Singh",
+    "age": "71",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Graduate Professional",
+    "assets": 380727853,
+    "liabilities": 13972396
+  },
+  {
+    "name": "Dr. Veena Ghanekar Rtd. Ias",
+    "age": "63",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 50730000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam Nagdavane",
+    "age": "51",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2107000,
+    "liabilities": 250000
+  },
+  {
+    "name": "J.C. Barai",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5542223,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamlesh Dangi Thakur",
+    "age": "39",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 19894936,
+    "liabilities": 267000
+  },
+  {
+    "name": "Kamlesh Namdev",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lata Suryawanshi",
+    "age": "27",
+    "party": "Samta Vikas Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madho Singh Ahirwar",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1256186,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Katiyar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 847999,
+    "liabilities": 375000
+  },
+  {
+    "name": "Mahendra Kumar",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6417048,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Iqbal Khan",
+    "age": "35",
+    "party": "Smart Indians Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 61700,
+    "liabilities": 0
+  },
+  {
+    "name": "Moh. Ateek",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 131000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar Gupta",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26958499,
+    "liabilities": 9862082
+  },
+  {
+    "name": "Piyush Jain",
+    "age": "30",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1240726,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabha Bharti",
+    "age": "46",
+    "party": "Jai Lok Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 405600,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Singh Thakur",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 187000,
+    "liabilities": 0
+  },
+  {
+    "name": "Priyanka Khare",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 227239,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Shakya (Kori)",
+    "age": "49",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21500,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Keer",
+    "age": "51",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 770809,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramsushil Sharma",
+    "age": "46",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14726000,
+    "liabilities": 1950000
+  },
+  {
+    "name": "Shrimati Hemlata Pathak",
+    "age": "38",
+    "party": "Sarvadharam Party (Madhya Pradesh)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2775500,
+    "liabilities": 505000
+  },
+  {
+    "name": "Sunil Kumar Dodeja",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 194341,
+    "liabilities": 0
+  }
+]

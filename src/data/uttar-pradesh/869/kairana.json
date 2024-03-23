@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Pradeep Kumar",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 17292937,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Harendra Singh Malik",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 57266147,
+    "liabilities": 5082884
+  },
+  {
+    "name": "Harish Kumar",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 9882500,
+    "liabilities": 0
+  },
+  {
+    "name": "Imran",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2075500,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar",
+    "age": "46",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1657200,
+    "liabilities": 250000
+  },
+  {
+    "name": "Mohd Gufran Kazmi",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31239500,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Saleem",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 10644799,
+    "liabilities": 300000
+  },
+  {
+    "name": "Mukesh Devi",
+    "age": "41",
+    "party": "Mahasankalp Janta Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rekha",
+    "age": "0",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 13315000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Sheshraj",
+    "age": "69",
+    "party": "Bharatrashtra Democratic Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 57933786,
+    "liabilities": 0
+  },
+  {
+    "name": "Shripal Singh",
+    "age": "46",
+    "party": "Sarvjan Lok Shakti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1444000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tabassum Begum",
+    "age": "48",
+    "party": "SP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21404646,
+    "liabilities": 1193748
+  },
+  {
+    "name": "Yogesh Kumar",
+    "age": "45",
+    "party": "Rashtriya Mazdoor Ekta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3100500,
+    "liabilities": 0
+  }
+]

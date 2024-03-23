@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bharti Pawar",
+    "age": "40",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 122885349,
+    "liabilities": 1449572
+  },
+  {
+    "name": "Ashok Jadhav",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3123759,
+    "liabilities": 1477024
+  },
+  {
+    "name": "Bapu Kelu Barde",
+    "age": "53",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3360369,
+    "liabilities": 220000
+  },
+  {
+    "name": "Dadasaheb Pawar",
+    "age": "30",
+    "party": "Rashtriya Maratha Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 103000,
+    "liabilities": 104500
+  },
+  {
+    "name": "Dattu Barde",
+    "age": "54",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 224000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanraj Mahale",
+    "age": "44",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 11989452,
+    "liabilities": 12518538
+  },
+  {
+    "name": "Gavit Jiva",
+    "age": "70",
+    "party": "CPI(M)",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 22228892,
+    "liabilities": 683365
+  },
+  {
+    "name": "Tikaram Bagul",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29971003,
+    "liabilities": 0
+  }
+]

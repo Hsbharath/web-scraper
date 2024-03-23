@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Bhavana Pundlikrao Gawali",
+    "age": "46",
+    "party": "SHS",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 96873189,
+    "liabilities": 7396250
+  },
+  {
+    "name": "Anil Jayram Rathod",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4890000,
+    "liabilities": 1020000
+  },
+  {
+    "name": "Ankit Mohan Chandak",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 29963000,
+    "liabilities": 580000
+  },
+  {
+    "name": "Dr. Rajiv Agrawal",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8762000,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Naresh Mahadev Ghughane",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 725000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Noorali Maheboob Ali Shah",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parashram Bhaosing Ade",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 187301769,
+    "liabilities": 417919
+  },
+  {
+    "name": "Pawar Ramesh Gorsing",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 40000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Pravin Govind Pawar",
+    "age": "37",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 46866958,
+    "liabilities": 65847040
+  },
+  {
+    "name": "Premasai Maharaj",
+    "age": "28",
+    "party": "IND",
+    "criminal": "6",
+    "education": "5th Pass",
+    "assets": 4900000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pundlik Baliram Rathod",
+    "age": "47",
+    "party": "Sanman Rajkiya Paksha",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14113000,
+    "liabilities": 750000
+  },
+  {
+    "name": "Purushottam Domaji Bhajghaware",
+    "age": "58",
+    "party": "Rashtriya Bahujan Congress Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Bhauraoji Raut",
+    "age": "41",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 210000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Ramrao Sawai Pawar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4810000,
+    "liabilities": 275000
+  },
+  {
+    "name": "Ravi Sampatrao Jadhao",
+    "age": "73",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5390000,
+    "liabilities": 0
+  },
+  {
+    "name": "Salim Shah Suleman Shah",
+    "age": "49",
+    "party": "IND",
+    "criminal": "6",
+    "education": "Literate",
+    "assets": 1010000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sameer Arunrao Deshpande",
+    "age": "87",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 264000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Shahejad Samiullah Khan",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 185000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaikh Javed Shaikh Mushtaq",
+    "age": "43",
+    "party": "IND",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 11422000,
+    "liabilities": 0
+  },
+  {
+    "name": "Simpal Rajkumar Rathod",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 913631,
+    "liabilities": 235000
+  },
+  {
+    "name": "Thakre Manikrao Govindrao",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30303524,
+    "liabilities": 1292750
+  },
+  {
+    "name": "Uttam Bhagaji Kamble",
+    "age": "51",
+    "party": "Prabuddha Republican Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaishali Sudhakar Yede",
+    "age": "28",
+    "party": "Prahar Janshakti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1168500,
+    "liabilities": 9000
+  }
+]

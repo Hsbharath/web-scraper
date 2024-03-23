@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Akshayabar Lal",
+    "age": "73",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 45691463,
+    "liabilities": 3028133
+  },
+  {
+    "name": "Gur Prasad",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1521000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Jagdish Kumar Singh",
+    "age": "53",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 440581,
+    "liabilities": 200000
+  },
+  {
+    "name": "Janardan Gond",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5035964,
+    "liabilities": 0
+  },
+  {
+    "name": "Mojilal",
+    "age": "44",
+    "party": "Rashtriya Janadhikar Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 886000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Sagar",
+    "age": "47",
+    "party": "Rashtriya Kranti Party",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1446000,
+    "liabilities": 175000
+  },
+  {
+    "name": "Rinku Sahani",
+    "age": "25",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Savitri Bai Phoole",
+    "age": "38",
+    "party": "INC",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 3046772,
+    "liabilities": 0
+  },
+  {
+    "name": "Shabbir Balmiki",
+    "age": "60",
+    "party": "SP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 11162030,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivnandan",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4610000,
+    "liabilities": 0
+  }
+]

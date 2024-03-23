@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ashok Mahadevrao Nete",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50136369,
+    "liabilities": 15682840
+  },
+  {
+    "name": "Deorao Monba Nannaware",
+    "age": "59",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4892338,
+    "liabilities": 550000
+  },
+  {
+    "name": "Harichandra Nagoji Mangam",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5010301,
+    "liabilities": 0
+  },
+  {
+    "name": "Namdeo Dalluji Usendi",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16211186,
+    "liabilities": 2153155
+  },
+  {
+    "name": "Rameshkumar Baburaoji Gajbe",
+    "age": "66",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10709012,
+    "liabilities": 600000
+  }
+]

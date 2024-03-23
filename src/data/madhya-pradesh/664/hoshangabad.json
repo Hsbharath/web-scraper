@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Rao Uday Pratap Singh",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 154783105,
+    "liabilities": 9103300
+  },
+  {
+    "name": "Arya Ravi Parihar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 423000,
+    "liabilities": 230000
+  },
+  {
+    "name": "Bhavanishankar",
+    "age": "33",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 2242000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Katare",
+    "age": "32",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30500,
+    "liabilities": 350000
+  },
+  {
+    "name": "M.P. Choudhary",
+    "age": "68",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18320269,
+    "liabilities": 300000
+  },
+  {
+    "name": "Madan Mohan",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3051000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pandit Devendra Sharma",
+    "age": "31",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Uikey",
+    "age": "43",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 214500,
+    "liabilities": 30000
+  },
+  {
+    "name": "Saligram Makodiya",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5223740,
+    "liabilities": 400000
+  },
+  {
+    "name": "Shailendra",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 113546,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailendra Diwan Chandarbhan Singh",
+    "age": "39",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15964904,
+    "liabilities": 1399664
+  }
+]

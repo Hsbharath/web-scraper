@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Pankaj Choudhary",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 371827109,
+    "liabilities": 4483048
+  },
+  {
+    "name": "Akhilesh",
+    "age": "55",
+    "party": "SP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 82263380,
+    "liabilities": 0
+  },
+  {
+    "name": "Amarjeet",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1560000,
+    "liabilities": 0
+  },
+  {
+    "name": "Aneel Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2648000,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Laldhari Yadav",
+    "age": "42",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 127495,
+    "liabilities": 0
+  },
+  {
+    "name": "Manish",
+    "age": "38",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 191717,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Rana",
+    "age": "46",
+    "party": "Bhartiya Kisan Union Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5846000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4090400,
+    "liabilities": 0
+  },
+  {
+    "name": "Pannelal",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1178000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pappu Chauhan",
+    "age": "63",
+    "party": "Satya Kranti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 774009,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 985543,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Charan",
+    "age": "30",
+    "party": "Jai Hind Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumit",
+    "age": "31",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2195000,
+    "liabilities": 0
+  },
+  {
+    "name": "Supriya Shrinate",
+    "age": "41",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 85042997,
+    "liabilities": 7395000
+  }
+]

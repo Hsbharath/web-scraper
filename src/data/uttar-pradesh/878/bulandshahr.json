@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Bhola Singh",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 18728861,
+    "liabilities": 0
+  },
+  {
+    "name": "Banshi Singh",
+    "age": "58",
+    "party": "INC",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 13324200,
+    "liabilities": 360000
+  },
+  {
+    "name": "Manoj Kumar Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1456186,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar",
+    "age": "49",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11102000,
+    "liabilities": 0
+  },
+  {
+    "name": "Radhika Devi",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 18337750,
+    "liabilities": 8830049
+  },
+  {
+    "name": "Reena Devi",
+    "age": "32",
+    "party": "National Bhrashtachar Mukt Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 120000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish",
+    "age": "47",
+    "party": "Bharatiya Bahujan Parivartan Party",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 590000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar",
+    "age": "37",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1365000,
+    "liabilities": 560300
+  },
+  {
+    "name": "Yogesh Verma",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "28",
+    "education": "12th Pass",
+    "assets": 47337130,
+    "liabilities": 8609902
+  }
+]

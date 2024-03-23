@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mahendra Singh Solanky",
+    "age": "35",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3812464,
+    "liabilities": 1832631
+  },
+  {
+    "name": "Badrilal",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7165222,
+    "liabilities": 402000
+  },
+  {
+    "name": "Mahendra Sing",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 180000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitin Verma",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4516808,
+    "liabilities": 460168
+  },
+  {
+    "name": "Prahlad Singh Tipanya",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12898376,
+    "liabilities": 810000
+  },
+  {
+    "name": "Pravin Shantaram Gangurde",
+    "age": "47",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7520097,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sudhakar Tukaram Shrangare",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 286478302,
+    "liabilities": 100250602
+  },
+  {
+    "name": "Arun Ramrao Sontakke",
+    "age": "60",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dattu Prabhakar Karanjikar",
+    "age": "40",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3785000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamant Machindra Gunaji",
+    "age": "59",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 125045318,
+    "liabilities": 19268169
+  },
+  {
+    "name": "Madhukar Sambhaji Kamble",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7178804,
+    "liabilities": 0
+  },
+  {
+    "name": "Papita Raosaheb Randive",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 200000
+  },
+  {
+    "name": "Ramesh Nivrati Kambale",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 6000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramrao Garkar",
+    "age": "59",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14323873,
+    "liabilities": 540000
+  },
+  {
+    "name": "Rupesh Shamrao Shanke",
+    "age": "26",
+    "party": "Swatantra Bharat Paksha",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 260000,
+    "liabilities": 18000
+  },
+  {
+    "name": "Siddharthkumar Digambarrao Suryawanshi",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1875500,
+    "liabilities": 700000
+  }
+]

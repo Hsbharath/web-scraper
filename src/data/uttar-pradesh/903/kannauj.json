@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Subrat Pathak",
+    "age": "39",
+    "party": "BJP",
+    "criminal": "11",
+    "education": "Graduate",
+    "assets": 54287991,
+    "liabilities": 28993930
+  },
+  {
+    "name": "Anand Vikram Singh",
+    "age": "32",
+    "party": "SHS",
+    "criminal": "9",
+    "education": "Graduate",
+    "assets": 2856631,
+    "liabilities": 0
+  },
+  {
+    "name": "Ankit Singh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 375439,
+    "liabilities": 0
+  },
+  {
+    "name": "Dimple Yadav",
+    "age": "41",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 377859166,
+    "liabilities": 2853000
+  },
+  {
+    "name": "Pratyush Pathak",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5952261,
+    "liabilities": 0
+  },
+  {
+    "name": "Rama Devi",
+    "age": "30",
+    "party": "Bhartiya Vanchitsamaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2485200,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjeev Kumar",
+    "age": "35",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 575025,
+    "liabilities": 430000
+  },
+  {
+    "name": "Satya Ram",
+    "age": "54",
+    "party": "Rashtriya Kranti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2536600,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Subhash Chandra",
+    "age": "56",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5076358,
+    "liabilities": 963000
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4886041,
+    "liabilities": 2130000
+  }
+]

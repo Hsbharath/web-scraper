@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Narendra Modi",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 25136119,
+    "liabilities": 0
+  },
+  {
+    "name": "Aashin U. S.",
+    "age": "32",
+    "party": "Indian Gandhiyan Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 326000,
+    "liabilities": 0
+  },
+  {
+    "name": "Advocate Prem Nath Sharma",
+    "age": "57",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3308426,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Rai",
+    "age": "49",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Graduate",
+    "assets": 13970015,
+    "liabilities": 0
+  },
+  {
+    "name": "Amresh Mishra",
+    "age": "53",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2364065,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar Chaurasiya",
+    "age": "37",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7582111,
+    "liabilities": 1172000
+  },
+  {
+    "name": "Ashutosh Kumar Pandey",
+    "age": "38",
+    "party": "Mera Adhikaar Rashtriya Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 136839,
+    "liabilities": 131000
+  },
+  {
+    "name": "Ateek Ahmad",
+    "age": "54",
+    "party": "IND",
+    "criminal": "59",
+    "education": "8th Pass",
+    "assets": 255020529,
+    "liabilities": 0
+  },
+  {
+    "name": "Brijendra Dutt Triptahi",
+    "age": "45",
+    "party": "Adarshwaadi Congress Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 248729,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandrika Prasad",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1184298,
+    "liabilities": 40804
+  },
+  {
+    "name": "Dr. Rakesh Pratap",
+    "age": "62",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 8216000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Dr. Shekh Siraj Baba",
+    "age": "48",
+    "party": "Rashtriya Matadata Party",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 10819000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Hari Bhai Patel",
+    "age": "42",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9159721,
+    "liabilities": 0
+  },
+  {
+    "name": "Heena Shahid",
+    "age": "30",
+    "party": "Janhit Bharat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 585000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ishwar Dayal Singh Seth",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4755715,
+    "liabilities": 0
+  },
+  {
+    "name": "Maanav",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1208683,
+    "liabilities": 628800
+  },
+  {
+    "name": "Manish Shrivastava",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2226400,
+    "liabilities": 88000
+  },
+  {
+    "name": "Manohar Anandrao Patil",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Bharti Surya",
+    "age": "43",
+    "party": "Rashtriya Ambedkar Dal",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 11809000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Ramsharan",
+    "age": "60",
+    "party": "Vikas Insaf Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1924809,
+    "liabilities": 600000
+  },
+  {
+    "name": "Shalini Yadav",
+    "age": "47",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12600000,
+    "liabilities": 788131
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 306430,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunnam Istari",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1330000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Rajbhar",
+    "age": "35",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 11956433,
+    "liabilities": 0
+  },
+  {
+    "name": "Tirbhuwan Sharma",
+    "age": "64",
+    "party": "Bharatiya Rashtravadi Samanta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 53320039,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Chandra Katiyar",
+    "age": "49",
+    "party": "Al-Hind Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13000,
+    "liabilities": 0
+  }
+]

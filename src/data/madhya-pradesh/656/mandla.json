@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Faggan Singh Kulaste",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 26702373,
+    "liabilities": 1000075
+  },
+  {
+    "name": "Advocate-Devsingh Kumre",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2443500,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Ajeet Dhurwey",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 660050,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharat Singh Poosam",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2313900,
+    "liabilities": 294000
+  },
+  {
+    "name": "Chandra Singh Kushram",
+    "age": "39",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2120000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dada Ramgulam Uikey",
+    "age": "49",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15377000,
+    "liabilities": 282000
+  },
+  {
+    "name": "Kamal Singh Maravi",
+    "age": "58",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 3182853,
+    "liabilities": 0
+  },
+  {
+    "name": "Manita Markam",
+    "age": "40",
+    "party": "Smart Indians Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 141600,
+    "liabilities": 0
+  },
+  {
+    "name": "R. S. Paraste (Ramsingh)",
+    "age": "67",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10412000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjeev Kumar Pandram",
+    "age": "51",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1863900,
+    "liabilities": 250000
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Khadse Raksha Nikhil",
+    "age": "31",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 172713734,
+    "liabilities": 0
+  },
+  {
+    "name": "Adakmol Rohidas Ramesh",
+    "age": "41",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 226000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajit Namdar Tadvi",
+    "age": "31",
+    "party": "Rastriya Aam Jan Seva Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "D. D. Wani [Photographer]",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 569000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Dr.Ulhas Vasudeo Patil",
+    "age": "59",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 198503281,
+    "liabilities": 4508413
+  },
+  {
+    "name": "Gaurav Damodar Surwade",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 105000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhukar Sopan Patil",
+    "age": "70",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nazmin Shaikh Ramjan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitin Pralhad Kandelkar",
+    "age": "39",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8901000,
+    "liabilities": 4450000
+  },
+  {
+    "name": "Roshan Aara Sadique Ali",
+    "age": "37",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1626675,
+    "liabilities": 958112
+  },
+  {
+    "name": "Tawar Vijay Jagan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Yogendra Viththal Kolate",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 6440000,
+    "liabilities": 2300000
+  }
+]

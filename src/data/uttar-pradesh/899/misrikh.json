@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ashok Kumar",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48771207,
+    "liabilities": 5735470
+  },
+  {
+    "name": "Akash Niraj",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2717326,
+    "liabilities": 0
+  },
+  {
+    "name": "Arpit",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 821000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Kumari Kori",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 38245559,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Arvind Kumar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Beerendra Kanaujiya",
+    "age": "27",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Neelu Satyarthi",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 39928000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Manjari Rahi",
+    "age": "53",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 54872128,
+    "liabilities": 1350000
+  },
+  {
+    "name": "Nagendra Kumar",
+    "age": "29",
+    "party": "Rashtrawadi Shramjeevi Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rahul Kumar",
+    "age": "27",
+    "party": "Bhartiya Krishak Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 296000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Verma",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1865240,
+    "liabilities": 1090000
+  },
+  {
+    "name": "Rampal",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1826000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shri Pal Verma",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 13653000,
+    "liabilities": 1573717
+  }
+]

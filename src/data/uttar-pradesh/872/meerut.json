@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Rajendra Agarwal",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 13489377,
+    "liabilities": 1990094
+  },
+  {
+    "name": "Afzaal",
+    "age": "48",
+    "party": "Bahujan Maha Party",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 2121000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Arti Agrawal",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 26953422,
+    "liabilities": 922000
+  },
+  {
+    "name": "Dharmendra",
+    "age": "38",
+    "party": "BHARTIYA JANTA DAL",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 972498,
+    "liabilities": 0
+  },
+  {
+    "name": "Haji Mohammad Yaqoob",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "6",
+    "education": "8th Pass",
+    "assets": 89793968,
+    "liabilities": 0
+  },
+  {
+    "name": "Harendra Agarwal",
+    "age": "68",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 115801988,
+    "liabilities": 3686064
+  },
+  {
+    "name": "Kiran R. C. Jatav",
+    "age": "32",
+    "party": "Kartavya Rashtriya Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 758680,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasir Ali Khan",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 11276488,
+    "liabilities": 363223
+  },
+  {
+    "name": "Rajesh Giri",
+    "age": "60",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1095752,
+    "liabilities": 395620
+  },
+  {
+    "name": "Sahansar Pal Singh",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7480634,
+    "liabilities": 1523311
+  },
+  {
+    "name": "Shrawan Kumar Agarwal",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5415000,
+    "liabilities": 0
+  }
+]

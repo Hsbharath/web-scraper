@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Harish Chandra Alias Harish Dwivedi",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 8662344,
+    "liabilities": 322490
+  },
+  {
+    "name": "Bhagwandas",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1815569,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Mani Pandey",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15077000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Dubey",
+    "age": "36",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1538839,
+    "liabilities": 500000
+  },
+  {
+    "name": "Pramod Shukla",
+    "age": "38",
+    "party": "Rashtrawadi Party of India,",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 72000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kishor Singh",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 52812489,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Prasad Chaudhary",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "Others",
+    "assets": 66059943,
+    "liabilities": 1166159
+  },
+  {
+    "name": "Ram Prasad Chaurasiya",
+    "age": "49",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5360601,
+    "liabilities": 0
+  },
+  {
+    "name": "Rangi Lal Yadav",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2121330,
+    "liabilities": 0
+  },
+  {
+    "name": "Rohit Kumar Pathak",
+    "age": "25",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 6291133,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar Rajbhar",
+    "age": "42",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2026650,
+    "liabilities": 0
+  }
+]

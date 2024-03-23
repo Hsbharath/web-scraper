@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Durga Das (D.D.) Uikey",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15413532,
+    "liabilities": 875803
+  },
+  {
+    "name": "Ashok Bhalavi",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 682000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagcharan Warkade",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 368300,
+    "liabilities": 270000
+  },
+  {
+    "name": "Bisram Uikey",
+    "age": "44",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1113900,
+    "liabilities": 0
+  },
+  {
+    "name": "Nimish Sariyam",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 158000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pushpa Dr. Shailendra Pendam",
+    "age": "42",
+    "party": "Akhil Bhartiya Gondwana Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5227000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Pushpa Marskole",
+    "age": "57",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramu Tekam",
+    "age": "31",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 113554,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Kawde",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 607000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Patil Hemant Shriram",
+    "age": "48",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18594458,
+    "liabilities": 1299983
+  },
+  {
+    "name": "Abdul Kadir Mastan Sayyed",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Altaf Ahmed",
+    "age": "48",
+    "party": "IUML",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6726405,
+    "liabilities": 580000
+  },
+  {
+    "name": "Asadkhan Mohammedkhan",
+    "age": "57",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 102000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devji Gangaram Asole",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 128000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Dhanve Datta Maroti",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 33048000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gajanan Haribhau Bhalerao",
+    "age": "36",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2157000,
+    "liabilities": 83321
+  },
+  {
+    "name": "Jaywanta Vishwambhar Wanole",
+    "age": "34",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 1244000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamble Trishala Milind",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2892431,
+    "liabilities": 474321
+  },
+  {
+    "name": "Maqbul Ahmed A.Habib",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Marotrao Kanhobarao Hukke Patil",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2250000,
+    "liabilities": 48000
+  },
+  {
+    "name": "Mohan Fattusing Rathod",
+    "age": "60",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11050000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Patrakar P Sattar Khan Kasim Kha",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Vitthalrao Ghunnar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 10397000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sandesh Ramchandra Chavan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 107000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandip Nikhate",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1155000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Maroti Boinwad",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1309000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Kashiba Wankhede",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Maroti Wankhede",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2221000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Subhash Nagorao Wankhede",
+    "age": "58",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1538900,
+    "liabilities": 100000
+  },
+  {
+    "name": "Subhash Parasram Wankhede",
+    "age": "59",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 101000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Vitthal Wankhede",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2121000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Dashrath Ingole",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 198000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Bhagaji Kamble",
+    "age": "51",
+    "party": "Prabuddha Republican Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Maroti Dhabe",
+    "age": "70",
+    "party": "Akhand Hind Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Varsha Shivajirao Devsarkar",
+    "age": "41",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 20194509,
+    "liabilities": 3991000
+  },
+  {
+    "name": "Wankhede Subhashrao Bapurao",
+    "age": "56",
+    "party": "INC",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 99463540,
+    "liabilities": 8059000
+  },
+  {
+    "name": "Wasant Kisan Paikrao",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 23560000,
+    "liabilities": 260000
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Arvind Sawant",
+    "age": "67",
+    "party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 27181577,
+    "liabilities": 0
+  },
+  {
+    "name": "Abbas Chhatriwala",
+    "age": "43",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5040147,
+    "liabilities": 0
+  },
+  {
+    "name": "Adv. Sahil Shah",
+    "age": "27",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 762030,
+    "liabilities": 0
+  },
+  {
+    "name": "Deora Milind",
+    "age": "43",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 793200422,
+    "liabilities": 49681435
+  },
+  {
+    "name": "Dr. Anil Kumar Choudhari",
+    "age": "68",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 101100914,
+    "liabilities": 992020
+  },
+  {
+    "name": "Hamir Vinjuda",
+    "age": "65",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3524909,
+    "liabilities": 0
+  },
+  {
+    "name": "Irfan Ahmed Shaikh",
+    "age": "65",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 54000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh .B. Dayal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramchandra Kachave",
+    "age": "50",
+    "party": "Kranti Kari Jai Hind Sena",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 3260000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sai Shrivastav",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 966367,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Sonawane",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5820000,
+    "liabilities": 280000
+  },
+  {
+    "name": "Shehbaj Rathod",
+    "age": "48",
+    "party": "Jai Maha Bharath Party",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 15172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kumar Gautam",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2056000,
+    "liabilities": 2152400
+  }
+]

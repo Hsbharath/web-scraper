@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Keshari Devi Patel",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 172707104,
+    "liabilities": 6505194
+  },
+  {
+    "name": "Atul Kumar Dwivedi",
+    "age": "35",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 45209588,
+    "liabilities": 754229
+  },
+  {
+    "name": "Dakkhini Prasad Kushwaha",
+    "age": "68",
+    "party": "Rashtriya Garib Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20723709,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Neeraj",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 40610028,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Ram Lakhan Chaurasiya",
+    "age": "56",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 41000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamla Prasad",
+    "age": "53",
+    "party": "Ambedkar Yug Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4045000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pandhari Yadav",
+    "age": "58",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9986599,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Patel",
+    "age": "38",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 38223599,
+    "liabilities": 0
+  },
+  {
+    "name": "Priya Singh Paul Alias Priyadarshini Gandhi",
+    "age": "50",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18258000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Nath",
+    "age": "81",
+    "party": "Rashtriya Janmat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 678882,
+    "liabilities": 0
+  },
+  {
+    "name": "Rishabh Pandey",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 730000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Sanjeev Kumar Mishra",
+    "age": "41",
+    "party": "Yuva Vikas Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3780483,
+    "liabilities": 500000
+  },
+  {
+    "name": "Shri Chandra Kesarwani",
+    "age": "38",
+    "party": "Baliraja Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4181850,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Maurya",
+    "age": "57",
+    "party": "Pragatisheel Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5364510,
+    "liabilities": 593000
+  }
+]

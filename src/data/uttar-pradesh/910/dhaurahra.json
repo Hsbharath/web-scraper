@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rekha Verma",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 24735488,
+    "liabilities": 7095916
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "48",
+    "party": "Bahujan Awam Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1767409,
+    "liabilities": 0
+  },
+  {
+    "name": "Arshad Iliyas Siddiqui",
+    "age": "63",
+    "party": "BSP",
+    "criminal": "7",
+    "education": "10th Pass",
+    "assets": 524986176,
+    "liabilities": 176677024
+  },
+  {
+    "name": "Baljeet Kaur",
+    "age": "33",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2131000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunwar Jitin Prasada",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 121801005,
+    "liabilities": 0
+  },
+  {
+    "name": "Malkhan Singh Rajpoot",
+    "age": "76",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 11450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar",
+    "age": "59",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 89065,
+    "liabilities": 0
+  },
+  {
+    "name": "Reetu Verma",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 8210000,
+    "liabilities": 0
+  }
+]

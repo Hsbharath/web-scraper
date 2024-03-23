@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Vijay Kumar Dubey",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 21860780,
+    "liabilities": 316847
+  },
+  {
+    "name": "Amiruddin",
+    "age": "42",
+    "party": "Apna Dal United Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6770000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arvind Yadav",
+    "age": "46",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3077500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Ganesh",
+    "age": "41",
+    "party": "Akhil Bhartiya Gondwana Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1590000,
+    "liabilities": 0
+  },
+  {
+    "name": "Guddi Kinnar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 362500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunwer Ratanjit Pratap Narayan Singh",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 295474005,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalita",
+    "age": "36",
+    "party": "Akhil Bhartiya Navnirman Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3012650,
+    "liabilities": 0
+  },
+  {
+    "name": "N.P. Kushwaha Alias Nathuni Prasad Kushwaha",
+    "age": "65",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 37474062,
+    "liabilities": 4000000
+  },
+  {
+    "name": "P.C. Kureel",
+    "age": "62",
+    "party": "Indian National League",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 29582528,
+    "liabilities": 545000
+  },
+  {
+    "name": "Rajiv",
+    "age": "33",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 385000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Pratap",
+    "age": "42",
+    "party": "Purvanchal Mahapanchayat",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3254000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 5200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Singh",
+    "age": "38",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1355000,
+    "liabilities": 0
+  },
+  {
+    "name": "Usman",
+    "age": "58",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1660000,
+    "liabilities": 80000
+  }
+]

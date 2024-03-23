@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Rodmal Nagar",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 40198295,
+    "liabilities": 3921362
+  },
+  {
+    "name": "Divyendra Dubey Advocate",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1520026,
+    "liabilities": 0
+  },
+  {
+    "name": "Imamuddin Khan",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1312130,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdeesh Singh Parmar",
+    "age": "58",
+    "party": "Samata Samadhan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1869000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohsin",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 205000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mona Sustani",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 23174475,
+    "liabilities": 5353782
+  },
+  {
+    "name": "Mukesh Kumar Dangi",
+    "age": "29",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2132000,
+    "liabilities": 849301
+  },
+  {
+    "name": "Parvat Singh",
+    "age": "0",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 56000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjey Gupta",
+    "age": "46",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3704373,
+    "liabilities": 720000
+  },
+  {
+    "name": "Santosh Rao",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 245000,
+    "liabilities": 0
+  },
+  {
+    "name": "Susheel Kumar Prasad",
+    "age": "60",
+    "party": "Bhartiya Amrit Party",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 150113500,
+    "liabilities": 22500000
+  }
+]

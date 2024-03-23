@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Vinayak Bhaurao Raut",
+    "age": "65",
+    "party": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 50660534,
+    "liabilities": 2830000
+  },
+  {
+    "name": "Adv. Sanjay Sharad Gangnaik",
+    "age": "51",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11829351,
+    "liabilities": 0
+  },
+  {
+    "name": "Amberkar Pandharinath Vidyadhar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 5621192,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhikuram Kashiram Palkar",
+    "age": "63",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5364820,
+    "liabilities": 580000
+  },
+  {
+    "name": "Kishor Sidu Varak",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 924800,
+    "liabilities": 160000
+  },
+  {
+    "name": "Maruti Ramchandra Joshi",
+    "age": "74",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3493826,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Dasharath Gavas",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 38150500,
+    "liabilities": 435496
+  },
+  {
+    "name": "Navinchandra Bhalchandra Bandivadekar",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 124520857,
+    "liabilities": 16820672
+  },
+  {
+    "name": "Nilesh Bhikaji Bhatade",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 316000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nilesh Narayan Rane",
+    "age": "38",
+    "party": "Maharashtra Swabhimaan Paksh",
+    "criminal": "5",
+    "education": "Doctorate",
+    "assets": 254141202,
+    "liabilities": 76363728
+  },
+  {
+    "name": "Rajesh Dilipkumar Jadhav",
+    "age": "33",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 202000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinayak Lavu Raut",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1013002,
+    "liabilities": 10000
+  }
+]

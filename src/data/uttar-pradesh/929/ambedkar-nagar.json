@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Ritesh Pandey",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 307265103,
+    "liabilities": 24739098
+  },
+  {
+    "name": "Ashutosh",
+    "age": "47",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11817408,
+    "liabilities": 0
+  },
+  {
+    "name": "Ayodhya",
+    "age": "38",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2281000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mastram Kori",
+    "age": "49",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 781000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukut Bihari",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 24116406,
+    "liabilities": 12848
+  },
+  {
+    "name": "Parshuram Patel",
+    "age": "60",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 8716423,
+    "liabilities": 2933974
+  },
+  {
+    "name": "Premnath Nishad",
+    "age": "38",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3317739,
+    "liabilities": 425055
+  },
+  {
+    "name": "Rakesh",
+    "age": "36",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2137783,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Singar",
+    "age": "54",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 605300,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushila Dinkar",
+    "age": "56",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6163500,
+    "liabilities": 0
+  },
+  {
+    "name": "Taigar Ramnihor Patel Ratnashah",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5351688,
+    "liabilities": 0
+  }
+]

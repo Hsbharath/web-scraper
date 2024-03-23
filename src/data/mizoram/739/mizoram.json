@@ -1,0 +1,56 @@
+[
+  {
+    "name": "C Lalrosanga",
+    "age": "62",
+    "party": "MNF",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 131201374,
+    "liabilities": 0
+  },
+  {
+    "name": "Lal Hriatrenga Chhangte",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13499370,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Lalnghinglova Hmar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13891235,
+    "liabilities": 6000000
+  },
+  {
+    "name": "Lalthlamuani",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 4435455,
+    "liabilities": 500000
+  },
+  {
+    "name": "Nirupam Chakma",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15655480,
+    "liabilities": 1016188
+  },
+  {
+    "name": "Tbc Lalvenchhunga",
+    "age": "36",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7724713,
+    "liabilities": 2145065
+  }
+]

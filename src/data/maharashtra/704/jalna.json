@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Danve Raosaheb Dadarao",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 229557992,
+    "liabilities": 2400000
+  },
+  {
+    "name": "Adv. Yogesh Dattu Gullapelli",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 408188,
+    "liabilities": 0
+  },
+  {
+    "name": "Ahemad Rahim Shaikh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Anita Lalchand Khandade (Rajput)",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11513562,
+    "liabilities": 2022033
+  },
+  {
+    "name": "Annasaheb Devidasrao Ugale",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 474300,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Chintaman Chavhan",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 58100,
+    "liabilities": 0
+  },
+  {
+    "name": "Autade Vilas Keshavrao",
+    "age": "50",
+    "party": "INC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 278237603,
+    "liabilities": 15678811
+  },
+  {
+    "name": "Feroz Ali",
+    "age": "59",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesh Shankar Chandode",
+    "age": "30",
+    "party": "Akhil Bharatiya Sena",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 639662,
+    "liabilities": 160000
+  },
+  {
+    "name": "Mahendra Kacharu Sonwane",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10357300,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Nade Dnyaneshwar Dagduji",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Baburao Kharat",
+    "age": "49",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Ashok Gawali",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 756334,
+    "liabilities": 0
+  },
+  {
+    "name": "Ratan Aasaram Landge",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 126000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sapkal Lilabai Dharma",
+    "age": "55",
+    "party": "Rashtriya Mahila Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 178000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shahadev Mahadev Palve",
+    "age": "35",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 457602,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharadchandra Ganpatrao Wankhede",
+    "age": "65",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 23282500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sirsath Sham",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7699000,
+    "liabilities": 319714
+  },
+  {
+    "name": "Trimabak Baburao Jadhav",
+    "age": "64",
+    "party": "Swatantra Bharat Paksha",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 17352944,
+    "liabilities": 3248000
+  },
+  {
+    "name": "Uttam Dhanu Rathod",
+    "age": "65",
+    "party": "Aasra Lokmanch Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 257559,
+    "liabilities": 65536
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Rahul Ramesh Shewale",
+    "age": "47",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 18881363,
+    "liabilities": 7778954
+  },
+  {
+    "name": "Adv. Mahendra Tulshiram Bhingardive",
+    "age": "42",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12510000,
+    "liabilities": 850000
+  },
+  {
+    "name": "Ahmed Shakil Sagir Ahmed Shaikh",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 3647388,
+    "liabilities": 0
+  },
+  {
+    "name": "Anita Kiran Patole",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baddy Hemantkumar Reddy",
+    "age": "50",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12170003,
+    "liabilities": 85200
+  },
+  {
+    "name": "Balasaheb Jagannath Sable",
+    "age": "48",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 606142,
+    "liabilities": 80000
+  },
+  {
+    "name": "Dalvi Raju Sahebrao",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 223000,
+    "liabilities": 51490
+  },
+  {
+    "name": "Deepak Bhagoji Kamble",
+    "age": "67",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 391500,
+    "liabilities": 0
+  },
+  {
+    "name": "Eknath Mahadev Gaikwad",
+    "age": "79",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 218952482,
+    "liabilities": 25590000
+  },
+  {
+    "name": "Godfrey Washington Noble",
+    "age": "48",
+    "party": "Desiya Makkal Sakthi Katchi",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 267606000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Mohammad Hayat Mohammad Husain Shaikh",
+    "age": "54",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1043188,
+    "liabilities": 350000
+  },
+  {
+    "name": "Sanjay Sushil Bhosale",
+    "age": "51",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 1250624308,
+    "liabilities": 237660077
+  },
+  {
+    "name": "Santosh Shrivastav",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 207000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheetal Bharat Sasane",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 501700,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikas Maruti Rokade",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 11000,
+    "liabilities": 0
+  },
+  {
+    "name": "Yoganand Nadar",
+    "age": "34",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 528996,
+    "liabilities": 180000
+  },
+  {
+    "name": "Yogesh Vitthal More",
+    "age": "38",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10612636,
+    "liabilities": 157000
+  }
+]

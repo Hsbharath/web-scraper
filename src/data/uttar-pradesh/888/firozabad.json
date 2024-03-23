@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Dr. Chandra Sen Jadon",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 42872395,
+    "liabilities": 0
+  },
+  {
+    "name": "Akshay Yadav",
+    "age": "32",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 321157801,
+    "liabilities": 50358593
+  },
+  {
+    "name": "Chaudhary Basheer",
+    "age": "42",
+    "party": "IND",
+    "criminal": "10",
+    "education": "8th Pass",
+    "assets": 27548145,
+    "liabilities": 1654024
+  },
+  {
+    "name": "Rajveer",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 175385,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivpal Singh Yadav",
+    "age": "64",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 99833148,
+    "liabilities": 12918796
+  },
+  {
+    "name": "Upendra Singh Rajput",
+    "age": "0",
+    "party": "Bharatiya Kisan Parivartan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2006000,
+    "liabilities": 0
+  }
+]

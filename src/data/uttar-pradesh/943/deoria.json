@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Ramapati Ram Tripathi",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 29451678,
+    "liabilities": 9310684
+  },
+  {
+    "name": "Birja",
+    "age": "46",
+    "party": "Peace Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Brijendra Mani Tripathi",
+    "age": "51",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 8367500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandan Kumar Yadav",
+    "age": "31",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 306073,
+    "liabilities": 0
+  },
+  {
+    "name": "Israr Ahamad",
+    "age": "45",
+    "party": "Bharatiya Aavaam Ekta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5762743,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra",
+    "age": "43",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 10545500,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Mishra",
+    "age": "45",
+    "party": "Manuvadi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2116000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Onkar Singh",
+    "age": "43",
+    "party": "Samajwadi Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 59793984,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Ramashish Rai",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13327000,
+    "liabilities": 300000
+  }
+]

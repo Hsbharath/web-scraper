@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Upendra Singh Rawat",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 18050127,
+    "liabilities": 3171774
+  },
+  {
+    "name": "Asha Devi",
+    "age": "33",
+    "party": "Lok Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 105000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Fool Dulari",
+    "age": "39",
+    "party": "Samdarshi Samaj Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5634959,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalpana Rawat",
+    "age": "32",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20693765,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishan Lal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 6216451,
+    "liabilities": 0
+  },
+  {
+    "name": "Manju Devi",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Molhey Ram Rawat",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 225928,
+    "liabilities": 35000
+  },
+  {
+    "name": "Omkar",
+    "age": "33",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Sagar Rawat",
+    "age": "68",
+    "party": "SP",
+    "criminal": "5",
+    "education": "10th Pass",
+    "assets": 10294367,
+    "liabilities": 127553
+  },
+  {
+    "name": "Santosh Kumari",
+    "age": "40",
+    "party": "Dr. Bhimrao Ambedkar Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 775000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tanuj Punia",
+    "age": "34",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12572577,
+    "liabilities": 27052
+  },
+  {
+    "name": "Tarawati",
+    "age": "50",
+    "party": "Awami Samta Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 968500,
+    "liabilities": 610000
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "36",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3176312,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Virendra Singh",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 24498319,
+    "liabilities": 0
+  },
+  {
+    "name": "Arvind",
+    "age": "60",
+    "party": "Bhartiya Jan Nayak Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 504000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopal Ram Kharwar",
+    "age": "62",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1112644,
+    "liabilities": 0
+  },
+  {
+    "name": "Janmejay Kumar Prajapati",
+    "age": "26",
+    "party": "Bharatiya Samta Samaj Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 51000,
+    "liabilities": 0
+  },
+  {
+    "name": "Major Ramesh Chandra Upadhyay",
+    "age": "67",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 931000,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Prakash Pandey",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 290707,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanatan Pandey",
+    "age": "56",
+    "party": "SP",
+    "criminal": "5",
+    "education": "Others",
+    "assets": 26500222,
+    "liabilities": 531827
+  },
+  {
+    "name": "Seema Chauhan",
+    "age": "30",
+    "party": "Janta Kranti Party (Rashtravadi)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1634000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Prakash",
+    "age": "42",
+    "party": "Janta Raj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod",
+    "age": "51",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 67939301,
+    "liabilities": 0
+  }
+]

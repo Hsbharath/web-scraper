@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Kirti Vardhan Singh Alias Raja Bhaiya",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 232735285,
+    "liabilities": 23201603
+  },
+  {
+    "name": "Asman Datt Mishra",
+    "age": "55",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6869702,
+    "liabilities": 200000
+  },
+  {
+    "name": "Dhani Ram Chaudhri",
+    "age": "29",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 50600,
+    "liabilities": 0
+  },
+  {
+    "name": "Hafiz Ali",
+    "age": "42",
+    "party": "Peace Party",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 12117018,
+    "liabilities": 46135930
+  },
+  {
+    "name": "Krishna Patel",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 157585039,
+    "liabilities": 50520999
+  },
+  {
+    "name": "Mahesh Singh",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31745948,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo Javed Ansari",
+    "age": "36",
+    "party": "Vishwa Manav Samaj Kalyan Parishad",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 90000,
+    "liabilities": 42404
+  },
+  {
+    "name": "Mohd Arbi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 178790,
+    "liabilities": 0
+  },
+  {
+    "name": "Mubarak Ali",
+    "age": "42",
+    "party": "AIFB",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 8815914,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Singh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5174312,
+    "liabilities": 0
+  },
+  {
+    "name": "Peer Ali Khan",
+    "age": "43",
+    "party": "Kisan Mazdoor Sangharsh Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 86000,
+    "liabilities": 171000
+  },
+  {
+    "name": "Qutubuddin Khan \"Dimond\"",
+    "age": "45",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124844329,
+    "liabilities": 39524800
+  },
+  {
+    "name": "Radheyshyam",
+    "age": "33",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 928690,
+    "liabilities": 90000
+  },
+  {
+    "name": "Vinod Kumar Alias Pandit Singh",
+    "age": "52",
+    "party": "SP",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 26080396,
+    "liabilities": 3500000
+  },
+  {
+    "name": "Vinod Kumar Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 7813228,
+    "liabilities": 300000
+  }
+]

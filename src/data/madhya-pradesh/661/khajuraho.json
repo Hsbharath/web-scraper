@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Vishnu Datt Sharma",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10589334,
+    "liabilities": 2507176
+  },
+  {
+    "name": "Advocate Rakesh Kumar Shukla",
+    "age": "52",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14180097,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashwani Kumar Dubey",
+    "age": "48",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2420200,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhoopat Kumar",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 266109,
+    "liabilities": 0
+  },
+  {
+    "name": "Desh Pal",
+    "age": "41",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 759925,
+    "liabilities": 960000
+  },
+  {
+    "name": "Giriraj Kishor",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 260117678,
+    "liabilities": 8698758
+  },
+  {
+    "name": "Jagdesh Kumar Patel",
+    "age": "33",
+    "party": "Akhil Bhartiya Apna Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 20500,
+    "liabilities": 0
+  },
+  {
+    "name": "Maharani Kavita Singh Natiraja",
+    "age": "39",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 73695721,
+    "liabilities": 2160104
+  },
+  {
+    "name": "Manish Mishra",
+    "age": "34",
+    "party": "Rashtriya Aadarsh Member Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 920000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meena Raikwar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4436079,
+    "liabilities": 1486523
+  },
+  {
+    "name": "Mohammad Imran",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1807000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3708881,
+    "liabilities": 0
+  },
+  {
+    "name": "Parwat Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 211550,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajkumar Sharma",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 602000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sant Kumar Sharma",
+    "age": "40",
+    "party": "Samagra Utthan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 295474,
+    "liabilities": 70000
+  },
+  {
+    "name": "Veer Singh Patel",
+    "age": "39",
+    "party": "SP",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 39687180,
+    "liabilities": 4212532
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "31",
+    "party": "Rashtriya Jansanchar Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1820000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Virendra Kumar",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 21503766,
+    "liabilities": 1974216
+  },
+  {
+    "name": "Ahirwar Shripat Shikshak",
+    "age": "47",
+    "party": "Poorvanchal Rashtriya Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 917000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Banshkar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamta Prasad",
+    "age": "51",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1867562,
+    "liabilities": 0
+  },
+  {
+    "name": "Kiran Singh Ahirwar",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 36507983,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Nandram Prajapati",
+    "age": "48",
+    "party": "Adarsh Nyay Rakshak Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1225800,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Das Jatav",
+    "age": "4",
+    "party": "Madhya Pradesh Jan Vikas Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Prajapati",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26163,
+    "liabilities": 0
+  },
+  {
+    "name": "R.B. Prajapati Advocate",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 414000,
+    "liabilities": 0
+  },
+  {
+    "name": "R.D. Prajapati",
+    "age": "57",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8361117,
+    "liabilities": 8127000
+  },
+  {
+    "name": "Shobha Valmiki",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2146000,
+    "liabilities": 28000
+  },
+  {
+    "name": "Shriram Nagar",
+    "age": "59",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 670000,
+    "liabilities": 590000
+  },
+  {
+    "name": "Suresh Kumar Kori",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 380000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surjeet Chadar",
+    "age": "33",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  }
+]

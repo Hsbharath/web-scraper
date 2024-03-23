@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Hemant Tukaram Godse",
+    "age": "49",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 146869996,
+    "liabilities": 41083126
+  },
+  {
+    "name": "Adv. Kokate Manikrao Shivajirao",
+    "age": "61",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 214414506,
+    "liabilities": 46737153
+  },
+  {
+    "name": "Adv. Vaibhav Shantaram Ahire",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 991506,
+    "liabilities": 0
+  },
+  {
+    "name": "Aher Sharad Keru",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 378603,
+    "liabilities": 0
+  },
+  {
+    "name": "Devidas Piraji Sarkate",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhananjay Anil Bhawsar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3542372,
+    "liabilities": 2962930
+  },
+  {
+    "name": "Jawale Soniya Ramnath",
+    "age": "40",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3729500,
+    "liabilities": 1389941
+  },
+  {
+    "name": "Kedar Sindhubai Ravindra",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5923410,
+    "liabilities": 700000
+  },
+  {
+    "name": "Pavan Chandrakant Pawar",
+    "age": "38",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "8",
+    "education": "Others",
+    "assets": 9091869,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Giridhar Kanoje",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 980202,
+    "liabilities": 200000
+  },
+  {
+    "name": "Priyanka Ramrao Shirole",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sameer Magan Bhujbal",
+    "age": "45",
+    "party": "NCP",
+    "criminal": "16",
+    "education": "10th Pass",
+    "assets": 654659863,
+    "liabilities": 130481204
+  },
+  {
+    "name": "Sanjay Sukhdev Ghodke",
+    "age": "48",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3291484,
+    "liabilities": 2350000
+  },
+  {
+    "name": "Sharad Damu Dhanrao",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 165000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivnath Vithoba Kasar",
+    "age": "54",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhir Shridhar Deshmukh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 15447971,
+    "liabilities": 500000
+  },
+  {
+    "name": "Vilas Madhukar Desale (Patil)",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25701660,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Vasant Shirsath",
+    "age": "26",
+    "party": "Hindustan Janta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  }
+]

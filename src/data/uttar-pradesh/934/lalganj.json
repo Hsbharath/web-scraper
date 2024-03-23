@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Sangeeta Azad",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 88451770,
+    "liabilities": 0
+  },
+  {
+    "name": "Akhilesh",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 85000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandrashekhar",
+    "age": "48",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2186000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Deelip Kumar Saroj",
+    "age": "45",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 177000,
+    "liabilities": 570570
+  },
+  {
+    "name": "Engineer Ajeet Sonkar",
+    "age": "34",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hemraj Paswan",
+    "age": "66",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13537434,
+    "liabilities": 0
+  },
+  {
+    "name": "Lcchiman Kannooizya",
+    "age": "65",
+    "party": "Prithviraj Janshakti Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Neelam Sonker",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 46688371,
+    "liabilities": 4550000
+  },
+  {
+    "name": "Pankaj Mohan Sonkar",
+    "age": "29",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 4615570,
+    "liabilities": 1743219
+  },
+  {
+    "name": "Pintoo",
+    "age": "44",
+    "party": "Kanshiram Bahujan Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3412803,
+    "liabilities": 0
+  },
+  {
+    "name": "Radheshyam Gautam",
+    "age": "40",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 504000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramchandar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "4",
+    "education": "5th Pass",
+    "assets": 4605000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 116443,
+    "liabilities": 0
+  },
+  {
+    "name": "Subash Saroj",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 537800,
+    "liabilities": 0
+  },
+  {
+    "name": "Triloki Nath",
+    "age": "62",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 297700,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Krishna Pal Singh",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16266408,
+    "liabilities": 494053
+  },
+  {
+    "name": "Ajay Singh Kushwah",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2088593,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Khare",
+    "age": "27",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 130500,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhan Singh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 1547800,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhoopendra Singh Chauhan",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12405433,
+    "liabilities": 250000
+  },
+  {
+    "name": "Chandr Kumar Shrivastava (Chandu)",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1931406,
+    "liabilities": 712080
+  },
+  {
+    "name": "Dhakad Lokendra Singh Rajpoot",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 128273308,
+    "liabilities": 55970713
+  },
+  {
+    "name": "Harbhajan Singh Rajpoot",
+    "age": "60",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 251000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyotiraditya M. Scindia",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3745618745,
+    "liabilities": 2900000
+  },
+  {
+    "name": "Manish Shrivastav",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 186000,
+    "liabilities": 0
+  },
+  {
+    "name": "Omprakash",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 23673387,
+    "liabilities": 11816000
+  },
+  {
+    "name": "Rekha Bai",
+    "age": "33",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Yadav",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 754000,
+    "liabilities": 0
+  }
+]

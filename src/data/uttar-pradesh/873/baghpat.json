@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr. Satyapal Singh",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 78195793,
+    "liabilities": 0
+  },
+  {
+    "name": "Chaudhary Mohkam",
+    "age": "56",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 66000,
+    "liabilities": 0
+  },
+  {
+    "name": "Davender",
+    "age": "38",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1264900,
+    "liabilities": 550000
+  },
+  {
+    "name": "Dr. Saleem Ahmad",
+    "age": "59",
+    "party": "Sabse Achchhi Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 594500,
+    "liabilities": 0
+  },
+  {
+    "name": "Istakar Ali",
+    "age": "45",
+    "party": "National Lokmat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1111500,
+    "liabilities": 0
+  },
+  {
+    "name": "Jafar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayant Chaudhary",
+    "age": "40",
+    "party": "RLD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 275023812,
+    "liabilities": 29242618
+  },
+  {
+    "name": "Manoj Rana",
+    "age": "48",
+    "party": "Akhil Bhartiya Lok Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 16475000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Parveen Yogi",
+    "age": "49",
+    "party": "Bhartiya Nojawan Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 202000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkumar",
+    "age": "63",
+    "party": "Sarvjan Lok Shakti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1066000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ruby Kashyap",
+    "age": "32",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2860000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Subhash",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 900000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttar Kumar Jindal",
+    "age": "66",
+    "party": "Bhartiya Naujawan Inklav Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15468070,
+    "liabilities": 0
+  }
+]

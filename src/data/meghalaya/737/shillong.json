@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Vincent H. Pala",
+    "age": "51",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 549515421,
+    "liabilities": 0
+  },
+  {
+    "name": "Jemino Mawthoh",
+    "age": "54",
+    "party": "United Democratic Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 11432184,
+    "liabilities": 1178370
+  },
+  {
+    "name": "Romeo Phira Rani",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11097844,
+    "liabilities": 0
+  },
+  {
+    "name": "Samuel Hashah",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 205000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanbor Shullai",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 66168175,
+    "liabilities": 0
+  },
+  {
+    "name": "T.H.S. Bonney",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 53758447,
+    "liabilities": 1269345
+  }
+]

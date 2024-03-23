@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sanjaykaka Patil",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 191192187,
+    "liabilities": 23345328
+  },
+  {
+    "name": "Abhijit Vamanrao Awade-Bichukle",
+    "age": "43",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 441102,
+    "liabilities": 0
+  },
+  {
+    "name": "Adhik Sampat Channe",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 665000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaktraj Raghunath Thigale",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6849600,
+    "liabilities": 3700000
+  },
+  {
+    "name": "Dattatray Pandit Patil",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3771000,
+    "liabilities": 10000
+  },
+  {
+    "name": "Gopichand Kundlik Padalkar",
+    "age": "36",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 10372000,
+    "liabilities": 42000
+  },
+  {
+    "name": "Himmat Pandurang Koli",
+    "age": "47",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 5660500,
+    "liabilities": 1395000
+  },
+  {
+    "name": "Nalage Ananda Shankar",
+    "age": "50",
+    "party": "Baliraja Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 126260,
+    "liabilities": 90000
+  },
+  {
+    "name": "Narayan Chandar Mulik",
+    "age": "75",
+    "party": "IND",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 7068279,
+    "liabilities": 152000
+  },
+  {
+    "name": "Patil Vishal Prakashrao",
+    "age": "38",
+    "party": "Swabhimani Paksha",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 217156936,
+    "liabilities": 103062594
+  },
+  {
+    "name": "Rajendra Namdev Kavthekar",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14900000,
+    "liabilities": 4900000
+  },
+  {
+    "name": "Shankar Martand Mane",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 585181,
+    "liabilities": 0
+  }
+]

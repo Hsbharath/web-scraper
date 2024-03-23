@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Feroze Varun Gandhi",
+    "age": "39",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 603200539,
+    "liabilities": 28952800
+  },
+  {
+    "name": "Anita Tripathi",
+    "age": "58",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10559842,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Dr. Bharat",
+    "age": "45",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 47676000,
+    "liabilities": 4380000
+  },
+  {
+    "name": "Dr. Sita Ram Rajput",
+    "age": "40",
+    "party": "Sabka Dal United",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 7760000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hemraj Verma",
+    "age": "43",
+    "party": "SP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 10931313,
+    "liabilities": 645587
+  },
+  {
+    "name": "Jafri Begum",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 16059000,
+    "liabilities": 3250000
+  },
+  {
+    "name": "Kaif Raza Khan",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo. Hanif",
+    "age": "44",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16759000,
+    "liabilities": 3250000
+  },
+  {
+    "name": "Munesh Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2260371,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar Bharti",
+    "age": "50",
+    "party": "Naitik Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1606000,
+    "liabilities": 72000
+  },
+  {
+    "name": "Surendra Kumar Gupta",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 38766636,
+    "liabilities": 0
+  },
+  {
+    "name": "Urvashi Singh",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1522700,
+    "liabilities": 0
+  },
+  {
+    "name": "Varun Gandhi",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3711815,
+    "liabilities": 0
+  }
+]

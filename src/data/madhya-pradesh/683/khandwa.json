@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Nandkumar Singh Chouhan (Nandu Bhaiya)",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19076515,
+    "liabilities": 4819099
+  },
+  {
+    "name": "Aakash Birla",
+    "age": "25",
+    "party": "Madhya Pradesh Jan Vikas Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 37390,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Subhash Chandra Yadav",
+    "age": "45",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 389536712,
+    "liabilities": 196853975
+  },
+  {
+    "name": "Baba Abdul Hameed",
+    "age": "75",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 15773000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagwansingh Pyarsingh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 790000,
+    "liabilities": 4000
+  },
+  {
+    "name": "Darasingh Patel Khatvashe",
+    "age": "44",
+    "party": "Akhil Bhartiya Gondwana Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3307000,
+    "liabilities": 170000
+  },
+  {
+    "name": "Dayaram Korku (Thakur Dada)",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2656005,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishor Yadav",
+    "age": "46",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 387737,
+    "liabilities": 66920
+  },
+  {
+    "name": "Narayan Chandel",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2460000,
+    "liabilities": 0
+  },
+  {
+    "name": "Reena Damle",
+    "age": "26",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 973500,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Rukum Shah",
+    "age": "44",
+    "party": "All India Ulama Congress",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 25000,
+    "liabilities": 0
+  }
+]

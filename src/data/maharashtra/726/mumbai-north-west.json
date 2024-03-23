@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Gajanan Chandrakant Kirtikar",
+    "age": "75",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 105392000,
+    "liabilities": 4032000
+  },
+  {
+    "name": "Abusalim Arunhuq Shank",
+    "age": "48",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 264600,
+    "liabilities": 0
+  },
+  {
+    "name": "Aftab Mashwood Khan",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 8062800,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Dubey",
+    "age": "29",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 576000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Arora Surinder Mohan",
+    "age": "64",
+    "party": "Bharat Jan Aadhar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 336682905,
+    "liabilities": 212666
+  },
+  {
+    "name": "Chandrashekhar Sharma",
+    "age": "42",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 9403436,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhaya Sunil Tiwari",
+    "age": "41",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 9105737,
+    "liabilities": 2882533
+  },
+  {
+    "name": "Dharmendra Shriram Pal",
+    "age": "42",
+    "party": "Rashtravadi Kranti Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 485000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harishankar Yadav",
+    "age": "48",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12000,
+    "liabilities": 546000
+  },
+  {
+    "name": "Madan Banwarilal Agrawal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 61831318,
+    "liabilities": 32000000
+  },
+  {
+    "name": "Mitesh Varshney",
+    "age": "27",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 186373,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhakar Tarapado Sadhu",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Nirupam",
+    "age": "54",
+    "party": "INC",
+    "criminal": "11",
+    "education": "Graduate",
+    "assets": 122093505,
+    "liabilities": 8399569
+  },
+  {
+    "name": "Sanjay Vishwanath Sakpal",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shakuntala Kushalkar",
+    "age": "47",
+    "party": "Prabuddha Republican Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 10111000,
+    "liabilities": 4500000
+  },
+  {
+    "name": "Shashikant Kundlik Kadam",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 18952783,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sonkamble Gajanan Tukaram",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 141658,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Passi",
+    "age": "57",
+    "party": "SP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 642045035,
+    "liabilities": 80500000
+  },
+  {
+    "name": "Suresh Sundar Shetty",
+    "age": "46",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 95452500,
+    "liabilities": 4342000
+  },
+  {
+    "name": "Vijay Marothi Koyale",
+    "age": "49",
+    "party": "Rashtriya Maratha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6525000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Vijendra Kumar Rai",
+    "age": "37",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 26456906,
+    "liabilities": 17500000
+  }
+]

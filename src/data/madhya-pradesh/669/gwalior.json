@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Vivek Narayan Shejwalkar",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 58911673,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Khan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 547500,
+    "liabilities": 222000
+  },
+  {
+    "name": "Ashok Singh",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 371815574,
+    "liabilities": 64526891
+  },
+  {
+    "name": "Braj Mohan",
+    "age": "26",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25181,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Kumar",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6453507,
+    "liabilities": 0
+  },
+  {
+    "name": "Geeta Rani",
+    "age": "54",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1163000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Govind Singh",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 568513,
+    "liabilities": 0
+  },
+  {
+    "name": "Hanumant Singh",
+    "age": "37",
+    "party": "Aajad Bharat Party (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4216000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Jain",
+    "age": "31",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7741515,
+    "liabilities": 4610847
+  },
+  {
+    "name": "Keshav Rai Chaudhari",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12511203,
+    "liabilities": 1645271
+  },
+  {
+    "name": "Mamta Balveer Singh Kushwah",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1434500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandkishor Sahu",
+    "age": "62",
+    "party": "Parivartan Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2707482,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Namdev",
+    "age": "57",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 448000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pransingh",
+    "age": "55",
+    "party": "Rashtriya Shoshit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3188380,
+    "liabilities": 0
+  },
+  {
+    "name": "Sovran Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6368000,
+    "liabilities": 1260
+  },
+  {
+    "name": "Sugreev Singh",
+    "age": "53",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6038000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Gopal",
+    "age": "46",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 71800,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishnukant Sharma",
+    "age": "38",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 22336170,
+    "liabilities": 4613471
+  }
+]

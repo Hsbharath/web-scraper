@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Girish Chandra",
+    "age": "55",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 28659644,
+    "liabilities": 9062600
+  },
+  {
+    "name": "Amichand",
+    "age": "69",
+    "party": "Rashtriya Samanta Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1600000,
+    "liabilities": 0
+  },
+  {
+    "name": "Charan Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 730000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamesh Kumar",
+    "age": "38",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 382000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Omvati Devi",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 37158570,
+    "liabilities": 0
+  },
+  {
+    "name": "Tej Singh",
+    "age": "63",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 10048933,
+    "liabilities": 360000
+  },
+  {
+    "name": "Yashwant Singh",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 66352887,
+    "liabilities": 900000
+  }
+]

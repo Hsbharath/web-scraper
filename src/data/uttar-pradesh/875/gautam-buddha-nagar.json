@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr. Mahesh Sharma",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 478759568,
+    "liabilities": 43863749
+  },
+  {
+    "name": "Ashok Kumar Adhana",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4400000,
+    "liabilities": 42735
+  },
+  {
+    "name": "Dayaram",
+    "age": "42",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 106300,
+    "liabilities": 21400
+  },
+  {
+    "name": "Dr. Arvind Kumar Singh",
+    "age": "30",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 99690439,
+    "liabilities": 35329571
+  },
+  {
+    "name": "Jagdeep Singh",
+    "age": "38",
+    "party": "Loktantrik Janshakti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Singh",
+    "age": "48",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 99238678,
+    "liabilities": 21144932
+  },
+  {
+    "name": "Raghuvendra Kumar",
+    "age": "48",
+    "party": "Subhashwadi Bhartiya Samajwadi Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4768026,
+    "liabilities": 3200000
+  },
+  {
+    "name": "Rampal",
+    "age": "34",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 774000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rodash Gupta",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 375130,
+    "liabilities": 0
+  },
+  {
+    "name": "Satveer",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 53581678,
+    "liabilities": 7070674
+  },
+  {
+    "name": "Sher Singh Upaddhaya",
+    "age": "51",
+    "party": "Rashtriya Janta Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1651000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar Nagar",
+    "age": "38",
+    "party": "Rashtriya Bharatiya Jan Jan Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 515000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Vinod Sharma",
+    "age": "46",
+    "party": "All Indian Rajiv Congress Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4683847,
+    "liabilities": 0
+  }
+]

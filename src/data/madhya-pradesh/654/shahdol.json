@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Himadri Singh",
+    "age": "32",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 36564408,
+    "liabilities": 1736289
+  },
+  {
+    "name": "Durga Mosi",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gokul Singh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jhamaklal",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamla Prasad Baiga",
+    "age": "37",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30828,
+    "liabilities": 42000
+  },
+  {
+    "name": "Keshkali",
+    "age": "31",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 223200,
+    "liabilities": 20000
+  },
+  {
+    "name": "Lakshyapat Singh",
+    "age": "48",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 590000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manna Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2321842,
+    "liabilities": 0
+  },
+  {
+    "name": "Meera Singh",
+    "age": "47",
+    "party": "Chhattisgarh Vikas Ganga Rashtriya Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 225000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohadal",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 826000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Singh Uike",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramila Singh",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20491903,
+    "liabilities": 3913894
+  },
+  {
+    "name": "Vimal Singh Korche",
+    "age": "27",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 932000,
+    "liabilities": 0
+  }
+]

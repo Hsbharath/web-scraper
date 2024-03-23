@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Bhonsle Shrimant Chhatrapati Udayanraje Pratapasinh Maharaj",
+    "age": "53",
+    "party": "NCP",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 1996813173,
+    "liabilities": 12340338
+  },
+  {
+    "name": "Abhijit Wamanrao -Bichukale",
+    "age": "43",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 324408,
+    "liabilities": 0
+  },
+  {
+    "name": "Ananda Ramesh Thorawade",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3855260,
+    "liabilities": 10408891
+  },
+  {
+    "name": "Dilip Shreerang Jagtap",
+    "age": "48",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1305600,
+    "liabilities": 283500
+  },
+  {
+    "name": "Narendra Annasaheb Patil",
+    "age": "44",
+    "party": "SHS",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 152801213,
+    "liabilities": 51954358
+  },
+  {
+    "name": "Panjabrao Mahadev Patil",
+    "age": "53",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 5926000,
+    "liabilities": 330000
+  },
+  {
+    "name": "Sagar Sharad Bhise",
+    "age": "31",
+    "party": "IND",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 1487000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Sahdev Kerappa Aiwale",
+    "age": "63",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1427313,
+    "liabilities": 400000
+  },
+  {
+    "name": "Shailendra Veer",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 23773491,
+    "liabilities": 0
+  }
+]

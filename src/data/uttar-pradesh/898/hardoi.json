@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Jai Prakash",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 234032624,
+    "liabilities": 2615368
+  },
+  {
+    "name": "Avdhesh Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 911651,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaiya Lal",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chotte Lal",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 480000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Pal Verma",
+    "age": "60",
+    "party": "Bahujan Awam Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5816000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Chandra",
+    "age": "52",
+    "party": "Bhartiya Krishak Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1906000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sahab Singh",
+    "age": "49",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2053900,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Bharatiya",
+    "age": "50",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10818915,
+    "liabilities": 5870000
+  },
+  {
+    "name": "Shive Kumar",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10052233,
+    "liabilities": 0
+  },
+  {
+    "name": "Usha Verma",
+    "age": "55",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 42403277,
+    "liabilities": 1060839
+  },
+  {
+    "name": "Virendra Kumar",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12864500,
+    "liabilities": 14762567
+  }
+]

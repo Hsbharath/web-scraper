@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Sudheer Gupta",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 90908944,
+    "liabilities": 799283
+  },
+  {
+    "name": "Advocate Bapu Singh Gujar",
+    "age": "40",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6275178,
+    "liabilities": 65000
+  },
+  {
+    "name": "Fulchand Patidar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 555284,
+    "liabilities": 0
+  },
+  {
+    "name": "Ismail Mev",
+    "age": "53",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 118500,
+    "liabilities": 0
+  },
+  {
+    "name": "Meenakshi Chouhan",
+    "age": "44",
+    "party": "National Womens Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 102105,
+    "liabilities": 121000
+  },
+  {
+    "name": "Meenakshi Natarajan",
+    "age": "45",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6759260,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandlal Meena",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 820376,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhulal Meghwal",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4542835,
+    "liabilities": 0
+  },
+  {
+    "name": "Prahlad Singh S. Rajput",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 253000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranglal Dhanger",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5870411,
+    "liabilities": 362580
+  },
+  {
+    "name": "Saeed Ahmed Shabrarti Ahmed",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7356193,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivlal Gurjar",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 570800,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Rann",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 164500000,
+    "liabilities": 0
+  }
+]

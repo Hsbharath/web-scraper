@@ -1,0 +1,74 @@
+[
+  {
+    "name": "R.K. Singh Patel",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 55794086,
+    "liabilities": 0
+  },
+  {
+    "name": "Balkumar Patel",
+    "age": "59",
+    "party": "INC",
+    "criminal": "8",
+    "education": "12th Pass",
+    "assets": 43232650,
+    "liabilities": 13868284
+  },
+  {
+    "name": "Chhotelal",
+    "age": "37",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2995889,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra",
+    "age": "56",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20806200,
+    "liabilities": 0
+  },
+  {
+    "name": "Meera Devi",
+    "age": "26",
+    "party": "Swatantra Jantaraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rampratap",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 939923,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiraz Rahat Khan",
+    "age": "44",
+    "party": "Ambedkar Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7653989,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyama Charan Gupta",
+    "age": "74",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 655645059,
+    "liabilities": 0
+  }
+]

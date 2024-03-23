@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Prahalad Singh Patel",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 43292483,
+    "liabilities": 4230614
+  },
+  {
+    "name": "Anant Lal Basor",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 41843,
+    "liabilities": 0
+  },
+  {
+    "name": "Devi Prasad",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2133000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Khare",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2188000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamlesh Asati",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9316000,
+    "liabilities": 1458144
+  },
+  {
+    "name": "Man Singh",
+    "age": "46",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1868000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Manu Singh Maravi",
+    "age": "49",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3211930,
+    "liabilities": 0
+  },
+  {
+    "name": "Manvendra Singh",
+    "age": "27",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2515000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prahalad",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1026600,
+    "liabilities": 0
+  },
+  {
+    "name": "Prahlad Bhaiya",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2343295,
+    "liabilities": 0
+  },
+  {
+    "name": "Pratap Singh",
+    "age": "57",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 23844753,
+    "liabilities": 120000
+  },
+  {
+    "name": "Richa Purshottam Choubey (Hariom)",
+    "age": "49",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1960000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharada Parsad Patel",
+    "age": "71",
+    "party": "Pichhara Samaj Party United",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7870000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Thakur Das",
+    "age": "61",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 28271585,
+    "liabilities": 855100
+  },
+  {
+    "name": "Vikas Kewalrao Nagvanshi",
+    "age": "41",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9502459,
+    "liabilities": 3370273
+  }
+]

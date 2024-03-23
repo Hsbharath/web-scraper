@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Sanjay Shamrao Dhotre",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 77153230,
+    "liabilities": 14985774
+  },
+  {
+    "name": "Ambedkar Prakash Yashwant",
+    "age": "64",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 58722916,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Kankar Wankhede",
+    "age": "63",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7335000,
+    "liabilities": 125000
+  },
+  {
+    "name": "Arun Manohar Thakare",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Gajanan Onkar Harne",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hidayatulla Barakatulla Patel",
+    "age": "60",
+    "party": "INC",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 14947292,
+    "liabilities": 483635
+  },
+  {
+    "name": "Kamble Bhanudas Chokhoba",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1042000,
+    "liabilities": 0
+  },
+  {
+    "name": "Murlidhar Lalsingh Pawar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4771400,
+    "liabilities": 0
+  },
+  {
+    "name": "Pravin Chandrakant Kaurpuriya",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 540000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Ganpatlal Sharma",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31410000,
+    "liabilities": 2355000
+  },
+  {
+    "name": "Sau. Pravina Laxman Bhatkar",
+    "age": "58",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16726329,
+    "liabilities": 1200000
+  }
+]

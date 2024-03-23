@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Rajnath Singh",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 51492709,
+    "liabilities": 0
+  },
+  {
+    "name": "Acharya Pramod Krishnam",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 49765383,
+    "liabilities": 0
+  },
+  {
+    "name": "Avinash Chandra Jain",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 16039898,
+    "liabilities": 0
+  },
+  {
+    "name": "Dev Narayan Singh",
+    "age": "59",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 22346301,
+    "liabilities": 600000
+  },
+  {
+    "name": "Ganesh Chaudari",
+    "age": "46",
+    "party": "Saaf Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3447025,
+    "liabilities": 0
+  },
+  {
+    "name": "Girish Narain Pande",
+    "age": "64",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 110490000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jimidar Singh Yadav",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 165408,
+    "liabilities": 0
+  },
+  {
+    "name": "Mo Fahim",
+    "age": "65",
+    "party": "Indian National League",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 15485250,
+    "liabilities": 0
+  },
+  {
+    "name": "Poonam Shatrughan Sinha",
+    "age": "68",
+    "party": "SP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1935459756,
+    "liabilities": 284863762
+  },
+  {
+    "name": "Ram Sagar Pal",
+    "age": "37",
+    "party": "Awami Samta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 71300,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh",
+    "age": "29",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 90765,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Singh Rana",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2252960,
+    "liabilities": 999225
+  },
+  {
+    "name": "Shamim Khan",
+    "age": "49",
+    "party": "Nagrik Ekta Party",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 156369044,
+    "liabilities": 45879547
+  }
+]

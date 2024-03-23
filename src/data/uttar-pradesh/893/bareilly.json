@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Santosh Kumar Gangwar",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 126356142,
+    "liabilities": 13055209
+  },
+  {
+    "name": "Bhagwat Saran Gangwar",
+    "age": "63",
+    "party": "SP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 31857876,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagpal",
+    "age": "41",
+    "party": "Akhand Samaj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1406083,
+    "liabilities": 0
+  },
+  {
+    "name": "Javed Khan",
+    "age": "35",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Literate",
+    "assets": 1414000,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Laeek Ahmad Mansoori",
+    "age": "52",
+    "party": "Naitik Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 444925,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Vikat",
+    "age": "45",
+    "party": "Bahujan Nyay Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 121000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitin Mohan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 359091,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Singh Aron",
+    "age": "61",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 1477686028,
+    "liabilities": 46548771
+  },
+  {
+    "name": "Rabiya Akhtar",
+    "age": "40",
+    "party": "Khusro Sena Party",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 7735000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raheesh Miyan",
+    "age": "64",
+    "party": "VANCHITSAMAJ INSAAF PARTY",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2075047,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Agarwal Advocate",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 81035000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saman Tahir",
+    "age": "26",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4382566,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Kumar",
+    "age": "41",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7376969,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Rashid Ali",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10118000,
+    "liabilities": 0
+  },
+  {
+    "name": "Usha Agarwal",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5857000,
+    "liabilities": 0
+  },
+  {
+    "name": "Yatendra Singh",
+    "age": "50",
+    "party": "Bahujan Samyak Party (Mission)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 19586551,
+    "liabilities": 1174000
+  }
+]

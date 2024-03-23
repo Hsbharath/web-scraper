@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Maneka Sanjay Gandhi",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 556926451,
+    "liabilities": 11935800
+  },
+  {
+    "name": "Abu Umaima",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2616000,
+    "liabilities": 0
+  },
+  {
+    "name": "Akhilesh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12907306,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Bhadra Singh",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "6",
+    "education": "Post Graduate",
+    "assets": 106096052,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Sanjay Sinh",
+    "age": "67",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 411199451,
+    "liabilities": 0
+  },
+  {
+    "name": "Firoj Ahamad",
+    "age": "40",
+    "party": "Kanshiram Bahujan Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 859968,
+    "liabilities": 0
+  },
+  {
+    "name": "Hari Lal",
+    "age": "38",
+    "party": "Rastriya Insaaf Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 497224,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamla Devi",
+    "age": "42",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 18251000,
+    "liabilities": 676000
+  },
+  {
+    "name": "Manju Lata Pal",
+    "age": "29",
+    "party": "Aam Janta Party (India)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 501100,
+    "liabilities": 0
+  },
+  {
+    "name": "Mathura",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1687899,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasir Ali",
+    "age": "50",
+    "party": "Bharat Prabhat Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 10570383,
+    "liabilities": 80000
+  },
+  {
+    "name": "Rishabh Shrivastava",
+    "age": "30",
+    "party": "Bhartiya Hind Fauj",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunita Rajbhar",
+    "age": "37",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1412500,
+    "liabilities": 0
+  },
+  {
+    "name": "Virendra",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1340000,
+    "liabilities": 0
+  }
+]

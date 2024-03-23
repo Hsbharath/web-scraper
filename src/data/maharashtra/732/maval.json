@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Shrirang Chandu Barne",
+    "age": "55",
+    "party": "SHS",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 1023310134,
+    "liabilities": 416612
+  },
+  {
+    "name": "Ajay Hanumant Londhe",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 79339,
+    "liabilities": 390000
+  },
+  {
+    "name": "Amruta Abhijit Apte",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 217372,
+    "liabilities": 0
+  },
+  {
+    "name": "Balkrushna Dhanaji Gharat",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2388137,
+    "liabilities": 200000
+  },
+  {
+    "name": "Dr. Somnath Arjun Pol",
+    "age": "47",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 204055,
+    "liabilities": 283000
+  },
+  {
+    "name": "Jagdish Shamrao Sonawane",
+    "age": "63",
+    "party": "Kranti Kari Jai Hind Sena",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 40140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaya Sanjay Patil",
+    "age": "32",
+    "party": "Ambedkarite Party of India",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 32250,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Shivaji Patil",
+    "age": "57",
+    "party": "Bharatiya Praja Surajya Paksha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1305000,
+    "liabilities": 0
+  },
+  {
+    "name": "Navnath Vishwanath Dudhal",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13905000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Pandharinath Namdeo Patil",
+    "age": "47",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 24460000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parth Ajit Pawar",
+    "age": "29",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 201239333,
+    "liabilities": 93613295
+  },
+  {
+    "name": "Prakash Bhivaji Mahadik",
+    "age": "70",
+    "party": "Bhartiya Navjawan Sena (Paksha)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prashant Ganpat Deshmukh",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 350630,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajaram Narayan Patil",
+    "age": "47",
+    "party": "Vanchit Bahujan Aaghadi",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 6525572,
+    "liabilities": 534788
+  },
+  {
+    "name": "Rajendra Maruti Kate",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6435000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Prabhakar Chavan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 21858100,
+    "liabilities": 600000
+  },
+  {
+    "name": "Sanjay Kisan Kanade",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14166972,
+    "liabilities": 2061198
+  },
+  {
+    "name": "Sunil Baban Gaikwad",
+    "age": "49",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 3949382,
+    "liabilities": 1080000
+  },
+  {
+    "name": "Suraj Ashokrao Khandare",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 584675,
+    "liabilities": 542009
+  },
+  {
+    "name": "Suresh Shripati Taur",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9950000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Vijay Hanumant Randil",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1844000,
+    "liabilities": 100000
+  }
+]

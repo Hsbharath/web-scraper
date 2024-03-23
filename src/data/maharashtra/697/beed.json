@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Pritam Gopinathrao Munde",
+    "age": "36",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 167477926,
+    "liabilities": 98833794
+  },
+  {
+    "name": "Adv. Sharad Bahinaji Kamble",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 180000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anwar Khan Mirza Khan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Bhagoji Thorat",
+    "age": "37",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bajarang Manohar Sonwane",
+    "age": "48",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 160776182,
+    "liabilities": 8488691
+  },
+  {
+    "name": "Bajrang Digambar Sonwane",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1208541,
+    "liabilities": 13500
+  },
+  {
+    "name": "Chavan Sampat Ramsing",
+    "age": "57",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 110000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Galebkhan Jabbarkhan Pathan",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesh Navnathrao Karande",
+    "age": "33",
+    "party": "Maharashtra Kranti Sena",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 235000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagtap Nilesh Murlidhar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 1047000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jamir Bashir Shaikh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Juber Munshi Kureshi",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalidas Pandharinath Aapet",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 9084000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Kalyan Bhanudas Gurav",
+    "age": "73",
+    "party": "Bharatiya Praja Surajya Paksha",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Khan Majhar Habib",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1712000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Kolekar Ganesh Bhausaheb",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 125000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Mujeeb Naimoddin Inamdar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 56000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nisar Ahemad",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pandit Damodhar Khande",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 695000,
+    "liabilities": 42000
+  },
+  {
+    "name": "Pathan Musakhan Yunuskhan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 616000,
+    "liabilities": 16000
+  },
+  {
+    "name": "Pathan Sarfarzkhan Mahetabkhan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 51000,
+    "liabilities": 0
+  },
+  {
+    "name": "Patil Yashashri Pramod",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1005000,
+    "liabilities": 304000
+  },
+  {
+    "name": "Rajeshkumar Annasaheb Bhadgale",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 67000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Ramkisan Gavhane",
+    "age": "25",
+    "party": "Dalit Soshit Pichhara Varg Adhikar Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 201000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sadek Muniroddin Shaikh",
+    "age": "31",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 373000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sajan Raees Chaodhri",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sayed Mujammil Sayed Jamil",
+    "age": "28",
+    "party": "SP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sayyad Minhaj",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 880000,
+    "liabilities": 105000
+  },
+  {
+    "name": "Shaikh Sadek Shaikh Ibrahim",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 445500,
+    "liabilities": 107800
+  },
+  {
+    "name": "Shaikh Yashed Shaikh Tayyab",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 94500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shinde Chandraprakash Ganpatrao",
+    "age": "63",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1945137,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivaji Naraynrao Kawathekar",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 200000
+  },
+  {
+    "name": "Tukaram Vyankati Chate",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 580000,
+    "liabilities": 0
+  },
+  {
+    "name": "Veer Shesherao Chokhoba",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Rangnath Salve",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 211614,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishnu Jadhav",
+    "age": "62",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4654000,
+    "liabilities": 1622000
+  }
+]
