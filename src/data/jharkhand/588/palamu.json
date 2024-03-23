@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Vishnu Dayal Ram",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32273873,
+    "liabilities": 90922
+  },
+  {
+    "name": "Amindra Paswan",
+    "age": "33",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3787000,
+    "liabilities": 75000
+  },
+  {
+    "name": "Anjana Bhuiyan",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12484775,
+    "liabilities": 2512110
+  },
+  {
+    "name": "Baban Bhuiya",
+    "age": "31",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 200426,
+    "liabilities": 0
+  },
+  {
+    "name": "Balkesh Prasad Paswan",
+    "age": "54",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11100511,
+    "liabilities": 500000
+  },
+  {
+    "name": "Dinesh Ram",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1750038,
+    "liabilities": 0
+  },
+  {
+    "name": "Ghuran Ram",
+    "age": "51",
+    "party": "RJD",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 15227170,
+    "liabilities": 793697
+  },
+  {
+    "name": "Jorawar Ram",
+    "age": "69",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 22700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Ram",
+    "age": "52",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 843000,
+    "liabilities": 105000
+  },
+  {
+    "name": "Prayag Ram",
+    "age": "45",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 244200,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramji Paswan",
+    "age": "65",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6801000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Satyendra Kumar Paswan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10585000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Shravan Kumar Ravi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 955600,
+    "liabilities": 22000
+  },
+  {
+    "name": "Shyam Narayan Bhuiya",
+    "age": "61",
+    "party": "Bahujan Mukti Party",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 17130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushma Mehta",
+    "age": "40",
+    "party": "CPI(ML)(L)",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 3545751,
+    "liabilities": 412090
+  },
+  {
+    "name": "Uday Kumar Paswan",
+    "age": "0",
+    "party": "Jan Sangharsh Virat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 477000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Kumar Paswan",
+    "age": "34",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1000000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Vijay Kumar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2116596,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Ram",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 131000,
+    "liabilities": 0
+  }
+]

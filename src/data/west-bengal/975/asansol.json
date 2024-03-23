@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Abhishek Kumar Singh",
+    "age": "49",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8889200,
+    "liabilities": 6996000
+  },
+  {
+    "name": "Amarnath Chowdhury",
+    "age": "63",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10665432,
+    "liabilities": 0
+  },
+  {
+    "name": "Biswarup Mondal",
+    "age": "37",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10163408,
+    "liabilities": 2629771
+  },
+  {
+    "name": "Gouranga Chatterjee",
+    "age": "59",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 1618401,
+    "liabilities": 0
+  },
+  {
+    "name": "Kajal Banerjee",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13600,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Zahir Alam",
+    "age": "62",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1748,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandip Sarkar",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 11300,
+    "liabilities": 0
+  },
+  {
+    "name": "Sreemati (Moon Moon) Dev Varma (Sen)",
+    "age": "65",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 101582564,
+    "liabilities": 0
+  },
+  {
+    "name": "Swaraj Das",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1190695,
+    "liabilities": 40000
+  }
+]

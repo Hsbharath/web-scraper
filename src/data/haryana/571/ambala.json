@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Anil Kumar",
+    "age": "37",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1659500,
+    "liabilities": 910740
+  },
+  {
+    "name": "Arun Kumar",
+    "age": "46",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1695000,
+    "liabilities": 0
+  },
+  {
+    "name": "Beta Mam Chand Rattuwala",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2885000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jatinder Singh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 332945,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "55",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 38090737,
+    "liabilities": 73613
+  },
+  {
+    "name": "Prithvi Raj",
+    "age": "61",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 32258582,
+    "liabilities": 0
+  },
+  {
+    "name": "Puran Chand",
+    "age": "61",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajender Kumar Bhatli",
+    "age": "49",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1849779,
+    "liabilities": 76500
+  },
+  {
+    "name": "Ram Pal",
+    "age": "61",
+    "party": "INLD",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 4415779,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjeet Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 770000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rattan Lal",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2749348,
+    "liabilities": 412714
+  },
+  {
+    "name": "Rattan Lal Kataria",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 54361499,
+    "liabilities": 188861
+  },
+  {
+    "name": "Sandeep Singh",
+    "age": "26",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 645000,
+    "liabilities": 0
+  },
+  {
+    "name": "Selja",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 240508152,
+    "liabilities": 0
+  },
+  {
+    "name": "Suraj Bhan",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7368535,
+    "liabilities": 0
+  },
+  {
+    "name": "Suraj Bhan Narwal",
+    "age": "64",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15744841,
+    "liabilities": 800000
+  },
+  {
+    "name": "Suraj Kumar",
+    "age": "36",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Varun Kumar Jaglan",
+    "age": "32",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 426000,
+    "liabilities": 1236829
+  }
+]

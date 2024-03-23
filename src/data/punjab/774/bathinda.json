@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Harsimrat Kaur Badal",
+    "age": "52",
+    "party": "SAD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2179919870,
+    "liabilities": 954852600
+  },
+  {
+    "name": "Amrik Singh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 12174600,
+    "liabilities": 1366500
+  },
+  {
+    "name": "Amrinder Singh Raja Warring",
+    "age": "41",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 92906438,
+    "liabilities": 10422457
+  },
+  {
+    "name": "Baljinder Kumar Sangila",
+    "age": "55",
+    "party": "Socialist Party (India)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1147000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Bhagwant Singh Samaon",
+    "age": "40",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 57000,
+    "liabilities": 15000
+  },
+  {
+    "name": "Bhola Singh Sahota",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1265000,
+    "liabilities": 132386
+  },
+  {
+    "name": "Bhupinder Singh Bhainda Waring",
+    "age": "41",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 9580000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Dr. Jagsir Singh Mrar",
+    "age": "38",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 343279,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurcharan Singh",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 169000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurmail Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 862400,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurmeet Singh Insa",
+    "age": "49",
+    "party": "Punjab Labour Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 3730000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gursewak Singh",
+    "age": "58",
+    "party": "SAD (Amritsar)(Simranjit Singh Mann)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7086500,
+    "liabilities": 80000
+  },
+  {
+    "name": "Harpal Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8489000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Kartar Singh",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5299671,
+    "liabilities": 176080
+  },
+  {
+    "name": "Manjit Kaur",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 703000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Nahar Singh",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11160000,
+    "liabilities": 215319
+  },
+  {
+    "name": "Prof. Baljinder Kaur",
+    "age": "33",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10604926,
+    "liabilities": 345000
+  },
+  {
+    "name": "Prof. Lakhbir Singh",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 17706400,
+    "liabilities": 630818
+  },
+  {
+    "name": "Ranveer Singh Rana",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 250000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Rtd. Subedar Major Jagdev Singh Raipur",
+    "age": "50",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5510278,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Kumar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4066763,
+    "liabilities": 1412433
+  },
+  {
+    "name": "Sukhchain Singh Bhargav",
+    "age": "40",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1696334,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhpal Singh Khaira",
+    "age": "54",
+    "party": "Punjab Ekta Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 598746355,
+    "liabilities": 13836396
+  },
+  {
+    "name": "Surjeet Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 749400,
+    "liabilities": 0
+  },
+  {
+    "name": "Swarn Singh Dhaliwal",
+    "age": "34",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2834139,
+    "liabilities": 442600
+  },
+  {
+    "name": "Teja Singh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1178000,
+    "liabilities": 0
+  },
+  {
+    "name": "Veerpal Kaur",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 281700,
+    "liabilities": 590000
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Sunil Kumar Singh",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 226209137,
+    "liabilities": 1889051
+  },
+  {
+    "name": "Abdul Rajak Ansari",
+    "age": "64",
+    "party": "Sadan Vikas Party",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1645000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arjun Kumar",
+    "age": "40",
+    "party": "CPI",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 4518000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Arun Kumar Yadav",
+    "age": "51",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 4765200,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashutosh Kumar",
+    "age": "25",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7480000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ayub Kha",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1556148,
+    "liabilities": 40000
+  },
+  {
+    "name": "Bagendra Ram",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1033000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagalpuri Yadav",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3937000,
+    "liabilities": 75000
+  },
+  {
+    "name": "Dhananjay Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 670000,
+    "liabilities": 0
+  },
+  {
+    "name": "Duleshwar Saw",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 13193000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Jaidullah Ansari",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 6925000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Manoj Kumar Pandey",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14143740,
+    "liabilities": 5905032
+  },
+  {
+    "name": "Manoj Kumar Yadav",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 44186530,
+    "liabilities": 249224
+  },
+  {
+    "name": "Nageshwar Ganjhu",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 101166000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nand Lal Prasad Keshari",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6689000,
+    "liabilities": 2300000
+  },
+  {
+    "name": "Nandlal Prasad",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 16156581,
+    "liabilities": 450000
+  },
+  {
+    "name": "Pankaj Ranjan",
+    "age": "25",
+    "party": "Jharkhand Peoples Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4726929,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6830000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Pramod Toppo",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Sahu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 84976547,
+    "liabilities": 58992436
+  },
+  {
+    "name": "Ramanand Das",
+    "age": "51",
+    "party": "Bhartiya Sarvodaya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4390000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Rameshi Ram",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10725000,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Sagar Ram",
+    "age": "43",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5778100,
+    "liabilities": 43000
+  },
+  {
+    "name": "Shaukat Ali",
+    "age": "52",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1710000,
+    "liabilities": 550000
+  },
+  {
+    "name": "Subhash Prasad Yadav",
+    "age": "52",
+    "party": "RJD",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 53288310,
+    "liabilities": 5208407
+  },
+  {
+    "name": "Yogendra Yadav",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1905000,
+    "liabilities": 0
+  }
+]

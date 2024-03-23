@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Chudasama Rajeshbhai Naranbhai",
+    "age": "36",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 10866041,
+    "liabilities": 1481768
+  },
+  {
+    "name": "Bhut Ashokbhai Bhimjibhai",
+    "age": "66",
+    "party": "Rashtriya Samajwadi Party (Secular)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7882314,
+    "liabilities": 1361151
+  },
+  {
+    "name": "Deven Govindbhai Vanvi",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 503683,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmendra Vajubhai Makwana",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 295000,
+    "liabilities": 0
+  },
+  {
+    "name": "Haresh Manubhai Sardhara",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 769762,
+    "liabilities": 0
+  },
+  {
+    "name": "Karia Dhirenbhai Amrutlal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "28",
+    "education": "10th Pass",
+    "assets": 82928865,
+    "liabilities": 5796716
+  },
+  {
+    "name": "Panchabhai Bhayabhai Damaniya",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 870364,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradipbhai Mavjibhai Tank",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6767500,
+    "liabilities": 835000
+  },
+  {
+    "name": "Rathod Nathabhai Vasharambhai",
+    "age": "69",
+    "party": "Vyavastha Parivartan Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3825000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vala Jaypalsinh Hajabhai",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 299787,
+    "liabilities": 148824
+  },
+  {
+    "name": "Vansh Punjabhai Bhimabhai",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24571504,
+    "liabilities": 2788342
+  },
+  {
+    "name": "Zala Mukeshbhai Bharmalbhai",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 10572716,
+    "liabilities": 1878780
+  }
+]

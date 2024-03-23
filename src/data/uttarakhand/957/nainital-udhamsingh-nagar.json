@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ajay Bhatt",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19699529,
+    "liabilities": 0
+  },
+  {
+    "name": "Harish Rawat",
+    "age": "71",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 56735244,
+    "liabilities": 10712888
+  },
+  {
+    "name": "Jyoti Prakash Tamta",
+    "age": "65",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 11066282,
+    "liabilities": 0
+  },
+  {
+    "name": "Kailash Pandey",
+    "age": "47",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1255235,
+    "liabilities": 0
+  },
+  {
+    "name": "Navneet Agarwal",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 88443578,
+    "liabilities": 35352263
+  },
+  {
+    "name": "Prem Prasad Arya",
+    "age": "71",
+    "party": "Pragatisheel Lok Manch",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 709109,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukumar Vishwash",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2055399,
+    "liabilities": 0
+  }
+]

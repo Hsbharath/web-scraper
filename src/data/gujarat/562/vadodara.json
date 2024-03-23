@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Ranjanben Bhatt",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 29426428,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Rahul Vasudevbhai Vyas",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20924425,
+    "liabilities": 8389504
+  },
+  {
+    "name": "Gohil Rinku",
+    "age": "32",
+    "party": "Yuva Jan Jagriti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2899350,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Jat Subhas Singh Brijlal",
+    "age": "36",
+    "party": "All India Hindustan Congress Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2925000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohsimmiya(Saiyad Mohsin Bapu)",
+    "age": "58",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2136583,
+    "liabilities": 0
+  },
+  {
+    "name": "Nimesh Patel (Kamrol)",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2679190,
+    "liabilities": 3022000
+  },
+  {
+    "name": "Prashant Patel",
+    "age": "44",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 31042006,
+    "liabilities": 10938685
+  },
+  {
+    "name": "Rohit Madhusudan Mohanbhai",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9024000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Santosh S. Solanki",
+    "age": "30",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 847232,
+    "liabilities": 81774
+  },
+  {
+    "name": "Shri Patel Kalidas Motibhai",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 14994000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sindhi Mahebubkhan Yusufkhan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2651000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tapanbhai Dasgupta",
+    "age": "54",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1179289,
+    "liabilities": 0
+  },
+  {
+    "name": "Yasinali Polra",
+    "age": "47",
+    "party": "New All India Congress Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3363000,
+    "liabilities": 2014250
+  }
+]

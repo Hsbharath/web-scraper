@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Mohammad Sadique",
+    "age": "79",
+    "party": "INC",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 19793884,
+    "liabilities": 311043
+  },
+  {
+    "name": "Ajay Kumar",
+    "age": "40",
+    "party": "Indian Democratic Republican Front",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 366800,
+    "liabilities": 0
+  },
+  {
+    "name": "Amandeep Kaur",
+    "age": "29",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 68000,
+    "liabilities": 0
+  },
+  {
+    "name": "Badal Singh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 395000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baldev Singh",
+    "age": "61",
+    "party": "Punjab Ekta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7513896,
+    "liabilities": 1510708
+  },
+  {
+    "name": "Bhola Singh",
+    "age": "43",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 37127,
+    "liabilities": 0
+  },
+  {
+    "name": "Chanan Singh Wattu",
+    "age": "65",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5027102,
+    "liabilities": 0
+  },
+  {
+    "name": "Darshan Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 335000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Swarn Singh",
+    "age": "69",
+    "party": "Apna Samaj Party",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 110772000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Daljit Singh Chauhan",
+    "age": "37",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1539000,
+    "liabilities": 1014718
+  },
+  {
+    "name": "Gulzar Singh Ranike",
+    "age": "61",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 82957653,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagmeet Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3119000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaswinder Singh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 351500,
+    "liabilities": 80000
+  },
+  {
+    "name": "Nanak Singh Chauhan",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1507584,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Parkash",
+    "age": "42",
+    "party": "Bhartiya Janraj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 61000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parminder Singh",
+    "age": "40",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35014,
+    "liabilities": 0
+  },
+  {
+    "name": "Prof. Sadhu Singh",
+    "age": "78",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15138283,
+    "liabilities": 3500000
+  },
+  {
+    "name": "Rajinder Kaur Safri",
+    "age": "36",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 470000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhdev Singh",
+    "age": "46",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1372000,
+    "liabilities": 0
+  },
+  {
+    "name": "Veerpal Kaur",
+    "age": "29",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1700200,
+    "liabilities": 75000
+  }
+]

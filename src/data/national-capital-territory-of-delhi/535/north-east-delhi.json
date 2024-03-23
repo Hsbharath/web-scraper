@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Manoj Tiwari",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 242817031,
+    "liabilities": 13618755
+  },
+  {
+    "name": "Abhinav Kumar",
+    "age": "32",
+    "party": "Sanyukt Vikas Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1167520,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Bhai",
+    "age": "35",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14088213,
+    "liabilities": 8750871
+  },
+  {
+    "name": "Amit Kumar Sharma",
+    "age": "43",
+    "party": "Sanjhi Virasat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2386000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amrender Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2590450,
+    "liabilities": 250000
+  },
+  {
+    "name": "Anil Kumar Yadav",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 222218,
+    "liabilities": 0
+  },
+  {
+    "name": "Anuruddh Kumar Dube",
+    "age": "39",
+    "party": "Bharat Lok Sewak Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 13345000,
+    "liabilities": 1820843
+  },
+  {
+    "name": "D Durga Prasad",
+    "age": "53",
+    "party": "Challengers Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 47138000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dan Bahadur Yadav",
+    "age": "43",
+    "party": "Bhartiya Janta Dal (Integrated)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4305100,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Pandey",
+    "age": "38",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 5433393,
+    "liabilities": 0
+  },
+  {
+    "name": "J. K. Jain",
+    "age": "61",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12182945,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahender Paswan",
+    "age": "41",
+    "party": "Mazdoor Kirayedar Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1857000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahfooj Khan",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 259000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Manager Chaurasiya",
+    "age": "51",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 903000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Akram",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 330057,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Hasan",
+    "age": "44",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 372000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Irfan",
+    "age": "41",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12463190,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh",
+    "age": "53",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 17285880,
+    "liabilities": 600000
+  },
+  {
+    "name": "Pradesh Kumar",
+    "age": "35",
+    "party": "Sarvodaya Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1102410,
+    "liabilities": 201238
+  },
+  {
+    "name": "Rajveer Singh",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 92354028,
+    "liabilities": 40746162
+  },
+  {
+    "name": "S N Singh",
+    "age": "72",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 28183644,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheila Dikshit",
+    "age": "81",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 49285773,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Vishvakarma",
+    "age": "47",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4502000,
+    "liabilities": 682000
+  },
+  {
+    "name": "Yogesh Swamy",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32514,
+    "liabilities": 0
+  }
+]

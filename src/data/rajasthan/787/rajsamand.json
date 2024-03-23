@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Diya Kumari",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 165984623,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhanwar Lal Kumawat",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 4681563,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhanwer Lal Mali",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1228828,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Prakash Tanwar",
+    "age": "44",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chenaram",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7374000,
+    "liabilities": 8851
+  },
+  {
+    "name": "Devkinandan (Kaka)",
+    "age": "76",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 251586733,
+    "liabilities": 18611248
+  },
+  {
+    "name": "Jitendra Kumar Khatik",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3548316,
+    "liabilities": 121498
+  },
+  {
+    "name": "Mishri Kathat",
+    "age": "67",
+    "party": "Indian Peoples Green Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Neeru Ram Kapri",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5745888,
+    "liabilities": 978024
+  },
+  {
+    "name": "Rakesh Choudhari (Rakesh Samdolav)",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1595000,
+    "liabilities": 0
+  }
+]

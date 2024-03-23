@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Kalyan Banerjee",
+    "age": "62",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 175968902,
+    "liabilities": 5522403
+  },
+  {
+    "name": "Avash Munshi",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 368754,
+    "liabilities": 0
+  },
+  {
+    "name": "Debabrata Biswas",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21640220,
+    "liabilities": 0
+  },
+  {
+    "name": "Debjit Sarkar",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "9",
+    "education": "Graduate Professional",
+    "assets": 3523068,
+    "liabilities": 0
+  },
+  {
+    "name": "Kashinath Murmu",
+    "age": "58",
+    "party": "Indian Unity Centre",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 275830,
+    "liabilities": 0
+  },
+  {
+    "name": "Lachman Rajak",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5843225,
+    "liabilities": 0
+  },
+  {
+    "name": "Mangal Sarkar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1740000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhash Chandra Kar",
+    "age": "61",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 600000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradyut Chowdhuri",
+    "age": "65",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12096,
+    "liabilities": 0
+  },
+  {
+    "name": "Swapan Manna",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tirthankar Ray",
+    "age": "44",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 289956,
+    "liabilities": 28000
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Gurjeet Singh Aujla",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 34011739,
+    "liabilities": 9031565
+  },
+  {
+    "name": "Bal Krishan",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 33077070,
+    "liabilities": 725697
+  },
+  {
+    "name": "Balwinder Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 98000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chain Singh Bainka",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chand Kumar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 116000,
+    "liabilities": 0
+  },
+  {
+    "name": "Daswinder Kaur",
+    "age": "55",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 661000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gagandeep Kumar",
+    "age": "37",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16139099,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 36000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hardeep Singh Puri",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 340505737,
+    "liabilities": 57940950
+  },
+  {
+    "name": "Harjinder Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 16000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaspal Singh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 431000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kabal Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 499000,
+    "liabilities": 27190
+  },
+  {
+    "name": "Kashmir Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1601000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kawaljit Singh Sahota",
+    "age": "39",
+    "party": "Bahujan Samaj Party (Ambedkar)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 282275,
+    "liabilities": 0
+  },
+  {
+    "name": "Kewal Krishan",
+    "age": "63",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2200000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Kuldip Singh Dhaliwal",
+    "age": "58",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14878922,
+    "liabilities": 2789687
+  },
+  {
+    "name": "Lakhwinder Singh Sidhu",
+    "age": "58",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 131750,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohinder Singh",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohinder Singh Namdhari",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Singh",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 176000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjeev Kumar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4641000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Sarabjit Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2786000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satnam Singh",
+    "age": "30",
+    "party": "Democratic Party of India (Ambedkar)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 48000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sham Lal Gandhiwadi",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 35842,
+    "liabilities": 0
+  },
+  {
+    "name": "Shamsher Singh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2142910,
+    "liabilities": 0
+  },
+  {
+    "name": "Shubham Kumar",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 16000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suman Singh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 16000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Bhatti",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 331000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Mattu",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surjit Singh",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1026000,
+    "liabilities": 0
+  }
+]

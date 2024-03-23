@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Ram Charan Bohra",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 165322707,
+    "liabilities": 22000000
+  },
+  {
+    "name": "Babita Wadhwani",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1831323,
+    "liabilities": 2000
+  },
+  {
+    "name": "Bhanwar Lal Joshi",
+    "age": "45",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 950000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Haripal Bairwa",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7070000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti Khandelwal",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 7959622,
+    "liabilities": 2150000
+  },
+  {
+    "name": "Kailash Chand Jagarwal",
+    "age": "38",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamal Bhargav",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1563604,
+    "liabilities": 250200
+  },
+  {
+    "name": "Kuldeep Singh",
+    "age": "33",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2143545,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Joshi",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 75273662,
+    "liabilities": 80000
+  },
+  {
+    "name": "P. Trilok Tiwari (Trilok Tiwari)",
+    "age": "58",
+    "party": "Rashtriya Samta Vikas Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 283500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Patel",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 180611,
+    "liabilities": 0
+  },
+  {
+    "name": "Prashant Saini",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 205000,
+    "liabilities": 0
+  },
+  {
+    "name": "R. S. Meena Kalky",
+    "age": "67",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 25914431,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Charan Joshi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1668000,
+    "liabilities": 24000
+  },
+  {
+    "name": "Ram Janki Swami",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 12226802,
+    "liabilities": 2482754
+  },
+  {
+    "name": "Ramlal Dhanaka",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 12788134,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Garg",
+    "age": "54",
+    "party": "Swarna Bharat Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 27432694,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Sharad Chand Jain",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3072500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shobhal Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4930000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umrao Salodia",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 37943644,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar Varma",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6962339,
+    "liabilities": 0
+  },
+  {
+    "name": "Virad Singla",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 440951,
+    "liabilities": 29194
+  },
+  {
+    "name": "Yakub Khan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 515000,
+    "liabilities": 0
+  },
+  {
+    "name": "Yogesh Sharma",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  }
+]

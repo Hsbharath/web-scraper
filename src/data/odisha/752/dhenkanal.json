@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mahesh Sahoo",
+    "age": "58",
+    "party": "BJD",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 14529286,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijaya Kumar Behera",
+    "age": "48",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2554667,
+    "liabilities": 432000
+  },
+  {
+    "name": "Manasi Swain",
+    "age": "36",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2844930,
+    "liabilities": 2025000
+  },
+  {
+    "name": "Pradyumna Kumar Naik",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 405000,
+    "liabilities": 0
+  },
+  {
+    "name": "Priyabrata Garnaik",
+    "age": "39",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4198300,
+    "liabilities": 320000
+  },
+  {
+    "name": "Raja Kamakhya Prasad Singh Deo",
+    "age": "77",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 154100240,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjan Kumar Sahoo",
+    "age": "49",
+    "party": "Bhartiya Manvadhikaar Federal Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 592931,
+    "liabilities": 0
+  },
+  {
+    "name": "Rudranarayan Pany",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 3628704,
+    "liabilities": 0
+  },
+  {
+    "name": "Saroj Kumar Satpathy",
+    "age": "47",
+    "party": "Samata Kranti Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96702,
+    "liabilities": 0
+  }
+]

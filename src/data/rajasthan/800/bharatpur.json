@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ranjeeta Kumari",
+    "age": "39",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3117190,
+    "liabilities": 0
+  },
+  {
+    "name": "Abhijeet Kumar",
+    "age": "59",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 133045865,
+    "liabilities": 28346352
+  },
+  {
+    "name": "Ghanshyam Singh Yadav",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19592100,
+    "liabilities": 0
+  },
+  {
+    "name": "Mangal Ram Godra",
+    "age": "68",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1381000,
+    "liabilities": 0
+  },
+  {
+    "name": "Purushottam Lal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1009287,
+    "liabilities": 220000
+  },
+  {
+    "name": "Sunil",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surajmal",
+    "age": "56",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15896000,
+    "liabilities": 1265000
+  },
+  {
+    "name": "Tejveer Singh",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 258000,
+    "liabilities": 0
+  }
+]

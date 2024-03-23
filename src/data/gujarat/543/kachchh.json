@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chavda Vinod Lakhamshi",
+    "age": "40",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 33508455,
+    "liabilities": 12458607
+  },
+  {
+    "name": "Babulal Amarshi Vaghela",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chavda Pravinbhai Chanabhai",
+    "age": "50",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1420000,
+    "liabilities": 750547
+  },
+  {
+    "name": "Dhirubhai Babulal Shrimali",
+    "age": "50",
+    "party": "New All India Congress Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 37500,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakhubhai Vaghela",
+    "age": "51",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 825650,
+    "liabilities": 0
+  },
+  {
+    "name": "Maheshwari Devjibhai Vachhiyabhai",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 5128027,
+    "liabilities": 1420000
+  },
+  {
+    "name": "Maru Manisha Bharat",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 327000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meghval Bhimjibhai Bhikhabhai",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 756102,
+    "liabilities": 393950
+  },
+  {
+    "name": "Naresh Naranbhai Maheshwari",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3813627,
+    "liabilities": 144294
+  },
+  {
+    "name": "Sondarva Baluben Maheshbhai",
+    "age": "47",
+    "party": "Rashtriya Power Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 831660,
+    "liabilities": 0
+  }
+]

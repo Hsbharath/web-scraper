@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Suresh Pujari",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11673429,
+    "liabilities": 0
+  },
+  {
+    "name": "Kousika Suna",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 996500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kulamani Urma",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50159,
+    "liabilities": 0
+  },
+  {
+    "name": "M D Nizamuddin",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1360674,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar Debta",
+    "age": "51",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 51024740,
+    "liabilities": 13451459
+  },
+  {
+    "name": "Prasanna Acharya",
+    "age": "69",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 90051634,
+    "liabilities": 3227600
+  }
+]

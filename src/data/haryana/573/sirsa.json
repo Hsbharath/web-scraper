@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Sunita Duggal",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 42596349,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Angrej Singh Alahi",
+    "age": "41",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1460000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ankur Gill",
+    "age": "27",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1190000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Ashok Tanwar",
+    "age": "43",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 64311703,
+    "liabilities": 7489962
+  },
+  {
+    "name": "Brij Pal Balmiki",
+    "age": "47",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5610000,
+    "liabilities": 0
+  },
+  {
+    "name": "Charanjeet Singh Rori",
+    "age": "49",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10601527,
+    "liabilities": 4446477
+  },
+  {
+    "name": "Dalip Luna",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 367071,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 438099,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Rajesh Mehandia",
+    "age": "44",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 3122910,
+    "liabilities": 36000
+  },
+  {
+    "name": "Hira Singh Hanspur",
+    "age": "47",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 270690,
+    "liabilities": 60000
+  },
+  {
+    "name": "Janak Raj Atwal",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18517000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Jaswant",
+    "age": "41",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1015000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Kashmir Chand Oad",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14323000,
+    "liabilities": 445000
+  },
+  {
+    "name": "Nirmal Singh",
+    "age": "37",
+    "party": "Jannayak Janta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1805374,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajender Sirsa",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 690377,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Chaubara",
+    "age": "39",
+    "party": "Revolutionary Marxist Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 181500,
+    "liabilities": 0
+  },
+  {
+    "name": "Surajmal Athwal",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11004576,
+    "liabilities": 394000
+  },
+  {
+    "name": "Surender Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 206000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar Sirkiband (Gihara)",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Virender Singh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 855330,
+    "liabilities": 0
+  }
+]

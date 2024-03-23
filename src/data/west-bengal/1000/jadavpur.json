@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Mimi Chakraborty",
+    "age": "30",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24398786,
+    "liabilities": 1900788
+  },
+  {
+    "name": "Anupam Hazra",
+    "age": "37",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 13431986,
+    "liabilities": 0
+  },
+  {
+    "name": "Anuradha Putatunda",
+    "age": "64",
+    "party": "Party for Democratic Socialism",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2855000,
+    "liabilities": 491636
+  },
+  {
+    "name": "Atanu Chatterjee",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 710585,
+    "liabilities": 0
+  },
+  {
+    "name": "Bikash Ranjan Bhattacharyya",
+    "age": "68",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 120034163,
+    "liabilities": 24358926
+  },
+  {
+    "name": "Bimal Krishna Mandal",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4575270,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Nazrul Islam",
+    "age": "65",
+    "party": "Mulnibasi Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13513045,
+    "liabilities": 1629908
+  },
+  {
+    "name": "Gopal Naskar",
+    "age": "45",
+    "party": "Rashtriya Janasachetan Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 164100,
+    "liabilities": 0
+  },
+  {
+    "name": "Kartick Naskar",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 24008000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kartik Kayal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2103111,
+    "liabilities": 0
+  },
+  {
+    "name": "Mangal Kumar Sardar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 141661,
+    "liabilities": 0
+  },
+  {
+    "name": "Rupa Khan",
+    "age": "50",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16720763,
+    "liabilities": 11000
+  },
+  {
+    "name": "Sujata Banerjee",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 3367262,
+    "liabilities": 0
+  }
+]

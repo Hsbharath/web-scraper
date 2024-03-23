@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Kishan Kapoor",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 85841247,
+    "liabilities": 3605161
+  },
+  {
+    "name": "Bhachan Singh Rana",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 58283642,
+    "liabilities": 11501000
+  },
+  {
+    "name": "Chander Bhan",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 35000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Col. Narinder Singh Pathania",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2408115,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Sanjiv Guleria",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6237054,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Swaroop Singh Rana",
+    "age": "58",
+    "party": "Swabhiman Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 39886000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kehar Singh",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 79500000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Nisha Katoch",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2633000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Pawan Kumar Kajal",
+    "age": "45",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 79478472,
+    "liabilities": 6642582
+  },
+  {
+    "name": "Prem Chand Vishvakarma",
+    "age": "67",
+    "party": "Navbharat Ekta Dal",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 55606573,
+    "liabilities": 5130000
+  },
+  {
+    "name": "Subhash Chand",
+    "age": "70",
+    "party": "Himachal Jan Kranti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4729423,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Jugal Kishore",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 56481801,
+    "liabilities": 350040219
+  },
+  {
+    "name": "Ajay Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 179279000,
+    "liabilities": 3354000
+  },
+  {
+    "name": "Anil Singh",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Badri Nath",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 36010000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bahadur",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4466781,
+    "liabilities": 4500000
+  },
+  {
+    "name": "Balwan Singh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5535000,
+    "liabilities": 0
+  },
+  {
+    "name": "Er. Ghulam Mustafa Chowdhary",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 19050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gursagar Singh",
+    "age": "39",
+    "party": "Navarang Congress Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 45400000,
+    "liabilities": 3530000
+  },
+  {
+    "name": "Javaid Ahmed",
+    "age": "37",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2207000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lal Singh",
+    "age": "60",
+    "party": "Dogra Swabhiman Sangathan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20355810,
+    "liabilities": 1950000
+  },
+  {
+    "name": "Manish Sahni",
+    "age": "50",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11807830,
+    "liabilities": 1290000
+  },
+  {
+    "name": "Mohd Younis",
+    "age": "54",
+    "party": "Jammu & Kashmir Pir Panjal Awami Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 930000,
+    "liabilities": 0
+  },
+  {
+    "name": "Perseen Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prof. Bhim Singh",
+    "age": "78",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 84000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajiv Chuni",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 38111801,
+    "liabilities": 7062479
+  },
+  {
+    "name": "Raman Bhalla",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 59272009,
+    "liabilities": 6805874
+  },
+  {
+    "name": "Sakander Ahmad Nourani",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 421000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Poonchi",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5444000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shazad Shabnam",
+    "age": "27",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 54014426,
+    "liabilities": 25000000
+  },
+  {
+    "name": "Subash Chander",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7480000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushil Kumar",
+    "age": "46",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18410778,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Aqib Hussain",
+    "age": "27",
+    "party": "Independent Peoples Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3768800,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Zeshan Haider",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tarseem Lal Khullar",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22727379,
+    "liabilities": 398639
+  }
+]

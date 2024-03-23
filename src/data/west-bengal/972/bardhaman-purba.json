@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sunil Kumar Mondal",
+    "age": "61",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20371283,
+    "liabilities": 148598
+  },
+  {
+    "name": "Biplab Mistri",
+    "age": "49",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7383499,
+    "liabilities": 3249000
+  },
+  {
+    "name": "Iswar Chandra Das",
+    "age": "58",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 5892873,
+    "liabilities": 2811235
+  },
+  {
+    "name": "Mukul Biswas",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4427500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmal Majhi",
+    "age": "37",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 19324,
+    "liabilities": 0
+  },
+  {
+    "name": "Paresh Chandra Das",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 30401786,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddhartha Majumdar",
+    "age": "37",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2437669,
+    "liabilities": 513425
+  }
+]

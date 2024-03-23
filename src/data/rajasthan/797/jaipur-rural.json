@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Col. Rajyavardhan Rathore",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 127808070,
+    "liabilities": 0
+  },
+  {
+    "name": "Banwari Lal",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3107300,
+    "liabilities": 768000
+  },
+  {
+    "name": "Krishna Poonia",
+    "age": "41",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 35999524,
+    "liabilities": 4327330
+  },
+  {
+    "name": "Rajendra Kumar",
+    "age": "43",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2691000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Ram Niwas",
+    "age": "48",
+    "party": "Bharat Rakshak Party (Democratic)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 732000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Singh Kasana",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7000000,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Vinod Sharma",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6377800,
+    "liabilities": 180000
+  },
+  {
+    "name": "Virender Singh",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 103202500,
+    "liabilities": 4500000
+  }
+]

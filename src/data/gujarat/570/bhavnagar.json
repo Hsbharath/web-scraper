@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dr.Bharatiben Dhirubhai Shiyal",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 17753161,
+    "liabilities": 3689036
+  },
+  {
+    "name": "Champaben Zaverbhai Chauhan",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3771365,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Ajaykumar Ramratansinh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 3646057,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhapa Dharamshibhai Ramjibhai",
+    "age": "45",
+    "party": "Vyavastha Parivartan Party",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 3060000,
+    "liabilities": 177000
+  },
+  {
+    "name": "Hareshbhai Babubhai Vegad",
+    "age": "35",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 7415000,
+    "liabilities": 3700000
+  },
+  {
+    "name": "Manharbhai Nagjibhai Patel",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75961835,
+    "liabilities": 5595198
+  },
+  {
+    "name": "Sitapara Sagarbhai Bhurabhai",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 705104,
+    "liabilities": 0
+  },
+  {
+    "name": "Sondarva Bharatbhai Kanjibhai",
+    "age": "40",
+    "party": "Sardar Vallabhbhai Patel Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1750000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Vijaykumar Ramabhai Makadiya",
+    "age": "33",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Zala Ramdevsinh Bharatsinh",
+    "age": "32",
+    "party": "Jan Sangharsh Virat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2220000,
+    "liabilities": 0
+  }
+]

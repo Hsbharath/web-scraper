@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Hasnain Masoodi",
+    "age": "65",
+    "party": "Jammu & Kashmir National Conference",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 87620672,
+    "liabilities": 0
+  },
+  {
+    "name": "Ali Mohammad Wani",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ch. Zaffar Ali",
+    "age": "60",
+    "party": "Jammu & Kashmir People Conference",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 23265829,
+    "liabilities": 202000
+  },
+  {
+    "name": "Gh. Mohd. Wani",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ghulam Ahmad Mir",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 140146018,
+    "liabilities": 0
+  },
+  {
+    "name": "Imtiyaz Ahmad Rather",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 790000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kyasir Ahmad Sheikh",
+    "age": "31",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 250000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Manzoor Ahmad Khan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mehbooba Mufti",
+    "age": "59",
+    "party": "Jammu & Kashmir Peoples Democratic Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 8903857,
+    "liabilities": 0
+  },
+  {
+    "name": "Mirza Sajad Hussain Beigh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nisar Ahmad Wani",
+    "age": "36",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ridwana Sanam",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4900000,
+    "liabilities": 0
+  },
+  {
+    "name": "Riyaz Ahmad Bhat",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar Dhar",
+    "age": "51",
+    "party": "Manvadhikar National Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 355000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shams Khwaja",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 44240,
+    "liabilities": 20500000
+  },
+  {
+    "name": "Sofi Yousuf",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 11710000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surinder Singh",
+    "age": "60",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8090000,
+    "liabilities": 0
+  },
+  {
+    "name": "Zubair Masoodi",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1150000,
+    "liabilities": 1487848
+  }
+]

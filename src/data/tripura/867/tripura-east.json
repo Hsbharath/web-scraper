@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rebati Tripura",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1948315,
+    "liabilities": 0
+  },
+  {
+    "name": "Amar Debbarma",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 744404,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijoy Debbarma",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4725000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chitta Ranjan Debbarma",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15320763,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipti Halam",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1040000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Jitendra Chaudhury",
+    "age": "60",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 22751748,
+    "liabilities": 1120000
+  },
+  {
+    "name": "Karnadhan Chakma",
+    "age": "47",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 120590,
+    "liabilities": 0
+  },
+  {
+    "name": "Maharaj Kumari Pragya Debburman",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 69244661,
+    "liabilities": 576370
+  },
+  {
+    "name": "Narendra Chandra Debbarma",
+    "age": "76",
+    "party": "Indigenousn Peoples Front Of Tripura",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12289807,
+    "liabilities": 0
+  },
+  {
+    "name": "Subir Kumar Jamatia",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4000000,
+    "liabilities": 0
+  }
+]

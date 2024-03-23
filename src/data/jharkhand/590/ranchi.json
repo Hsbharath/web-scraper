@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Sanjay Seth",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14044267,
+    "liabilities": 100000
+  },
+  {
+    "name": "Alok Kumar",
+    "age": "26",
+    "party": "Rashtriya Jansangharsh Swaraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amar Kumar Mahto",
+    "age": "29",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4880000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anjani Pandey",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bidyadhar Prasad",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19425000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jay Prakash Prasad",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5258000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Thakur",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 11506560,
+    "liabilities": 0
+  },
+  {
+    "name": "Nand Kishor Yadav",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2850413,
+    "liabilities": 18000
+  },
+  {
+    "name": "Parmeshwar Mahto",
+    "age": "31",
+    "party": "Jharkhand Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1403787,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 955551,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Thapa",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 100800,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Mahto",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2007000,
+    "liabilities": 178000
+  },
+  {
+    "name": "Ram Tahal. Choudhary",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 45998584,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramjit Mahto",
+    "age": "38",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3000000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Ranjit Mahto",
+    "age": "54",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1672800,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Singh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6242098,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sidheshwar Singh",
+    "age": "72",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 819326,
+    "liabilities": 0
+  },
+  {
+    "name": "Subodh Kant Sahay",
+    "age": "67",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 73566185,
+    "liabilities": 11873779
+  },
+  {
+    "name": "Sunita Munda",
+    "age": "28",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 265000,
+    "liabilities": 20000
+  },
+  {
+    "name": "Vikas Chandra Sharma",
+    "age": "40",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 112000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jasvantsinh Sumanbhai Bhabhor",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 27070480,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhabhor Dhulabhai Ditabhai",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 71845,
+    "liabilities": 0
+  },
+  {
+    "name": "Damor Manabhai Bhavsing",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 675000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Devadha Samsubhai Khatarabhai",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdishbhai Manilal Meda",
+    "age": "39",
+    "party": "Bharatiya National Janta Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalara Ramsingbhai Nanjibhai",
+    "age": "47",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 283616,
+    "liabilities": 0
+  },
+  {
+    "name": "Katara Babubhai Khimabhai",
+    "age": "58",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 48020539,
+    "liabilities": 2490502
+  }
+]

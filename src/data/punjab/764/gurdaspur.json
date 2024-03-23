@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Ajay Singh Dharmendra Deol (Sunny Deol)",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 871925679,
+    "liabilities": 534644785
+  },
+  {
+    "name": "Amandeep Singh Ghotra",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2706333,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashwani Kumar",
+    "age": "35",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 315000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harpreet Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 320000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasbir Singh",
+    "age": "33",
+    "party": "Bahujan Samaj Party (Ambedkar)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 251000,
+    "liabilities": 0
+  },
+  {
+    "name": "Karam Singh",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1640000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kasim Deen",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 146300,
+    "liabilities": 0
+  },
+  {
+    "name": "Lal Chand",
+    "age": "49",
+    "party": "Revolutionary Marxist Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 406299,
+    "liabilities": 25000
+  },
+  {
+    "name": "Mangalsingh",
+    "age": "41",
+    "party": "Democratic Party of India",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 383000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parampreet Singh",
+    "age": "25",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "Peter Masih",
+    "age": "37",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2768778,
+    "liabilities": 777377
+  },
+  {
+    "name": "Pritam Singh Bhatti",
+    "age": "63",
+    "party": "Janral Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2771500,
+    "liabilities": 736098
+  },
+  {
+    "name": "Sukrit Sharda",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3333000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar Jakhar",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 251762701,
+    "liabilities": 0
+  },
+  {
+    "name": "Yash Paul",
+    "age": "30",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 513185,
+    "liabilities": 0
+  }
+]

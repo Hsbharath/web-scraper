@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Arjun Munda",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 91507865,
+    "liabilities": 27106434
+  },
+  {
+    "name": "Abinashi Mundu",
+    "age": "35",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1130569,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Topno",
+    "age": "50",
+    "party": "Jharkhand Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8191682,
+    "liabilities": 0
+  },
+  {
+    "name": "Indumati Mundu",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1323000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Kali Charan Munda",
+    "age": "57",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5111665,
+    "liabilities": 0
+  },
+  {
+    "name": "Meenakshi Munda",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 13477647,
+    "liabilities": 851103
+  },
+  {
+    "name": "Munna Baraik",
+    "age": "26",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2570785,
+    "liabilities": 0
+  },
+  {
+    "name": "Neel Justin Beck",
+    "age": "47",
+    "party": "Bharatiya Minorities Suraksha Mahasangh",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 258000,
+    "liabilities": 132000
+  },
+  {
+    "name": "Niyaran Herenj",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1942000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sibil Kandulna",
+    "age": "64",
+    "party": "Rashtriya Sangail Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4628483,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhram Herenj",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 125500,
+    "liabilities": 0
+  }
+]

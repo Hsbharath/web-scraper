@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Preneet Kaur",
+    "age": "74",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 635973757,
+    "liabilities": 42453369
+  },
+  {
+    "name": "Ajaib Singh",
+    "age": "45",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1235000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amarpreet Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2501972,
+    "liabilities": 850661
+  },
+  {
+    "name": "Ashwani Kumar",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3244893,
+    "liabilities": 0
+  },
+  {
+    "name": "Baldeep Singh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 5115197,
+    "liabilities": 450000
+  },
+  {
+    "name": "Banwari Lal",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4391000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Dharam Vira Gandhi",
+    "age": "68",
+    "party": "Nawan Punjab Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 44984048,
+    "liabilities": 110000
+  },
+  {
+    "name": "Gurnam Singh",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 22647000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harbhajan Singh Virk",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 24144336,
+    "liabilities": 0
+  },
+  {
+    "name": "Harpal Singh",
+    "age": "61",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2437000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagmail Singh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasbir Singh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 22706000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kshmakant Pandey",
+    "age": "46",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1015205,
+    "liabilities": 475000
+  },
+  {
+    "name": "Lal Chand",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 362982,
+    "liabilities": 61250
+  },
+  {
+    "name": "Makhan Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 10955000,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Manjeet Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6179640,
+    "liabilities": 887000
+  },
+  {
+    "name": "Mohan Lal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 629353,
+    "liabilities": 0
+  },
+  {
+    "name": "Neena Mittal",
+    "age": "47",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 65098945,
+    "liabilities": 17876777
+  },
+  {
+    "name": "Parminder Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5148844,
+    "liabilities": 235000
+  },
+  {
+    "name": "Parveen Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2515000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5555006,
+    "liabilities": 750000
+  },
+  {
+    "name": "Randhir Singh Khangura",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1960500,
+    "liabilities": 256646
+  },
+  {
+    "name": "Rishabh Sharma",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1686400,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Lal",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2187000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Surjit Singh Rakhra",
+    "age": "68",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 184375011,
+    "liabilities": 6709821
+  }
+]

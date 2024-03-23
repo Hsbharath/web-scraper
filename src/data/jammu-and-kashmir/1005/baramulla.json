@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mohammad Akbar Lone",
+    "age": "71",
+    "party": "Jammu & Kashmir National Conference",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 597434000,
+    "liabilities": 104935
+  },
+  {
+    "name": "Abdul Qayoom Wani",
+    "age": "59",
+    "party": "Jammu & Kashmir Peoples Democratic Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16556983,
+    "liabilities": 473600
+  },
+  {
+    "name": "Engineer Rashid",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 8000000,
+    "liabilities": 6000000
+  },
+  {
+    "name": "Haji Farooq Ahmad Mir",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12777435,
+    "liabilities": 0
+  },
+  {
+    "name": "Jahangir Khan",
+    "age": "46",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 215000,
+    "liabilities": 0
+  },
+  {
+    "name": "Javid Ahmad Qureshi",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Maqbool War",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11320000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raja Aijaz Ali",
+    "age": "67",
+    "party": "Jammu & Kashmir People Conference",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 176868487,
+    "liabilities": 848606
+  },
+  {
+    "name": "Syed Najeeb Shah Naqvi",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10050737,
+    "liabilities": 6786855
+  }
+]

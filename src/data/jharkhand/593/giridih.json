@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Chandra Prakash Choudhary",
+    "age": "50",
+    "party": "AJSU Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 13456889,
+    "liabilities": 1330000
+  },
+  {
+    "name": "Ahmad Ansari",
+    "age": "57",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 290000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Jani",
+    "age": "38",
+    "party": "Uttar Pradesh Navnirman Sena",
+    "criminal": "9",
+    "education": "Graduate Professional",
+    "assets": 6800000,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Chandra Deo Prasad",
+    "age": "37",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2102000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dwaraka Prasad Lala",
+    "age": "68",
+    "party": "RPI(A)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 9641678,
+    "liabilities": 403300
+  },
+  {
+    "name": "Jagarnath Mahto",
+    "age": "52",
+    "party": "JMM",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 19570591,
+    "liabilities": 8156343
+  },
+  {
+    "name": "Jogeshwar Thakur",
+    "age": "41",
+    "party": "Vishva SHakti Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 4258200,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Sudan",
+    "age": "63",
+    "party": "Jharkhand Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8655000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Rajendra Dasaundhi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 657329,
+    "liabilities": 0
+  },
+  {
+    "name": "Rasul Baksh",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 16481200,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjeev Kumar Mahato",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1830883,
+    "liabilities": 0
+  },
+  {
+    "name": "Shibu Singh",
+    "age": "46",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1698452,
+    "liabilities": 0
+  },
+  {
+    "name": "Simmi Suman",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10555000,
+    "liabilities": 5700000
+  },
+  {
+    "name": "Sohrab Shah",
+    "age": "56",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunita Tudu",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 16688140,
+    "liabilities": 1100000
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Shripad Yesso Naik",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 65795623,
+    "liabilities": 1491387
+  },
+  {
+    "name": "Aishwarya Arjun Salgaonkar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 234069,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Atmaram Korgaonkar",
+    "age": "40",
+    "party": "Republican Party of India (Kamble)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 363895,
+    "liabilities": 105000
+  },
+  {
+    "name": "Bhagawant Sadanand Kamat",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 23351423,
+    "liabilities": 440000
+  },
+  {
+    "name": "Dattatraya Vittal Padgaonkar",
+    "age": "59",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19819040,
+    "liabilities": 0
+  },
+  {
+    "name": "Girish Raya Chodankar",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14393879,
+    "liabilities": 1758927
+  }
+]

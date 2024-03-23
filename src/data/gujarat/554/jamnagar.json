@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Poonamben Hematbhai Maadam",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 427331034,
+    "liabilities": 98632194
+  },
+  {
+    "name": "Aamin Mamadbhai Safiya",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 46100,
+    "liabilities": 0
+  },
+  {
+    "name": "Alimamad Palani",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 180000,
+    "liabilities": 38000
+  },
+  {
+    "name": "Amandbhai",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 460000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bathvar Nanji Amarshi",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baxi Mrudul Ashwinkumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 118500,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhanderi Amarshibhai Chhaganbhai",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 112734000,
+    "liabilities": 92475000
+  },
+  {
+    "name": "Bharat Ramjibhai Dagara",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 120400,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharkhani Karabhai Jivabhai",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 91000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Dhiraj Kantilal",
+    "age": "32",
+    "party": "IND",
+    "criminal": "7",
+    "education": "8th Pass",
+    "assets": 883500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chavada Ashok",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 71000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chavada Shamjibhai",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1666000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dalvadi Nakum Rasik Lalji",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6998443,
+    "liabilities": 3605798
+  },
+  {
+    "name": "Donga Jayantilal Arjanbhai",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12516500,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Jadeja Bhavnaba",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2941000,
+    "liabilities": 909062
+  },
+  {
+    "name": "Jahid Aavad Jami",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kachchhi Daudbhai Nathabhai",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 239000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kandoriya Mulubhai Ranmalbhai",
+    "age": "61",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 290828040,
+    "liabilities": 43838249
+  },
+  {
+    "name": "Makrani Ajazahmed",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 87000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nakum Narmadaben Khodalal",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 787108,
+    "liabilities": 89883
+  },
+  {
+    "name": "Popatputra Rafik Abubakar",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 136000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rabari Karshanbhai Jeshabhai",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1928903,
+    "liabilities": 1419300
+  },
+  {
+    "name": "Sahdevsinh Chudasama",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6700100,
+    "liabilities": 1165000
+  },
+  {
+    "name": "Sama Yusuf",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 366000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sapariya Vijaykumar Mansukhbhai",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2968835,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumbhania Aamin",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 65000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaghela Sunil Jethalal",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 104800,
+    "liabilities": 0
+  },
+  {
+    "name": "Vallabhbhai Chanabhai Sojitra",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1077500,
+    "liabilities": 0
+  }
+]

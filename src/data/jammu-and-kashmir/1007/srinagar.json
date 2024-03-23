@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Farooq Abdullah",
+    "age": "83",
+    "party": "Jammu & Kashmir National Conference",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 121904435,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdual Rashid Ganie",
+    "age": "44",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 325000,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Khaliq Bhat",
+    "age": "40",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5025000,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Rashid Banday",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 19255000,
+    "liabilities": 0
+  },
+  {
+    "name": "Aga Syed Mohsin",
+    "age": "58",
+    "party": "Peoples Democratic Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bilal Sultan",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12356000,
+    "liabilities": 80000
+  },
+  {
+    "name": "Irfan Raza Ansari",
+    "age": "41",
+    "party": "Jammu & Kashmir People Conference",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 669198138,
+    "liabilities": 62371547
+  },
+  {
+    "name": "Nazir Ahmad Lone",
+    "age": "46",
+    "party": "Rashtriya Jankranti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6200000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Nazir Ahmad Sofi",
+    "age": "0",
+    "party": "Manvadhikar National Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4270000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Sajjad Ahmad Dar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheikh Khalid Jehangir",
+    "age": "0",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 45300000,
+    "liabilities": 3800000
+  },
+  {
+    "name": "Showkat Hussain Khan",
+    "age": "37",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7590000,
+    "liabilities": 0
+  }
+]

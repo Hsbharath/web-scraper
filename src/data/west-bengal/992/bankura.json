@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Subhas Kumar Sarkar",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 19799440,
+    "liabilities": 3261495
+  },
+  {
+    "name": "Abdul Rahim Mallik",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 977587,
+    "liabilities": 0
+  },
+  {
+    "name": "Amiya Patra",
+    "age": "67",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 7521446,
+    "liabilities": 0
+  },
+  {
+    "name": "Ananda Kumar Saren",
+    "age": "43",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 116000,
+    "liabilities": 0
+  },
+  {
+    "name": "Animesh Mal",
+    "age": "27",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 357097,
+    "liabilities": 58000
+  },
+  {
+    "name": "Bibhuti Sardar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3193060,
+    "liabilities": 100000
+  },
+  {
+    "name": "Gour Chandra (Akhan) Hembram",
+    "age": "46",
+    "party": "Jharkhand Peoples Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4680000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Mahadeb Bauri",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 470000,
+    "liabilities": 295380
+  },
+  {
+    "name": "Milan Mandi",
+    "age": "40",
+    "party": "IND",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 290750,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabir Banerjee",
+    "age": "49",
+    "party": "Jharkhand Anushilan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyamal Kumar Palit",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1853913,
+    "liabilities": 150000
+  },
+  {
+    "name": "Subhash Sarkar",
+    "age": "50",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 47485,
+    "liabilities": 0
+  },
+  {
+    "name": "Subrata Mukherjee",
+    "age": "72",
+    "party": "AITC",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 12235759,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukchand Saren",
+    "age": "58",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 800,
+    "liabilities": 0
+  },
+  {
+    "name": "Tanmay Mandal",
+    "age": "54",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6890389,
+    "liabilities": 1070000
+  }
+]

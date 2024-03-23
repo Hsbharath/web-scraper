@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Dayakar Pasnori",
+    "age": "51",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24889712,
+    "liabilities": 1428227
+  },
+  {
+    "name": "Aitha Praveen Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Barla Srinivas",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bochu Krupakar",
+    "age": "45",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bollapally Saraiah",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9666781,
+    "liabilities": 0
+  },
+  {
+    "name": "Bunga Jyothi Ramana",
+    "age": "45",
+    "party": "Aihra National Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1665000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Chiluveru Prathap",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Chintha Sambamurthy",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2503100,
+    "liabilities": 660000
+  },
+  {
+    "name": "Jannu Narsaiah",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 560000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kannam Venkanna",
+    "age": "42",
+    "party": "Marxist Communist Party of India (United)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 320000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paniganti Rajithavani",
+    "age": "46",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pasula Rammurthy",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sambaiah Dommati",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12211566,
+    "liabilities": 5552696
+  },
+  {
+    "name": "Suresh Kanakam",
+    "age": "46",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Upendar Jeripothula",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 650000,
+    "liabilities": 0
+  }
+]

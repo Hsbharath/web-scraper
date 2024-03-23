@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Parbhubhai Nagarbhai Vasava",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 28350217,
+    "liabilities": 3676869
+  },
+  {
+    "name": "Arvindbhai Bhanabhai Rathod",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 157500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chaudhari Tusharbhai Amarsinhbhai",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 69345867,
+    "liabilities": 0
+  },
+  {
+    "name": "Dineshbhai Gulabbhai Chaudhari",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 95000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gamit Kaushikbhai Virendrabhai",
+    "age": "43",
+    "party": "Sardar Vallabhbhai Patel Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 290000,
+    "liabilities": 62300
+  },
+  {
+    "name": "Gamit Mohanbhai Babubhai",
+    "age": "74",
+    "party": "Bahujan Republican Socialist Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2382000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gamit Sureshbhai Babubhai",
+    "age": "53",
+    "party": "Svatantra Bharat Satyagrah Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 365000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pragneshbhai Ratilal Chaudhari",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5420035,
+    "liabilities": 2050000
+  },
+  {
+    "name": "Sureshbhai Motiyabhai Chaudhari",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5615000,
+    "liabilities": 35000
+  },
+  {
+    "name": "Umedbhai Bhimsingbhai Gamit",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vasava Fatesingbhai Vahriyabhai",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 747750,
+    "liabilities": 0
+  },
+  {
+    "name": "Vasava Uttambhai Somabhai",
+    "age": "46",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 527000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Ramesh Bidhuri",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 180052708,
+    "liabilities": 2038454
+  },
+  {
+    "name": "Aditya Kumar Naveen",
+    "age": "34",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2044023,
+    "liabilities": 0
+  },
+  {
+    "name": "Birju Nayak",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4589741,
+    "liabilities": 130000
+  },
+  {
+    "name": "Dalbir Singh Malik",
+    "age": "56",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 69949801,
+    "liabilities": 5181183
+  },
+  {
+    "name": "Deepak Kumar",
+    "age": "41",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6254000,
+    "liabilities": 0
+  },
+  {
+    "name": "Desh Kumar",
+    "age": "56",
+    "party": "Akhil Bharatiya Jan Sangh",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 611000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Kumar",
+    "age": "44",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4856379,
+    "liabilities": 586000
+  },
+  {
+    "name": "Dr. Mahender Singh Churiyana",
+    "age": "61",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32015000,
+    "liabilities": 1150000
+  },
+  {
+    "name": "Dr. Suman Yadav",
+    "age": "42",
+    "party": "Jai Maha Bharath Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 24054066,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Harsh Nath Verma",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra",
+    "age": "40",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4392289,
+    "liabilities": 0
+  },
+  {
+    "name": "K Roshan Kumar",
+    "age": "53",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3217000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mathews",
+    "age": "63",
+    "party": "Bhartiya Insan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 592000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Kumar Gupta",
+    "age": "31",
+    "party": "Mazdoor Kirayedar Vikas Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1948254,
+    "liabilities": 0
+  },
+  {
+    "name": "Naise Khan",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 260500,
+    "liabilities": 0
+  },
+  {
+    "name": "Navanit",
+    "age": "40",
+    "party": "National Youth Party",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 94043,
+    "liabilities": 1150000
+  },
+  {
+    "name": "Raghav Chadha",
+    "age": "30",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1647954,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Prasad Gupta",
+    "age": "49",
+    "party": "Parivartan Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 278181,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Khelawan",
+    "age": "50",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2602100,
+    "liabilities": 108000
+  },
+  {
+    "name": "Roshan Kumar Choudhary",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 29000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep",
+    "age": "36",
+    "party": "Rashtriya Jan Adhikar Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1206152,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddhant Gautam",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7797516,
+    "liabilities": 900000
+  },
+  {
+    "name": "Sobran Singh Chauhan",
+    "age": "63",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5643963,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumedha Bodh",
+    "age": "35",
+    "party": "Jan Samman party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1378221,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2031247,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijender",
+    "age": "33",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 121525000,
+    "liabilities": 31967000
+  }
+]

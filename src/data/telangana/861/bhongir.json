@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Komatireddy Venakat Reddy",
+    "age": "55",
+    "party": "INC",
+    "criminal": "14",
+    "education": "12th Pass",
+    "assets": 162543845,
+    "liabilities": 24069129
+  },
+  {
+    "name": "Bheemanaboina Ramesh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 110000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Narsaiah Boora",
+    "age": "60",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 237458144,
+    "liabilities": 42963534
+  },
+  {
+    "name": "Goda Sriramulu",
+    "age": "54",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15799990,
+    "liabilities": 7265216
+  },
+  {
+    "name": "Kotha Kistaiah",
+    "age": "41",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1020000,
+    "liabilities": 0
+  },
+  {
+    "name": "Moorigaadi Krishna",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Padala Venkata Shyam Sunder Rao",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Post Graduate",
+    "assets": 323073107,
+    "liabilities": 49080220
+  },
+  {
+    "name": "Samrat Narender Boilla",
+    "age": "36",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3517000,
+    "liabilities": 11000
+  },
+  {
+    "name": "Sapavat Devaram",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 64986,
+    "liabilities": 0
+  },
+  {
+    "name": "Singapaka Lingam",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Sirivolu Venkata Ramana Rao",
+    "age": "52",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 290000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sriramulu Muthyala",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 322500,
+    "liabilities": 0
+  }
+]

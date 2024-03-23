@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kotha Prabhakar Reddy",
+    "age": "53",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1266581773,
+    "liabilities": 268266203
+  },
+  {
+    "name": "Anil Kumar Gali",
+    "age": "46",
+    "party": "INC",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 121568484,
+    "liabilities": 38100000
+  },
+  {
+    "name": "Bangaru Krishna",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 51000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharatesh",
+    "age": "42",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 42300,
+    "liabilities": 0
+  },
+  {
+    "name": "Gajabinkar Bansilal",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 510000,
+    "liabilities": 30000
+  },
+  {
+    "name": "Kallu Narsimlu Goud",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2728000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Madavaneni Raghunandan Rao",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 126488701,
+    "liabilities": 6900000
+  },
+  {
+    "name": "Madhava Reddy Gari Hanmantha Reddy",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1045000,
+    "liabilities": 350000
+  },
+  {
+    "name": "Merige Santhosh Reddy",
+    "age": "36",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 250000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Thummalapally Pruthviraj",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10428157,
+    "liabilities": 100000
+  }
+]

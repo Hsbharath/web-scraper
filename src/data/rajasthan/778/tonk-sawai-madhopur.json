@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sukhbir Singh Jaunapuria",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1233802420,
+    "liabilities": 0
+  },
+  {
+    "name": "Bajrang Lal Meena",
+    "age": "48",
+    "party": "Rashtriya Kranti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4115000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganesh Meena",
+    "age": "27",
+    "party": "Indian Peoples Green Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 245500,
+    "liabilities": 0
+  },
+  {
+    "name": "Laxmi Kant (Bairwa)",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 163853,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar",
+    "age": "48",
+    "party": "SHS",
+    "criminal": "4",
+    "education": "Literate",
+    "assets": 1015825000,
+    "liabilities": 100000000
+  },
+  {
+    "name": "Namonarayan",
+    "age": "75",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 46640598,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar Atal",
+    "age": "31",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Lata Banshiwal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": null,
+    "liabilities": 0
+  }
+]

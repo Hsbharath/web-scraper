@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Parbatbhai Patel",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41819177,
+    "liabilities": 4500000
+  },
+  {
+    "name": "Charmta Bharatkumar Khemabhai",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 763763,
+    "liabilities": 70000
+  },
+  {
+    "name": "Desai Ishvarbhai",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1253500,
+    "liabilities": 600000
+  },
+  {
+    "name": "Dr. Chandraben",
+    "age": "56",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 40641649,
+    "liabilities": 7060912
+  },
+  {
+    "name": "Jagdishji Parthiji Dharani",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 653714,
+    "liabilities": 105400
+  },
+  {
+    "name": "Madhu Nirupaben",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 351400,
+    "liabilities": 0
+  },
+  {
+    "name": "Padhiyar Bharatkumar Ishvarlal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 60100,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmar Chhaganchandraraj Dhanabhai",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4520750,
+    "liabilities": 0
+  },
+  {
+    "name": "Parsani Ibrahimbhai Pirabhai",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1366760,
+    "liabilities": 0
+  },
+  {
+    "name": "Parthibhai Galbabhai Bhatol",
+    "age": "75",
+    "party": "INC",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 40404078,
+    "liabilities": 2164385
+  },
+  {
+    "name": "Purohit Shyamaben Naranbhai",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2578000,
+    "liabilities": 2306381
+  },
+  {
+    "name": "Tejabhai Nethibhai Rabari",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 7985000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Thakor Melaji Madarsinh",
+    "age": "32",
+    "party": "Garvi Gujarat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 282029,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakor Swarupji Sardarji",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1705000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dabhi Bharatsinhji Shankarji",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 47373221,
+    "liabilities": 5613860
+  },
+  {
+    "name": "Abdulkudus Abdulmajid Molapiya",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 756000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhoraniya Soyabbhai Hasambhai",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2992000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chaudhari Kirtibhai Jesangbhai",
+    "age": "38",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3708786,
+    "liabilities": 300000
+  },
+  {
+    "name": "Chaudhari Shaileshkumar Kanjibhai",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1960000,
+    "liabilities": 0
+  },
+  {
+    "name": "Makwana Vaghabhai Maganbhai",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 390000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pandya Pravinkumar Tulsidas",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3940000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmar Surajkumar Mahendrakumar",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 906000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prajapati Jayantibhai Devabhai",
+    "age": "49",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 913425,
+    "liabilities": 419576
+  },
+  {
+    "name": "Rathod Govindbhai Bhikhabhai",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 190543,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakor Jagdishbhai",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22136618,
+    "liabilities": 0
+  },
+  {
+    "name": "Umedbhai Haribhai Nai",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2877000,
+    "liabilities": 0
+  }
+]

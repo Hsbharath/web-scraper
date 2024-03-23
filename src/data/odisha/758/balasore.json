@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Pratap Chandra Sarangi",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 1346236,
+    "liabilities": 160
+  },
+  {
+    "name": "Basantalata Pattanayak",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4650633,
+    "liabilities": 0
+  },
+  {
+    "name": "Haji Sk Abdul Istar",
+    "age": "51",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2521000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jadunath Sethi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3071295,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagannath Das",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1154900,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Alli",
+    "age": "54",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21321310,
+    "liabilities": 0
+  },
+  {
+    "name": "Navajyoti Patnaik",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1042005000,
+    "liabilities": 1079582000
+  },
+  {
+    "name": "Rabindra Kumar Jena",
+    "age": "51",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 726151097,
+    "liabilities": 63341667
+  },
+  {
+    "name": "Ramakanta Panda",
+    "age": "39",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramanath Barik",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2791001,
+    "liabilities": 30000
+  },
+  {
+    "name": "Saroj Kumar Panda",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 238072,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash",
+    "age": "26",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dr. Solanki Kiritbhai",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 89474039,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhitora Bhavesh Chimanbhai",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 66000,
+    "liabilities": 21000
+  },
+  {
+    "name": "Chauhan Harishbhai Jethabhai",
+    "age": "40",
+    "party": "Rashtriya Power Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3293451,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipika Jitendrakumar Sutaria",
+    "age": "49",
+    "party": "Manvadhikar National Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25570000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harshadkumar Laxmanbhai Solanki",
+    "age": "28",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 149586,
+    "liabilities": 0
+  },
+  {
+    "name": "Jadav Ulpesh Jyantilal",
+    "age": "37",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3666184,
+    "liabilities": 3116079
+  },
+  {
+    "name": "Mahedia Mahendrabhai Parsottamdas",
+    "age": "62",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 14182000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Malhotra Pankajkumar Dayabhai (Doctor Saheb)",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Parmar",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 262997727,
+    "liabilities": 18943977
+  },
+  {
+    "name": "Solanki Chiragbhai Somabhai",
+    "age": "59",
+    "party": "Jan Satya Path Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 447440,
+    "liabilities": 0
+  },
+  {
+    "name": "Tribhovandas Karsandas Vaghela",
+    "age": "66",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5354000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaghela Ashwinbhai Amrutbhai",
+    "age": "37",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 492329,
+    "liabilities": 0
+  },
+  {
+    "name": "Vedubhai Sirasat Kautikbhai",
+    "age": "47",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3300,
+    "liabilities": 0
+  }
+]

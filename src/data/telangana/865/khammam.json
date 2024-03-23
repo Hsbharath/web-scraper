@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Nama Nageswr Rao",
+    "age": "62",
+    "party": "TRS",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 1074671341,
+    "liabilities": 80721594
+  },
+  {
+    "name": "Avutapalli Rambabu",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 74950,
+    "liabilities": 0
+  },
+  {
+    "name": "Banoth Laxma Naik",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Boda Venkat",
+    "age": "54",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9611087,
+    "liabilities": 3185000
+  },
+  {
+    "name": "Devaki Vasudeva Rao",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 26300049,
+    "liabilities": 4686270
+  },
+  {
+    "name": "Dunuku Veladri",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 594217,
+    "liabilities": 0
+  },
+  {
+    "name": "Gokinapalli Venkateswarlu",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3968500,
+    "liabilities": 45000
+  },
+  {
+    "name": "Gopoju Ramesh Babu",
+    "age": "42",
+    "party": "Telangana Communist Party of India",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gugulothu Ramesh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 1440000,
+    "liabilities": 397000
+  },
+  {
+    "name": "Katta Srinivas",
+    "age": "46",
+    "party": "Yekikrutha Sankshema Rashtriya Praja Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1435000,
+    "liabilities": 0
+  },
+  {
+    "name": "Koppula Sreenivasa Rao",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 117400,
+    "liabilities": 305000
+  },
+  {
+    "name": "Lakavath Nageswara Rao",
+    "age": "27",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 792000,
+    "liabilities": 190000
+  },
+  {
+    "name": "Laxmana Chary Bhanala",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mutyam Arjuna Raju",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2450000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Nakirikanti Sanjeeva Rao",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2684500,
+    "liabilities": 747000
+  },
+  {
+    "name": "Narala Satyanarayana",
+    "age": "46",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2201365,
+    "liabilities": 590000
+  },
+  {
+    "name": "Palvancha Rama Rao",
+    "age": "65",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 13280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parsagani Nageswara Rao",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Renuka Chowdhury",
+    "age": "64",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 1131285724,
+    "liabilities": 116191184
+  },
+  {
+    "name": "Shankara Rao Gopagani",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6650000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Umamaheswara Rao Cherukupalli",
+    "age": "29",
+    "party": "Telangana Yuva Shakti",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7690000,
+    "liabilities": 1070000
+  },
+  {
+    "name": "Venkateshwar Rao Pullakandam",
+    "age": "57",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22816840,
+    "liabilities": 16176799
+  }
+]

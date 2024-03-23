@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Chauhan Devusinh",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 13023202,
+    "liabilities": 995240
+  },
+  {
+    "name": "Bhailalbhai Pandav",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bimalbhai Shah",
+    "age": "58",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 86398716,
+    "liabilities": 25512343
+  },
+  {
+    "name": "Chauhan Parsottambhai",
+    "age": "62",
+    "party": "Yuva Jan Jagriti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9100000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Patel Kamleshkumar",
+    "age": "54",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1549413,
+    "liabilities": 0
+  },
+  {
+    "name": "Pathan Aayashabanu",
+    "age": "48",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pathan Imtiyazkhan",
+    "age": "42",
+    "party": "Apna Desh Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  }
+]

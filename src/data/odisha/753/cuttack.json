@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Bhartruhari Mahtab",
+    "age": "62",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 106894976,
+    "liabilities": 0
+  },
+  {
+    "name": "Akshaya Kumar Kar",
+    "age": "59",
+    "party": "Krupaa Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 35077797,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Pradhan",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2151160,
+    "liabilities": 40000
+  },
+  {
+    "name": "Biswajit Goswami",
+    "age": "27",
+    "party": "Kalinga Sena",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 87412,
+    "liabilities": 139555
+  },
+  {
+    "name": "Brundaban Das Ajad",
+    "age": "55",
+    "party": "IND",
+    "criminal": "3",
+    "education": "5th Pass",
+    "assets": 1255503,
+    "liabilities": 0
+  },
+  {
+    "name": "Panchanan Kanungo",
+    "age": "67",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 8739577,
+    "liabilities": 152000
+  },
+  {
+    "name": "Prakash Mishra",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 93102541,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar Mallick",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 109000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajakishore Mallik",
+    "age": "52",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 101187,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjaya Kumar Sahoo",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1108850,
+    "liabilities": 0
+  },
+  {
+    "name": "Somiya Ranjan Das",
+    "age": "31",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 699000,
+    "liabilities": 740000
+  }
+]

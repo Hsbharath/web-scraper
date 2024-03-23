@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Mahendrabhai Munjpara",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 79084513,
+    "liabilities": 14822528
+  },
+  {
+    "name": "Bhanjibhai Shekhava",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1670000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Bhathaniya Faridbhai Amijibhai",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 575000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Bhavanbhai Devjibhai Vora",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 882000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhupatbhai Laljibhai Solanki",
+    "age": "36",
+    "party": "IND",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 2755000,
+    "liabilities": 0
+  },
+  {
+    "name": "Daniya Anirudhbhai Gandabhai",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1527000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dekavadiya Darjibhai Maganbhai",
+    "age": "58",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 16767782,
+    "liabilities": 2394129
+  },
+  {
+    "name": "Dost Mer",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Goltar Bhagvanbhai Maiyabhai",
+    "age": "69",
+    "party": "IND",
+    "criminal": "5",
+    "education": "Illiterate",
+    "assets": 2778407,
+    "liabilities": 250000
+  },
+  {
+    "name": "Hanifbhai Kayabhai Katiya",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 55000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jargela Hasanbhai Abdulbhai",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 35000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalubhai Malubhai Vadaliya",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1526000,
+    "liabilities": 0
+  },
+  {
+    "name": "Karimbhai Adambhai Urfe Bababhai",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 643800,
+    "liabilities": 0
+  },
+  {
+    "name": "Koli Patel Laljibhai Chaturbhai",
+    "age": "63",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 45657414,
+    "liabilities": 0
+  },
+  {
+    "name": "Koli Rameshbhai Virsangbhai Vaghela",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 265000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kolipatel Somabhai",
+    "age": "79",
+    "party": "INC",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 66558302,
+    "liabilities": 0
+  },
+  {
+    "name": "Makvana Kamabhai",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 28000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Makwana Dalpatbhai Lagharbhai",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Makwana",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 377300,
+    "liabilities": 0
+  },
+  {
+    "name": "Oghadbhai Mer",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2181000,
+    "liabilities": 130000
+  },
+  {
+    "name": "Parmar Ghoghjibhai Kanjibhai",
+    "age": "64",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 9597000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Patel Baldevbhai",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1288000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Rathod Anandbhai Pachanbhai",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 357269,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathod Ashokbhai Vithathalbhai",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4211000,
+    "liabilities": 0
+  },
+  {
+    "name": "Salimbhai Shahbudinbhai Pathan",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1725000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sapra Vipul R.",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 173500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sardarkhan Malek",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 306000,
+    "liabilities": 0
+  },
+  {
+    "name": "Solanki Shaileshbhai Nagarbhai",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4536170,
+    "liabilities": 1131656
+  },
+  {
+    "name": "Thakor Jaguji Kuvarji",
+    "age": "40",
+    "party": "Vyavastha Parivartan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2505000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaghela Dahyabhai Khengarbhai",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2189000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaghela Prakashbhai Bachubhai",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 55000,
+    "liabilities": 0
+  }
+]

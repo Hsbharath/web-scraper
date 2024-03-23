@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Adhir Ranjan Chowdhury",
+    "age": "63",
+    "party": "INC",
+    "criminal": "7",
+    "education": "10th Pass",
+    "assets": 101315437,
+    "liabilities": 8506984
+  },
+  {
+    "name": "Anisul Ambia",
+    "age": "56",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7549956,
+    "liabilities": 0
+  },
+  {
+    "name": "Apurba Sarkar",
+    "age": "55",
+    "party": "AITC",
+    "criminal": "9",
+    "education": "12th Pass",
+    "assets": 47930322,
+    "liabilities": 2119820
+  },
+  {
+    "name": "Asish Singha",
+    "age": "30",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14300,
+    "liabilities": 0
+  },
+  {
+    "name": "Durbadal Das",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 291110,
+    "liabilities": 0
+  },
+  {
+    "name": "Kashinath Dutta",
+    "age": "68",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2364062,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Joyardar",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6200,
+    "liabilities": 0
+  },
+  {
+    "name": "Kushadhaj Bala",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5281000,
+    "liabilities": 45000
+  },
+  {
+    "name": "Md. Ezaruddin",
+    "age": "79",
+    "party": "Jamat-E-Seratul Mustakim",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 527866,
+    "liabilities": 0
+  },
+  {
+    "name": "Saikh Id Mohammad",
+    "age": "66",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3968029,
+    "liabilities": 322779
+  },
+  {
+    "name": "Samir Biswas",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10200,
+    "liabilities": 0
+  }
+]

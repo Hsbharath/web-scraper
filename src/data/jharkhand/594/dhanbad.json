@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Pashupati Nath Singh",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27286918,
+    "liabilities": 0
+  },
+  {
+    "name": "Bamapada Bauri",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3052000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Kumar Das",
+    "age": "35",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1477000,
+    "liabilities": 0
+  },
+  {
+    "name": "Heera Lal Shankhvar",
+    "age": "69",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9136000,
+    "liabilities": 25000
+  },
+  {
+    "name": "K.C.Singh Raj",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1083000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kirti Azad",
+    "age": "58",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 84026755,
+    "liabilities": 5147300
+  },
+  {
+    "name": "Lakshmi Devi",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 332262,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhvi Singh",
+    "age": "41",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 21365000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mantosh Kumar Mandal",
+    "age": "72",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4693000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meghnath Rawani",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3662000,
+    "liabilities": 0
+  },
+  {
+    "name": "Meraj Khan",
+    "age": "40",
+    "party": "SP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 4070260,
+    "liabilities": 250000
+  },
+  {
+    "name": "Mihir Chandra Mahato",
+    "age": "43",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 631000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Prakash Paswan",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 602150,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Singh",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24038468,
+    "liabilities": 14943313
+  },
+  {
+    "name": "Ram Lal Mahto",
+    "age": "69",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2187849,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Paswan",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddharth Gautam",
+    "age": "33",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 17651935,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhir Kumar Mahato",
+    "age": "53",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14649361,
+    "liabilities": 390000
+  },
+  {
+    "name": "Umesh Paswan",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 179496,
+    "liabilities": 20000
+  },
+  {
+    "name": "Varun Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 92800,
+    "liabilities": 19500
+  }
+]

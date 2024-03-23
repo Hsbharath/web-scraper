@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Saumitra Khan",
+    "age": "38",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "12th Pass",
+    "assets": 8656777,
+    "liabilities": 1077120
+  },
+  {
+    "name": "Ajit Kumar Bauri",
+    "age": "38",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 117442,
+    "liabilities": 0
+  },
+  {
+    "name": "Basudeb Sikari",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Nath Roy",
+    "age": "62",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3850,
+    "liabilities": 0
+  },
+  {
+    "name": "Narayan Chandra Khan",
+    "age": "67",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3247596,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjit Khan",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 37000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyamal Santra",
+    "age": "39",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4642924,
+    "liabilities": 650000
+  },
+  {
+    "name": "Sunil Khan",
+    "age": "72",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20299997,
+    "liabilities": 0
+  },
+  {
+    "name": "Tarani Roy",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 9000,
+    "liabilities": 0
+  }
+]

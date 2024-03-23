@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Hans Raj Hans",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 130937732,
+    "liabilities": 47897494
+  },
+  {
+    "name": "Aditi",
+    "age": "25",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 18505,
+    "liabilities": 0
+  },
+  {
+    "name": "Charan Singh \"Babrik\"",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 205330,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaurav Bhatia",
+    "age": "31",
+    "party": "Mazdoor Kirayedar Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 283000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gugan Singh",
+    "age": "70",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12853787,
+    "liabilities": 0
+  },
+  {
+    "name": "Ishwar Mansukh Ishu",
+    "age": "34",
+    "party": "Satya Bahumat Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 125718,
+    "liabilities": 20000
+  },
+  {
+    "name": "Madan Lal Balmiki",
+    "age": "66",
+    "party": "Rashtriya Samrasta Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 2637085,
+    "liabilities": 0
+  },
+  {
+    "name": "Naveen",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4375000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Lilothia",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 44456251,
+    "liabilities": 79000
+  },
+  {
+    "name": "Ram Kumar",
+    "age": "62",
+    "party": "Bhartiya Pragatisheel Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 28000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kumar",
+    "age": "65",
+    "party": "Socialist Janata Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 25320000,
+    "liabilities": 0
+  }
+]

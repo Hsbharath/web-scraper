@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pratima Mondal",
+    "age": "53",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 27471675,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashoke Bairagi",
+    "age": "31",
+    "party": "New Democratic Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 62000,
+    "liabilities": 6000
+  },
+  {
+    "name": "Dr. Ashok Kandary",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 28492070,
+    "liabilities": 2081000
+  },
+  {
+    "name": "Jaykrishna Haldar",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 155500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sankar Deb Mondal",
+    "age": "64",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2649442,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhas Naskar",
+    "age": "67",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4045301,
+    "liabilities": 0
+  },
+  {
+    "name": "Swapan Kumar Mandal",
+    "age": "49",
+    "party": "Rashtriya Janasachetan Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 946000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tapan Mondal",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3662000,
+    "liabilities": 60000
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Om Birla",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 48347737,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Asiph",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 163000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhim Singh",
+    "age": "52",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5484000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Prakash",
+    "age": "50",
+    "party": "Rashtriya Krantikari Samajwadi Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harish Kumar",
+    "age": "66",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12080000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Hergovind",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 719324,
+    "liabilities": 0
+  },
+  {
+    "name": "Keshri Lal",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 42000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Kumar Raniwal",
+    "age": "46",
+    "party": "AARAKSHAN VIRODHI PARTY",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 672937,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Khandelwal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 18709036,
+    "liabilities": 398081
+  },
+  {
+    "name": "Rajendra Prasad Singor",
+    "age": "59",
+    "party": "Marxist Communist Party of India (United)",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 185610,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Narain",
+    "age": "75",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 80157459,
+    "liabilities": 13137155
+  },
+  {
+    "name": "Satish Bhardwaj",
+    "age": "37",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 164427,
+    "liabilities": 0
+  },
+  {
+    "name": "Shobha Ram Nirmal",
+    "age": "71",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10675304,
+    "liabilities": 0
+  },
+  {
+    "name": "Somesh Bhatnagar",
+    "age": "48",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 842832,
+    "liabilities": 538589
+  },
+  {
+    "name": "Sunil",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 37669669,
+    "liabilities": 1269544
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Aparupa Poddar (Afrin Ali)",
+    "age": "33",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 12527597,
+    "liabilities": 4244000
+  },
+  {
+    "name": "Binay Kumar Malik",
+    "age": "42",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 193000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chittaranjan Mallick",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1336950,
+    "liabilities": 0
+  },
+  {
+    "name": "Jhantu Lal Pakre",
+    "age": "49",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 5236450,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti Kumari Das",
+    "age": "41",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12069004,
+    "liabilities": 2996520
+  },
+  {
+    "name": "Prosanta Malik",
+    "age": "44",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 260245,
+    "liabilities": 90090
+  },
+  {
+    "name": "Sakti Mohan Malik",
+    "age": "59",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 10448352,
+    "liabilities": 17324
+  },
+  {
+    "name": "Samir Mitra",
+    "age": "56",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 41565,
+    "liabilities": 657278
+  },
+  {
+    "name": "Tapan Kumar Ray",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2014593,
+    "liabilities": 1875000
+  }
+]

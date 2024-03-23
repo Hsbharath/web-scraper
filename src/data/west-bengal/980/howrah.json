@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Prasun Banerjee",
+    "age": "64",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 13216066,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashraf Ali",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 194989,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Sekhar Jha",
+    "age": "34",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 5465742,
+    "liabilities": 1299742
+  },
+  {
+    "name": "Debasish Mandal",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 68190,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam Kumar Shaw",
+    "age": "40",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 37941,
+    "liabilities": 0
+  },
+  {
+    "name": "Imtiaz Ahmed Mollah",
+    "age": "52",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 60000,
+    "liabilities": 10000
+  },
+  {
+    "name": "Kanai Sit",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 28055,
+    "liabilities": 0
+  },
+  {
+    "name": "Kashi Nath Malick",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 16320,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Shanawaz",
+    "age": "61",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10268828,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Gar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 249018,
+    "liabilities": 0
+  },
+  {
+    "name": "Rantidev Sengupta",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5604890,
+    "liabilities": 0
+  },
+  {
+    "name": "Samir Mondal",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 214089,
+    "liabilities": 0
+  },
+  {
+    "name": "Sekhar Mondal",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 594359,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailendra Kumar Jaiswal",
+    "age": "49",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 9206000,
+    "liabilities": 41000
+  },
+  {
+    "name": "Shyam Prasad Ram",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 341729,
+    "liabilities": 0
+  },
+  {
+    "name": "Sisir Samanta",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4143334,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudarsan Manna",
+    "age": "73",
+    "party": "Samajtantric Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 253600,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumitro Adhikary",
+    "age": "44",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1945900,
+    "liabilities": 0
+  },
+  {
+    "name": "Suvra Ghosh",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4706143,
+    "liabilities": 0
+  }
+]

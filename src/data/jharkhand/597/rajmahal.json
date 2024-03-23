@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Vijay Kumar Hansdak",
+    "age": "36",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12919555,
+    "liabilities": 2743560
+  },
+  {
+    "name": "Baidhnath Pahadiya",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1854160,
+    "liabilities": 0
+  },
+  {
+    "name": "Barnad Hembrom",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3232000,
+    "liabilities": 0
+  },
+  {
+    "name": "Christopher Murmu",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 86000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopin Soren",
+    "age": "56",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2402310,
+    "liabilities": 10000
+  },
+  {
+    "name": "Hemlal Murmu",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 56991946,
+    "liabilities": 17588570
+  },
+  {
+    "name": "Mahashay Tudu",
+    "age": "36",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1457100,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Hansda",
+    "age": "43",
+    "party": "IND",
+    "criminal": "11",
+    "education": "10th Pass",
+    "assets": 5987000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Pahadiya",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1048500,
+    "liabilities": 25000
+  },
+  {
+    "name": "Mandal Hansda",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 872228,
+    "liabilities": 0
+  },
+  {
+    "name": "Mangal Marandi",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 171000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mary Nisha Hansdak",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 603000,
+    "liabilities": 0
+  },
+  {
+    "name": "Monika Kisku",
+    "age": "32",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4946922,
+    "liabilities": 950000
+  },
+  {
+    "name": "Neeraj Hembrom",
+    "age": "44",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 23588789,
+    "liabilities": 2508000
+  }
+]

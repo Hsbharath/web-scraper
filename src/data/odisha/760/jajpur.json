@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sarmistha Sethi",
+    "age": "45",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15837082,
+    "liabilities": 0
+  },
+  {
+    "name": "Amiya Kanta Mallick",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 24585630,
+    "liabilities": 1246347
+  },
+  {
+    "name": "Bhimasen Behera",
+    "age": "54",
+    "party": "Freethought Party of India",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 851718,
+    "liabilities": 100
+  },
+  {
+    "name": "Manas Jena",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13861925,
+    "liabilities": 2760000
+  },
+  {
+    "name": "Ranjit Malik",
+    "age": "50",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2595147,
+    "liabilities": 702386
+  },
+  {
+    "name": "Subasa Chandra Malik",
+    "age": "52",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 96000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunakar Behera",
+    "age": "66",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13165120,
+    "liabilities": 0
+  },
+  {
+    "name": "Tilottama Sethy",
+    "age": "35",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 702000,
+    "liabilities": 0
+  }
+]

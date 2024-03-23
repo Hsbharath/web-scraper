@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Gajendra Singh Shekhawat",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 138029511,
+    "liabilities": 58573744
+  },
+  {
+    "name": "Amar Singh Kalundha",
+    "age": "59",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11976000,
+    "liabilities": 7353670
+  },
+  {
+    "name": "Anil Joya Meghwal",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1637500,
+    "liabilities": 300000
+  },
+  {
+    "name": "Chand Mohammad",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 8501618,
+    "liabilities": 1165171
+  },
+  {
+    "name": "Moda Ram Meghwal",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 138668,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukul Chaudhary",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 7103000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shambhu Ram",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 888736,
+    "liabilities": 0
+  },
+  {
+    "name": "Tasleem",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 303804,
+    "liabilities": 65326
+  },
+  {
+    "name": "Vaibhav Gehlot",
+    "age": "38",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 18606242,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishek Vishnoi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3486850,
+    "liabilities": 0
+  }
+]

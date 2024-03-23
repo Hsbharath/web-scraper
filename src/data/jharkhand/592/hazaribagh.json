@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Jayant Sinha",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 770749002,
+    "liabilities": 193271437
+  },
+  {
+    "name": "Bhawesh Kumar Mishra",
+    "age": "43",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 290000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhubaneshwar Prasad Mehta",
+    "age": "73",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 38958977,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 4420000,
+    "liabilities": 395000
+  },
+  {
+    "name": "Gopal Prasad Sahu",
+    "age": "74",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 346174281,
+    "liabilities": 21867709
+  },
+  {
+    "name": "Jagat Kumar Soni",
+    "age": "35",
+    "party": "Bhartiya Azad Sena",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2783000,
+    "liabilities": 55000
+  },
+  {
+    "name": "Krishna Kumar Singh",
+    "age": "28",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2703300,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Mubarak",
+    "age": "45",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 279125,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Moin Uddin Ahmad",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2876762,
+    "liabilities": 60000
+  },
+  {
+    "name": "Misbahul Islam",
+    "age": "47",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3383000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Ranjan",
+    "age": "38",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1544940,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajni Devi",
+    "age": "39",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 84754,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramavtar Mahto",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1790000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rameshwar Ram Kushwaha",
+    "age": "49",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 885838,
+    "liabilities": 0
+  },
+  {
+    "name": "Tekochand Mahto",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2608338,
+    "liabilities": 50000
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 27695641,
+    "liabilities": 0
+  }
+]

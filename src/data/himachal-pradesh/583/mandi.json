@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Ram Swaroop Sharma",
+    "age": "60",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 15724337,
+    "liabilities": 783963
+  },
+  {
+    "name": "Aashray Sharma",
+    "age": "32",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 48523665,
+    "liabilities": 16286033
+  },
+  {
+    "name": "Brij Gopal",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6091905,
+    "liabilities": 1696565
+  },
+  {
+    "name": "Chandermani",
+    "age": "61",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14214000,
+    "liabilities": 0
+  },
+  {
+    "name": "Col. Thakur Singh",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 54106562,
+    "liabilities": 0
+  },
+  {
+    "name": "Daleep Singh Kaith",
+    "age": "48",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4303590,
+    "liabilities": 934823
+  },
+  {
+    "name": "Dev Raj Bhardwaj",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 691733000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmender Singh Thakur",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 284035000,
+    "liabilities": 3315000
+  },
+  {
+    "name": "Ghanshyam Chand Thakur",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12175000,
+    "liabilities": 391421
+  },
+  {
+    "name": "Guman Singh",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14000000,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Kartar Chand",
+    "age": "44",
+    "party": "Swabhiman Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3241600,
+    "liabilities": 40000
+  },
+  {
+    "name": "Khem Chand",
+    "age": "43",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 7030600,
+    "liabilities": 600000
+  },
+  {
+    "name": "Mehar Singh",
+    "age": "53",
+    "party": "Rashtriya Azad Manch",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2500000,
+    "liabilities": 32000
+  },
+  {
+    "name": "Rajender Suryavanshi",
+    "age": "42",
+    "party": "Ambedkarite Party of India",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1673222,
+    "liabilities": 73222
+  },
+  {
+    "name": "Ses Ram",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25552000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Shiv Lal Thakur",
+    "age": "64",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5345000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Subhash Mohan Snehi",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 21561080,
+    "liabilities": 0
+  }
+]

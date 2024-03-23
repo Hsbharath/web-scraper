@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Sri Nisith Pramanik",
+    "age": "33",
+    "party": "BJP",
+    "criminal": "11",
+    "education": "8th Pass",
+    "assets": 9629810,
+    "liabilities": 0
+  },
+  {
+    "name": "Adhikary Paresh Chandra",
+    "age": "66",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 41775148,
+    "liabilities": 4120964
+  },
+  {
+    "name": "Dhananjoy Barman",
+    "age": "33",
+    "party": "Welfare Party Of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gobinda Chandra Roy",
+    "age": "61",
+    "party": "AIFB",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4644800,
+    "liabilities": 400000
+  },
+  {
+    "name": "Harekrishna Sarkar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 4090011,
+    "liabilities": 1747681
+  },
+  {
+    "name": "Kangsa Raj Barman",
+    "age": "49",
+    "party": "Kamatapur Peoples Party (United)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 3143000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Chandra Roy",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7040000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmal Kumar Roy",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2510000,
+    "liabilities": 0
+  },
+  {
+    "name": "Piya Roy Chowdhury",
+    "age": "38",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7263933,
+    "liabilities": 547297
+  },
+  {
+    "name": "Prabhat Roy",
+    "age": "52",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 206819,
+    "liabilities": 0
+  },
+  {
+    "name": "Subodh Barman",
+    "age": "62",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1406119,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Bandyopadhyay Sudip",
+    "age": "70",
+    "party": "AITC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 61176355,
+    "liabilities": 0
+  },
+  {
+    "name": "Anujit Kumar Nan",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11420211,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijnan Kumar Bera",
+    "age": "59",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10548730,
+    "liabilities": 0
+  },
+  {
+    "name": "Debjit Roy Chowdhury",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Joydeb Das",
+    "age": "31",
+    "party": "Bharateeya Manavadhikar party",
+    "criminal": "14",
+    "education": "8th Pass",
+    "assets": 9157810,
+    "liabilities": 3021467
+  },
+  {
+    "name": "Kalipada Jana",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2173467,
+    "liabilities": 0
+  },
+  {
+    "name": "Kaninika Bose (Ghosh)",
+    "age": "50",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 7477775,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Manas Majumder",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 84000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manmohan Garodia",
+    "age": "56",
+    "party": "Rashtriya Ahinsa Manch",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 49914874,
+    "liabilities": 13434730
+  },
+  {
+    "name": "Md Imtiaz Khan",
+    "age": "45",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3394996,
+    "liabilities": 0
+  },
+  {
+    "name": "Mir Tipu Sultan Ali",
+    "age": "51",
+    "party": "Party for Democratic Socialism",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7990343,
+    "liabilities": 50000
+  },
+  {
+    "name": "Naresh Kr Singh",
+    "age": "58",
+    "party": "Jan Sangh Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 57000,
+    "liabilities": 0
+  },
+  {
+    "name": "Omprakash Prajapati",
+    "age": "37",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 185381,
+    "liabilities": 0
+  },
+  {
+    "name": "Panna Lal Shaw",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 8900000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rahul (Biswajit) Sinha",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 24520871,
+    "liabilities": 2057496
+  },
+  {
+    "name": "Rathindra Nath Roy",
+    "age": "52",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 166147,
+    "liabilities": 0
+  },
+  {
+    "name": "Rinku Gupta",
+    "age": "44",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1134000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Subhash Verma",
+    "age": "49",
+    "party": "Jan Sangharsh Virat Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumanta Bhowmick",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4207746,
+    "liabilities": 2169530
+  },
+  {
+    "name": "Syed Shahid Imam",
+    "age": "57",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 75691151,
+    "liabilities": 0
+  },
+  {
+    "name": "Utpal Biswas",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 358000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Amar Singh",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32808836,
+    "liabilities": 0
+  },
+  {
+    "name": "Advocate Prabhjot Singh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19378,
+    "liabilities": 21402
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "41",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 266500,
+    "liabilities": 0
+  },
+  {
+    "name": "Balkar Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 430000,
+    "liabilities": 0
+  },
+  {
+    "name": "Balwinder Kaur",
+    "age": "35",
+    "party": "Jai Jawan Jai Kisan Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 259993,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandeep Singh",
+    "age": "35",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5069771,
+    "liabilities": 0
+  },
+  {
+    "name": "Darbara Singh Guru",
+    "age": "66",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 40931745,
+    "liabilities": 21054000
+  },
+  {
+    "name": "Gurbachan Singh",
+    "age": "43",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 626480,
+    "liabilities": 800000
+  },
+  {
+    "name": "Gurcharan Singh Machhiwara",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 674100,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurjit Singh",
+    "age": "33",
+    "party": "Sarvjan Sewa Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 525867,
+    "liabilities": 0
+  },
+  {
+    "name": "Harchand Singh",
+    "age": "55",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamaljeet Singh",
+    "age": "50",
+    "party": "Democratic Party of India (Ambedkar)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 360000,
+    "liabilities": 35000
+  },
+  {
+    "name": "Karandeep Singh",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3504010,
+    "liabilities": 378423
+  },
+  {
+    "name": "Kuldeep Singh Sahota",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 218030,
+    "liabilities": 0
+  },
+  {
+    "name": "Lachhman Singh",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manwinder Singh",
+    "age": "44",
+    "party": "Lok Insaaf Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7689077,
+    "liabilities": 4479598
+  },
+  {
+    "name": "Prem Singh Mohanpur",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10464371,
+    "liabilities": 442892
+  },
+  {
+    "name": "Ram Singh Raisal",
+    "age": "57",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6341000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Surjit Singh Kang",
+    "age": "47",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 213500,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "25",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2298000,
+    "liabilities": 0
+  }
+]

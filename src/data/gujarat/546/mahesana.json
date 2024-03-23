@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Shardaben Anilbhai Patel",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 440308300,
+    "liabilities": 7477793
+  },
+  {
+    "name": "A. J. Patel",
+    "age": "73",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 698773712,
+    "liabilities": 96220673
+  },
+  {
+    "name": "Barot Kuldipkumar Bharatkumar",
+    "age": "30",
+    "party": "Yuva Jan Jagriti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1465000,
+    "liabilities": 850000
+  },
+  {
+    "name": "Chaudhari Sendhabhai Abherajbhai",
+    "age": "44",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8431116,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Prahladbhai",
+    "age": "65",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2498260,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Ambalal Talashibhai",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6500500,
+    "liabilities": 71000
+  },
+  {
+    "name": "Patel Anitaben Ramabhai",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 551000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prajapati Kanubhai Amatharam",
+    "age": "52",
+    "party": "Bharatiya Rashtravadi Paksha",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 8230642,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathod Gulabsinh Dursinh",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4347000,
+    "liabilities": 145000
+  },
+  {
+    "name": "Thakor Bipinkumar Shankarji",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 129615,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakor Jayantiji Chunthaji",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7503000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakor Mayurkumar Rupsangji",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3434199,
+    "liabilities": 220000
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Kakoli Ghoshdastidar",
+    "age": "60",
+    "party": "AITC",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 40531018,
+    "liabilities": 1496059
+  },
+  {
+    "name": "Bani Chakraborty",
+    "age": "46",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2189962,
+    "liabilities": 7000
+  },
+  {
+    "name": "Debasish Biswas",
+    "age": "53",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2097423,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipankar Baidya",
+    "age": "39",
+    "party": "Rashtriya Janasachetan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 566000,
+    "liabilities": 0
+  },
+  {
+    "name": "Haripada Biswas",
+    "age": "61",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11890602,
+    "liabilities": 0
+  },
+  {
+    "name": "Mrinal Kanti Bhattacharjee",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35929,
+    "liabilities": 0
+  },
+  {
+    "name": "Mrinal Kanti Debnath",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4949682,
+    "liabilities": 3370182
+  },
+  {
+    "name": "Oli Mahammad Mallick",
+    "age": "49",
+    "party": "CPI(ML) Red Star",
+    "criminal": "32",
+    "education": "12th Pass",
+    "assets": 825815,
+    "liabilities": 0
+  },
+  {
+    "name": "Saurav Basu",
+    "age": "36",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 141000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subrata Dutta",
+    "age": "57",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 33601000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukumar Bala",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7397647,
+    "liabilities": 830000
+  },
+  {
+    "name": "Tushar Ghosh",
+    "age": "56",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 935000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Meenakashi Lekhi",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 361441689,
+    "liabilities": 7938378
+  },
+  {
+    "name": "Aashish S Saxena",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2680000,
+    "liabilities": 242000
+  },
+  {
+    "name": "Ajay Kumar Lal",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 46731242,
+    "liabilities": 4301374
+  },
+  {
+    "name": "Ajay Makan",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 245732926,
+    "liabilities": 0
+  },
+  {
+    "name": "Brijesh Goyal",
+    "age": "43",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9594156,
+    "liabilities": 3285554
+  },
+  {
+    "name": "Dilip Singh Kothari",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5852977,
+    "liabilities": 0
+  },
+  {
+    "name": "Harkrishan Das Nijhawan",
+    "age": "56",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 36167926,
+    "liabilities": 575000
+  },
+  {
+    "name": "Jitendra Raut",
+    "age": "40",
+    "party": "Akhil Bharatiya Manavata Paksha",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 649510,
+    "liabilities": 14406
+  },
+  {
+    "name": "K Sreekrishna",
+    "age": "49",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 59282,
+    "liabilities": 0
+  },
+  {
+    "name": "Kripashankar C Pandey",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 69416833,
+    "liabilities": 3570000
+  },
+  {
+    "name": "Lal Ji",
+    "age": "49",
+    "party": "Akhand Rashtrawadi Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6494000,
+    "liabilities": 170000
+  },
+  {
+    "name": "Naveen Kumar",
+    "age": "44",
+    "party": "Rashtriya Samrasta Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7606632,
+    "liabilities": 86034
+  },
+  {
+    "name": "Nilanjan Banerjee",
+    "age": "41",
+    "party": "Bharat Lok Sewak Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Priyanka Bharihoke",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3832340,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Karan",
+    "age": "61",
+    "party": "Corruption Abolition Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20105350,
+    "liabilities": 100000
+  },
+  {
+    "name": "Raj Shekhar Gunti",
+    "age": "44",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 492771,
+    "liabilities": 2601000
+  },
+  {
+    "name": "Rajesh Satiya",
+    "age": "36",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 62108,
+    "liabilities": 43326
+  },
+  {
+    "name": "Ramesh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 44836000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Ravinder Paul Sehgal",
+    "age": "70",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 45725073,
+    "liabilities": 73782
+  },
+  {
+    "name": "Sree Nivasan Ramamoorthy",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9996766,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil",
+    "age": "36",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2509219,
+    "liabilities": 1810000
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "47",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11664371,
+    "liabilities": 1761306
+  },
+  {
+    "name": "Suresh Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1376000,
+    "liabilities": 0
+  },
+  {
+    "name": "Swadesh Kumar Ohr",
+    "age": "77",
+    "party": "Atulya Bharat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 33423025,
+    "liabilities": 476000
+  },
+  {
+    "name": "Umesh Chandra Gaur",
+    "age": "51",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 3901922,
+    "liabilities": 0
+  },
+  {
+    "name": "Upendra",
+    "age": "31",
+    "party": "Anjaan Aadmi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1024406,
+    "liabilities": 0
+  },
+  {
+    "name": "Virendra Singh Bharat",
+    "age": "57",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3406386,
+    "liabilities": 1500000
+  }
+]

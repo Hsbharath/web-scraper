@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Khagen Murmu",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 10232439,
+    "liabilities": 1070914
+  },
+  {
+    "name": "Al Monowara Begam",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 61000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arjun Keshari",
+    "age": "27",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2085000,
+    "liabilities": 0
+  },
+  {
+    "name": "Biswanath Ghosh",
+    "age": "69",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 10978779,
+    "liabilities": 0
+  },
+  {
+    "name": "Isha Khan Choudhury",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8613504,
+    "liabilities": 354254
+  },
+  {
+    "name": "Joseph Kisku",
+    "age": "26",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 807000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mausam Noor",
+    "age": "39",
+    "party": "AITC",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 14786683,
+    "liabilities": 386896
+  },
+  {
+    "name": "Md. Dulal Hoque",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 78899,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Hasda",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 420988,
+    "liabilities": 0
+  },
+  {
+    "name": "Monatan Hembram",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 65000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nimai Besara",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 27227,
+    "liabilities": 110000
+  },
+  {
+    "name": "Nitish Kumar Mandal",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3727000,
+    "liabilities": 350000
+  },
+  {
+    "name": "Nitya Das",
+    "age": "30",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 233600,
+    "liabilities": 100000
+  },
+  {
+    "name": "Noorsed Alam",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5662250,
+    "liabilities": 150000
+  },
+  {
+    "name": "Subhash Barman",
+    "age": "59",
+    "party": "Kamatapur Peoples Party (United)",
+    "criminal": "9",
+    "education": "5th Pass",
+    "assets": 9811045,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Sarkar",
+    "age": "34",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 208092,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Patel Hasmukhbhai Somabhai",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 74699690,
+    "liabilities": 6252577
+  },
+  {
+    "name": "Atulbhai Nanubhai Kathiriya",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2895740,
+    "liabilities": 33199
+  },
+  {
+    "name": "Bharvad Saileshkumar Kalidas",
+    "age": "42",
+    "party": "IND",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 3590000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Bhatt Sunilkumar Narendrabhai",
+    "age": "38",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2505720,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Kiritbhai",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Narendra Sinh Makhatul Sinh",
+    "age": "51",
+    "party": "Yuva Jan Jagriti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5310700,
+    "liabilities": 16071
+  },
+  {
+    "name": "Devda Dasharath Misarilal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 65000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Hiteshkumar Mahendrabhai",
+    "age": "38",
+    "party": "Nirbhay Bharteey Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5466908,
+    "liabilities": 2133343
+  },
+  {
+    "name": "Geetaben Patel",
+    "age": "39",
+    "party": "INC",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 40375418,
+    "liabilities": 3121888
+  },
+  {
+    "name": "Jayswal Nareshkumar Babulal",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 562000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kadri Mohammad Sabir",
+    "age": "33",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Prabhudas Ahuja",
+    "age": "57",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 11137240,
+    "liabilities": 1528108
+  },
+  {
+    "name": "Manoj Premchand Gupta",
+    "age": "35",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3925000,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Minaxiben Rakeshkumar Solanki",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6963794,
+    "liabilities": 0
+  },
+  {
+    "name": "Mishra Arjun Ramshankar",
+    "age": "27",
+    "party": "Jan Sangharsh Virat Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 95166,
+    "liabilities": 161113
+  },
+  {
+    "name": "Mishra Rajkumar Malekchand",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4240000,
+    "liabilities": 2778000
+  },
+  {
+    "name": "Mundra Anilkumar",
+    "age": "40",
+    "party": "Lok Gathbandhan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1839497,
+    "liabilities": 324958
+  },
+  {
+    "name": "Pareshkumar Nanubhai Mulani",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Maurya",
+    "age": "44",
+    "party": "Prajatantra Aadhar Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 17796,
+    "liabilities": 0
+  },
+  {
+    "name": "Samirbhai Rajeshbhai Upadhyay",
+    "age": "37",
+    "party": "Manvadhikar National Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 95000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharma Brijeshkumar Ujagarlal",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 26800,
+    "liabilities": 0
+  },
+  {
+    "name": "Shekh Salmabanu Mohamad Salim",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakur Jitendrasinh Surendrasinh",
+    "age": "33",
+    "party": "Loktantrik Rashrtavadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1198040,
+    "liabilities": 49305
+  },
+  {
+    "name": "Vaghela Ganeshbhai Narsinhbhai",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 70910239,
+    "liabilities": 0
+  },
+  {
+    "name": "Vekariya Rushi Bharatbhai (Patel)",
+    "age": "25",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10055717,
+    "liabilities": 757236
+  },
+  {
+    "name": "Virat Pradip Shah",
+    "age": "45",
+    "party": "Jan Satya Path Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14301000,
+    "liabilities": 798000
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Parvesh Sahib Singh",
+    "age": "41",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 155195014,
+    "liabilities": 40097329
+  },
+  {
+    "name": "Baidyanath Sah",
+    "age": "53",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5240190,
+    "liabilities": 211300
+  },
+  {
+    "name": "Balbir Singh Jakhar",
+    "age": "47",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 32894288,
+    "liabilities": 4161197
+  },
+  {
+    "name": "Balbir Singh S/O Dayaram Chaudhary",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2629592,
+    "liabilities": 0
+  },
+  {
+    "name": "Daya Nand Vats",
+    "age": "62",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10570909,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharambir Singh",
+    "age": "57",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 499904,
+    "liabilities": 0
+  },
+  {
+    "name": "Harsh Vardhan Shukla",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 508722,
+    "liabilities": 0
+  },
+  {
+    "name": "Iqbal Singh (Sonu)",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 10436974,
+    "liabilities": 0
+  },
+  {
+    "name": "Janak Raj Rana",
+    "age": "57",
+    "party": "Akhand Rashtrawadi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41572000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Kulwinder Singh Mehta",
+    "age": "54",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1762088,
+    "liabilities": 0
+  },
+  {
+    "name": "M. Mishra",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6425058,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahabal Mishra",
+    "age": "65",
+    "party": "INC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 450721618,
+    "liabilities": 2814393
+  },
+  {
+    "name": "Manmohan Singh",
+    "age": "58",
+    "party": "Rashtra Nirman Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35166395,
+    "liabilities": 12015
+  },
+  {
+    "name": "Navin Chandra Das",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8044000,
+    "liabilities": 1280000
+  },
+  {
+    "name": "Poonam",
+    "age": "48",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4189796,
+    "liabilities": 1271875
+  },
+  {
+    "name": "Pravesh Sharma",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5421404,
+    "liabilities": 926560
+  },
+  {
+    "name": "Probir Dutta",
+    "age": "44",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6093819,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajiv Kumar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 140037,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Chand Verma",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 9684561,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashijeet",
+    "age": "44",
+    "party": "National Youth Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1173350,
+    "liabilities": 0
+  },
+  {
+    "name": "Shish Pal Singh",
+    "age": "64",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2362891,
+    "liabilities": 0
+  },
+  {
+    "name": "Sita Saran Sen",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 15707415,
+    "liabilities": 400000
+  },
+  {
+    "name": "Vikash Kumar Mohal",
+    "age": "25",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 108973,
+    "liabilities": 25000
+  }
+]

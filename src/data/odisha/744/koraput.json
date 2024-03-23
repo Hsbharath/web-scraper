@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Saptagiri Sankar Ulaka",
+    "age": "40",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 37587560,
+    "liabilities": 1217963
+  },
+  {
+    "name": "Banamali Majhi",
+    "age": "45",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaskar Mutuka",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 316000,
+    "liabilities": 0
+  },
+  {
+    "name": "Damodara Sabar",
+    "age": "67",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayaram Pangi",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 41944825,
+    "liabilities": 4200000
+  },
+  {
+    "name": "Kausalya Hikaka",
+    "age": "33",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 40617427,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Kendruka",
+    "age": "27",
+    "party": "CPI(ML) Red Star",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 565,
+    "liabilities": 0
+  }
+]

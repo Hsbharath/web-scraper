@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Bandi Sanjay Kumar",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "Post Graduate",
+    "assets": 2270000,
+    "liabilities": 1341800
+  },
+  {
+    "name": "Aila Prasanna",
+    "age": "45",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anagandula Venkanna",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1800000,
+    "liabilities": 350000
+  },
+  {
+    "name": "Bhanu Laxman Pabba",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 494297,
+    "liabilities": 0
+  },
+  {
+    "name": "Chintha Anil Kumar",
+    "age": "33",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Durvasa Reddy Pakala",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 5567500,
+    "liabilities": 950000
+  },
+  {
+    "name": "Gangarapu Thirupathi",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kota Shyamkumar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukkisa Ratnakar Reddy",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3075000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Palle Prashanth",
+    "age": "28",
+    "party": "Jai Swaraj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3656900,
+    "liabilities": 300000
+  },
+  {
+    "name": "Ponnam Prabhakar",
+    "age": "52",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 9478606,
+    "liabilities": 0
+  },
+  {
+    "name": "Rameshbabu Shanigarapu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 56500,
+    "liabilities": 0
+  },
+  {
+    "name": "Reddy Venugopal",
+    "age": "32",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30500,
+    "liabilities": 0
+  },
+  {
+    "name": "Srikanth Chiliveru",
+    "age": "36",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 35000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Kumar Boianapalli",
+    "age": "59",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 121487098,
+    "liabilities": 3045917
+  }
+]

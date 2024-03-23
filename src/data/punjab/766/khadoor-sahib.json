@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Jasbir Singh Gill",
+    "age": "48",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 81393500,
+    "liabilities": 4655000
+  },
+  {
+    "name": "Harjit Kaur",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 320000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagir Kaur",
+    "age": "65",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 139193710,
+    "liabilities": 5098845
+  },
+  {
+    "name": "Jagir Kaur",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 465000,
+    "liabilities": 0
+  },
+  {
+    "name": "Khajan Singh",
+    "age": "40",
+    "party": "Nationalist Justice Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 308000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manjinder Singh",
+    "age": "33",
+    "party": "AAP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 4411000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Singh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1516000,
+    "liabilities": 180000
+  },
+  {
+    "name": "Onkar Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1930000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paramjit Kaur",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paramjit Kaur Khalra",
+    "age": "65",
+    "party": "Punjab Ekta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paramjit Singh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 410000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parminder Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 27000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parwinder Singh",
+    "age": "32",
+    "party": "Democratic Party of India (Ambedkar)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 985050,
+    "liabilities": 0
+  },
+  {
+    "name": "Puran Singh",
+    "age": "64",
+    "party": "Bahujan Samaj Party (Ambedkar)",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 648520,
+    "liabilities": 48560
+  },
+  {
+    "name": "Santokh Singh",
+    "age": "44",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 5871000,
+    "liabilities": 0
+  },
+  {
+    "name": "Stephen Bhatti",
+    "age": "36",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 123000,
+    "liabilities": 15000
+  },
+  {
+    "name": "Sukhwant Singh",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1696000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surjit Singh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 8593000,
+    "liabilities": 2032483
+  }
+]

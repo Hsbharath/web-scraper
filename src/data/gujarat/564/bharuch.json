@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Mansukhbhai Vasava",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6835957,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhotubhai Vasava",
+    "age": "73",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 20146320,
+    "liabilities": 4595420
+  },
+  {
+    "name": "Jitendra Parmar",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 21024000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukhtiyar Shaikh",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 54474,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmar Ashokchandra",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 36219720,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Imran",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pathan Salimkhan",
+    "age": "33",
+    "party": "Sanyukt Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3187427,
+    "liabilities": 34000
+  },
+  {
+    "name": "Rafikbhai Sapa",
+    "age": "51",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajeshbhai Solanki",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 246000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sabbirbhai Patel",
+    "age": "64",
+    "party": "Apna Desh Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sherkhan Pathan",
+    "age": "37",
+    "party": "INC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 3343699,
+    "liabilities": 0
+  },
+  {
+    "name": "Sindha Kiritsinh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1035000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhdev Vasava",
+    "age": "37",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 136000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vasava Navinbhai",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 876000,
+    "liabilities": 178000
+  },
+  {
+    "name": "Vasava Rajeshbhai",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 126900,
+    "liabilities": 734
+  },
+  {
+    "name": "Vashi Narendrasinh",
+    "age": "47",
+    "party": "Yuva Jan Jagriti Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 4130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikramsinh Gohil",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4636000,
+    "liabilities": 0
+  }
+]

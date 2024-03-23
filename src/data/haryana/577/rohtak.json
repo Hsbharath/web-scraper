@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Arvind Kumar Sharma",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 41079284,
+    "liabilities": 16778090
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3887828,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepender Singh",
+    "age": "41",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 447255719,
+    "liabilities": 21846800
+  },
+  {
+    "name": "Dharamvir",
+    "age": "54",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 19240828,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Imran",
+    "age": "38",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4370000,
+    "liabilities": 0
+  },
+  {
+    "name": "Inderjeet",
+    "age": "32",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 35000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jai Karan",
+    "age": "73",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16019515,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishan Lal",
+    "age": "51",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 10638347,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8943666,
+    "liabilities": 275000
+  },
+  {
+    "name": "Manju Devi",
+    "age": "34",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1720000,
+    "liabilities": 49000
+  },
+  {
+    "name": "Parveen Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 885000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar Deswal",
+    "age": "32",
+    "party": "Jannayak Janta Party",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 5150821,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajbir",
+    "age": "26",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3785000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Kishan Sain",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 34430000,
+    "liabilities": 1050000
+  },
+  {
+    "name": "Rambir",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 353565,
+    "liabilities": 0
+  },
+  {
+    "name": "Satyavir Singh",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3674081,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhbir",
+    "age": "41",
+    "party": "Dalit Soshit Pichhara Varg Adhikar Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 319887,
+    "liabilities": 90000
+  },
+  {
+    "name": "Vinay",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9984989,
+    "liabilities": 786068
+  }
+]

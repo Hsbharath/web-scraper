@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Kanakmal Katara",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 58711904,
+    "liabilities": 1746729
+  },
+  {
+    "name": "Bapulal",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 311000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kantilal Roat",
+    "age": "43",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1229683,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitesh Damor",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30811,
+    "liabilities": 0
+  },
+  {
+    "name": "Tarachand Bhagora",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 34354639,
+    "liabilities": 6449772
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "P. P. Chaudhary",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 385111923,
+    "liabilities": 7278041
+  },
+  {
+    "name": "Badri Ram",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 232556672,
+    "liabilities": 49047253
+  },
+  {
+    "name": "Hemant Kumar Singhvi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16122848,
+    "liabilities": 295236
+  },
+  {
+    "name": "Jagdish Chandra",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 665000,
+    "liabilities": 490000
+  },
+  {
+    "name": "Kanhaiyalal Vaishnav",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 644000,
+    "liabilities": 0
+  },
+  {
+    "name": "Laxman Kumar",
+    "age": "26",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 163050,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramlal Mohbarsha",
+    "age": "66",
+    "party": "Indian Indira Congress (R)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 12622000,
+    "liabilities": 444000
+  },
+  {
+    "name": "Ramprasad Jatav",
+    "age": "63",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 17665000,
+    "liabilities": 800000
+  }
+]

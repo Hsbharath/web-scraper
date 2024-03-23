@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Abu Hasem Khan Chowdhury",
+    "age": "72",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 270959520,
+    "liabilities": 728107
+  },
+  {
+    "name": "Angshudhar Mandal",
+    "age": "45",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2027000,
+    "liabilities": 0
+  },
+  {
+    "name": "Fulchand Mandal",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2051904,
+    "liabilities": 0
+  },
+  {
+    "name": "Hasim Akhtar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2743074,
+    "liabilities": 0
+  },
+  {
+    "name": "Manjur Alahi Munshi",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9552500,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Moazzem Hossain",
+    "age": "63",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13573609,
+    "liabilities": 0
+  },
+  {
+    "name": "Nasmul Hoque",
+    "age": "35",
+    "party": "Party for Democratic Socialism",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pappu Ahamed",
+    "age": "43",
+    "party": "Aihra National Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 161100,
+    "liabilities": 0
+  },
+  {
+    "name": "Ratan Mandal",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 512227,
+    "liabilities": 9000
+  },
+  {
+    "name": "Sreerupa Mitra Chaudhury",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 10132939,
+    "liabilities": 2840000
+  }
+]

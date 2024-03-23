@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Ramesh Chander Kaushik",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 235859266,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 55425964,
+    "liabilities": 5942352
+  },
+  {
+    "name": "Ashwani",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1700,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhupinder Singh Hooda",
+    "age": "72",
+    "party": "INC",
+    "criminal": "6",
+    "education": "Graduate Professional",
+    "assets": 155261986,
+    "liabilities": 1440000
+  },
+  {
+    "name": "Bijender",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 33752838,
+    "liabilities": 373590
+  },
+  {
+    "name": "Bijender Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5446000,
+    "liabilities": 0
+  },
+  {
+    "name": "Comrade Balbeer Singh",
+    "age": "60",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1994243,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharambir",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 921000,
+    "liabilities": 0
+  },
+  {
+    "name": "Digvijay Singh Chautala",
+    "age": "28",
+    "party": "Jannayak Janta Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 531839302,
+    "liabilities": 113658582
+  },
+  {
+    "name": "Dr. Jagbir Singh",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11397000,
+    "liabilities": 4360000
+  },
+  {
+    "name": "Jai Prakash",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7455000,
+    "liabilities": 224773
+  },
+  {
+    "name": "Karan Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 756000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kusum Parashar",
+    "age": "41",
+    "party": "Mahila & Yuva Shakti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5156791,
+    "liabilities": 458635
+  },
+  {
+    "name": "Mahavir",
+    "age": "56",
+    "party": "Rashtriya Mazdoor Ekta Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 332000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manish",
+    "age": "29",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 88000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Master Ramesh Khatri Lambardar",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 45031000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Mohan",
+    "age": "51",
+    "party": "AIFB",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 8702000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pardeep Chahal",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5353000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Bala Saini",
+    "age": "44",
+    "party": "Loktanter Suraksha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 38202783,
+    "liabilities": 1495000
+  },
+  {
+    "name": "Rajesh Sharma",
+    "age": "39",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7005038,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdiya",
+    "age": "76",
+    "party": "Samajik Nyaya Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1189642,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravinder Kumar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 334313,
+    "liabilities": 80000
+  },
+  {
+    "name": "Sant Dharamveer Chotiwala",
+    "age": "47",
+    "party": "Bahujan Maha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 40440000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Satinder Rathi",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 22239323,
+    "liabilities": 10375000
+  },
+  {
+    "name": "Satish Raj",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 51201747,
+    "liabilities": 131427
+  },
+  {
+    "name": "Shiyanand Tyagi",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 83135000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Sudhir Kumar",
+    "age": "42",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 114200,
+    "liabilities": 42000
+  },
+  {
+    "name": "Sukhmandar Singh Kharb",
+    "age": "31",
+    "party": "Rashtriya Jatigat Aarakshan Virodhi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3528000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surender Kumar Chhikara",
+    "age": "49",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 406648321,
+    "liabilities": 164547432
+  }
+]

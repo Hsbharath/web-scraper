@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Anurag Singh Thakur",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 56770463,
+    "liabilities": 1085145
+  },
+  {
+    "name": "Ashish Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Sharma",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4161870,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Desh Raj",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8958922,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishan Gopal",
+    "age": "28",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 25000,
+    "liabilities": 35000
+  },
+  {
+    "name": "Parveen Thakur",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 11008000,
+    "liabilities": 4700000
+  },
+  {
+    "name": "Radha Krishan",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4915135,
+    "liabilities": 1120971
+  },
+  {
+    "name": "Ram Lal Thakur",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 34888616,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Singh Shukla",
+    "age": "66",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tulsi Ram Sharma",
+    "age": "73",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8357500,
+    "liabilities": 400000
+  },
+  {
+    "name": "Vikash Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 208000,
+    "liabilities": 140500
+  }
+]

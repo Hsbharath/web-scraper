@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mohammed Faizal Pp",
+    "age": "43",
+    "party": "NCP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 938641,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Khader Haji",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 38824182,
+    "liabilities": 0
+  },
+  {
+    "name": "Ali Akbar K.",
+    "age": "31",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Mohammed Sadique Kp",
+    "age": "46",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 49783111,
+    "liabilities": 2887460
+  },
+  {
+    "name": "Muhammed Hamdullah Sayeed",
+    "age": "36",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 95047817,
+    "liabilities": 445771
+  },
+  {
+    "name": "Shareef Khan",
+    "age": "39",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2268712,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rathva Gitaben Vajesingbhai",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8634660,
+    "liabilities": 0
+  },
+  {
+    "name": "Pravinbhai Dhursingbhai Rathava",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathava Furkanbhai Baljibhai",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 880000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Rathava Ranjitsinh Mohansinh",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 34721898,
+    "liabilities": 3769537
+  },
+  {
+    "name": "Rathva Bhavsingbhai Namarsingbhai",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathva Maganbhai Chathiyabhai",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1475000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Jangubhai Rathawa",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 126000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vasava Rajesh Somabhai",
+    "age": "36",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1064080,
+    "liabilities": 0
+  }
+]

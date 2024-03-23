@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dibyendu Adhikari",
+    "age": "42",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 37687867,
+    "liabilities": 8397501
+  },
+  {
+    "name": "Dhananjoy Dalai",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakshman Chandra Seth",
+    "age": "73",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Doctorate",
+    "assets": 2045953,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhusudan Bera",
+    "age": "59",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 199276,
+    "liabilities": 0
+  },
+  {
+    "name": "Makhan Mahapatra",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 737400,
+    "liabilities": 575000
+  },
+  {
+    "name": "Marphat Ali Khan",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 230500,
+    "liabilities": 0
+  },
+  {
+    "name": "Motyar Rahaman",
+    "age": "49",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3147000,
+    "liabilities": 856000
+  },
+  {
+    "name": "Sankar Mondal",
+    "age": "36",
+    "party": "Rashtriya Jan Adhikar Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 49000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satadal Metya",
+    "age": "31",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 43100,
+    "liabilities": 0
+  },
+  {
+    "name": "Sidharthasankar Naskar",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1903590,
+    "liabilities": 0
+  },
+  {
+    "name": "Sk. Ibrahim Ali",
+    "age": "31",
+    "party": "CPI(M)",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 412438,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukomal Adak",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1143255,
+    "liabilities": 0
+  }
+]

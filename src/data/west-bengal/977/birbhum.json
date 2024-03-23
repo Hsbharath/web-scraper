@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Satabdi Roy (Banerjee)",
+    "age": "49",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 48652722,
+    "liabilities": 18604443
+  },
+  {
+    "name": "Ayesha Khatun",
+    "age": "49",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 83300,
+    "liabilities": 0
+  },
+  {
+    "name": "Chittaranjan Hansda",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 542000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dudh Kumar Mondal",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "7",
+    "education": "Graduate",
+    "assets": 6559932,
+    "liabilities": 100000
+  },
+  {
+    "name": "Faruk Ahamed",
+    "age": "49",
+    "party": "Rashtravadi Janata Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3294000,
+    "liabilities": 120000
+  },
+  {
+    "name": "Firoj Ali",
+    "age": "39",
+    "party": "Bharatiya National Janta Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 90000,
+    "liabilities": 0
+  },
+  {
+    "name": "Imam Hossain",
+    "age": "51",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12369362,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Rezaul Karim",
+    "age": "54",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 11877651,
+    "liabilities": 1595184
+  },
+  {
+    "name": "Prabir Mukhopadhyay",
+    "age": "56",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 320000,
+    "liabilities": 0
+  }
+]

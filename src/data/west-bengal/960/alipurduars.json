@@ -1,0 +1,65 @@
+[
+  {
+    "name": "John Barla",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "9",
+    "education": "8th Pass",
+    "assets": 1418730,
+    "liabilities": 0
+  },
+  {
+    "name": "Dasrath Tirkey",
+    "age": "52",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9039609,
+    "liabilities": 581713
+  },
+  {
+    "name": "Gergory Trikey",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1461968,
+    "liabilities": 361000
+  },
+  {
+    "name": "Mili Oraon",
+    "age": "42",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2804955,
+    "liabilities": 304672
+  },
+  {
+    "name": "Mohanlal Basumata",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2320328,
+    "liabilities": 659760
+  },
+  {
+    "name": "Prasen Jayant Kindo",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 86659,
+    "liabilities": 0
+  },
+  {
+    "name": "Rabichan Rabha",
+    "age": "49",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1083670,
+    "liabilities": 0
+  }
+]

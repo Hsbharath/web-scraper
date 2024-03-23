@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Jayanta Kumar Roy",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11625047,
+    "liabilities": 1352581
+  },
+  {
+    "name": "Bhagirath Chandra Roy",
+    "age": "62",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30818307,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijoy Chandra Barman",
+    "age": "62",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14612159,
+    "liabilities": 0
+  },
+  {
+    "name": "Harekrishna Sarkar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 4090011,
+    "liabilities": 1747681
+  },
+  {
+    "name": "Haribhakta Sardar",
+    "age": "63",
+    "party": "SUCI(C)",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 3219966,
+    "liabilities": 0
+  },
+  {
+    "name": "Jiban Krishna Majumder",
+    "age": "63",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5921259,
+    "liabilities": 0
+  },
+  {
+    "name": "Khushi Ranjan Mondal",
+    "age": "62",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2217097,
+    "liabilities": 0
+  },
+  {
+    "name": "Mani Kumar Darnal",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7011294,
+    "liabilities": 300000
+  },
+  {
+    "name": "Ranjit Kumar Roy",
+    "age": "53",
+    "party": "Samajwadi Jan Parishad",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4373876,
+    "liabilities": 415225
+  },
+  {
+    "name": "Sachimohan Barman",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1534000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subal Chandra Roy",
+    "age": "62",
+    "party": "Kamatapur Peoples Party (United)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 23826796,
+    "liabilities": 66000
+  },
+  {
+    "name": "Subhash Biswas",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 30072000,
+    "liabilities": 0
+  }
+]

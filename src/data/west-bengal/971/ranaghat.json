@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Jagannath Sarkar",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 17622476,
+    "liabilities": 0
+  },
+  {
+    "name": "Bidyut Biswas",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 807700,
+    "liabilities": 0
+  },
+  {
+    "name": "Biswas Rama",
+    "age": "56",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3211830,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam Ray",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 127000,
+    "liabilities": 0
+  },
+  {
+    "name": "Minati Biswas",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3197168,
+    "liabilities": 777679
+  },
+  {
+    "name": "Paresh Haldar",
+    "age": "58",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 710709,
+    "liabilities": 0
+  },
+  {
+    "name": "Rupali Biswas",
+    "age": "25",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7370951,
+    "liabilities": 1727897
+  }
+]

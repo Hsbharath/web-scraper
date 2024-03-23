@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Nusrat Jahan Ruhi",
+    "age": "28",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 29088391,
+    "liabilities": 16881608
+  },
+  {
+    "name": "Abdul Hannan Sardar",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1067000,
+    "liabilities": 0
+  },
+  {
+    "name": "Abul Kashem Dhali",
+    "age": "56",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 933811,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Kumar Bain",
+    "age": "54",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11900746,
+    "liabilities": 150000
+  },
+  {
+    "name": "Amiya Sarkar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 543825,
+    "liabilities": 0
+  },
+  {
+    "name": "Imamul Hasan Mallik",
+    "age": "44",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 243000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Tabarok Hossain Molla",
+    "age": "28",
+    "party": "All India Labour Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 611356,
+    "liabilities": 0
+  },
+  {
+    "name": "Mizanoor Rahaman",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 33549078,
+    "liabilities": 26000000
+  },
+  {
+    "name": "Pallab Sengupta",
+    "age": "70",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6037297,
+    "liabilities": 0
+  },
+  {
+    "name": "Parimal Mistri",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 485780,
+    "liabilities": 15000
+  },
+  {
+    "name": "Quazi Abdur Rahim",
+    "age": "51",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 2294651,
+    "liabilities": 0
+  },
+  {
+    "name": "Sayantan Basu",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "14",
+    "education": "Post Graduate",
+    "assets": 5399604,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhasis Kumar Bhowmik",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 47200,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Arjun Singh",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "24",
+    "education": "10th Pass",
+    "assets": 8055691,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Dinesh Trivedi",
+    "age": "68",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 66207289,
+    "liabilities": 15925213
+  },
+  {
+    "name": "Ganesh Das",
+    "age": "57",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 458173,
+    "liabilities": 0
+  },
+  {
+    "name": "Gargi Chatterjee",
+    "age": "47",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 57140,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopal Raut",
+    "age": "50",
+    "party": "IND",
+    "criminal": "11",
+    "education": "8th Pass",
+    "assets": 13266243,
+    "liabilities": 6129247
+  },
+  {
+    "name": "Krishanpal Balmiki",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2683372,
+    "liabilities": 405000
+  },
+  {
+    "name": "Kundan Singh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 717721,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Alam",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2809421,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Shyead Ahamed",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3917000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradip Chaudhuri",
+    "age": "65",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1936291,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramu Mandi",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 116145,
+    "liabilities": 0
+  },
+  {
+    "name": "Shampa Sil",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2215295,
+    "liabilities": 0
+  },
+  {
+    "name": "Sourav Singh",
+    "age": "26",
+    "party": "IND",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 17538275,
+    "liabilities": 9020996
+  },
+  {
+    "name": "Tapash Sarkar",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Veer Choudhury",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2679155,
+    "liabilities": 0
+  }
+]

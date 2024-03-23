@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Deepak Adhikari",
+    "age": "36",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 317320579,
+    "liabilities": 7879681
+  },
+  {
+    "name": "Bharati Ghosh",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "11",
+    "education": "Post Graduate",
+    "assets": 180138687,
+    "liabilities": 7339380
+  },
+  {
+    "name": "Dinesh Maikap",
+    "age": "46",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1372008,
+    "liabilities": 500000
+  },
+  {
+    "name": "Dr. Ujjwal Kumar Ghatak",
+    "age": "45",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 9189962,
+    "liabilities": 0
+  },
+  {
+    "name": "Khandakar Md. Saifullah (Saiful)",
+    "age": "33",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11446716,
+    "liabilities": 0
+  },
+  {
+    "name": "Surajit Senapati",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 153592,
+    "liabilities": 1395589
+  },
+  {
+    "name": "Tapan Ganguli",
+    "age": "63",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2754951,
+    "liabilities": 0
+  }
+]

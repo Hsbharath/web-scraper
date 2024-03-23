@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Smt. Sangeeta Kumari Singh Deo",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 379590851,
+    "liabilities": 7500000
+  },
+  {
+    "name": "Dinesh Nag",
+    "age": "49",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1819971,
+    "liabilities": 1050000
+  },
+  {
+    "name": "Dr Bipin Kusulia",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1347042,
+    "liabilities": 0
+  },
+  {
+    "name": "Hrudananda Karuan",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2681796,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalikesh Narayan Singh Deo",
+    "age": "45",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 204895169,
+    "liabilities": 13342386
+  },
+  {
+    "name": "Rana Nag",
+    "age": "66",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11500000,
+    "liabilities": 0
+  },
+  {
+    "name": "Samarendra Mishra",
+    "age": "45",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 26771555,
+    "liabilities": 3673500
+  },
+  {
+    "name": "Suresh Kumar Putel",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 183000,
+    "liabilities": 0
+  }
+]

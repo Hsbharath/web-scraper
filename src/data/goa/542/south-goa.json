@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cosme Francisco Caitano Sardinha",
+    "age": "73",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 79402232,
+    "liabilities": 0
+  },
+  {
+    "name": "Adv Narendra Sawaikar",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14526550,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Kalidas Prakash Vaingankar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1202116,
+    "liabilities": 0
+  },
+  {
+    "name": "Elvis Gomes",
+    "age": "56",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 9676888,
+    "liabilities": 0
+  },
+  {
+    "name": "Mayur Khanconkar",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakhi Amit Naik",
+    "age": "34",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 4666160,
+    "liabilities": 1235000
+  }
+]

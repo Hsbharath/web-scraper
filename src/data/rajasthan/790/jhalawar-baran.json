@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dushyant",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 370432373,
+    "liabilities": 85824156
+  },
+  {
+    "name": "Abdul Qayyum Siddiqui",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1481364,
+    "liabilities": 473069
+  },
+  {
+    "name": "Badree Lal",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 38197000,
+    "liabilities": 1359000
+  },
+  {
+    "name": "Harish Kumar Dhakar",
+    "age": "26",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6252517,
+    "liabilities": 423263
+  },
+  {
+    "name": "Mohammad Nasir",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 501500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar",
+    "age": "48",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 15574521,
+    "liabilities": 1994024
+  },
+  {
+    "name": "Prince Kumar",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 500,
+    "liabilities": 0
+  }
+]

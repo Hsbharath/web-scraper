@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sajda Ahmed",
+    "age": "57",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 28351569,
+    "liabilities": 5322615
+  },
+  {
+    "name": "Alimuddin Nazir",
+    "age": "26",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amal Barman",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2437609,
+    "liabilities": 0
+  },
+  {
+    "name": "Durgadas Hajra",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1325108,
+    "liabilities": 0
+  },
+  {
+    "name": "Joy Banerjee",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 246933,
+    "liabilities": 0
+  },
+  {
+    "name": "Maksuda Khatun",
+    "age": "58",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 12578736,
+    "liabilities": 2876353
+  },
+  {
+    "name": "Minati Sarkar",
+    "age": "61",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1091556,
+    "liabilities": 0
+  },
+  {
+    "name": "Shoma Ranisree Roy",
+    "age": "40",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Simal Saren",
+    "age": "33",
+    "party": "Indian Unity Centre",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 946406,
+    "liabilities": 601000
+  },
+  {
+    "name": "Susanta Kumar Dalui",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 910236,
+    "liabilities": 43553
+  }
+]

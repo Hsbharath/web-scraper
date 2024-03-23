@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Rao Inderjit Singh",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 420970754,
+    "liabilities": 31500000
+  },
+  {
+    "name": "Advocate Parveen Yadav Wazirabad",
+    "age": "40",
+    "party": "Akhil Bharatiya Jan Sangh",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14019800,
+    "liabilities": 0
+  },
+  {
+    "name": "Azad Singh Nangalia",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6959900,
+    "liabilities": 0
+  },
+  {
+    "name": "Capt. Ajay Singh",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 274817503,
+    "liabilities": 10612632
+  },
+  {
+    "name": "Chowkidar Anjan Deveshwar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 42128108,
+    "liabilities": 13659094
+  },
+  {
+    "name": "Col. Dharam Pal Singh Raghava",
+    "age": "61",
+    "party": "Rashtra Nirman Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20278916,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Dr. Abdul Latif (Miya Ji)",
+    "age": "63",
+    "party": "Voters Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1690823,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Mehmood Khan",
+    "age": "63",
+    "party": "Jannayak Janta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 241934912,
+    "liabilities": 23348207
+  },
+  {
+    "name": "Fauji Jai Kawar Tyagi Dixshit",
+    "age": "64",
+    "party": "Daksha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 64245906,
+    "liabilities": 0
+  },
+  {
+    "name": "Hans Kumar",
+    "age": "38",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1294270,
+    "liabilities": 0
+  },
+  {
+    "name": "Jawahar Singh Pahal",
+    "age": "47",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 32326592,
+    "liabilities": 4133701
+  },
+  {
+    "name": "Kusheshwar Bhagat",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 604000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahabir Mehra Chhilarki",
+    "age": "48",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 520000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Kumar",
+    "age": "30",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 471314,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Nehra",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1147333,
+    "liabilities": 353892
+  },
+  {
+    "name": "Rais Ahmad",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 459317500,
+    "liabilities": 84082104
+  },
+  {
+    "name": "Ramesh Chand",
+    "age": "67",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2253119,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Kumar",
+    "age": "48",
+    "party": "Rashtriya Sahara Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 192200,
+    "liabilities": 0
+  },
+  {
+    "name": "Rao Inderjeet",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7804420,
+    "liabilities": 52000
+  },
+  {
+    "name": "Sharvan Kumar",
+    "age": "51",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 20142297,
+    "liabilities": 1029600
+  },
+  {
+    "name": "Sudesh Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4991000,
+    "liabilities": 1385000
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "40",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 61500,
+    "liabilities": 0
+  },
+  {
+    "name": "Virender Rana",
+    "age": "46",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1025863217,
+    "liabilities": 0
+  },
+  {
+    "name": "Virender Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35373475,
+    "liabilities": 8221073
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Kavitha Malothu",
+    "age": "39",
+    "party": "TRS",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 19731269,
+    "liabilities": 1252068
+  },
+  {
+    "name": "Arun Kumar Mypathi",
+    "age": "33",
+    "party": "Telangana Jana Samithi",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Balaram Naik Porika",
+    "age": "55",
+    "party": "INC",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 43570110,
+    "liabilities": 33600000
+  },
+  {
+    "name": "Balsingh Daravath",
+    "age": "33",
+    "party": "Bhartiya Anarakshit Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 106000,
+    "liabilities": 0
+  },
+  {
+    "name": "Balu Nayak Bhukya",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2750000,
+    "liabilities": 1025000
+  },
+  {
+    "name": "Bhaskar Naik Bhukya.",
+    "age": "51",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13070000,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Jatothu Hussain",
+    "age": "37",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 29043582,
+    "liabilities": 9000000
+  },
+  {
+    "name": "Kalluri. Venkateswara Rao",
+    "age": "45",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 676200,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalthi Yarraiah",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mokalla. Murali Krishna",
+    "age": "54",
+    "party": "IND",
+    "criminal": "4",
+    "education": "5th Pass",
+    "assets": 1410500,
+    "liabilities": 150000
+  },
+  {
+    "name": "Palvancha. Durga.",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1140000,
+    "liabilities": 80000
+  },
+  {
+    "name": "Parvathi Bhukya",
+    "age": "43",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1610000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uke Kousalya",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 596000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vaditya Shriram Naik",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 4875000,
+    "liabilities": 0
+  }
+]

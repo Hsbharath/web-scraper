@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Rajashree Mallick",
+    "age": "55",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 40023972,
+    "liabilities": 1433305
+  },
+  {
+    "name": "Anil Kumar Behera",
+    "age": "29",
+    "party": "Freethought Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8002,
+    "liabilities": 0
+  },
+  {
+    "name": "Bibhu Prasad Tarai",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5405384,
+    "liabilities": 550000
+  },
+  {
+    "name": "Bibhuti Bhusan Majhi",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 88264,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipak Kumar Das",
+    "age": "32",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2007000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagannath Megh",
+    "age": "63",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 230000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Peeyuush Das",
+    "age": "37",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 601000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Pratima Mallick",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2889737,
+    "liabilities": 275000
+  },
+  {
+    "name": "Sasmita Das",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1531942,
+    "liabilities": 531002
+  }
+]

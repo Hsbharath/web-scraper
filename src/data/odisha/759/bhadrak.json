@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Manjulata Mandal",
+    "age": "42",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 39417891,
+    "liabilities": 8958149
+  },
+  {
+    "name": "Avimanyu Sethi",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 47223493,
+    "liabilities": 12150231
+  },
+  {
+    "name": "Kirtan Bihari Malik",
+    "age": "65",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 275400,
+    "liabilities": 20000
+  },
+  {
+    "name": "Laxmipriya Jena",
+    "age": "27",
+    "party": "Kalinga Sena",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 74000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhumita Sethi",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 23838000,
+    "liabilities": 2384493
+  },
+  {
+    "name": "Muralidhar Jena",
+    "age": "70",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3865000,
+    "liabilities": 160000
+  },
+  {
+    "name": "Pitamber Sethi",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 201448,
+    "liabilities": 0
+  },
+  {
+    "name": "Tilottama Jena",
+    "age": "47",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 42924,
+    "liabilities": 220700
+  }
+]

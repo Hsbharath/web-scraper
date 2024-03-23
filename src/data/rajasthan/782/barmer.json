@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Kailash Choudhary",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 2402250,
+    "liabilities": 0
+  },
+  {
+    "name": "Bheraram Jakhar",
+    "age": "55",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1282500,
+    "liabilities": 0
+  },
+  {
+    "name": "Haneef",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 101000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manvendra Singh",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 45063664,
+    "liabilities": 0
+  },
+  {
+    "name": "Mula Ram",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 165000,
+    "liabilities": 0
+  },
+  {
+    "name": "Popatlal",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 198500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Kumar",
+    "age": "39",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 295500,
+    "liabilities": 0
+  }
+]

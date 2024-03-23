@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Annapurna Devi",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 97636939,
+    "liabilities": 3189066
+  },
+  {
+    "name": "Ajay Krishna",
+    "age": "50",
+    "party": "Rashtriya Jansangharsh Swaraj Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 6398000,
+    "liabilities": 0
+  },
+  {
+    "name": "Avadhesh Kumar Singh",
+    "age": "46",
+    "party": "Vishva SHakti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1896800,
+    "liabilities": 0
+  },
+  {
+    "name": "Babu Lal Marandi",
+    "age": "61",
+    "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+    "criminal": "10",
+    "education": "Graduate",
+    "assets": 10951372,
+    "liabilities": 0
+  },
+  {
+    "name": "Bayas Kumar",
+    "age": "28",
+    "party": "Moolniwasi Samaj Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1156819,
+    "liabilities": 50000
+  },
+  {
+    "name": "Dayanand Kumar",
+    "age": "39",
+    "party": "Janata Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2312284,
+    "liabilities": 400000
+  },
+  {
+    "name": "Kanchan Kumari",
+    "age": "28",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5290000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Md Mahboob Alam",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1887000,
+    "liabilities": 45000
+  },
+  {
+    "name": "Pradip Turi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1635648,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Yadav",
+    "age": "46",
+    "party": "CPI(ML)(L)",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 14941593,
+    "liabilities": 3514000
+  },
+  {
+    "name": "Rameshwar Pd Yadav",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1342200,
+    "liabilities": 67000
+  },
+  {
+    "name": "Sarfaraj Ahmad",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 2538727,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Shivnath Saw",
+    "age": "33",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3318988,
+    "liabilities": 0
+  },
+  {
+    "name": "Tuklal Nayak",
+    "age": "58",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2497500,
+    "liabilities": 0
+  }
+]

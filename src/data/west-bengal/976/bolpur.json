@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Asit Kumar Mal",
+    "age": "63",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1310691,
+    "liabilities": 0
+  },
+  {
+    "name": "Abhijit Saha",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4195922,
+    "liabilities": 113600
+  },
+  {
+    "name": "Bijoy Krishna Dolui",
+    "age": "48",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4435101,
+    "liabilities": 4000000
+  },
+  {
+    "name": "Ramchandra Dome",
+    "age": "61",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 2320217,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramprasad Das",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11501067,
+    "liabilities": 4905000
+  },
+  {
+    "name": "Samiran Das",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Simanta Mondal",
+    "age": "44",
+    "party": "Rashtravadi Janata Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1126000,
+    "liabilities": 0
+  }
+]

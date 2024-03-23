@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Kachhadiya Naranbhai Bhikhabhai",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35900763,
+    "liabilities": 828961
+  },
+  {
+    "name": "Bagda Himmatbhai Danjibhai",
+    "age": "50",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 9701209,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Dayabhai Bhagvanbhai",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1100000,
+    "liabilities": 130000
+  },
+  {
+    "name": "Chauhan Ravjibhai Mulabhai",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 133189,
+    "liabilities": 0
+  },
+  {
+    "name": "Dayala Subhashbhai Parbatbhai",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 540971,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhapa Dharamshibhai Ramjibhai",
+    "age": "45",
+    "party": "Vyavastha Parivartan Party",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 3060000,
+    "liabilities": 177000
+  },
+  {
+    "name": "Gosai Rasikpragat Samjupragat",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6639063,
+    "liabilities": 0
+  },
+  {
+    "name": "Jerambhai Raghavbhai Parmar",
+    "age": "57",
+    "party": "IND",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 346000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nanalal Kalidas Maheta",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3242000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paresh Dhanani",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14342991,
+    "liabilities": 0
+  },
+  {
+    "name": "Sukhdiya Nathabhai",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 8854262,
+    "liabilities": 210444
+  },
+  {
+    "name": "Valodara Vrajlal Jivabhai",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 15000,
+    "liabilities": 0
+  }
+]

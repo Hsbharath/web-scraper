@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Subhash Chandra Baheria",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 232703276,
+    "liabilities": 1827380
+  },
+  {
+    "name": "Pawan Kumar Sharma",
+    "age": "42",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1089730,
+    "liabilities": 0
+  },
+  {
+    "name": "Rampal Sharma",
+    "age": "52",
+    "party": "INC",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 74900711,
+    "liabilities": 24650224
+  },
+  {
+    "name": "Shivlal Gurjar",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 6202833,
+    "liabilities": 1250000
+  }
+]

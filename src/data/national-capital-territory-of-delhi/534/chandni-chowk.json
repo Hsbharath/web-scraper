@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Harsh Vardhan",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 30171897,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "37",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2125449,
+    "liabilities": 125000
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "67",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepti Chopra",
+    "age": "52",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13315170,
+    "liabilities": 1017000
+  },
+  {
+    "name": "Dheer Singh",
+    "age": "36",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Farhadeeba",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 277000,
+    "liabilities": 250000
+  },
+  {
+    "name": "Inder Sen",
+    "age": "36",
+    "party": "Rashtriya Samrasta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4500001,
+    "liabilities": 50368
+  },
+  {
+    "name": "Jai Prakash Agarwal",
+    "age": "74",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 96159175,
+    "liabilities": 0
+  },
+  {
+    "name": "Jugal Kishor",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7676788,
+    "liabilities": 314000
+  },
+  {
+    "name": "Kamal Kishor",
+    "age": "67",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8550331,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Irfan Javed Qureshi",
+    "age": "57",
+    "party": "Ekta Samaj Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Munna Lal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 274389,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Gupta",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2597720,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Kumar Gupta",
+    "age": "52",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 204351194,
+    "liabilities": 737055
+  },
+  {
+    "name": "Ravi Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2471300,
+    "liabilities": 241028
+  },
+  {
+    "name": "Ravindra",
+    "age": "43",
+    "party": "Kanshiram Bahujan Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6443204,
+    "liabilities": 0
+  },
+  {
+    "name": "Sameer Mirza",
+    "age": "29",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 660200,
+    "liabilities": 0
+  },
+  {
+    "name": "Satdev Jain",
+    "age": "53",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5523884,
+    "liabilities": 579000
+  },
+  {
+    "name": "Saurabh Ranjan",
+    "age": "33",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 312000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shahid Ali",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30825000,
+    "liabilities": 4173296
+  },
+  {
+    "name": "Sharestha Arora",
+    "age": "42",
+    "party": "Mazdoor Kirayedar Vikas Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1931500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohan Lal Sharma",
+    "age": "78",
+    "party": "Rashtra Nirman Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 25440,
+    "liabilities": 0
+  },
+  {
+    "name": "Suman Devi",
+    "age": "53",
+    "party": "Bharat Lok Sewak Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Virender Pratap Singh",
+    "age": "38",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4869811,
+    "liabilities": 934097
+  },
+  {
+    "name": "Vishal Khanna",
+    "age": "37",
+    "party": "Sanatan Sanskriti Raksha Dal",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 3810000,
+    "liabilities": 271500
+  }
+]

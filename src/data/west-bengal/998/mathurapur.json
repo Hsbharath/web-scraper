@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Choudhury Mohan Jatua",
+    "age": "80",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10667304,
+    "liabilities": 0
+  },
+  {
+    "name": "Amitav Naskar",
+    "age": "33",
+    "party": "New Democratic Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1665000,
+    "liabilities": 0
+  },
+  {
+    "name": "Asit Kumar Haldar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 225368,
+    "liabilities": 925000
+  },
+  {
+    "name": "Dr. Sarat Chandra Haldar",
+    "age": "42",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6853079,
+    "liabilities": 0
+  },
+  {
+    "name": "Krittibas Sardar",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 844789,
+    "liabilities": 258300
+  },
+  {
+    "name": "Pronab Kumar Jatua",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1863644,
+    "liabilities": 600000
+  },
+  {
+    "name": "Purna Chandra Naiya",
+    "age": "49",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8102832,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyama Prasad Halder",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3592432,
+    "liabilities": 400000
+  },
+  {
+    "name": "Soumen Sarkar",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1706300,
+    "liabilities": 78000
+  }
+]

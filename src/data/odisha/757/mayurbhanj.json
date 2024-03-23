@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bishweswar Tudu",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 2742000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Anjani Soren",
+    "age": "47",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 28247881,
+    "liabilities": 7196331
+  },
+  {
+    "name": "Bharat Chandra Singh",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 554565,
+    "liabilities": 856688
+  },
+  {
+    "name": "Dr Debashis Marndi",
+    "age": "41",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11842615,
+    "liabilities": 632703
+  },
+  {
+    "name": "Nanda Kishore Kisku",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 620000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parbati Purty",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10673347,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Rabindra Nath Singh",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4960050,
+    "liabilities": 3262500
+  },
+  {
+    "name": "Ramchandra Singh",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1633409,
+    "liabilities": 555000
+  }
+]

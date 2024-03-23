@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Tirath Singh Rawat",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15032657,
+    "liabilities": 3500000
+  },
+  {
+    "name": "Anandmani Dutt Joshi",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1642995,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagwat Prasad",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1038000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilendrr Pal Singh",
+    "age": "42",
+    "party": "Uttarakhand Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 835000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Mukesh Semwal",
+    "age": "47",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 200295,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Ramendra Singh Bhandari",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 690000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manish Khanduri",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 79462193,
+    "liabilities": 5560112
+  },
+  {
+    "name": "Shanti Prasad Bhatt",
+    "age": "53",
+    "party": "UKD",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 1289500,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Prasad Notiyal",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1685354,
+    "liabilities": 0
+  }
+]

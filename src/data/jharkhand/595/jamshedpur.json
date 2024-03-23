@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Bidyut Baran Mahato",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 27750671,
+    "liabilities": 2961830
+  },
+  {
+    "name": "Angad Mahato",
+    "age": "51",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3276000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anjana Mahata",
+    "age": "38",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8060342,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashraf Hussain",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50530000,
+    "liabilities": 12000000
+  },
+  {
+    "name": "Asit Kumar Singh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2494948,
+    "liabilities": 0
+  },
+  {
+    "name": "Asjadullah Imran",
+    "age": "49",
+    "party": "Bharat Prabhat Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 2869628,
+    "liabilities": 0
+  },
+  {
+    "name": "Champai Soren",
+    "age": "62",
+    "party": "JMM",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 22822491,
+    "liabilities": 7650059
+  },
+  {
+    "name": "Chandra Shekhar Mahato",
+    "age": "47",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3248346,
+    "liabilities": 17209
+  },
+  {
+    "name": "Deepak Kumar Giri",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 126000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Dinesh Mahato",
+    "age": "46",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 5871513,
+    "liabilities": 29500
+  },
+  {
+    "name": "Mahesh Kumar",
+    "age": "36",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1074449,
+    "liabilities": 567313
+  },
+  {
+    "name": "Malay Kumar Mahato",
+    "age": "37",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124811,
+    "liabilities": 11436
+  },
+  {
+    "name": "Mubin Khan",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1365000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Panmani Singh",
+    "age": "62",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4283897,
+    "liabilities": 20000
+  },
+  {
+    "name": "Qamar Raza Khan",
+    "age": "34",
+    "party": "Bhartiya Panchyat Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 6861709,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Rakesh Kumar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjit Kumar Singh",
+    "age": "54",
+    "party": "Jharkhand Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20915000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sabita Kaibarto",
+    "age": "35",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2785000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sarita Anand",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14022115,
+    "liabilities": 7093866
+  },
+  {
+    "name": "Shailesh Kumar Singh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30068000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shekh Akhir Uddin",
+    "age": "54",
+    "party": "Jharkhand Party (Naren)",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 265000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Subrat Kumar Pradhan",
+    "age": "53",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 325043,
+    "liabilities": 0
+  },
+  {
+    "name": "Surya Singh Besra",
+    "age": "57",
+    "party": "Jharkhand Peoples Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 12036532,
+    "liabilities": 1200000
+  }
+]

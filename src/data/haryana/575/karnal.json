@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Sanjay Bhatia",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2256739,
+    "liabilities": 500000
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "45",
+    "party": "Jai Jawan Jai Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 374500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ankur",
+    "age": "29",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1633000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmvir Padha",
+    "age": "56",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124524443,
+    "liabilities": 5255000
+  },
+  {
+    "name": "Dinesh Sharma",
+    "age": "28",
+    "party": "SHS",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 609052,
+    "liabilities": 0
+  },
+  {
+    "name": "Ishwar Chand Salwan",
+    "age": "69",
+    "party": "Aadarsh Janata Sewa Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15603325,
+    "liabilities": 28566
+  },
+  {
+    "name": "Ishwar Singh",
+    "age": "58",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 22259097,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 4690000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kitab Singh",
+    "age": "61",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4268000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Krishan Kumar Aggarwal",
+    "age": "41",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 47169776,
+    "liabilities": 4504699
+  },
+  {
+    "name": "Kuldip Sharma",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 113355363,
+    "liabilities": 1011148
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "39",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj",
+    "age": "30",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3462000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmod Kumar Sharma",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9578661,
+    "liabilities": 1405603
+  },
+  {
+    "name": "Tilak Raj",
+    "age": "60",
+    "party": "Rashtriya Garib Dal",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 1115000,
+    "liabilities": 325000
+  },
+  {
+    "name": "Vicky Chinalya",
+    "age": "27",
+    "party": "Samajik Nyaya Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 35500,
+    "liabilities": 20000
+  }
+]

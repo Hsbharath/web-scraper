@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Bapu Rao Soyam",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "52",
+    "education": "12th Pass",
+    "assets": 3099414,
+    "liabilities": 231450
+  },
+  {
+    "name": "Aare Ellanna",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bheem Rao",
+    "age": "33",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 274000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharavth Narendhar",
+    "age": "27",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganta Pentanna",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 670000,
+    "liabilities": 0
+  },
+  {
+    "name": "Godam Nagesh",
+    "age": "54",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18477888,
+    "liabilities": 847000
+  },
+  {
+    "name": "Kumra Raju",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumram Vandana",
+    "age": "35",
+    "party": "Nava Praja Rajyam Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nethavath Ramdas",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawar Krishna",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Rathod",
+    "age": "53",
+    "party": "INC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 36491000,
+    "liabilities": 15300000
+  }
+]

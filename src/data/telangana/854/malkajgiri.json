@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Anumula Revanth Reddy",
+    "age": "51",
+    "party": "INC",
+    "criminal": "42",
+    "education": "Graduate",
+    "assets": 245357182,
+    "liabilities": 27807304
+  },
+  {
+    "name": "Balamani Buru",
+    "age": "32",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chalika Chandra Sekhar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4270000,
+    "liabilities": 702000
+  },
+  {
+    "name": "Chamakura Rajaiah",
+    "age": "43",
+    "party": "Social Justice Party of India",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 305000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmasanam Bhanumurthy",
+    "age": "57",
+    "party": "Praja Satta Party",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 5259500,
+    "liabilities": 600000
+  },
+  {
+    "name": "Donthula Bikshapathi",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18610000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahender Reddy Bongunoori",
+    "age": "43",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 139714395,
+    "liabilities": 40743724
+  },
+  {
+    "name": "Rajashekar Reddy Marri",
+    "age": "50",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 567940114,
+    "liabilities": 91408506
+  },
+  {
+    "name": "Rajender Ponnala",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1085000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Ramchander Rao N",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 25940000,
+    "liabilities": 6100000
+  },
+  {
+    "name": "Sai Kiran Gone",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 212089,
+    "liabilities": 0
+  },
+  {
+    "name": "Thirupataiah Enduram",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4241000,
+    "liabilities": 0
+  }
+]

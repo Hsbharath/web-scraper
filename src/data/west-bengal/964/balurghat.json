@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Sukanta Majumdar",
+    "age": "40",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 5825866,
+    "liabilities": 2168170
+  },
+  {
+    "name": "Abdus Sadek Sarkar",
+    "age": "40",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 21868500,
+    "liabilities": 9884000
+  },
+  {
+    "name": "Arpita Ghosh",
+    "age": "52",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2824728,
+    "liabilities": 0
+  },
+  {
+    "name": "Bibhuti Tudu",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1310042,
+    "liabilities": 0
+  },
+  {
+    "name": "Biren Mahanta",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 3074000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manas Chakraborty",
+    "age": "55",
+    "party": "CPI(ML) Red Star",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Muslima Khatun",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 42347,
+    "liabilities": 0
+  },
+  {
+    "name": "Nalin Chandra Murmu",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1883293,
+    "liabilities": 0
+  },
+  {
+    "name": "Naran Tudu",
+    "age": "25",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nubash Chandra Barman",
+    "age": "57",
+    "party": "Kamatapur Peoples Party (United)",
+    "criminal": "6",
+    "education": "12th Pass",
+    "assets": 5721500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranen Barman",
+    "age": "50",
+    "party": "Revolutionary Socialist Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4632504,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranendra Nath Mali",
+    "age": "65",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 474000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjit Kumar Mohanta",
+    "age": "61",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3987164,
+    "liabilities": 63000
+  }
+]

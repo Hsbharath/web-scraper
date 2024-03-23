@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tsering Namgyal",
+    "age": "33",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 981904,
+    "liabilities": 0
+  },
+  {
+    "name": "Asgar Ali Karbalai",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2729608,
+    "liabilities": 0
+  },
+  {
+    "name": "Rigzin Spalbar",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 58318908,
+    "liabilities": 8765000
+  },
+  {
+    "name": "Sajjad Hussain",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 109000,
+    "liabilities": 0
+  }
+]

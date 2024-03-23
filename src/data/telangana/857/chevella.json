@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Dr.Gaddam Ranjith Reddy",
+    "age": "54",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1634695131,
+    "liabilities": 197007553
+  },
+  {
+    "name": "A.A. Sabri",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2326979,
+    "liabilities": 0
+  },
+  {
+    "name": "Anusha Keshavabhatla",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9275000,
+    "liabilities": 4600000
+  },
+  {
+    "name": "B. Janardhan Reddy",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1197313405,
+    "liabilities": 66870634
+  },
+  {
+    "name": "Baswaiah Madiga",
+    "age": "47",
+    "party": "Prajaa Swaraaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2475117,
+    "liabilities": 1242117
+  },
+  {
+    "name": "Bennala Julee",
+    "age": "34",
+    "party": "National Women",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chepuri Raju",
+    "age": "39",
+    "party": "Dalita Bahujana Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "G. Ravi Kumar Yadav",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 91000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurram Papi Reddy",
+    "age": "43",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2152500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ija Venkatesh Goud",
+    "age": "43",
+    "party": "Social Justice Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9799564,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Jaidupally Yadaiah",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Konda Vishweshwar Reddy",
+    "age": "59",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 8950179170,
+    "liabilities": 358127700
+  },
+  {
+    "name": "Korra Pandu Naik",
+    "age": "42",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kummari Giri",
+    "age": "37",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 485000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nalla Prem Kumar",
+    "age": "47",
+    "party": "Prem Janata Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 500,
+    "liabilities": 0
+  },
+  {
+    "name": "P. Purushotham",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 233000,
+    "liabilities": 0
+  },
+  {
+    "name": "Palamakula Madhu",
+    "age": "38",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 150932,
+    "liabilities": 0
+  },
+  {
+    "name": "Ragam Sathesh Yadav",
+    "age": "36",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 40003000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Sanem Raju Goud",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2111000,
+    "liabilities": 0
+  },
+  {
+    "name": "T. Durga Prasad",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 252000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vanam Sudhakar",
+    "age": "36",
+    "party": "Marxist Communist Party of India (United)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 705500,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Aarya",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 720193,
+    "liabilities": 0
+  },
+  {
+    "name": "Yedla Suresh",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 103000,
+    "liabilities": 0
+  }
+]

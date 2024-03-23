@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Rahul Kaswan",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 36723865,
+    "liabilities": 15163379
+  },
+  {
+    "name": "Aslam",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 93973,
+    "liabilities": 124600
+  },
+  {
+    "name": "Balwan Poonia",
+    "age": "41",
+    "party": "CPI(M)",
+    "criminal": "12",
+    "education": "Graduate Professional",
+    "assets": 3668789,
+    "liabilities": 1415622
+  },
+  {
+    "name": "Bishanaram",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 119310,
+    "liabilities": 0
+  },
+  {
+    "name": "Dararam Nayak",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 517000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gomati Dharampal Kataria",
+    "age": "52",
+    "party": "Bharat Rakshak Party (Democratic)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 18212900,
+    "liabilities": 1350000
+  },
+  {
+    "name": "Hari Singh",
+    "age": "57",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 18103000,
+    "liabilities": 795000
+  },
+  {
+    "name": "Kumbharam Meena",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 546100,
+    "liabilities": 100000
+  },
+  {
+    "name": "Rafique Mandelia",
+    "age": "58",
+    "party": "INC",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 582281544,
+    "liabilities": 464721999
+  },
+  {
+    "name": "Satyapal Bauddh",
+    "age": "62",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2065170,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheela Shekhawat",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2050620,
+    "liabilities": 874224
+  },
+  {
+    "name": "Sukhdev Meghwal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1092100,
+    "liabilities": 0
+  }
+]

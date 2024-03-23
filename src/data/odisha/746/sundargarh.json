@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jual Oram",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 74185014,
+    "liabilities": 12743330
+  },
+  {
+    "name": "Basil Ekka",
+    "age": "50",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1193388,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Dayananda Bhitria",
+    "age": "52",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 370000,
+    "liabilities": 50000
+  },
+  {
+    "name": "George Tirkey",
+    "age": "60",
+    "party": "INC",
+    "criminal": "41",
+    "education": "12th Pass",
+    "assets": 901058,
+    "liabilities": 0
+  },
+  {
+    "name": "Justin Lugun",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 31694,
+    "liabilities": 0
+  },
+  {
+    "name": "Miss Juspin Lakra",
+    "age": "48",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 6400,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunita Biswal",
+    "age": "39",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19117337,
+    "liabilities": 773540
+  },
+  {
+    "name": "Udit Chandra Amat",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 4321500,
+    "liabilities": 0
+  }
+]

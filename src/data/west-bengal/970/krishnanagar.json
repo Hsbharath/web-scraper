@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Mahua Moitra",
+    "age": "44",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 26495250,
+    "liabilities": 671138
+  },
+  {
+    "name": "Ashok Agarwala",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 373050,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaskar Paul",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 903050,
+    "liabilities": 0
+  },
+  {
+    "name": "Intaj Ali Shah",
+    "age": "70",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10054478,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayanta Debnath",
+    "age": "47",
+    "party": "Aihra National Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 18603000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jha Shantanu",
+    "age": "57",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 14839130,
+    "liabilities": 290686
+  },
+  {
+    "name": "Kalyan Chaubey",
+    "age": "40",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22072625,
+    "liabilities": 1603339
+  },
+  {
+    "name": "Nirapada Modak",
+    "age": "56",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 14773838,
+    "liabilities": 50000
+  },
+  {
+    "name": "Shaikh Khoda Box",
+    "age": "74",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2433255,
+    "liabilities": 100000
+  },
+  {
+    "name": "Subimal Sengupta",
+    "age": "60",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uddhab Roy",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7794000,
+    "liabilities": 409431
+  }
+]

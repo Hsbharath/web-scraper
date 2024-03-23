@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Pothuganti Ramulu",
+    "age": "66",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10778684,
+    "liabilities": 0
+  },
+  {
+    "name": "B Yosef",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 775000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baaki Renuka",
+    "age": "39",
+    "party": "National Womens Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Charagonda Krishnamma",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Mallu Ravi",
+    "age": "68",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 265782483,
+    "liabilities": 18800000
+  },
+  {
+    "name": "Gaddam Vijay Kumar",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1803217,
+    "liabilities": 44000
+  },
+  {
+    "name": "Karvanga Sharath",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 20037,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhudas Bandaru Thumu",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 990425,
+    "liabilities": 0
+  },
+  {
+    "name": "Shruthi Bangaru",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 51701683,
+    "liabilities": 886328
+  },
+  {
+    "name": "Srinivasulu Buddula",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 925000,
+    "liabilities": 32000
+  },
+  {
+    "name": "V Amarnath",
+    "age": "25",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 504000,
+    "liabilities": 0
+  }
+]

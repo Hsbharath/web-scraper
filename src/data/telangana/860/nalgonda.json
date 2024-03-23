@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Nalamada Uttam Kumar Reddy",
+    "age": "55",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 31501349,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Akula Paul",
+    "age": "36",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40140,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandaru Nagaraju",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 226000,
+    "liabilities": 0
+  },
+  {
+    "name": "Garlapati Jithendra Kumar",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 184577651,
+    "liabilities": 21781741
+  },
+  {
+    "name": "Jakkula Naveen Yadav",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1004799,
+    "liabilities": 0
+  },
+  {
+    "name": "Janaiah Nandipati",
+    "age": "43",
+    "party": "Telangana Sakalajanula Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1596300,
+    "liabilities": 78000
+  },
+  {
+    "name": "Karamtothu Mangtha",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 31000,
+    "liabilities": 0
+  },
+  {
+    "name": "Katravath Venkatesh",
+    "age": "30",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21300,
+    "liabilities": 0
+  },
+  {
+    "name": "Kiran Vangapalli",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalu Naik Ramavath",
+    "age": "54",
+    "party": "Bahujana Raajyam Party (Phule Ambedkar)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1370000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Lingidi Venkateswarlu",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12533638,
+    "liabilities": 3890240
+  },
+  {
+    "name": "Lithesh Sunkari",
+    "age": "30",
+    "party": "Social Justice Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4821500,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Sapavath",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mallu Laxmi",
+    "age": "45",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 49866261,
+    "liabilities": 8538884
+  },
+  {
+    "name": "Maram Venkat Reddy",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1400000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Marri. Nehemiah",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 770000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mekala Satheesh Reddy",
+    "age": "37",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3471000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mekala Venkanna",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 265572,
+    "liabilities": 213000
+  },
+  {
+    "name": "Nakirikanti. Chittemma",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2684500,
+    "liabilities": 747000
+  },
+  {
+    "name": "Polishetty Venkateshwarlu",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Sunkara",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1531500,
+    "liabilities": 0
+  },
+  {
+    "name": "Royyala Srinivasulu",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8650000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Solipuram Venugopal Reddy",
+    "age": "42",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5700000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Sreenu Vadthya",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1923826,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Thagulla Janardhan",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 225000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thandu Upender",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vemireddy Narasimha Reddy",
+    "age": "63",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 943184220,
+    "liabilities": 208178829
+  }
+]

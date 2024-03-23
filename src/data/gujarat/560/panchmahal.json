@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ratansinh Rathod",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10260663,
+    "liabilities": 1081611
+  },
+  {
+    "name": "Lalabhai Gadhavi",
+    "age": "36",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 469000,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Virendrakumar",
+    "age": "31",
+    "party": "NCP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 1422050,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathod Vijaysinh",
+    "age": "44",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1811000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Shaikh Kalim",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 125000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vechatbhai Khant",
+    "age": "68",
+    "party": "INC",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 33436760,
+    "liabilities": 600000
+  }
+]

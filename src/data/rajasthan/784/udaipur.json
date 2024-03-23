@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Arjunlal Meena",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48196946,
+    "liabilities": 15602872
+  },
+  {
+    "name": "Birdhi Lal Chhanwal",
+    "age": "65",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10682700,
+    "liabilities": 0
+  },
+  {
+    "name": "Ghanshyam Singh Tawar",
+    "age": "51",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 330700,
+    "liabilities": 0
+  },
+  {
+    "name": "Harji Lal Meena",
+    "age": "39",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 265000,
+    "liabilities": 5000
+  },
+  {
+    "name": "Kesu Lal Meena",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1112508,
+    "liabilities": 85000
+  },
+  {
+    "name": "Kika Mina",
+    "age": "78",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2080000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parbhulal Meena",
+    "age": "37",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1610513,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghuvir Singh Meena",
+    "age": "59",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 32075616,
+    "liabilities": 4127647
+  },
+  {
+    "name": "Shankerlal",
+    "age": "45",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1345000,
+    "liabilities": 350000
+  }
+]

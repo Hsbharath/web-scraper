@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Sukhbir Singh Badal",
+    "age": "56",
+    "party": "SAD",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 2179919870,
+    "liabilities": 954852600
+  },
+  {
+    "name": "Balkar Singh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2632500,
+    "liabilities": 866698
+  },
+  {
+    "name": "Balwant Singh Khalsa",
+    "age": "64",
+    "party": "Janral Samaj Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 8193409,
+    "liabilities": 300000
+  },
+  {
+    "name": "Buta Ram Gulati",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 657000,
+    "liabilities": 75000
+  },
+  {
+    "name": "Hans Raj Golden",
+    "age": "54",
+    "party": "CPI",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 2850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harjinder Singh Kaka Sran",
+    "age": "49",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6122270,
+    "liabilities": 200000
+  },
+  {
+    "name": "Harmander Singh",
+    "age": "37",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 686500,
+    "liabilities": 0
+  },
+  {
+    "name": "Jatinder Singh Thind",
+    "age": "31",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 583000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Kashmir Singh",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5180900,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuldeep Singh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Lal",
+    "age": "42",
+    "party": "Republican Party of India (Reformist)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 155000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 514000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "64",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3005500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pala Singh",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parwinder Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9100,
+    "liabilities": 0
+  },
+  {
+    "name": "Satnam Singh S/O Balwant Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 745568,
+    "liabilities": 0
+  },
+  {
+    "name": "Satnam Singh S/O Gurdeep Singh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 45000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Sher Singh Ghubaya",
+    "age": "56",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 85822451,
+    "liabilities": 11350390
+  },
+  {
+    "name": "Sukhjit Singh",
+    "age": "39",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 761000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunny Bawa",
+    "age": "30",
+    "party": "Akhil Bhartiya Apna Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surjit Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 7004700,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushil Kumar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7171200,
+    "liabilities": 300000
+  }
+]

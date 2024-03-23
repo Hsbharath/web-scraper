@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Dharambir Singh",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 60642205,
+    "liabilities": 240000
+  },
+  {
+    "name": "Balwan Singh",
+    "age": "37",
+    "party": "INLD",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 4094534,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Bhai Surender Dhanak",
+    "age": "29",
+    "party": "Bhartiya Janraj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 837000,
+    "liabilities": 710000
+  },
+  {
+    "name": "Dharambir Singh S/0 Fateh Singh",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4640509,
+    "liabilities": 0
+  },
+  {
+    "name": "Happy Singh",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 383000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagat Singh",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6180405,
+    "liabilities": 0
+  },
+  {
+    "name": "Kundan Kumar",
+    "age": "56",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 478612,
+    "liabilities": 400000
+  },
+  {
+    "name": "Lalit",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2026000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Irfan",
+    "age": "41",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11371062,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Parkash",
+    "age": "54",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 431718,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajnish Kumar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7714944,
+    "liabilities": 215000
+  },
+  {
+    "name": "Ram Kishan",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 29912701,
+    "liabilities": 412000
+  },
+  {
+    "name": "Ramesh Rao Pilot",
+    "age": "46",
+    "party": "Loktanter Suraksha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 91465000,
+    "liabilities": 14367975
+  },
+  {
+    "name": "Salesh Kumar",
+    "age": "45",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1966255,
+    "liabilities": 0
+  },
+  {
+    "name": "Satbir",
+    "age": "44",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 336000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satya Pal",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 24580075,
+    "liabilities": 107400
+  },
+  {
+    "name": "Shruti Choudhry",
+    "age": "43",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1016118000,
+    "liabilities": 151084000
+  },
+  {
+    "name": "Sudhir Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7757684,
+    "liabilities": 2918666
+  },
+  {
+    "name": "Suresh Chand",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1219500,
+    "liabilities": 60000
+  },
+  {
+    "name": "Swati Yadav",
+    "age": "30",
+    "party": "Jannayak Janta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 91521178,
+    "liabilities": 45967727
+  },
+  {
+    "name": "Vinod Kumar",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 648774,
+    "liabilities": 80000
+  }
+]

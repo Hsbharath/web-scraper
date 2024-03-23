@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Sudarshan Bhagat",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12947303,
+    "liabilities": 525000
+  },
+  {
+    "name": "Aalone Baxla",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2738947,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajit Kumar Bhagat",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ambar Saurav Kunal",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1997468,
+    "liabilities": 0
+  },
+  {
+    "name": "Anand Paul Tirkey",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2647000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deo Kumar Dhan",
+    "age": "53",
+    "party": "Jharkhand Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 22679920,
+    "liabilities": 2400000
+  },
+  {
+    "name": "Dinesh Oraon",
+    "age": "26",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9232000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Ekus Dhan",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2066713,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalindar Oraon",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1636800,
+    "liabilities": 25000
+  },
+  {
+    "name": "Raghunath Mahli",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1804321,
+    "liabilities": 250000
+  },
+  {
+    "name": "Saniya Oraon",
+    "age": "49",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1048129,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Oraon",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1352000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharvan Kumar Panna",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1973500,
+    "liabilities": 50000
+  },
+  {
+    "name": "Sukhdeo Bhagat",
+    "age": "57",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 21094142,
+    "liabilities": 3935029
+  }
+]

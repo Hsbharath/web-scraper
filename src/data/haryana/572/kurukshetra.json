@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Nayab Singh",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 35785621,
+    "liabilities": 5720000
+  },
+  {
+    "name": "Anil",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 8138602,
+    "liabilities": 50000
+  },
+  {
+    "name": "Arjun Singh Chautala",
+    "age": "26",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 63059996,
+    "liabilities": 1748226
+  },
+  {
+    "name": "Ashwini Sharma Hrittwal",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 14283654,
+    "liabilities": 500000
+  },
+  {
+    "name": "Balveer Singh",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8736196,
+    "liabilities": 0
+  },
+  {
+    "name": "Jai Bhagwan",
+    "age": "57",
+    "party": "Jannayak Janta Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 134293739,
+    "liabilities": 4373215
+  },
+  {
+    "name": "Jai Parkash Sharma",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5382310,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti",
+    "age": "0",
+    "party": "Navnirman Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2007635,
+    "liabilities": 230013
+  },
+  {
+    "name": "Kanwaljit Singh",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 530100,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmal Singh",
+    "age": "66",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 126385687,
+    "liabilities": 704496
+  },
+  {
+    "name": "Nitin",
+    "age": "0",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 322000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumari",
+    "age": "35",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 22000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Narayan",
+    "age": "29",
+    "party": "Bhartiya Jan Samman Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 202000,
+    "liabilities": 107000
+  },
+  {
+    "name": "Ramesh Chander Khatkar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 36372,
+    "liabilities": 1663000
+  },
+  {
+    "name": "Rameshwar Dass",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14782145,
+    "liabilities": 0
+  },
+  {
+    "name": "Roshan Lal Muwal",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19475113,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Gaba",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4180000,
+    "liabilities": 331225
+  },
+  {
+    "name": "Sandeep Kumar Kaushik",
+    "age": "38",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3246000,
+    "liabilities": 130000
+  },
+  {
+    "name": "Sandeep Singh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "8",
+    "education": "Post Graduate",
+    "assets": 9941078,
+    "liabilities": 2218377
+  },
+  {
+    "name": "Satish Kumar Singal",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10190000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashi",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 54861000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash",
+    "age": "47",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 971000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumer Chand",
+    "age": "63",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3311000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikram Singh",
+    "age": "44",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 25378,
+    "liabilities": 17000
+  }
+]

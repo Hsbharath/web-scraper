@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Narendra Kumar",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 47474109,
+    "liabilities": 3278401
+  },
+  {
+    "name": "Ajay Pal",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 375915,
+    "liabilities": 0
+  },
+  {
+    "name": "Bal Dev Prasad Saini",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 820000,
+    "liabilities": 22000
+  },
+  {
+    "name": "Bhim Singh",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 13090000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Tejpal",
+    "age": "31",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 633189,
+    "liabilities": 592936
+  },
+  {
+    "name": "Guru Gokulchand Rashtarwadi",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Kailash Karwasara",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 38815,
+    "liabilities": 94720
+  },
+  {
+    "name": "Krishan Kumar",
+    "age": "44",
+    "party": "Rashtriya Mangalam Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2534657,
+    "liabilities": 480000
+  },
+  {
+    "name": "Mahant Akash Giri",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 57000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Yunus",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 509272,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharwan Kumar",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7885036,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharwan Kumar S/O Hukma Ram",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8344131,
+    "liabilities": 4681739
+  }
+]

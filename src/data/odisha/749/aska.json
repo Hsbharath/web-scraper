@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pramila Bisoyi",
+    "age": "70",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 732470,
+    "liabilities": 0
+  },
+  {
+    "name": "Anita Subhadarshini",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16175950,
+    "liabilities": 17925000
+  },
+  {
+    "name": "Chakradhar Sahu",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10071000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Shyambabu Subudhi",
+    "age": "83",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Purna Chandra Nayak",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajeeb Chandra Khadanga",
+    "age": "45",
+    "party": "AIFB",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1476096,
+    "liabilities": 366000
+  },
+  {
+    "name": "Rama Krushna Panda",
+    "age": "47",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 329980,
+    "liabilities": 0
+  },
+  {
+    "name": "Sankar Sahu",
+    "age": "43",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 541935,
+    "liabilities": 0
+  }
+]

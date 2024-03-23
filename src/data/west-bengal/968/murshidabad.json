@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Abu Taher Khan",
+    "age": "57",
+    "party": "AITC",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 8926616,
+    "liabilities": 1350000
+  },
+  {
+    "name": "Abu Hena, S/O - Late Abdus Sattar",
+    "age": "69",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8021988,
+    "liabilities": 0
+  },
+  {
+    "name": "Abu Hena, S/O - Sazzad Ali",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 725512,
+    "liabilities": 0
+  },
+  {
+    "name": "Badaruddoza Khan",
+    "age": "64",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4893387,
+    "liabilities": 42492
+  },
+  {
+    "name": "Dhananjoy Sarkar",
+    "age": "39",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 615796,
+    "liabilities": 0
+  },
+  {
+    "name": "Humayun Kabir",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "10",
+    "education": "12th Pass",
+    "assets": 36308374,
+    "liabilities": 4900000
+  },
+  {
+    "name": "Humayun Kabir Sekh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 777750,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamarujjaman Khandekar",
+    "age": "60",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 110253,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Habibur Rahaman",
+    "age": "61",
+    "party": "Jamat-E-Seratul Mustakim",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5598091,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Jalaluddin Mondal",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8070000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mijanul Haque",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3249000,
+    "liabilities": 2150000
+  }
+]

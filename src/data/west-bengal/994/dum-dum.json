@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sougata Ray",
+    "age": "71",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 42518790,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Sengupta",
+    "age": "67",
+    "party": "Rashtriya Janasachetan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2415100,
+    "liabilities": 270000
+  },
+  {
+    "name": "Indranil Banerjee",
+    "age": "44",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 245511,
+    "liabilities": 0
+  },
+  {
+    "name": "Jhuma Saha",
+    "age": "41",
+    "party": "Party for Democratic Socialism",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3790104,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Chandra Barui",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9815881,
+    "liabilities": 20000
+  },
+  {
+    "name": "Nepaldeb Bhattacharya",
+    "age": "67",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 7743732,
+    "liabilities": 0
+  },
+  {
+    "name": "Samik Bhattacharya",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 706493,
+    "liabilities": 0
+  },
+  {
+    "name": "Satya Brata Bandyopadhyay",
+    "age": "57",
+    "party": "Rashtriya Janadhikar Suraksha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4749233,
+    "liabilities": 0
+  },
+  {
+    "name": "Saurav Saha",
+    "age": "37",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 12367000,
+    "liabilities": 5296000
+  },
+  {
+    "name": "Shankar Das",
+    "age": "60",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 305000,
+    "liabilities": 0
+  },
+  {
+    "name": "Subir Das",
+    "age": "50",
+    "party": "New Democratic Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 41200,
+    "liabilities": 0
+  },
+  {
+    "name": "Tarun Kumar Das",
+    "age": "61",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9302744,
+    "liabilities": 0
+  }
+]

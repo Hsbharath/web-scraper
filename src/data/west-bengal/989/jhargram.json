@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Kunar Hembram",
+    "age": "56",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10387498,
+    "liabilities": 565000
+  },
+  {
+    "name": "Ashok Kumar Murmu",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10260245,
+    "liabilities": 0
+  },
+  {
+    "name": "Birbaha Hansda",
+    "age": "37",
+    "party": "Jharkhand Party (Naren)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2500,
+    "liabilities": 0
+  },
+  {
+    "name": "Birbaha Saren",
+    "age": "48",
+    "party": "AITC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 6702555,
+    "liabilities": 0
+  },
+  {
+    "name": "Deblina Hembram",
+    "age": "48",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1751916,
+    "liabilities": 44439
+  },
+  {
+    "name": "Jageswar Hembram",
+    "age": "54",
+    "party": "INC",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 229925,
+    "liabilities": 0
+  },
+  {
+    "name": "Maheswar Hembram",
+    "age": "29",
+    "party": "Akhil Bhartiya Jharkhand Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3800,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Nath Hembram",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 7360349,
+    "liabilities": 145000
+  },
+  {
+    "name": "Sushil Mandi",
+    "age": "38",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 801152,
+    "liabilities": 0
+  }
+]

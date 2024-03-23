@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Geeta Kora",
+    "age": "35",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 25249018,
+    "liabilities": 1928508
+  },
+  {
+    "name": "Anil Soren",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2030615,
+    "liabilities": 36000
+  },
+  {
+    "name": "Chandra Mohan Hembrom",
+    "age": "35",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 94310,
+    "liabilities": 0
+  },
+  {
+    "name": "Hari Orawn",
+    "age": "46",
+    "party": "Kalinga Sena",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 2552400,
+    "liabilities": 1110385
+  },
+  {
+    "name": "Krishna Mardi",
+    "age": "61",
+    "party": "Jharkhand Mukti Morcha (Ulgulan)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1958965,
+    "liabilities": 800000
+  },
+  {
+    "name": "Laxman Giluwa",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 19516408,
+    "liabilities": 1265285
+  },
+  {
+    "name": "Pardeshi Lal Munda",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 611726,
+    "liabilities": 0
+  },
+  {
+    "name": "Pratap Singh Banara",
+    "age": "25",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 52985,
+    "liabilities": 0
+  },
+  {
+    "name": "Pushpa Sinku",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 125000,
+    "liabilities": 0
+  }
+]

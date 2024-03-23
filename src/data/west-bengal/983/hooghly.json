@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Locket Chatterjee",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "14",
+    "education": "Graduate",
+    "assets": 35655698,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhaskar Ghosh",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4867929,
+    "liabilities": 73000
+  },
+  {
+    "name": "Dulal Chandra Hembram",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9103000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Noor Hossain Mondal",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 12563,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradip Saha",
+    "age": "58",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1675744,
+    "liabilities": 0
+  },
+  {
+    "name": "Pratul Chandra Saha",
+    "age": "57",
+    "party": "INC",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1789324,
+    "liabilities": 0
+  },
+  {
+    "name": "Ratna De",
+    "age": "70",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 34779481,
+    "liabilities": 0
+  },
+  {
+    "name": "Sajal Adhikari",
+    "age": "55",
+    "party": "CPI(ML)(L)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4708000,
+    "liabilities": 155035
+  },
+  {
+    "name": "Vijay Kumar Mahato",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 205640,
+    "liabilities": 0
+  }
+]

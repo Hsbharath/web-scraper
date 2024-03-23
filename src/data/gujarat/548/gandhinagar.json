@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Amit Shah",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 403275307,
+    "liabilities": 4769587
+  },
+  {
+    "name": "Chandrapal Hasmukh Bavjibhai",
+    "age": "54",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4994296,
+    "liabilities": 270000
+  },
+  {
+    "name": "Chavda Chatursinh Javanji",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 120468223,
+    "liabilities": 19223728
+  },
+  {
+    "name": "Jayendra Karshanbhai Rathod",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 805781,
+    "liabilities": 0
+  },
+  {
+    "name": "Khodabhai Lalajibhai Desai",
+    "age": "51",
+    "party": "IND",
+    "criminal": "2",
+    "education": "5th Pass",
+    "assets": 188690310,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendrabhai Somabhai Patni",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Makwana Anilkumar Somabhai",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1273032,
+    "liabilities": 0
+  },
+  {
+    "name": "Makwana Prakashbhai Bahecharji",
+    "age": "26",
+    "party": "Garvi Gujarat Party",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 740473,
+    "liabilities": 0
+  },
+  {
+    "name": "Naranbhai Tulsidas Sengal",
+    "age": "57",
+    "party": "Bahujan Suraksha Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 109000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendrabhai Revashanker Trivedi",
+    "age": "65",
+    "party": "Jan Satya Path Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 113446,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Amarish Jasvantlal",
+    "age": "65",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 66264748,
+    "liabilities": 640916
+  },
+  {
+    "name": "Pathan Firozkhan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 286300,
+    "liabilities": 0
+  },
+  {
+    "name": "Rahul Chimanbhai Mehta",
+    "age": "50",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 54819000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathod Bhogilal Jenabhai",
+    "age": "47",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rathod Valjibhai Becharbhai",
+    "age": "44",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Literate",
+    "assets": 959500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shekh Shahinbanu Molana Mustak",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 753000,
+    "liabilities": 32000
+  },
+  {
+    "name": "Vora Alimahmad Rajabhai",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1970884,
+    "liabilities": 32000
+  }
+]

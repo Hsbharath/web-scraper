@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Gautam Gambhir",
+    "age": "37",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1471587789,
+    "liabilities": 342035860
+  },
+  {
+    "name": "Ajay Chaudhary",
+    "age": "42",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 559000,
+    "liabilities": 180000
+  },
+  {
+    "name": "Amanullah Ahmed",
+    "age": "34",
+    "party": "Bhartiya Insan Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7944500,
+    "liabilities": 0
+  },
+  {
+    "name": "Anupam Tripathi",
+    "age": "38",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3071500,
+    "liabilities": 700000
+  },
+  {
+    "name": "Arvinder Singh Lovely",
+    "age": "50",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 50452066,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Surana",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 112354277,
+    "liabilities": 2250000
+  },
+  {
+    "name": "Atishi",
+    "age": "37",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 12012824,
+    "liabilities": 0
+  },
+  {
+    "name": "D. Durga Prasad",
+    "age": "53",
+    "party": "Challengers Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 47138000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepti Nadella",
+    "age": "38",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9062141,
+    "liabilities": 0
+  },
+  {
+    "name": "Hafiz Burhanuddin",
+    "age": "57",
+    "party": "The National Road Map Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6645000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harbalwinder Singh",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 143303628,
+    "liabilities": 0
+  },
+  {
+    "name": "Hitesh Kumar",
+    "age": "38",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 53725000,
+    "liabilities": 3000000
+  },
+  {
+    "name": "Krishan Singh Chauhan",
+    "age": "56",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 26415314,
+    "liabilities": 750832
+  },
+  {
+    "name": "Manjeet Singh",
+    "age": "31",
+    "party": "Rashtra Nirman Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6240443,
+    "liabilities": 230501
+  },
+  {
+    "name": "Manju Chhibber",
+    "age": "64",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31868000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Gupta",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35324,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Lal Sharma",
+    "age": "72",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20428012,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Jadly",
+    "age": "48",
+    "party": "Uttarakhand Pragatisheel Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12504856,
+    "liabilities": 950000
+  },
+  {
+    "name": "Neeru Mongia",
+    "age": "40",
+    "party": "PRISM Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 21370288,
+    "liabilities": 1980000
+  },
+  {
+    "name": "Rahimuddin Shah",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 938785,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Dhingiya",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 708293,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravi Kumar",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 39705621,
+    "liabilities": 334500
+  },
+  {
+    "name": "Sanjay Kumar",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4693400,
+    "liabilities": 845000
+  },
+  {
+    "name": "Satish Kumar Prajapati",
+    "age": "48",
+    "party": "Mazdoor Kirayedar Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4114657,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Kumar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1198000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surender Gupta",
+    "age": "43",
+    "party": "National Apni Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 590000,
+    "liabilities": 0
+  }
+]

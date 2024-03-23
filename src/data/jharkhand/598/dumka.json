@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Sunil Soren",
+    "age": "39",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4737559,
+    "liabilities": 685516
+  },
+  {
+    "name": "Arjun Pujhar",
+    "age": "44",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1566773,
+    "liabilities": 8000
+  },
+  {
+    "name": "Baghrai Soren",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 660000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Shrilal Kisku",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3010115,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohril Murmu",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 790000,
+    "liabilities": 0
+  },
+  {
+    "name": "Probina Murmu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Besra",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 135996,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Tudu",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1707200,
+    "liabilities": 0
+  },
+  {
+    "name": "Raska Soren",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1835000,
+    "liabilities": 0
+  },
+  {
+    "name": "Samuel Tudu",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 47000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Soren",
+    "age": "73",
+    "party": "Jharkhand Peoples Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3936986,
+    "liabilities": 0
+  },
+  {
+    "name": "Senapati Murmu",
+    "age": "45",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2468599,
+    "liabilities": 341860
+  },
+  {
+    "name": "Shibu Soren",
+    "age": "72",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 72593962,
+    "liabilities": 14999229
+  },
+  {
+    "name": "Stephan Besra",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3711000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Thakuroon Soren",
+    "age": "37",
+    "party": "IND",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 59115,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Manoj Rajoria",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 64867148,
+    "liabilities": 22121569
+  },
+  {
+    "name": "Jeet Ram Bairwa",
+    "age": "35",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkumar",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3502000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "Sanjay Kumar",
+    "age": "31",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5376898,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Babu",
+    "age": "55",
+    "party": "Prabuddha Republican Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 217000,
+    "liabilities": 0
+  }
+]

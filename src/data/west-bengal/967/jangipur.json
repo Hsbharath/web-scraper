@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Khalilur Rahaman",
+    "age": "58",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 368306705,
+    "liabilities": 2248968
+  },
+  {
+    "name": "Abhijit Mukherjee",
+    "age": "59",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 143350474,
+    "liabilities": 30421037
+  },
+  {
+    "name": "Avijit Khamaru",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2270200,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhananjoy Banerjee",
+    "age": "44",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2020792,
+    "liabilities": 0
+  },
+  {
+    "name": "Mafuja Khatun",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 2408235,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Samiruddin",
+    "age": "48",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 26267,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Taiedul Islam",
+    "age": "57",
+    "party": "SDPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2520831,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Zulfikar Ali",
+    "age": "53",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8664555,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Prasad Halder",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 814600,
+    "liabilities": 0
+  },
+  {
+    "name": "Shamimul Islam",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 18880045,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Qasim Rasool Ilyas",
+    "age": "65",
+    "party": "Welfare Party Of India",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 9770000,
+    "liabilities": 0
+  }
+]

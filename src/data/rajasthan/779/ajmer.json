@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bhagirath Chaudhary",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 85101774,
+    "liabilities": 8319942
+  },
+  {
+    "name": "Durga Lal Regar",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 41740458,
+    "liabilities": 890000
+  },
+  {
+    "name": "Mukesh Gena",
+    "age": "31",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6236000,
+    "liabilities": 450000
+  },
+  {
+    "name": "Pramod Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 630000,
+    "liabilities": 0
+  },
+  {
+    "name": "Riju Jhunjhunwala",
+    "age": "40",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 853998231,
+    "liabilities": 306012685
+  },
+  {
+    "name": "Soniya Regar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 61648,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishram Babu",
+    "age": "60",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 25792244,
+    "liabilities": 268705
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Asaduddin Owaisi",
+    "age": "49",
+    "party": "AIMIM",
+    "criminal": "5",
+    "education": "Graduate Professional",
+    "assets": 179044376,
+    "liabilities": 120500000
+  },
+  {
+    "name": "Beeramganti Venkat Ramesh Naidu",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 3071000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagavanth Rao Pawar",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 8626993,
+    "liabilities": 4839
+  },
+  {
+    "name": "Dornala Jaya Prakash",
+    "age": "36",
+    "party": "New India Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 1364218,
+    "liabilities": 100000
+  },
+  {
+    "name": "Dr.Hingolikar Susheel Raj",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1644000,
+    "liabilities": 2950000
+  },
+  {
+    "name": "K Rangacharya",
+    "age": "49",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Nagaraj",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 368000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ka Maheshwar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "6",
+    "education": "10th Pass",
+    "assets": 609000,
+    "liabilities": 420000
+  },
+  {
+    "name": "L Ashok Nath",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 249000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Abdul Azeem",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammed Feroz Khan",
+    "age": "46",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7470000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Ahmed",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pusthe Srikanth",
+    "age": "46",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30700000,
+    "liabilities": 10400000
+  },
+  {
+    "name": "Sanjay Kumar Shukla",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 22706000,
+    "liabilities": 0
+  },
+  {
+    "name": "V Bal Krishna",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 290000,
+    "liabilities": 0
+  }
+]

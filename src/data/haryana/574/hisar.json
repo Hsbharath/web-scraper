@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Brijendra Singh",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 146408734,
+    "liabilities": 27225637
+  },
+  {
+    "name": "Bajrang Vats",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3189687,
+    "liabilities": 0
+  },
+  {
+    "name": "Bijender",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3116503,
+    "liabilities": 630000
+  },
+  {
+    "name": "Mange Ram Verma",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14704649,
+    "liabilities": 0
+  },
+  {
+    "name": "Pardeep Kumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1073052,
+    "liabilities": 684517
+  },
+  {
+    "name": "Saleem Din",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 112150,
+    "liabilities": 30100
+  },
+  {
+    "name": "Shamsher Singh",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 45448549,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhir Godara",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19301000,
+    "liabilities": 4043045
+  },
+  {
+    "name": "Anoop Mehta",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2650000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Atam Parkash",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10339032,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhavya Bishnoi",
+    "age": "26",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 37990209,
+    "liabilities": 17978516
+  },
+  {
+    "name": "Dara Singh",
+    "age": "27",
+    "party": "Bhartiya Janraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 102900,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak",
+    "age": "28",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dushyant Chautala",
+    "age": "31",
+    "party": "Jannayak Janta Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 769452859,
+    "liabilities": 68331773
+  },
+  {
+    "name": "Jai Bhagwan",
+    "age": "48",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 760000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kaka Sahil Thakral",
+    "age": "25",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 71759,
+    "liabilities": 0
+  },
+  {
+    "name": "Kuldeep Bhukkal",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 247000,
+    "liabilities": 20000
+  },
+  {
+    "name": "Pawan Kumar",
+    "age": "51",
+    "party": "Rashtriya Bhagidari Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12774009,
+    "liabilities": 57326
+  },
+  {
+    "name": "Pyarelal Chohan Advocate",
+    "age": "71",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 14450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep",
+    "age": "30",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2324498,
+    "liabilities": 2167671
+  },
+  {
+    "name": "Shashi Bharat Bhushan",
+    "age": "54",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19311111,
+    "liabilities": 2509621
+  },
+  {
+    "name": "Sukhbir Singh",
+    "age": "36",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1434354,
+    "liabilities": 0
+  },
+  {
+    "name": "Sumit Kumar",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Koth",
+    "age": "50",
+    "party": "INLD",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 2379971,
+    "liabilities": 0
+  },
+  {
+    "name": "Surinder Sharma",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11653061,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikas Godara",
+    "age": "36",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 37955250,
+    "liabilities": 450000
+  }
+]

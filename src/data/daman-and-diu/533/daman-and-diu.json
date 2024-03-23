@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Patel Lalubhai Babubhai",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 213993750,
+    "liabilities": 9969514
+  },
+  {
+    "name": "Ketan Dahyabhai Patel",
+    "age": "44",
+    "party": "INC",
+    "criminal": "5",
+    "education": "Others",
+    "assets": 173222574,
+    "liabilities": 43113473
+  },
+  {
+    "name": "Patel Umeshbhai Babubhai",
+    "age": "42",
+    "party": "IND",
+    "criminal": "8",
+    "education": "Graduate",
+    "assets": 2698150,
+    "liabilities": 0
+  },
+  {
+    "name": "Sakil Latif Khan",
+    "age": "32",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 330000,
+    "liabilities": 0
+  }
+]

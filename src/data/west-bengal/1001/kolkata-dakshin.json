@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Mala Roy",
+    "age": "61",
+    "party": "AITC",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 10308401,
+    "liabilities": 0
+  },
+  {
+    "name": "Badal Mondal",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 106585,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Kumar Bose",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 13591332,
+    "liabilities": 831824
+  },
+  {
+    "name": "Debabrata Bera",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1780918,
+    "liabilities": 0
+  },
+  {
+    "name": "Gautam Mitra",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3190000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kashinath Das",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6494422,
+    "liabilities": 0
+  },
+  {
+    "name": "Mita Chakraborty",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 447511958,
+    "liabilities": 187853701
+  },
+  {
+    "name": "Nandini Mukherjee",
+    "age": "53",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12530997,
+    "liabilities": 3862405
+  },
+  {
+    "name": "Niraj Agarwal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8425894,
+    "liabilities": 0
+  },
+  {
+    "name": "Rita Dutta",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2607000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santanu Roy",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6440000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2945000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sridhar Chandra Bagari",
+    "age": "62",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5464648,
+    "liabilities": 0
+  }
+]

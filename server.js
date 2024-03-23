@@ -44,7 +44,6 @@ async function checkStatus() {
 
 // Function to scrape constituencies in batches
 async function scrapeConstituencies(constituencies) {
-  console.log('Executed - scrapeConstituencies');
   // Define batch size and delay between requests
   const batchSize = 10;
   const delayBetweenRequests = 20000;
@@ -59,11 +58,10 @@ async function scrapeConstituencies(constituencies) {
 
 // Function to scrape a batch of constituencies
 async function scrapeBatch(constituencyBatch) {
-  console.log('Executed - scrapeBatch');
   // Iterate over each constituency in the batch
   for (const constituency of constituencyBatch) {
     // Define paths for data storage
-    const stateFolder = `src/data/${constituency.state}`;
+    const stateFolder = `/src/data/${constituency.state}`;
     const constituencyFile = `${stateFolder}/${constituency.constituencyId}/${constituency.constituencyName}.json`;
 
     // Scrape data for the constituency and save to JSON file
@@ -77,14 +75,15 @@ async function scrapeBatch(constituencyBatch) {
 
 // Function to scrape list of constituencies state-wise
 async function scrapeListOfConstituenciesStateWise() {
-  console.log('Executed - scrapeListOfConstituenciesStateWise');
   // Launch the Chromium browser
   const browser = await playwright.chromium.launch({ headless: false });
   const page = await browser.newPage();
 
   try {
     // Navigate to the webpage containing the list of constituencies
-    await page.goto(`https://hsbharath.github.io/web-scraper/src/index.html`);
+    await page.goto(
+      `https://hsbharath.github.io/web-scraper/src/public/index.html`
+    );
     let html = await page.content();
     const $ = cheerio.load(html);
 
@@ -142,28 +141,27 @@ async function scrapeListOfConstituenciesStateWise() {
         });
 
       // Create folder for the state if it doesn't exist
-      const dataFolderPath = path.join(__dirname, `src/data/${stateName}`);
+      const dataFolderPath = path.join(__dirname, `/src/data/${stateName}`);
       if (!fs.existsSync(dataFolderPath)) {
         fs.mkdirSync(dataFolderPath);
       }
     });
 
     // Create folder for storing state IDs
-    const stateFolderPath = path.join(__dirname, `src/data/_stateIds`);
-    if (!fs.existsSync(stateFolderPath)) {
-      fs.mkdirSync(stateFolderPath);
-    }
+    // const stateFolderPath = path.join(__dirname, `/src/data/_stateIds`);
+    // if (!fs.existsSync(stateFolderPath)) {
+    //   fs.mkdirSync(stateFolderPath);
+    // }
 
     // Write state information to JSON file
-    const jsonFilePath = path.join(stateFolderPath, `statesIds.json`);
-    fs.writeFileSync(jsonFilePath, JSON.stringify(statesInformation, null, 2));
+    // const jsonFilePath = path.join(stateFolderPath, `statesIds.json`);
+    // fs.writeFileSync(jsonFilePath, JSON.stringify(statesInformation, null, 2));
 
     // Process constituencies by state
     Object.entries(constituenciesByState).map(([key, value]) => {
-      console.log(key);
-      // if (key === 'punjab') {
-      //   scrapeConstituencies(value);
-      // }
+      if (key === 'daman-and-diu') {
+        scrapeConstituencies(value);
+      }
     });
   } catch (error) {
     console.error('Error:', error);
@@ -175,7 +173,6 @@ async function scrapeListOfConstituenciesStateWise() {
 
 // Function to scrape data for a constituency
 async function scrapeData(state, constituencyId, constituencyFile) {
-  console.log('Executed - scrapeData');
   // Launch the Chromium browser
   const browser = await playwright.chromium.launch({
     headless: false,
@@ -220,7 +217,7 @@ async function scrapeData(state, constituencyId, constituencyFile) {
     // Define paths for data storage
     const dataFolderPath = path.join(
       __dirname,
-      `/data/${state}/${constituencyId}`
+      `/src/data/${state}/${constituencyId}`
     );
     const jsonFilePath = path.join(dataFolderPath, `${constituencyFile}.json`);
 

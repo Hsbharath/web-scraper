@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pinaki Misra",
+    "age": "59",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1174701344,
+    "liabilities": 21932742
+  },
+  {
+    "name": "Jayaprakash Sethi",
+    "age": "39",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 313000,
+    "liabilities": 19500
+  },
+  {
+    "name": "Mandakini Sethi",
+    "age": "53",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6279400,
+    "liabilities": 700000
+  },
+  {
+    "name": "Nrusingha Charan Das",
+    "age": "71",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1010000,
+    "liabilities": 470000
+  },
+  {
+    "name": "Ranjan Kumar Mishra",
+    "age": "40",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sabyasachi Mohapatra",
+    "age": "45",
+    "party": "Kalinga Sena",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1499361,
+    "liabilities": 56960
+  },
+  {
+    "name": "Sambit Patra",
+    "age": "45",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 7202976,
+    "liabilities": 1197946
+  },
+  {
+    "name": "Satya Prakash Nayak",
+    "age": "51",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 13257059,
+    "liabilities": 138069
+  }
+]

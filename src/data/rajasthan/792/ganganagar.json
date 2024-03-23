@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Nihal Chand",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21014362,
+    "liabilities": 3631287
+  },
+  {
+    "name": "Bhajan Singh Gharoo",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9875228,
+    "liabilities": 400000
+  },
+  {
+    "name": "Bharat Ram Meghwal",
+    "age": "63",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8701890,
+    "liabilities": 4470443
+  },
+  {
+    "name": "Dr. Balkrishan Panwar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7358268,
+    "liabilities": 0
+  },
+  {
+    "name": "Lunarama",
+    "age": "53",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 713000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Naresh Kumar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 72764,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravtaram",
+    "age": "74",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 8282084,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Kumar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 518600,
+    "liabilities": 50000
+  },
+  {
+    "name": "Titara Singh",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 201000,
+    "liabilities": 0
+  }
+]

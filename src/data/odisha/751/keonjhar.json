@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chandrani Murmu",
+    "age": "25",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 340580,
+    "liabilities": 0
+  },
+  {
+    "name": "Ananta Nayak",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 5512006,
+    "liabilities": 533728
+  },
+  {
+    "name": "Dr. Sudarshan Lohar",
+    "age": "72",
+    "party": "Rashtriya Indepndent Morcha",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4580900,
+    "liabilities": 0
+  },
+  {
+    "name": "Durga Chandra Pingua",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1355000,
+    "liabilities": 80000
+  },
+  {
+    "name": "Lalmohan Hansdah",
+    "age": "63",
+    "party": "Akhil Bharat Hindu Mahasabha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2550000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Mohan Kumar Hembram",
+    "age": "43",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7233000,
+    "liabilities": 744762
+  },
+  {
+    "name": "Prafulla Nayak",
+    "age": "41",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 766500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Laguri",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 666227,
+    "liabilities": 0
+  }
+]

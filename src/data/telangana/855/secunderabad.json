@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Gangapuram Kishan Reddy",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 81430778,
+    "liabilities": 4500000
+  },
+  {
+    "name": "Abdallah Ibrahim",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10238358,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Azeem",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Akhil Chirravuri",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 214000,
+    "liabilities": 0
+  },
+  {
+    "name": "Andrapu Sudharshan Gangaputra",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Andukuri Vijaya Bhaskar",
+    "age": "49",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anjan Kumar Yadav",
+    "age": "58",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24655065,
+    "liabilities": 2400000
+  },
+  {
+    "name": "Bathula Ravi",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Boddu Satish",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 33000,
+    "liabilities": 0
+  },
+  {
+    "name": "Challa Ram Kalyan",
+    "age": "37",
+    "party": "Bhartiya Anarakshit Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12678418,
+    "liabilities": 0
+  },
+  {
+    "name": "Dornala Jaya Prakash",
+    "age": "36",
+    "party": "New India Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 1364218,
+    "liabilities": 100000
+  },
+  {
+    "name": "Farah Naaz Khan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1933207,
+    "liabilities": 86600
+  },
+  {
+    "name": "G . Laxminarsimha Rao",
+    "age": "51",
+    "party": "Telangana Prajala Party",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 12283000,
+    "liabilities": 2000000
+  },
+  {
+    "name": "J . N . Rao",
+    "age": "64",
+    "party": "Dalita Bahujana Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1530065,
+    "liabilities": 0
+  },
+  {
+    "name": "Junaid Anam Siddiqui",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 397385,
+    "liabilities": 0
+  },
+  {
+    "name": "K Venkatanarayana",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14000,
+    "liabilities": 0
+  },
+  {
+    "name": "M . Ashok Kumar",
+    "age": "37",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 342000,
+    "liabilities": 0
+  },
+  {
+    "name": "M . D . Nazeer Uddin Quadri",
+    "age": "43",
+    "party": "Akhil Bharatiya Muslim League (Secular)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5090000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mallesh Jatavath",
+    "age": "26",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Meesala Gopal Sai Baba",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 9774500,
+    "liabilities": 3900000
+  },
+  {
+    "name": "N . Shankar Goud",
+    "age": "46",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 34643000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Nandipati Vinod Kumar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "R Laxman Rao Gangaputra",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1670000,
+    "liabilities": 30000
+  },
+  {
+    "name": "Ravi Kumar Vodela",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 211000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaik Muneer Pasha",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 142000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shakti Satayavathi",
+    "age": "55",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 65000,
+    "liabilities": 0
+  },
+  {
+    "name": "Srirama Naik Munavath",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 14000,
+    "liabilities": 0
+  },
+  {
+    "name": "Talasani Sai Kiran",
+    "age": "32",
+    "party": "TRS",
+    "criminal": "6",
+    "education": "Post Graduate",
+    "assets": 301011219,
+    "liabilities": 68489543
+  }
+]

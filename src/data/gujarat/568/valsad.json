@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Dr.K.C.Patel",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 68239480,
+    "liabilities": 0
+  },
+  {
+    "name": "Babubhai Talaviya",
+    "age": "65",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 795782,
+    "liabilities": 0
+  },
+  {
+    "name": "Chaudhari Jitubhai Harjibhai",
+    "age": "54",
+    "party": "INC",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 6611455,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganvit Jayendrabhai Laxmanbhai",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaurangbhai Rameshbhai Patel",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 700000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kishorbhai Ramanbhai Patel",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Nareshbhai Babubhai",
+    "age": "54",
+    "party": "Sardar Vallabhbhai Patel Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 153000,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Pankajbhai Lallubhai",
+    "age": "36",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 855000,
+    "liabilities": 203280
+  },
+  {
+    "name": "Patel Umeshbhai Maganbhai",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  }
+]

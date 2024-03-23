@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Surendrajeet Singh Ahluwalia",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 26521750,
+    "liabilities": 744076
+  },
+  {
+    "name": "Abhas Ray Chaudhuri",
+    "age": "50",
+    "party": "CPI(M)",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 4267888,
+    "liabilities": 0
+  },
+  {
+    "name": "Mamtaz Sanghamita",
+    "age": "73",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 136680993,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkrishna Malik",
+    "age": "32",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 74000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranajit Mukherjee",
+    "age": "39",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 16662068,
+    "liabilities": 89517
+  },
+  {
+    "name": "Sucheta Banerjee",
+    "age": "50",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1296629,
+    "liabilities": 109000
+  }
+]

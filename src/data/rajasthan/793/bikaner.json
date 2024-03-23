@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Arjun Ram Meghwal",
+    "age": "65",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 23524459,
+    "liabilities": 1060314
+  },
+  {
+    "name": "Arjunram",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11000,
+    "liabilities": 0
+  },
+  {
+    "name": "Babulal",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 429363,
+    "liabilities": 50000
+  },
+  {
+    "name": "Bhaira Ram",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1154500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ghanshyam Meghwal",
+    "age": "39",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 472500,
+    "liabilities": 0
+  },
+  {
+    "name": "Madan Gopal",
+    "age": "55",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 39962659,
+    "liabilities": 4966129
+  },
+  {
+    "name": "Punamchand",
+    "age": "38",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 852000,
+    "liabilities": 318000
+  },
+  {
+    "name": "Shyopat Ram",
+    "age": "40",
+    "party": "CPI(M)",
+    "criminal": "9",
+    "education": "Graduate",
+    "assets": 2648000,
+    "liabilities": 769227
+  },
+  {
+    "name": "Triloki Narayan Hatila",
+    "age": "52",
+    "party": "Jan Sangharsh Virat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2183800,
+    "liabilities": 0
+  }
+]

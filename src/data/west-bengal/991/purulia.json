@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Jyotirmay Singh Mahato",
+    "age": "34",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 2250540,
+    "liabilities": 456100
+  },
+  {
+    "name": "Anandi Tudu",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 436641,
+    "liabilities": 0
+  },
+  {
+    "name": "Barjuram Singh Sardar",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 213287,
+    "liabilities": 50000
+  },
+  {
+    "name": "Bir Singh Mahato",
+    "age": "73",
+    "party": "AIFB",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 17909890,
+    "liabilities": 0
+  },
+  {
+    "name": "Dipendu Mahato",
+    "age": "46",
+    "party": "JMM",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2880000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Dr. Mriganka Mahato",
+    "age": "56",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 17024599,
+    "liabilities": 1716993
+  },
+  {
+    "name": "Jawaharlal Mahato",
+    "age": "66",
+    "party": "Mulnibasi Party of India",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 440000,
+    "liabilities": 177000
+  },
+  {
+    "name": "Laxmikanta Mahata",
+    "age": "64",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5601000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mrityunjoy Mahato",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1015951,
+    "liabilities": 0
+  },
+  {
+    "name": "Nepal Mahata",
+    "age": "58",
+    "party": "INC",
+    "criminal": "8",
+    "education": "Post Graduate",
+    "assets": 5330178,
+    "liabilities": 609500
+  },
+  {
+    "name": "Rajib Mahato",
+    "age": "41",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Rangalal Kumar",
+    "age": "48",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sekh Fatik",
+    "age": "30",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 245103,
+    "liabilities": 58200
+  },
+  {
+    "name": "Uma Charan Mahato",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1251564,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Tantubay",
+    "age": "48",
+    "party": "Bharateeya Manavadhikar party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 617817,
+    "liabilities": 0
+  }
+]

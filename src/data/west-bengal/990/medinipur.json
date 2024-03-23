@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Dilip Kumar Ghosh",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "14",
+    "education": "10th Pass",
+    "assets": 4536462,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashoke Sarkar",
+    "age": "65",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Biplab Bhatta",
+    "age": "50",
+    "party": "CPI",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 5306513,
+    "liabilities": 775323
+  },
+  {
+    "name": "Manas Ranjan Bhunia",
+    "age": "67",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 67663831,
+    "liabilities": 2600000
+  },
+  {
+    "name": "Rabindranath Bera",
+    "age": "75",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6189224,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkrishna Sarkar",
+    "age": "72",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 18590000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Sambhunath Chattapadhyay",
+    "age": "64",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 3548014,
+    "liabilities": 0
+  },
+  {
+    "name": "Tapas Kumar Kar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 36658000,
+    "liabilities": 360000
+  },
+  {
+    "name": "Tushar Jana",
+    "age": "60",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 508306,
+    "liabilities": 0
+  }
+]

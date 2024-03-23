@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chandra Sekhar Sahu",
+    "age": "68",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11716989,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhrugu Baxipatra",
+    "age": "44",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 31044317,
+    "liabilities": 1650465
+  },
+  {
+    "name": "Chakradhar Sahu",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10071000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Shyambabu Subudhi",
+    "age": "83",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Somanath Behera",
+    "age": "40",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 37000,
+    "liabilities": 0
+  },
+  {
+    "name": "Srihari Patnaik",
+    "age": "61",
+    "party": "Odisha Pragati Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 377792,
+    "liabilities": 0
+  },
+  {
+    "name": "Tirupati Rao Karanam",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 900000,
+    "liabilities": 0
+  },
+  {
+    "name": "V.Chandrasekhar Naidu",
+    "age": "52",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 360000000,
+    "liabilities": 8000
+  }
+]

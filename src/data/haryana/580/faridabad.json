@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Krishan Pal",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 369652786,
+    "liabilities": 105593242
+  },
+  {
+    "name": "Amit Singh Patel",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 856564,
+    "liabilities": 0
+  },
+  {
+    "name": "Avtar Singh Bhadana",
+    "age": "62",
+    "party": "INC",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 120803457,
+    "liabilities": 0
+  },
+  {
+    "name": "Balwant Kataria",
+    "age": "34",
+    "party": "IND",
+    "criminal": "7",
+    "education": "12th Pass",
+    "assets": 1196600,
+    "liabilities": 0
+  },
+  {
+    "name": "Baudhycharya Khajan Isngh Gautam",
+    "age": "46",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 392157,
+    "liabilities": 0
+  },
+  {
+    "name": "C A Shukla",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1345000,
+    "liabilities": 0
+  },
+  {
+    "name": "Daya Chand",
+    "age": "68",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 705000,
+    "liabilities": 360000
+  },
+  {
+    "name": "Deepak Gaur",
+    "age": "40",
+    "party": "AARAKSHAN VIRODHI PARTY",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 14765000,
+    "liabilities": 850000
+  },
+  {
+    "name": "Hari Chand",
+    "age": "62",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4579000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hari Shankar Rajvans",
+    "age": "42",
+    "party": "Adim Bhartiya Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1163364,
+    "liabilities": 290000
+  },
+  {
+    "name": "K P Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 19195000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lekha Ram Dabang",
+    "age": "50",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1779000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Mahender Singh Chauhan",
+    "age": "66",
+    "party": "INLD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 69662663,
+    "liabilities": 1551000
+  },
+  {
+    "name": "Mahesh Pratap Sharma",
+    "age": "63",
+    "party": "Rashtriya Vikas Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 28986240,
+    "liabilities": 0
+  },
+  {
+    "name": "Mandhir Maan",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 69370850,
+    "liabilities": 2600000
+  },
+  {
+    "name": "Manoj",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 26536601,
+    "liabilities": 1447929
+  },
+  {
+    "name": "Mukesh Kumar Singh",
+    "age": "43",
+    "party": "Lokpriya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2640084,
+    "liabilities": 0
+  },
+  {
+    "name": "Navin Jaihind",
+    "age": "37",
+    "party": "AAP",
+    "criminal": "4",
+    "education": "Doctorate",
+    "assets": 645550,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar",
+    "age": "28",
+    "party": "Tola Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7800000,
+    "liabilities": 5600000
+  },
+  {
+    "name": "Rakesh Kumar",
+    "age": "36",
+    "party": "Aapki Apni Party (Peoples)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 164500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ram Kishan Gola",
+    "age": "44",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 25582047,
+    "liabilities": 2975000
+  },
+  {
+    "name": "Ruby",
+    "age": "36",
+    "party": "Hind Congress Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sahiram Rawat",
+    "age": "50",
+    "party": "Voters Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 60124564,
+    "liabilities": 1808888
+  },
+  {
+    "name": "Sanjay Maurya",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 364174,
+    "liabilities": 0
+  },
+  {
+    "name": "Shyamvir",
+    "age": "39",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7352013,
+    "liabilities": 650000
+  },
+  {
+    "name": "Tika Ram",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 43916830,
+    "liabilities": 300000
+  },
+  {
+    "name": "Vijender Kumar Kasana",
+    "age": "53",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 26770000,
+    "liabilities": 379000
+  }
+]

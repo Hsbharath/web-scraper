@@ -1,0 +1,1649 @@
+[
+  {
+    "name": "Dharmapuri Arvind",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 876930468,
+    "liabilities": 337580746
+  },
+  {
+    "name": "Aare Sayanna",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Admala Mahipal Reddy",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1620000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Akula Hanmandlu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Alakunta Rajanna",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Aleti Malla Reddy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 10383500,
+    "liabilities": 230000
+  },
+  {
+    "name": "Aleti Rajareddy",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1273000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Aleti Sanjeev Reddy",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4549481,
+    "liabilities": 1020000
+  },
+  {
+    "name": "Alluri Limba Reddy",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Aloori Anil Kumar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 553000,
+    "liabilities": 0
+  },
+  {
+    "name": "Angu Poshetty",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 137500,
+    "liabilities": 0
+  },
+  {
+    "name": "Anjaiah Kondani",
+    "age": "36",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 822000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anugu Thirumal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4085000,
+    "liabilities": 275000
+  },
+  {
+    "name": "Armoor Sagar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 912000,
+    "liabilities": 75000
+  },
+  {
+    "name": "Asli Ganesh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 762000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ayileni Vikram Reddy",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 65000,
+    "liabilities": 130000
+  },
+  {
+    "name": "B. Srinivas",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 9933775,
+    "liabilities": 200000
+  },
+  {
+    "name": "Baddam Ashok",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10500,
+    "liabilities": 110000
+  },
+  {
+    "name": "Baddam Balaraju",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22540100,
+    "liabilities": 1318875
+  },
+  {
+    "name": "Baddam Devendar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Baddam Indrasena Reddy",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3307500,
+    "liabilities": 465000
+  },
+  {
+    "name": "Baddam Srinivasa Reddy",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2005198,
+    "liabilities": 200000
+  },
+  {
+    "name": "Bakkashetti Ganagdhar",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 10150000,
+    "liabilities": 980000
+  },
+  {
+    "name": "Balakishna Nalla",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5081638,
+    "liabilities": 650000
+  },
+  {
+    "name": "Balije Laxmirajam",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1637500,
+    "liabilities": 125000
+  },
+  {
+    "name": "Bandela Venkatarajam",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2050000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Bathnathe Shankar",
+    "age": "42",
+    "party": "Janasena Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bejjenki Linga Reddy",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 660000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Bodugam Narender",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2450000,
+    "liabilities": 350000
+  },
+  {
+    "name": "Borranna Gummerla",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Byagari Shanthaiah",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3206000,
+    "liabilities": 95000
+  },
+  {
+    "name": "Chinnaiah Mukkera",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4322700,
+    "liabilities": 950000
+  },
+  {
+    "name": "Chintalapelly Gangareddy",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1260000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Chinthalapally Raghupathi Reddy",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3685000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Dabba Raja Reddy",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 5120000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Devanna Pindi",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 642000,
+    "liabilities": 0
+  },
+  {
+    "name": "Doda Mutta Reddy",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1700000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Edamala Ravinder Reddy",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2048000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Eleti Laxmareddy",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 844000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Enugu Mallesh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5330000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ettedi Saireddy",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 450000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Gaddam Gangareddy",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 3080000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Gaddam Mohan",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 10500,
+    "liabilities": 200000
+  },
+  {
+    "name": "Gaddam Purushotham",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 879000,
+    "liabilities": 170000
+  },
+  {
+    "name": "Gaddam Rajendharreddy",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2410000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaddam Rajeshwar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1466000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaddam Suman",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 685000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gadepalli Prthviraj",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 60000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gadepally Ramesh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4776000,
+    "liabilities": 420000
+  },
+  {
+    "name": "Gadkole Chinna Gangareddy",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4529560,
+    "liabilities": 140000
+  },
+  {
+    "name": "Gadkolu Ramesh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 560000,
+    "liabilities": 199000
+  },
+  {
+    "name": "Gajjala Sai Prasad",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 9000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganga Reddy Kallem",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2151500,
+    "liabilities": 40000
+  },
+  {
+    "name": "Ganga Reddy Peesu Peesu",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1375000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gangadhar Andheti",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 13366300,
+    "liabilities": 340000
+  },
+  {
+    "name": "Gangadhar Baddam",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12716000,
+    "liabilities": 867000
+  },
+  {
+    "name": "Ganganna Chilkuri",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1146500,
+    "liabilities": 0
+  },
+  {
+    "name": "Gangareddy Mailaram",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2199350,
+    "liabilities": 124976
+  },
+  {
+    "name": "Gangareddy Musku",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1690000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gangareddy Rikkala",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7923000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Gangareddy Thorthi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Goskula Mahesh Babu",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 260000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gujjula Ramesh",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4094000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Gummerla Vijay",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1040000,
+    "liabilities": 0
+  },
+  {
+    "name": "Guradi Srinivas",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 395000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hanmandlu Puppala",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1105000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ippa Lachchanna",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1450000,
+    "liabilities": 0
+  },
+  {
+    "name": "J. Chinna Reddy",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1350000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Jaidi Chinna Gangaram",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 10555000,
+    "liabilities": 200000
+  },
+  {
+    "name": "K Kavitha",
+    "age": "41",
+    "party": "TRS",
+    "criminal": "2",
+    "education": "Graduate Professional",
+    "assets": 179382394,
+    "liabilities": 90723181
+  },
+  {
+    "name": "K. Ram Raj",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanaka Pramod",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kandukala Shiva Kumar Goud",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 440000,
+    "liabilities": 0
+  },
+  {
+    "name": "Katipally Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1700000,
+    "liabilities": 639000
+  },
+  {
+    "name": "Katipelli Ramesh",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 588000,
+    "liabilities": 0
+  },
+  {
+    "name": "Komati Reddy Prashanth",
+    "age": "30",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 5001000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Kommula Buchireddy",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 1695000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Kondhapuram Narsaiah",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 37799,
+    "liabilities": 0
+  },
+  {
+    "name": "Kongari Sanjiv",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 187000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumbala Sanjeeva Reddy",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5005000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Kunta Narayana Reddy",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2403000,
+    "liabilities": 275000
+  },
+  {
+    "name": "Kurma Divakar",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Laxman Ganna",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 125000,
+    "liabilities": 0
+  },
+  {
+    "name": "Limba Reddy Perkit",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2942929,
+    "liabilities": 898000
+  },
+  {
+    "name": "Limbaiah Somidi",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 255000,
+    "liabilities": 0
+  },
+  {
+    "name": "Linga Reddy Doddikindi",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3183594,
+    "liabilities": 1098000
+  },
+  {
+    "name": "Linga Reddy Santha",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1803500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Lingapuram Bhumeshwar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1961500,
+    "liabilities": 50000
+  },
+  {
+    "name": "Loka Subhash",
+    "age": "40",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 5404257,
+    "liabilities": 150000
+  },
+  {
+    "name": "M. Malla Reddy",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4600000,
+    "liabilities": 2290000
+  },
+  {
+    "name": "Macharla Prathap",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1446797,
+    "liabilities": 270000
+  },
+  {
+    "name": "Madhu Butti",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 493142,
+    "liabilities": 99000
+  },
+  {
+    "name": "Madhusudan Alias Madhu Goud Yaskhi",
+    "age": "61",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 362049049,
+    "liabilities": 3509798
+  },
+  {
+    "name": "Maggidi Katipally Rajesh",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1568000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Maggidi Narsaiah Mamidi",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 7875000,
+    "liabilities": 1600000
+  },
+  {
+    "name": "Mahender Nalimela",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 510000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mahendhar Kottala",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 545000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mahendhar Musku",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 6741100,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mahesh Rayidi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2175000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Mamidi Chinna Reddy",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1100000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mamidi Rajashekar Reddy",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1820000,
+    "liabilities": 767000
+  },
+  {
+    "name": "Mamidi Thirupathireddy",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6598000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Mandala Shekhar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maru Janardhan",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1900000,
+    "liabilities": 470000
+  },
+  {
+    "name": "Medipalli Shekar Reddy",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1132000,
+    "liabilities": 120000
+  },
+  {
+    "name": "Mekkonda Ramreddy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1820000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Mittapalli Malliah",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 507995,
+    "liabilities": 258800
+  },
+  {
+    "name": "Mittapally Jeevan Reddy",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 500000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Chintala Palli",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 940000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohanareddy Eleti",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11381000,
+    "liabilities": 1125000
+  },
+  {
+    "name": "Mohd Jameel",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1012800,
+    "liabilities": 0
+  },
+  {
+    "name": "Muthenna Lakkara",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1485000,
+    "liabilities": 0
+  },
+  {
+    "name": "N Mallareddy",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 550000,
+    "liabilities": 50000
+  },
+  {
+    "name": "N. Omkar Reddy",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1811500,
+    "liabilities": 330000
+  },
+  {
+    "name": "Nadipi Gangaram Niradi",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 750000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nadisharam Mallaiah",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 948500,
+    "liabilities": 20000
+  },
+  {
+    "name": "Nagulapalli Devendhar",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 11417000,
+    "liabilities": 275000
+  },
+  {
+    "name": "Nalla Nadipi Muthenna",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2268500,
+    "liabilities": 60000
+  },
+  {
+    "name": "Narsaiah Gunda",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 535279,
+    "liabilities": 0
+  },
+  {
+    "name": "Narsareddy Pannala",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1791531,
+    "liabilities": 250000
+  },
+  {
+    "name": "Natta Bavanna",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nemilla Linga Reddy",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 586000,
+    "liabilities": 237000
+  },
+  {
+    "name": "Nomula Gopal Reddy",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nomula Mohan Reddy",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 7926500,
+    "liabilities": 200000
+  },
+  {
+    "name": "Pedda Gangadar Talari",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1820000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Pedda Gangaram Turpu",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Penta Narsaiah",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 570000,
+    "liabilities": 138000
+  },
+  {
+    "name": "Pothuganti Venkatesh",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Manchiryala",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 800000,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Neeradi",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 147272,
+    "liabilities": 0
+  },
+  {
+    "name": "Praveen Paidigela",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10161000,
+    "liabilities": 1130000
+  },
+  {
+    "name": "Pundra Srinivas Reddy",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3455000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Raj Kumar Sunkari",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 862000,
+    "liabilities": 65000
+  },
+  {
+    "name": "Raja Venkat Reddy Pashapu",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 9457376,
+    "liabilities": 235000
+  },
+  {
+    "name": "Rajareddi Rikkala",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 20682000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Rajareddy Gangasaram",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 3734050,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajashekar Sarikela",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 455000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendar Pasapu",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 7307731,
+    "liabilities": 300000
+  },
+  {
+    "name": "Rajeshwar Enugu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 562000,
+    "liabilities": 180000
+  },
+  {
+    "name": "Rajeshwar Musku",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1457000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Raju Somireddy",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 415000,
+    "liabilities": 40000
+  },
+  {
+    "name": "Ramesh Reddy Sama",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1605000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rapelly Srinivas",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 248000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindhar Bandi",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1485500,
+    "liabilities": 110000
+  },
+  {
+    "name": "Ravishankar Kunta",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5015800,
+    "liabilities": 350000
+  },
+  {
+    "name": "Rotte Chakradhar Sharma",
+    "age": "38",
+    "party": "Samajwadi Forward Bloc",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 275500,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Sagar",
+    "age": "36",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 75000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Sai Reddy Puttiniti",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 6363370,
+    "liabilities": 647000
+  },
+  {
+    "name": "Sama Bhaskar Reddy",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2918000,
+    "liabilities": 150000
+  },
+  {
+    "name": "Sama Thirupathi",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1110000,
+    "liabilities": 420000
+  },
+  {
+    "name": "Sandireddy Gopal Reddy",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2137000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sanjeeva Reddy Gaddam",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5583087,
+    "liabilities": 0
+  },
+  {
+    "name": "Santhosh Kamareddy",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1205000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Barla",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4430000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Santosh Komamula",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16577000,
+    "liabilities": 1386000
+  },
+  {
+    "name": "Sayanna Bai",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 985000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Yenugu",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1251000,
+    "liabilities": 90000
+  },
+  {
+    "name": "Soma Srinivas",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 477000,
+    "liabilities": 235000
+  },
+  {
+    "name": "Srinivas Gundeti",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 810000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Sujith Gadepalli",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4818000,
+    "liabilities": 1100000
+  },
+  {
+    "name": "Suman Maggidi",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1308000,
+    "liabilities": 165000
+  },
+  {
+    "name": "Sunketa Ravi",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9379776,
+    "liabilities": 298000
+  },
+  {
+    "name": "Surakanti Raja Reddy",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 6070000,
+    "liabilities": 270000
+  },
+  {
+    "name": "Suresh Baddam",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 390000,
+    "liabilities": 199000
+  },
+  {
+    "name": "Suresh Basa",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1072677,
+    "liabilities": 50000
+  },
+  {
+    "name": "Surukanti Chinna Anjaiah",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5305000,
+    "liabilities": 85000
+  },
+  {
+    "name": "Swami Reddy Sama",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 755000,
+    "liabilities": 221000
+  },
+  {
+    "name": "Talari Suman",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Teegala Rajeshwar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5684000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Theegala Ashok Reddy",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2750000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Theegala Thirupathi Reddy",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5990000,
+    "liabilities": 1050000
+  },
+  {
+    "name": "Theetla Anil",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40500,
+    "liabilities": 0
+  },
+  {
+    "name": "Thirupathi Gaddam",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1440000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thirupathi Reddy Pannala",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21845000,
+    "liabilities": 270000
+  },
+  {
+    "name": "Thota Srinivas",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2480000,
+    "liabilities": 770000
+  },
+  {
+    "name": "Tummala Naveen",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6478000,
+    "liabilities": 550000
+  },
+  {
+    "name": "Turaga Narsareddy",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 3050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Urumalla Lakshma Reddy",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2060000,
+    "liabilities": 190000
+  },
+  {
+    "name": "Velma Mallareddy",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1083000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Venkat Reddy Jaidi",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5931000,
+    "liabilities": 147000
+  },
+  {
+    "name": "Venkatesh Kola",
+    "age": "27",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 2910726,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Tankasaala",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 340000,
+    "liabilities": 0
+  },
+  {
+    "name": "Yellala Rajitha",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1931000,
+    "liabilities": 0
+  }
+]

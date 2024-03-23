@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Miteshbhai Patel",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Others",
+    "assets": 77043053,
+    "liabilities": 7810840
+  },
+  {
+    "name": "Bharatbhai Chhotabhai Solanki",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 351827,
+    "liabilities": 215000
+  },
+  {
+    "name": "Bharatbhai Madhavsinh Solanki",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 54490955,
+    "liabilities": 1934855
+  },
+  {
+    "name": "Bhatt Ashishkumar Manojkumar",
+    "age": "42",
+    "party": "Akhil Bharatiya Jan Sangh",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2107881,
+    "liabilities": 104000
+  },
+  {
+    "name": "Bhatt Sunilkumar Narendrabhai",
+    "age": "38",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2505720,
+    "liabilities": 0
+  },
+  {
+    "name": "Chavda Kaushikkumar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11646000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Hitendrasinh Parmar",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 397733,
+    "liabilities": 0
+  },
+  {
+    "name": "Keyur Pravinbhai Patel",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2204103,
+    "liabilities": 272010
+  },
+  {
+    "name": "Santolkumar Patel",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6216107,
+    "liabilities": 1223545
+  },
+  {
+    "name": "Vankar Rameshbhai Valjibhai",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  }
+]

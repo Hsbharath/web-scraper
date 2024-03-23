@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tokheho Yepthomi",
+    "age": "62",
+    "party": "Nationalist Democratic Progressive Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 128117474,
+    "liabilities": 18600000
+  },
+  {
+    "name": "Dr. M M Thromwa Konyak",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hayithung Tungoe",
+    "age": "38",
+    "party": "NPP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1265882,
+    "liabilities": 0
+  },
+  {
+    "name": "K L Chishi",
+    "age": "75",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 370159329,
+    "liabilities": 0
+  }
+]

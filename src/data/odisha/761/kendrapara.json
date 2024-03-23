@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Anubhav Mohanty",
+    "age": "37",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 22309172,
+    "liabilities": 4133506
+  },
+  {
+    "name": "Baijayant Panda",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Graduate Professional",
+    "assets": 574415842,
+    "liabilities": 600000
+  },
+  {
+    "name": "Dharanidhar Nayak",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 40821148,
+    "liabilities": 3135045
+  },
+  {
+    "name": "Rabindra Nath Behera",
+    "age": "54",
+    "party": "SP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 646016,
+    "liabilities": 1401000
+  },
+  {
+    "name": "Santosh Kumar Das",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1742360,
+    "liabilities": 51037
+  },
+  {
+    "name": "Santosh Kumar Patra",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 492317,
+    "liabilities": 0
+  },
+  {
+    "name": "Srikanta Samal",
+    "age": "40",
+    "party": "Krupaa Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2979883,
+    "liabilities": 600000
+  }
+]

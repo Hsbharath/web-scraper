@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Bhagwant Mann",
+    "age": "45",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16427274,
+    "liabilities": 0
+  },
+  {
+    "name": "Bagga Singh",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 455000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baljit Kaur",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5343729,
+    "liabilities": 1623584
+  },
+  {
+    "name": "Balwinder Singh Sandhu",
+    "age": "61",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9225079,
+    "liabilities": 150000
+  },
+  {
+    "name": "Bhantbir Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 31069500,
+    "liabilities": 2340000
+  },
+  {
+    "name": "Dayal Chan",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Desa Singh",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 344570,
+    "liabilities": 60000
+  },
+  {
+    "name": "Gurjeet Singh",
+    "age": "37",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 7660938,
+    "liabilities": 621812
+  },
+  {
+    "name": "Gurnam Singh",
+    "age": "49",
+    "party": "CPI(ML)(L)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1362826,
+    "liabilities": 381162
+  },
+  {
+    "name": "Jagmohan Krishan",
+    "age": "61",
+    "party": "Janral Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 24978160,
+    "liabilities": 158806
+  },
+  {
+    "name": "Jasraj Singh Longia",
+    "age": "46",
+    "party": "Lok Insaaf Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17041210,
+    "liabilities": 11700000
+  },
+  {
+    "name": "Jaswant Singh",
+    "age": "56",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kewal Singh Dhillon",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1310793341,
+    "liabilities": 100605212
+  },
+  {
+    "name": "Malvinder Singh Benipal",
+    "age": "51",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 593202784,
+    "liabilities": 12118041
+  },
+  {
+    "name": "Manish Kumar",
+    "age": "37",
+    "party": "Bhartiya Janraj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 35463,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohinderpal Singh Dangarh",
+    "age": "39",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "6",
+    "education": "12th Pass",
+    "assets": 13033873,
+    "liabilities": 200000
+  },
+  {
+    "name": "Najeera Begam",
+    "age": "40",
+    "party": "Rashtriya Sahara Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5379882,
+    "liabilities": 0
+  },
+  {
+    "name": "Pappu Kumar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Parminder Singh Dhindsa",
+    "age": "43",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 179035633,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 323000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajvir Kaur",
+    "age": "32",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 600000,
+    "liabilities": 0
+  },
+  {
+    "name": "Simranjit Singh Mann",
+    "age": "74",
+    "party": "SAD (Amritsar)(Simranjit Singh Mann)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 170971628,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Sukhwinder Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tulsi Singh",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2586844,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Aggarwal",
+    "age": "47",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6981160,
+    "liabilities": 0
+  }
+]

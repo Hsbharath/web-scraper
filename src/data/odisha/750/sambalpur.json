@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Nitesh Ganga Deb",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 269543587,
+    "liabilities": 10337195
+  },
+  {
+    "name": "Ashutosh Kumar Hanuman",
+    "age": "29",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 50690,
+    "liabilities": 0
+  },
+  {
+    "name": "Atma Ram Supkar",
+    "age": "60",
+    "party": "Pragatisheel Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 39340660,
+    "liabilities": 0
+  },
+  {
+    "name": "Binay Ocean",
+    "age": "27",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 87000,
+    "liabilities": 62000
+  },
+  {
+    "name": "Kanhu Charan Sanbad",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3145000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mustukim",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "Illiterate",
+    "assets": 1155000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nabakishore Pradhan",
+    "age": "51",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 4382,
+    "liabilities": 0
+  },
+  {
+    "name": "Nalini Kanta Pradhan",
+    "age": "61",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 75651064,
+    "liabilities": 2259000
+  },
+  {
+    "name": "Prabhat Kumar Dharua",
+    "age": "64",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 66000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santoshini Karna",
+    "age": "45",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 14794644,
+    "liabilities": 4500000
+  },
+  {
+    "name": "Sarat Pattanayak",
+    "age": "62",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 59424606,
+    "liabilities": 703915
+  }
+]

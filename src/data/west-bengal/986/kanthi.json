@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sisir Kumar Adhikari",
+    "age": "77",
+    "party": "AITC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 33979650,
+    "liabilities": 0
+  },
+  {
+    "name": "Debasish Samanta",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19292281,
+    "liabilities": 6000000
+  },
+  {
+    "name": "Dipak Kumar Das",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9444884,
+    "liabilities": 232960
+  },
+  {
+    "name": "Kenaram Misra",
+    "age": "62",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1668664,
+    "liabilities": 0
+  },
+  {
+    "name": "Khokan Barman",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 437600,
+    "liabilities": 500000
+  },
+  {
+    "name": "Manas Pradhan",
+    "age": "49",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 7896883,
+    "liabilities": 258000
+  },
+  {
+    "name": "Paritosh Pattanayak",
+    "age": "38",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 888311,
+    "liabilities": 0
+  }
+]

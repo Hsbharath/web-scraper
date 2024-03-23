@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kundaria Mohanbhai",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 68818120,
+    "liabilities": 16566856
+  },
+  {
+    "name": "Parmar Vijay",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 535000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amardas Desani",
+    "age": "52",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 8154624,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Manojbhai",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 459000,
+    "liabilities": 318000
+  },
+  {
+    "name": "Chitroda Nathalal",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11053000,
+    "liabilities": 922957
+  },
+  {
+    "name": "Dengada Pravinbhai",
+    "age": "57",
+    "party": "IND",
+    "criminal": "9",
+    "education": "Illiterate",
+    "assets": 1382000,
+    "liabilities": 0
+  },
+  {
+    "name": "J. B. Chauhan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 92500,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaspalsinh Tomar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3748000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kagathara Lalitbhai",
+    "age": "61",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 97582897,
+    "liabilities": 82106333
+  },
+  {
+    "name": "Rakeshbhai",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 801500,
+    "liabilities": 0
+  }
+]

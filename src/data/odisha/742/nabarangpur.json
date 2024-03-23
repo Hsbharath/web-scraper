@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ramesh Chandra Majhi",
+    "age": "40",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8100600,
+    "liabilities": 771000
+  },
+  {
+    "name": "Balabhadra Majhi",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 87471475,
+    "liabilities": 2621246
+  },
+  {
+    "name": "Chandradhwaj Majhi",
+    "age": "59",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2142479,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar Majhi",
+    "age": "43",
+    "party": "INC",
+    "criminal": "10",
+    "education": "Graduate",
+    "assets": 2347000,
+    "liabilities": 0
+  }
+]

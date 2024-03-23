@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Abhishek Banerjee",
+    "age": "31",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13794320,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Ghosh",
+    "age": "69",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4335520,
+    "liabilities": 0
+  },
+  {
+    "name": "Fuad Halim",
+    "age": "48",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 36020256,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Goribulla Molla",
+    "age": "43",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1192900,
+    "liabilities": 0
+  },
+  {
+    "name": "Nilanjan Roy",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 4559455,
+    "liabilities": 935601
+  },
+  {
+    "name": "Prabir Sarkar",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3548675,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Kumar",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 6255831,
+    "liabilities": 2353546
+  },
+  {
+    "name": "Soumya Aich Roy",
+    "age": "49",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12534000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Subrata Bose",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4638532,
+    "liabilities": 0
+  },
+  {
+    "name": "Swarnalata Sarkar",
+    "age": "44",
+    "party": "Bharatiya Nyay-Adhikar Raksha Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 119297,
+    "liabilities": 82250
+  }
+]

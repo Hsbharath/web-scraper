@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Jitendra Singh",
+    "age": "62",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 70827203,
+    "liabilities": 0
+  },
+  {
+    "name": "Bansi Lal",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 11258700,
+    "liabilities": 450000
+  },
+  {
+    "name": "Firdous Ahmed Bawani",
+    "age": "0",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Garib Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2040000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Harsh Dev Singh",
+    "age": "59",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 11936017,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Lal Singh",
+    "age": "60",
+    "party": "Dogra Swabhiman Sangathan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20355810,
+    "liabilities": 1950000
+  },
+  {
+    "name": "Meenakshi",
+    "age": "34",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2135000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd Ayub",
+    "age": "55",
+    "party": "Navarang Congress Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 27075200,
+    "liabilities": 49000
+  },
+  {
+    "name": "Rakesh Mudgal",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 18650000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaber Ahmed",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 79200,
+    "liabilities": 0
+  },
+  {
+    "name": "Tilak Raj Bhagat",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 29125108,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikramaditya Singh",
+    "age": "54",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 360230337,
+    "liabilities": 4800765
+  }
+]

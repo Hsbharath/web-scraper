@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Shantanu Thakur",
+    "age": "37",
+    "party": "BJP",
+    "criminal": "8",
+    "education": "Graduate",
+    "assets": 5265388,
+    "liabilities": 0
+  },
+  {
+    "name": "Alakesh Das",
+    "age": "55",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 5556977,
+    "liabilities": 524879
+  },
+  {
+    "name": "Animesh Chandra Halder",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandan Mallick",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 84000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mamata Thakur",
+    "age": "51",
+    "party": "AITC",
+    "criminal": "4",
+    "education": "5th Pass",
+    "assets": 22042316,
+    "liabilities": 0
+  },
+  {
+    "name": "Samaresh Biswas",
+    "age": "53",
+    "party": "Party for Democratic Socialism",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4261832,
+    "liabilities": 38700
+  },
+  {
+    "name": "Sourav Prosad",
+    "age": "28",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 3026068,
+    "liabilities": 39999
+  },
+  {
+    "name": "Subrata Biswas",
+    "age": "45",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1966504,
+    "liabilities": 0
+  },
+  {
+    "name": "Swapan Kumar Roy",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2423450,
+    "liabilities": 115000
+  },
+  {
+    "name": "Swapan Mondal",
+    "age": "48",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19760,
+    "liabilities": 0
+  }
+]

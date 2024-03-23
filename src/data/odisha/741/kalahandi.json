@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Basanta Kumar Panda",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 9547000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhakta Charan Das",
+    "age": "60",
+    "party": "INC",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 16154671,
+    "liabilities": 8044387
+  },
+  {
+    "name": "Chhabilal Nial",
+    "age": "42",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2315608,
+    "liabilities": 104000
+  },
+  {
+    "name": "Hatiram Durga",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 124032,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamalini Yadav",
+    "age": "43",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 539221,
+    "liabilities": 198800
+  },
+  {
+    "name": "Premananda Bag",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6724123,
+    "liabilities": 0
+  },
+  {
+    "name": "Puspendra Singh Deo",
+    "age": "52",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25884601,
+    "liabilities": 456763
+  }
+]

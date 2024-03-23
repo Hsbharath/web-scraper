@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Santokh Singh Chaudhary",
+    "age": "72",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 99925185,
+    "liabilities": 2534363
+  },
+  {
+    "name": "Amrish Kumar",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 498000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baljinder Sodhi",
+    "age": "34",
+    "party": "Nationalist Justice Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 242192,
+    "liabilities": 261203
+  },
+  {
+    "name": "Balwinder Kumar",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1048289,
+    "liabilities": 32500
+  },
+  {
+    "name": "Charanjit Singh",
+    "age": "82",
+    "party": "SAD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 38633246,
+    "liabilities": 2297303
+  },
+  {
+    "name": "Gurupal Singh",
+    "age": "50",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hari Mitter",
+    "age": "49",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 803049,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagan Nath Bajwa",
+    "age": "60",
+    "party": "Hum Bhartiya Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3683182,
+    "liabilities": 481000
+  },
+  {
+    "name": "Jora Singh Sroay",
+    "age": "69",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 54583193,
+    "liabilities": 969208
+  },
+  {
+    "name": "Kashmir Singh",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 618277,
+    "liabilities": 0
+  },
+  {
+    "name": "Neetu",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 300000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Parkash Chand Jassal",
+    "age": "66",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3546815,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Lal",
+    "age": "51",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3614463,
+    "liabilities": 110300
+  },
+  {
+    "name": "Subhash Goria",
+    "age": "45",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3278107,
+    "liabilities": 857400
+  },
+  {
+    "name": "Sukhdev Singh",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 395000,
+    "liabilities": 0
+  },
+  {
+    "name": "Swami Nitya Anand",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5020000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tara Singh",
+    "age": "52",
+    "party": "Bahujan Samaj Party (Ambedkar)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1664777,
+    "liabilities": 0
+  },
+  {
+    "name": "Upkar Singh Bakhshi",
+    "age": "76",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5742682,
+    "liabilities": 0
+  },
+  {
+    "name": "Urmila",
+    "age": "52",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 295,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Hanuman Beniwal",
+    "age": "47",
+    "party": "Rashtriya Loktantrik Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4218568,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmendra",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 475000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmi Chand",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 490119,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Jyoti Mirdha",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 650650190,
+    "liabilities": 97090675
+  },
+  {
+    "name": "Hanuman Ram",
+    "age": "27",
+    "party": "Rashtriya Power Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 145000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madanalal",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1340000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Raj",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 254604,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Chandra",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 4506000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rastra Putra Hindu",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6841191,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Singh Shekhawat",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 109000,
+    "liabilities": 0
+  },
+  {
+    "name": "Saroj Prajapat",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8324000,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Shiv Narayan",
+    "age": "47",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 4171000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohanaram Rathi",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8810588,
+    "liabilities": 700000
+  }
+]

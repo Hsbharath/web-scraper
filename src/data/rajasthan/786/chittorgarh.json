@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chandra Prakash",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19725115,
+    "liabilities": 100000
+  },
+  {
+    "name": "Gopal Dhakad",
+    "age": "38",
+    "party": "Right to Recall Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5314571,
+    "liabilities": 465369
+  },
+  {
+    "name": "Gopal Singh Shekhawat",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4594912,
+    "liabilities": 0
+  },
+  {
+    "name": "Gulab Sehlot",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1896720,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish Chandra Sharma",
+    "age": "67",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18570000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jai Prakash Regar",
+    "age": "39",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1189797,
+    "liabilities": 0
+  },
+  {
+    "name": "Mangilal Meena",
+    "age": "52",
+    "party": "Satya Bahumat Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 28140764,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Chandra Meena",
+    "age": "33",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 580000,
+    "liabilities": 0
+  },
+  {
+    "name": "Radha Bhandari",
+    "age": "59",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18623571,
+    "liabilities": 0
+  },
+  {
+    "name": "Shamshuddin",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 786,
+    "liabilities": 0
+  }
+]

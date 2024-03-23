@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Mala Rajya Laxmi Shah",
+    "age": "68",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1846640100,
+    "liabilities": 1350000000
+  },
+  {
+    "name": "Anu Pant",
+    "age": "32",
+    "party": "Uttarakhand Kranti Dal (Democratic)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 3935900,
+    "liabilities": 350000
+  },
+  {
+    "name": "Barhm Dev Jha",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 24531259,
+    "liabilities": 0
+  },
+  {
+    "name": "Brij Bhushan Karanwal",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32010000,
+    "liabilities": 70000
+  },
+  {
+    "name": "Daulat Kunwar",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4757609,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Gautam Singh Bisht",
+    "age": "46",
+    "party": "Sarv Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 9467000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gopal Mani",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18029611,
+    "liabilities": 0
+  },
+  {
+    "name": "Jay Prakash Upadhyay",
+    "age": "44",
+    "party": "UKD",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 22160000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Madhu Shah",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 88000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pritam Singh",
+    "age": "60",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 94252961,
+    "liabilities": 9278744
+  },
+  {
+    "name": "Rajendra Purohit",
+    "age": "57",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Goyal",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 40854000,
+    "liabilities": 3200000
+  },
+  {
+    "name": "Sanjay Kundaliya",
+    "age": "47",
+    "party": "Uttarakhand Pragatisheel Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 126814026,
+    "liabilities": 6888378
+  },
+  {
+    "name": "Sardar Khan",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2116556,
+    "liabilities": 50000
+  },
+  {
+    "name": "Satyapal",
+    "age": "61",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 15276000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Venkatesh Netha Borlakunta",
+    "age": "42",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 16597300,
+    "liabilities": 0
+  },
+  {
+    "name": "Ambala Mahendar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Arsham Ashok",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Bala Kalyan Panja",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 765220,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Agama Chandrashekar",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 63320000,
+    "liabilities": 5000000
+  },
+  {
+    "name": "Durgam. Rajanna",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 15500,
+    "liabilities": 0
+  },
+  {
+    "name": "Erugurala Bhagya Laxmi",
+    "age": "27",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaddala Vinay Kumar",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12309436,
+    "liabilities": 450000
+  },
+  {
+    "name": "Godisella Nagamani",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Sabbani",
+    "age": "57",
+    "party": "Marxist Communist Party of India (United)",
+    "criminal": "4",
+    "education": "Others",
+    "assets": 6120000,
+    "liabilities": 967827
+  },
+  {
+    "name": "Kumar Sogula",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11933904,
+    "liabilities": 3730368
+  },
+  {
+    "name": "Kuntala Narsaiah",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 720540,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Erikilla",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 448000,
+    "liabilities": 816098
+  },
+  {
+    "name": "Sankenapalli. Devadas",
+    "age": "40",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sirikonda Krishna",
+    "age": "35",
+    "party": "Secular Democratic Congress",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thadem Raj Prakash",
+    "age": "43",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21530000,
+    "liabilities": 2350000
+  },
+  {
+    "name": "Velthuru Mallaiah",
+    "age": "63",
+    "party": "RPI(Khobragade)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 255000,
+    "liabilities": 570000
+  }
+]

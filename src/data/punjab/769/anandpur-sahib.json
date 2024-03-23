@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Manish Tewari",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 154637860,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashish Garg",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2110000,
+    "liabilities": 1630000
+  },
+  {
+    "name": "Ashwani Kumar",
+    "age": "46",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 6195000,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Avtar Singh",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5867000,
+    "liabilities": 270000
+  },
+  {
+    "name": "Bargava Reddy D",
+    "age": "31",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 183000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bir Devinder Singh",
+    "age": "70",
+    "party": "Shiromani Akali Dal (Taksali)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 85248148,
+    "liabilities": 228221
+  },
+  {
+    "name": "Charan Dass",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4918943,
+    "liabilities": 150000
+  },
+  {
+    "name": "Dr. Sukhdeep Kaur",
+    "age": "40",
+    "party": "Janral Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Faqir Chand",
+    "age": "69",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gurbinder Singh",
+    "age": "34",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 259176,
+    "liabilities": 23644
+  },
+  {
+    "name": "Harmesh Sharma",
+    "age": "47",
+    "party": "Jai Jawan Jai Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 15960000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Jagneet Singh",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 120728,
+    "liabilities": 5120
+  },
+  {
+    "name": "Jodh Singh Thandi",
+    "age": "59",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6867190,
+    "liabilities": 686149
+  },
+  {
+    "name": "Kawaljeet Singh",
+    "age": "54",
+    "party": "Hind Congress Party",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 4307171,
+    "liabilities": 880000
+  },
+  {
+    "name": "Kirpal Kaur",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 89147280,
+    "liabilities": 25000
+  },
+  {
+    "name": "Kulwinder Kaur",
+    "age": "57",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4555000,
+    "liabilities": 496000
+  },
+  {
+    "name": "Manmohan Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35366395,
+    "liabilities": 12015
+  },
+  {
+    "name": "Narinder Singh",
+    "age": "51",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 255712677,
+    "liabilities": 23667368
+  },
+  {
+    "name": "Paramjeet Singh Ranu",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 17450707,
+    "liabilities": 2896000
+  },
+  {
+    "name": "Prem Singh",
+    "age": "69",
+    "party": "SAD",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 126971695,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghunath Singh",
+    "age": "65",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2769000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1123000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sodhi Vikram Singh",
+    "age": "62",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1408265156,
+    "liabilities": 3400824
+  },
+  {
+    "name": "Sunaina",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surinder Kaur Mangat",
+    "age": "72",
+    "party": "Rashtriya Janshakti Party (Secular)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 16963471,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikram Singh",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 205000,
+    "liabilities": 0
+  }
+]

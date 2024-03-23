@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Aparajita Sarangi",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31677600,
+    "liabilities": 4329959
+  },
+  {
+    "name": "Arup Mohan Patnaik",
+    "age": "63",
+    "party": "BJD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 92700106,
+    "liabilities": 270000
+  },
+  {
+    "name": "Bhakta Sekhar Ray",
+    "age": "39",
+    "party": "Kalinga Sena",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 4406894,
+    "liabilities": 194439
+  },
+  {
+    "name": "Biswanath Ramachandra",
+    "age": "75",
+    "party": "Freethought Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7635586,
+    "liabilities": 4800
+  },
+  {
+    "name": "Biswanath Rout",
+    "age": "61",
+    "party": "Krupaa Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4250149,
+    "liabilities": 0
+  },
+  {
+    "name": "Janardan Pati",
+    "age": "71",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 23686053,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayant Kumar Das",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 5558206,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Lalita Kumar Nayak",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1695002,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhu Sudan Yadav",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2927324,
+    "liabilities": 181466
+  },
+  {
+    "name": "Pramila Behera",
+    "age": "42",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 47252,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjaya Kumar Sahoo",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2108850,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhranshu Sekhar Padhi",
+    "age": "43",
+    "party": "AITC",
+    "criminal": "3",
+    "education": "Others",
+    "assets": 20388994,
+    "liabilities": 8801273
+  },
+  {
+    "name": "Susil Kumar Jena",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3009216,
+    "liabilities": 0
+  }
+]

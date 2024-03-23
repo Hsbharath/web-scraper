@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Ravneet Singh Bittu",
+    "age": "43",
+    "party": "INC",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 54281096,
+    "liabilities": 3331266
+  },
+  {
+    "name": "Baba Amarjit Singh Khalsa",
+    "age": "41",
+    "party": "Bhartiya Lok Seva Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 626900,
+    "liabilities": 0
+  },
+  {
+    "name": "Baba Sukhwinder Singh Gill",
+    "age": "43",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2893000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baldev Raj Katna",
+    "age": "64",
+    "party": "Nationalist Justice Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baljit Singh",
+    "age": "54",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 53478000,
+    "liabilities": 1177000
+  },
+  {
+    "name": "Bintu Kumar Taank",
+    "age": "42",
+    "party": "Ambedkar National Congress",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "Daljit Singh",
+    "age": "40",
+    "party": "Peoples Party of India(secular)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 202000,
+    "liabilities": 0
+  },
+  {
+    "name": "Darshan Singh",
+    "age": "0",
+    "party": "Jai Jawan Jai Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4728500,
+    "liabilities": 94900
+  },
+  {
+    "name": "Devinder Bhagria",
+    "age": "44",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 13436981,
+    "liabilities": 7763578
+  },
+  {
+    "name": "Dildar Singh",
+    "age": "35",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Brijesh Kumar Bangar",
+    "age": "42",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5218800,
+    "liabilities": 1855194
+  },
+  {
+    "name": "Jai Parkash Jain",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1537037,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasdeep Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3928190,
+    "liabilities": 1269143
+  },
+  {
+    "name": "Maheshinder Singh Grewal",
+    "age": "69",
+    "party": "SAD",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 41621765,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohd. Naseem Ansari",
+    "age": "52",
+    "party": "Rashtriya Sahara Party",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 167745,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohinder Singh",
+    "age": "59",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 32000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pardeep Bawa",
+    "age": "46",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 878000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prof. Tej Pal Singh Gill",
+    "age": "32",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1902817,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajinder Kumar",
+    "age": "39",
+    "party": "Hindu Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1777661,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Singh Deapak",
+    "age": "77",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1761570,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravinder Pal Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 170000,
+    "liabilities": 0
+  },
+  {
+    "name": "Simarjeet Singh",
+    "age": "48",
+    "party": "Lok Insaaf Party",
+    "criminal": "8",
+    "education": "Graduate",
+    "assets": 123412923,
+    "liabilities": 12443000
+  }
+]

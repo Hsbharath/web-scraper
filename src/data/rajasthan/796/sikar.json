@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sumedhanand Saraswati",
+    "age": "67",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2827638,
+    "liabilities": 2719583
+  },
+  {
+    "name": "Ajaypal",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4015500,
+    "liabilities": 150000
+  },
+  {
+    "name": "Amraram",
+    "age": "63",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4444641,
+    "liabilities": 780500
+  },
+  {
+    "name": "Ankur Sharma",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20294000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bansilal Kataria",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 551000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagirath Singh Kharrte Bhadhadar",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5059000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhagwan Sahay",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Bhagawan",
+    "age": "42",
+    "party": "Dalit Soshit Pichhara Varg Adhikar Dal",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 5412447,
+    "liabilities": 84960
+  },
+  {
+    "name": "Sita Devi",
+    "age": "52",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 974458,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Maharia",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 82542126,
+    "liabilities": 1450462
+  },
+  {
+    "name": "Vijendra Kumar",
+    "age": "26",
+    "party": "Bhartiya Jan Satta Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4931350,
+    "liabilities": 117000
+  },
+  {
+    "name": "Vikas Kumar",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16000,
+    "liabilities": 0
+  }
+]

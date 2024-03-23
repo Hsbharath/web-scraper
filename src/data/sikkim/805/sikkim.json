@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Indra Hang Subba",
+    "age": "30",
+    "party": "Sikkim Krantikari Morcha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 478817,
+    "liabilities": 0
+  },
+  {
+    "name": "Bharat Basnet",
+    "age": "58",
+    "party": "INC",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 41650325,
+    "liabilities": 0
+  },
+  {
+    "name": "Biraj Adhikari",
+    "age": "57",
+    "party": "Hamro Sikkim Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 944513,
+    "liabilities": 0
+  },
+  {
+    "name": "Dek Bahadur Katwal",
+    "age": "42",
+    "party": "SDF",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2789212,
+    "liabilities": 436959
+  },
+  {
+    "name": "Dhiraj Kumar Rai",
+    "age": "37",
+    "party": "Sikkim Republican Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 248000,
+    "liabilities": 0
+  },
+  {
+    "name": "Laten Sherpa",
+    "age": "33",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 563879,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Thapa",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2847230,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Adhikari",
+    "age": "30",
+    "party": "Sikkim United Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 403050,
+    "liabilities": 0
+  },
+  {
+    "name": "Passang Gyali Sherpa",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 13149660,
+    "liabilities": 0
+  },
+  {
+    "name": "Rabin Rai",
+    "age": "44",
+    "party": "All Indians Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11062966,
+    "liabilities": 442745
+  },
+  {
+    "name": "Sunmaya Gurung",
+    "age": "51",
+    "party": "Jai Maha Bharath Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1351377,
+    "liabilities": 0
+  }
+]

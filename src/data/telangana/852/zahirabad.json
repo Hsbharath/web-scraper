@@ -1,0 +1,101 @@
+[
+  {
+    "name": "B.B.Patil",
+    "age": "63",
+    "party": "TRS",
+    "criminal": "18",
+    "education": "Graduate",
+    "assets": 1287851556,
+    "liabilities": 11535000
+  },
+  {
+    "name": "Alige Jeevan",
+    "age": "28",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 51000,
+    "liabilities": 0
+  },
+  {
+    "name": "Banala Laxma Reddy",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 58577327,
+    "liabilities": 5250000
+  },
+  {
+    "name": "Benjamin Raju",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7558960,
+    "liabilities": 3000000
+  },
+  {
+    "name": "K. Madan Mohan Rao",
+    "age": "49",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 903663001,
+    "liabilities": 0
+  },
+  {
+    "name": "Kalesh",
+    "age": "49",
+    "party": "Bhartiya Anarakshit Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1059100,
+    "liabilities": 0
+  },
+  {
+    "name": "Mark Babu",
+    "age": "33",
+    "party": "India Praja Bandhu Party",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 507877,
+    "liabilities": 84623
+  },
+  {
+    "name": "Mohammed Nawaz",
+    "age": "33",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 453267,
+    "liabilities": 0
+  },
+  {
+    "name": "Mudiraj Venkatesham",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 806000,
+    "liabilities": 74000
+  },
+  {
+    "name": "Nangunoori Lata",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 256000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramarao Patil",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21550000,
+    "liabilities": 750000
+  }
+]

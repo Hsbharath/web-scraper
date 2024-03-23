@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Manne Srinivas Reddy",
+    "age": "60",
+    "party": "TRS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 63353123,
+    "liabilities": 4569251
+  },
+  {
+    "name": "Challa Vamshi Chand Reddy",
+    "age": "38",
+    "party": "INC",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 15759063,
+    "liabilities": 1722846
+  },
+  {
+    "name": "D Thimmappa",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 480000,
+    "liabilities": 400000
+  },
+  {
+    "name": "D. K. Aruna",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 788398644,
+    "liabilities": 51670191
+  },
+  {
+    "name": "Ergamreddy Shivadurgavaraprasad Reddy",
+    "age": "28",
+    "party": "Indian Rakshaka Nayakudu Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 616500,
+    "liabilities": 0
+  },
+  {
+    "name": "Imran Ahmed Khan",
+    "age": "47",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3747000,
+    "liabilities": 480000
+  },
+  {
+    "name": "Md. Abdul Azeez Khan",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5684000,
+    "liabilities": 350000
+  },
+  {
+    "name": "Mohammed Imtiyaz Ahmad",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pola Prashanth Kumar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 169000,
+    "liabilities": 0
+  },
+  {
+    "name": "S Gopal Reddy",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 5710000,
+    "liabilities": 99000
+  },
+  {
+    "name": "V Dasram",
+    "age": "41",
+    "party": "Bahujan Mukti Party",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 15589000,
+    "liabilities": 495000
+  },
+  {
+    "name": "Vishweshwar J",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4730000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Jaskaur Meena",
+    "age": "71",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 143742564,
+    "liabilities": 5825431
+  },
+  {
+    "name": "Anju Devi Dhanka",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7155513,
+    "liabilities": 2450000
+  },
+  {
+    "name": "Bharti Meena",
+    "age": "30",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3371000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Bimla Devi Meena",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 47054005,
+    "liabilities": 559174
+  },
+  {
+    "name": "Chandra Prakash Meena",
+    "age": "26",
+    "party": "Nationalist Peoples Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 600000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dwarka Prasad",
+    "age": "36",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Maliram Nayaka",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4020000,
+    "liabilities": 0
+  },
+  {
+    "name": "Radhey Shyam Meena",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 18985200,
+    "liabilities": 9000000
+  },
+  {
+    "name": "Ramphool Meena",
+    "age": "63",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3770000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Rinku Kumar Meena",
+    "age": "32",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1000,
+    "liabilities": 0
+  },
+  {
+    "name": "Savita Meena",
+    "age": "54",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 111123791,
+    "liabilities": 1432480
+  }
+]

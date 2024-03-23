@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Ramesh Pokhriyal Nishank",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 28739888,
+    "liabilities": 16444
+  },
+  {
+    "name": "Aadil",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 864000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ambrish Kumar",
+    "age": "70",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 8548506,
+    "liabilities": 0
+  },
+  {
+    "name": "Bachi Singh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhanpal Singh",
+    "age": "65",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21240576,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmendra",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 208000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Antriksh Saini",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 869094791,
+    "liabilities": 278877123
+  },
+  {
+    "name": "Furkan Ali",
+    "age": "56",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7182794,
+    "liabilities": 239092
+  },
+  {
+    "name": "Lalit Kumar",
+    "age": "31",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narendra Chauhan",
+    "age": "45",
+    "party": "Bhartiya Sarvodaya Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2857000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Reenu",
+    "age": "38",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2150701,
+    "liabilities": 40000
+  },
+  {
+    "name": "Shishupal Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 323000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Kumar Upadhayay",
+    "age": "0",
+    "party": "UKD",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4278300,
+    "liabilities": 2100000
+  },
+  {
+    "name": "Tribirendra Singh Rawat",
+    "age": "30",
+    "party": "Uttarakhand Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3941321,
+    "liabilities": 0
+  }
+]

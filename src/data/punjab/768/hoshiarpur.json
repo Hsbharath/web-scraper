@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Som Parkash",
+    "age": "70",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 29404519,
+    "liabilities": 0
+  },
+  {
+    "name": "Davinder Singh",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1919000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharam Pal",
+    "age": "65",
+    "party": "Nationalist Justice Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 28365452,
+    "liabilities": 360000
+  },
+  {
+    "name": "Khushi Ram",
+    "age": "68",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20242482,
+    "liabilities": 530702
+  },
+  {
+    "name": "Paramjit Singh",
+    "age": "42",
+    "party": "Samaj Bhalai Morcha",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar",
+    "age": "49",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 146589292,
+    "liabilities": 63299925
+  },
+  {
+    "name": "Ravjot Singh",
+    "age": "0",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 32729653,
+    "liabilities": 6160003
+  },
+  {
+    "name": "Tilak Raj",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 23328210,
+    "liabilities": 269823
+  }
+]

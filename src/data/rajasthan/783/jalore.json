@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Devaji Patel",
+    "age": "42",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 88332292,
+    "liabilities": 60936530
+  },
+  {
+    "name": "Bhanwerlal",
+    "age": "62",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 10072103,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhava Ram",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 886000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bheraram Barar Meghwal",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6558000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 438684,
+    "liabilities": 0
+  },
+  {
+    "name": "Kaluram",
+    "age": "30",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 305000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kapoora Ram Meena",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 46849400,
+    "liabilities": 3800000
+  },
+  {
+    "name": "Kheta Ram",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 666961,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakharam Choudhary",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 325000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lukaram",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 5220000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Mohan Lal",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 21105,
+    "liabilities": 0
+  },
+  {
+    "name": "Nimbaram",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 92000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Prasad Jatav",
+    "age": "63",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16703000,
+    "liabilities": 800000
+  },
+  {
+    "name": "Ratan",
+    "age": "44",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 23361271,
+    "liabilities": 4544357
+  },
+  {
+    "name": "Vijay Shree",
+    "age": "33",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 32120000,
+    "liabilities": 0
+  }
+]

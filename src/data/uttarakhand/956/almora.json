@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ajay Tamta",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9910448,
+    "liabilities": 55845
+  },
+  {
+    "name": "Dropadi Verma",
+    "age": "59",
+    "party": "Uttarakhand Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 23098000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.L. Arya",
+    "age": "61",
+    "party": "UKD",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 3748627,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Tamta",
+    "age": "60",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 13293598,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Sunder Dhauni",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2870000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Vimla Arya",
+    "age": "32",
+    "party": "UTTARAKHAND PARIVARTAN PARTY",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 111100,
+    "liabilities": 0
+  }
+]

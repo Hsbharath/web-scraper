@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Pratima Bhoumik",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 642398,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Kumar Bhaumik",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5456399,
+    "liabilities": 0
+  },
+  {
+    "name": "Brajalal Debnath",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5485000,
+    "liabilities": 0
+  },
+  {
+    "name": "Brishaketu Debbarma",
+    "age": "42",
+    "party": "Indigenousn Peoples Front Of Tripura",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3460085,
+    "liabilities": 0
+  },
+  {
+    "name": "Jayki Murasing",
+    "age": "25",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 10700,
+    "liabilities": 0
+  },
+  {
+    "name": "Kabrabam Dhirendra Singha",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6587,
+    "liabilities": 0
+  },
+  {
+    "name": "Maman Khan",
+    "age": "34",
+    "party": "AITC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4984000,
+    "liabilities": 77412
+  },
+  {
+    "name": "Narayan Chandra Dey",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabir Debnath",
+    "age": "36",
+    "party": "Amra Bangalee",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 120000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradip Chakraborty",
+    "age": "52",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 5122000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sankar Prasad Datta",
+    "age": "61",
+    "party": "CPI(M)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 27948486,
+    "liabilities": 0
+  },
+  {
+    "name": "Subal Bhowmik",
+    "age": "58",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 5678249,
+    "liabilities": 0
+  },
+  {
+    "name": "Subal Sarkar",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10452,
+    "liabilities": 0
+  }
+]

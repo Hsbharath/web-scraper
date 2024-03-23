@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Patil Chandrakant",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 446044269,
+    "liabilities": 56846658
+  },
+  {
+    "name": "Amrutham Narsaiya",
+    "age": "58",
+    "party": "Pyramid Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8374000,
+    "liabilities": 170000
+  },
+  {
+    "name": "Anishbhai Gaffarbhai Bhimani",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 150000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandansinh",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 929313,
+    "liabilities": 0
+  },
+  {
+    "name": "Chauhan Nileshkumar Khushalbhai",
+    "age": "43",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 2105497,
+    "liabilities": 92320
+  },
+  {
+    "name": "Govindbhai Laxmanbhai Rathod",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1765000,
+    "liabilities": 230000
+  },
+  {
+    "name": "Hiramaniben",
+    "age": "32",
+    "party": "Rashtriya Samaj Paksha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 186000,
+    "liabilities": 1300000
+  },
+  {
+    "name": "Jain Rajendrakumar Anilkumar",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 534450,
+    "liabilities": 0
+  },
+  {
+    "name": "Jawadkhan Sujatkhan Pathan",
+    "age": "35",
+    "party": "Yuva Sarkar",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 725000,
+    "liabilities": 0
+  },
+  {
+    "name": "Khadadiya Kanubhai Tapubhai",
+    "age": "61",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 7591975,
+    "liabilities": 1200000
+  },
+  {
+    "name": "Khan Heenabegam",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 5190000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mishra Jitendrabhai Premnath",
+    "age": "49",
+    "party": "Sanyukt Vikas Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1118952,
+    "liabilities": 0
+  },
+  {
+    "name": "Pasvan Virendra",
+    "age": "49",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 826000,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Dharmeshbhai",
+    "age": "47",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 31846750,
+    "liabilities": 1659481
+  },
+  {
+    "name": "Patel Navinkumar",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 745000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prakash Amarnath Shukla",
+    "age": "48",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1411694,
+    "liabilities": 650000
+  },
+  {
+    "name": "Ramjan Bhilubhai Mansuri",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Kinra",
+    "age": "37",
+    "party": "Rashtriya Nav Nirman Bharat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 13758802,
+    "liabilities": 2280942
+  },
+  {
+    "name": "Saiyad Mehmud Ahmad",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 258400,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaikh Javeed Ahemad",
+    "age": "35",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Illiterate",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shaikh Saeed Inayat",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sharma Rajmal Mohanlal",
+    "age": "37",
+    "party": "Svatantra Bharat Satyagrah Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 389183,
+    "liabilities": 0
+  },
+  {
+    "name": "Shekh Hamid Ramjan",
+    "age": "57",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "Singh Vineeta",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5884818,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohilkhaa Hashimkhaa Pathan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Nishikant Dubey",
+    "age": "47",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Doctorate",
+    "assets": 462757500,
+    "liabilities": 0
+  },
+  {
+    "name": "Anup Kumar Sinha",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10895000,
+    "liabilities": 0
+  },
+  {
+    "name": "Asha Makede",
+    "age": "49",
+    "party": "Pichhara Samaj Party United",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 10000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bajrangi Mahtha",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "9",
+    "education": "12th Pass",
+    "assets": 3787466,
+    "liabilities": 0
+  },
+  {
+    "name": "Birendra Kumar",
+    "age": "36",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 410031,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Kumar Barnwal",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1314140,
+    "liabilities": 353210
+  },
+  {
+    "name": "K. Rangaiah",
+    "age": "82",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhusudan Ray",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 871394,
+    "liabilities": 3585
+  },
+  {
+    "name": "Mahesh Kumar Suman",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Murari Kapri",
+    "age": "35",
+    "party": "Aam Adhikar Morcha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3325367,
+    "liabilities": 1875000
+  },
+  {
+    "name": "Noor Hassan",
+    "age": "47",
+    "party": "Rashtriya Samta Party (Secular)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2051330,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Yadav",
+    "age": "53",
+    "party": "Jharkhand Vikas Morcha (Prajatantrik)",
+    "criminal": "13",
+    "education": "Graduate",
+    "assets": 14197149,
+    "liabilities": 0
+  },
+  {
+    "name": "Zaffar Obaid",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 873613,
+    "liabilities": 0
+  }
+]
