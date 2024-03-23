@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Kavita Singh",
+    "age": "33",
+    "party": "JD(U)",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 19325264,
+    "liabilities": 412511
+  },
+  {
+    "name": "Abhishek Kumar",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5082500,
+    "liabilities": 0
+  },
+  {
+    "name": "Amarjit Prasad",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1066095,
+    "liabilities": 0
+  },
+  {
+    "name": "Amarnath Yadav",
+    "age": "54",
+    "party": "CPI(ML)(L)",
+    "criminal": "12",
+    "education": "Literate",
+    "assets": 8089901,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar Verma",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 5094000,
+    "liabilities": 0
+  },
+  {
+    "name": "Balmiki Prasad",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 1360000,
+    "liabilities": 230000
+  },
+  {
+    "name": "Deva Kant Mishra Alias Munna Bhaiya",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10390000,
+    "liabilities": 360000
+  },
+  {
+    "name": "Hena Shahab",
+    "age": "46",
+    "party": "RJD",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 139078374,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Jai Prakash Prasad",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4894500,
+    "liabilities": 800000
+  },
+  {
+    "name": "Madhuri Pandey",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 5146000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narad Pandit",
+    "age": "46",
+    "party": "Bharatiya Samta Samaj Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1025000,
+    "liabilities": 2000
+  },
+  {
+    "name": "Parmanand Gond",
+    "age": "49",
+    "party": "Swatantra Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3644500,
+    "liabilities": 0
+  },
+  {
+    "name": "Rohit Kumar Yadav",
+    "age": "26",
+    "party": "Sanyukt Vikas Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1370000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Prajapati",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 6822000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satyendra Kushwaha",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1890000,
+    "liabilities": 14986
+  },
+  {
+    "name": "Shabana",
+    "age": "31",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14891000,
+    "liabilities": 1501500
+  },
+  {
+    "name": "Sudhir Kumar Singh",
+    "age": "61",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 19204952,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Upendra Kumar Giri",
+    "age": "37",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 1413078,
+    "liabilities": 219001
+  },
+  {
+    "name": "Vijay Bahadur Singh",
+    "age": "58",
+    "party": "Rashtriya Sahyog Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5651000,
+    "liabilities": 0
+  }
+]

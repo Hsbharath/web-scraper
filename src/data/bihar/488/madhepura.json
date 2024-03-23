@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Dinesh Chandra Yadav",
+    "age": "67",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 37420953,
+    "liabilities": 700000
+  },
+  {
+    "name": "Anil Bharti",
+    "age": "49",
+    "party": "Rashtravadi Janata Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 13777000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jaykant Yadav",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 552228,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Manda",
+    "age": "45",
+    "party": "Aam Adhikar Morcha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11776448,
+    "liabilities": 50000
+  },
+  {
+    "name": "Mohammad Arshad Hussain",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11950000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Ranjan",
+    "age": "51",
+    "party": "Jan Adhikar Party (Loktantrik)",
+    "criminal": "31",
+    "education": "Graduate",
+    "assets": 119543561,
+    "liabilities": 17695194
+  },
+  {
+    "name": "Rajiv Kumar Yadav",
+    "age": "30",
+    "party": "Baliraja Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajo Sah",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 4135000,
+    "liabilities": 565000
+  },
+  {
+    "name": "Sharad Yadav",
+    "age": "71",
+    "party": "RJD",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 81533690,
+    "liabilities": 0
+  },
+  {
+    "name": "Suman Kumar Jha",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11276322,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kumar Bharti",
+    "age": "37",
+    "party": "Asli Deshi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 39307685,
+    "liabilities": 420000
+  },
+  {
+    "name": "Umashankar",
+    "age": "34",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3981600,
+    "liabilities": 157375
+  },
+  {
+    "name": "Vinay Kumar Mishra",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14888104,
+    "liabilities": 0
+  }
+]

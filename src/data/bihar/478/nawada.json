@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chandan Singh",
+    "age": "36",
+    "party": "LJP",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 176720167,
+    "liabilities": 4722200
+  },
+  {
+    "name": "Aditya Pradhan",
+    "age": "40",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3406595,
+    "liabilities": 163050
+  },
+  {
+    "name": "Mokim Uddin",
+    "age": "49",
+    "party": "Rashtriya Ulama Council",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7360000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Prasad",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 140000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nivedita Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 71410600,
+    "liabilities": 0
+  },
+  {
+    "name": "Prof. K.B. Prasad",
+    "age": "69",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 16812828,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6288351,
+    "liabilities": 600000
+  },
+  {
+    "name": "Rakesh Raushan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1591000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranganathacharya",
+    "age": "50",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 769773,
+    "liabilities": 0
+  },
+  {
+    "name": "Tulsi Dayal",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 11022795,
+    "liabilities": 4298451
+  },
+  {
+    "name": "Vibha Devi",
+    "age": "53",
+    "party": "RJD",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 118431743,
+    "liabilities": 4849749
+  },
+  {
+    "name": "Vijay Ram",
+    "age": "52",
+    "party": "Moolniwasi Samaj Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 353000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Vishnu Dev Yadav",
+    "age": "67",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 43439000,
+    "liabilities": 0
+  }
+]

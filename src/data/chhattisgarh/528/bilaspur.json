@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Arun Sao",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 13544588,
+    "liabilities": 50000
+  },
+  {
+    "name": "Arun Kumar Sahu",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 61250,
+    "liabilities": 0
+  },
+  {
+    "name": "Atal Shrivastav",
+    "age": "51",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 158233341,
+    "liabilities": 11386394
+  },
+  {
+    "name": "Avishek Ekka",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 490000,
+    "liabilities": 0
+  },
+  {
+    "name": "Baldau Prasad Sahu",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1197650,
+    "liabilities": 0
+  },
+  {
+    "name": "Dujram Sahu",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 285000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hairschandra Teli (Sahu)",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Harish Kumar Mandwa",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 244000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hori Lal Anant",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 223000,
+    "liabilities": 0
+  },
+  {
+    "name": "Indrasen Mogre",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 149000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nand Kishore Raj",
+    "age": "46",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3842000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pooran Lal Chhabariya",
+    "age": "56",
+    "party": "Swabhiman Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 5315000,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Raju Khatik",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6090000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramfal Mandrey",
+    "age": "40",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2397221,
+    "liabilities": 1025508
+  },
+  {
+    "name": "Ramkumar Ghatlahare",
+    "age": "46",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Salik Ram Jogivansh",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1087000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Sandeep Singh Porte",
+    "age": "28",
+    "party": "Adhikar Vikas Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2722000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Tiwari",
+    "age": "43",
+    "party": "Bhartiya Sarvjan Hitey Samaj Party",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 13642500,
+    "liabilities": 450000
+  },
+  {
+    "name": "Santosh Kumar Kaushal",
+    "age": "47",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3279613,
+    "liabilities": 726958
+  },
+  {
+    "name": "Shambhu Sharma",
+    "age": "74",
+    "party": "Bharat Bhoomi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2970212,
+    "liabilities": 0
+  },
+  {
+    "name": "Siddhram Lahare",
+    "age": "44",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1257000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Urmila Tiwari",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 220000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uttam Das Gurugosai",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9874225,
+    "liabilities": 0
+  },
+  {
+    "name": "Vidya Sahu",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 152500,
+    "liabilities": 0
+  },
+  {
+    "name": "Yaman Banjare",
+    "age": "26",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 23948167,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Renuka Singh Saruta",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27682493,
+    "liabilities": 3251275
+  },
+  {
+    "name": "Asha Devi Poya",
+    "age": "44",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2768500,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Chandradeep Singh Korcho",
+    "age": "26",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 120000,
+    "liabilities": 0
+  },
+  {
+    "name": "Guman Singh Poya",
+    "age": "34",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 107500,
+    "liabilities": 0
+  },
+  {
+    "name": "Khel Sai Singh",
+    "age": "72",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 76086898,
+    "liabilities": 7070521
+  },
+  {
+    "name": "Maya Prajapati",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7849844,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Singh Tekam",
+    "age": "41",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 282000,
+    "liabilities": 0
+  },
+  {
+    "name": "Palsay Uranv",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1620000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Kumar Nag",
+    "age": "39",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 80000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramnath Cherwa",
+    "age": "48",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2591151,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Giridhari Yadav",
+    "age": "58",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 19816050,
+    "liabilities": 405701
+  },
+  {
+    "name": "Amarjeet Kumar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 6940000,
+    "liabilities": 2250000
+  },
+  {
+    "name": "Jai Prakash Narayan Yadav",
+    "age": "65",
+    "party": "RJD",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 68739932,
+    "liabilities": 618721
+  },
+  {
+    "name": "Kailash Prasad Singh",
+    "age": "54",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3861163,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar Sah",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 41500,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Mukhtar Alam",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1737000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Rafique Alam",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 16862361,
+    "liabilities": 97503
+  },
+  {
+    "name": "Mp Yadav",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2636099,
+    "liabilities": 32884
+  },
+  {
+    "name": "Mritiunjay Roy",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2605273,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Yadav",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2147807,
+    "liabilities": 90000
+  },
+  {
+    "name": "Neelu Devi",
+    "age": "43",
+    "party": "Bhartiya Dalit Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 3752672,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Thakur",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3326284,
+    "liabilities": 0
+  },
+  {
+    "name": "Phesal Ansari",
+    "age": "26",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2245200,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Singh Weldone",
+    "age": "50",
+    "party": "IND",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 31315852,
+    "liabilities": 81524
+  },
+  {
+    "name": "Pravin Kumar Jha",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7341490,
+    "liabilities": 0
+  },
+  {
+    "name": "Putul Kumari",
+    "age": "61",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 53801629,
+    "liabilities": 1700000
+  },
+  {
+    "name": "Rajkishor Prasad",
+    "age": "42",
+    "party": "JMM",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 173443409,
+    "liabilities": 7359160
+  },
+  {
+    "name": "Sanjiv Kumar Kunal",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Alamdar Hussain",
+    "age": "43",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3895000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umakant Yadav",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1076000,
+    "liabilities": 0
+  }
+]

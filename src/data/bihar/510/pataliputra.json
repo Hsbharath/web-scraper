@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Ram Kripal Yadav",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 29213467,
+    "liabilities": 1717310
+  },
+  {
+    "name": "Bindu Devi",
+    "age": "48",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 30529762,
+    "liabilities": 0
+  },
+  {
+    "name": "Brajeshwar Prasad Singh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24130030,
+    "liabilities": 300000
+  },
+  {
+    "name": "Durgesh Nandan Singh Alias Durgesh Yadav",
+    "age": "42",
+    "party": "Rashtriya Janvikas Party (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4180500,
+    "liabilities": 0
+  },
+  {
+    "name": "Indu Devi Mishra",
+    "age": "53",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitendra Bind",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 585000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalita Ray",
+    "age": "35",
+    "party": "Bahujan Nyay Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52365000,
+    "liabilities": 240162
+  },
+  {
+    "name": "Mantu Kumar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 194000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Kalimullah",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4803883,
+    "liabilities": 863000
+  },
+  {
+    "name": "Md. Taufique Ahmad",
+    "age": "36",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 56622,
+    "liabilities": 0
+  },
+  {
+    "name": "Misha Bharti",
+    "age": "42",
+    "party": "RJD",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 75613265,
+    "liabilities": 985079
+  },
+  {
+    "name": "Pupul Kumar Sharma",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 14415000,
+    "liabilities": 68000
+  },
+  {
+    "name": "Ram Narayan Manjhi",
+    "age": "56",
+    "party": "Sankhyanupati Bhagidari Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 112500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Niranjan Roy",
+    "age": "60",
+    "party": "Rashtrawadi Chetna Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3586212,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Pravesh Rajak",
+    "age": "66",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8192000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Ramesh Kumar Sharma",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 11075833190,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Kumar",
+    "age": "51",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 51500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shailesh Kumar",
+    "age": "42",
+    "party": "Bharatiya Aam Awam Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1170498,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Kumar Singh",
+    "age": "43",
+    "party": "Apna Kisan Party",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 45000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohan Ray",
+    "age": "69",
+    "party": "Yuva Krantikari Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 17209000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Paswan",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 108400,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinod Das",
+    "age": "60",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 81114,
+    "liabilities": 0
+  },
+  {
+    "name": "Wakil Ahmad",
+    "age": "46",
+    "party": "Janata Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6520000,
+    "liabilities": 0
+  }
+]

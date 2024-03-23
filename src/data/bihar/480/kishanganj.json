@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Mohammad Jawed",
+    "age": "54",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 90973803,
+    "liabilities": 5383958
+  },
+  {
+    "name": "Akhtarul Iman",
+    "age": "55",
+    "party": "All India Majlis-E-Ittehadul Muslimeen",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 7262890,
+    "liabilities": 1908918
+  },
+  {
+    "name": "Alimuddin Ansari",
+    "age": "64",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3677032,
+    "liabilities": 105000
+  },
+  {
+    "name": "Asad Alam",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 564000,
+    "liabilities": 0
+  },
+  {
+    "name": "Azimuddin",
+    "age": "75",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 383500,
+    "liabilities": 0
+  },
+  {
+    "name": "Chhote Lal Mahto",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 765000,
+    "liabilities": 0
+  },
+  {
+    "name": "Haserul",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1175000,
+    "liabilities": 0
+  },
+  {
+    "name": "Indra Deo Paswan",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6819206,
+    "liabilities": 570000
+  },
+  {
+    "name": "Javed Akhter",
+    "age": "53",
+    "party": "AITC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 22235300,
+    "liabilities": 0
+  },
+  {
+    "name": "Pradeep Kumar Singh",
+    "age": "36",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 174500,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajendra Paswan",
+    "age": "59",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2016118,
+    "liabilities": 559195
+  },
+  {
+    "name": "Rajesh Kumar Dubey",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 507291,
+    "liabilities": 0
+  },
+  {
+    "name": "Shukal Murmu",
+    "age": "50",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Syed Mahmood Ashraf",
+    "age": "54",
+    "party": "JD(U)",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 19854930,
+    "liabilities": 3598799
+  }
+]

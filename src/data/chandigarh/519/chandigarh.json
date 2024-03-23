@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Kirron Kher",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 474983574,
+    "liabilities": 6279188
+  },
+  {
+    "name": "Akhlesh Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 142670,
+    "liabilities": 0
+  },
+  {
+    "name": "Avinash Singh Sharma",
+    "age": "48",
+    "party": "Chandigarh Ki Aawaz Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 20233248,
+    "liabilities": 2929285
+  },
+  {
+    "name": "Bhupinder Kaur",
+    "age": "55",
+    "party": "Sarvjan Sewa Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 664400,
+    "liabilities": 0
+  },
+  {
+    "name": "Boota Singh",
+    "age": "68",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 27394328,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Devi Sirohi",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 61661454,
+    "liabilities": 68610
+  },
+  {
+    "name": "Gurmail Singh",
+    "age": "41",
+    "party": "AIFB",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 18000000,
+    "liabilities": 2750000
+  },
+  {
+    "name": "Harmohan Dhawan",
+    "age": "78",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 243011000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish Kumar Nidan",
+    "age": "61",
+    "party": "Hindustan Shakti Sena",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2656000,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Jyoti",
+    "age": "46",
+    "party": "Akhil Bhartiya Apna Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 610000,
+    "liabilities": 0
+  },
+  {
+    "name": "Karan Vasudeva",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12366296,
+    "liabilities": 0
+  },
+  {
+    "name": "Lashkar Singh",
+    "age": "78",
+    "party": "CPI(ML) Red Star",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 5086975,
+    "liabilities": 0
+  },
+  {
+    "name": "Manjeet Singh Bohat",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5856000,
+    "liabilities": 1800000
+  },
+  {
+    "name": "Mukesh Pachara",
+    "age": "58",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 779372,
+    "liabilities": 174000
+  },
+  {
+    "name": "Nawab Ali",
+    "age": "44",
+    "party": "Rashtriya Lokswaraj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 492000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nidhi Kansal",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 9117000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parveen Kumar",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 686891,
+    "liabilities": 0
+  },
+  {
+    "name": "Pawan Kumar Bansal",
+    "age": "70",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 95583235,
+    "liabilities": 0
+  },
+  {
+    "name": "Prem Lata",
+    "age": "75",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 136885178,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kamal Singh",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 233100,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Kumar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 637000,
+    "liabilities": 270000
+  },
+  {
+    "name": "Ramneet",
+    "age": "41",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2550000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sandeep Bidla",
+    "age": "32",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 351900,
+    "liabilities": 5253
+  },
+  {
+    "name": "Sanjay Balaan",
+    "age": "38",
+    "party": "Bhartiya Jan Samman Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 2237237,
+    "liabilities": 513000
+  },
+  {
+    "name": "Sarabjeet Singh Sohal",
+    "age": "67",
+    "party": "Bhartiya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 194404172,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Satish Kumar",
+    "age": "60",
+    "party": "Janral Samaj Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 54633716,
+    "liabilities": 600910
+  },
+  {
+    "name": "Satybir Singh",
+    "age": "48",
+    "party": "Bhartiya Manavadhikaar Federal Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 696000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shambhu",
+    "age": "41",
+    "party": "Samaj Adhikar Kalyan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 5412500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Sharmila Johari",
+    "age": "38",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12340126,
+    "liabilities": 2064433
+  },
+  {
+    "name": "Subhash Chander Goyal",
+    "age": "56",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 42039374,
+    "liabilities": 0
+  },
+  {
+    "name": "Subhash Tamoli",
+    "age": "54",
+    "party": "Bahujan Samaj Party (Ambedkar)",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 253049,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunita",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 186717,
+    "liabilities": 60000
+  },
+  {
+    "name": "Tejinder Singh Walia",
+    "age": "77",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11069358,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Raj",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 673325,
+    "liabilities": 230000
+  },
+  {
+    "name": "Yogesh Dhingra",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 268777,
+    "liabilities": 0
+  },
+  {
+    "name": "Yograj Sahota",
+    "age": "62",
+    "party": "Rashtriya Jankranti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9400000,
+    "liabilities": 5037086
+  }
+]

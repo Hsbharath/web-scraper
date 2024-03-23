@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Dr. Sanjay Jaiswal",
+    "age": "54",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 199404885,
+    "liabilities": 67370030
+  },
+  {
+    "name": "Ajay Kumar Sinha",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3859000,
+    "liabilities": 160000
+  },
+  {
+    "name": "Bipin Nath Tiwari",
+    "age": "45",
+    "party": "Loktantrik Jan Swaraj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3657000,
+    "liabilities": 20000
+  },
+  {
+    "name": "Brijesh Kumar Kushwaha",
+    "age": "41",
+    "party": "Rashtriya Lok Samta Party",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 144190332,
+    "liabilities": 24507384
+  },
+  {
+    "name": "Nafish Ahmad",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2156868,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Kumar",
+    "age": "39",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 3137201,
+    "liabilities": 1887232
+  },
+  {
+    "name": "Ratan Kumar Sarkar",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3470000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kumar Patel",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 948960,
+    "liabilities": 71325
+  },
+  {
+    "name": "Vikash Kumar Prasad",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2877510,
+    "liabilities": 545000
+  }
+]

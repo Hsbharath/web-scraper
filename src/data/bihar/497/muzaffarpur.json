@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Ajay Nishad",
+    "age": "50",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 298867486,
+    "liabilities": 15714320
+  },
+  {
+    "name": "Ajitansh Gaur",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 95536,
+    "liabilities": 0
+  },
+  {
+    "name": "Anirudh Singh",
+    "age": "62",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Rakesh",
+    "age": "69",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 96715000,
+    "liabilities": 290000
+  },
+  {
+    "name": "Dharmendra Paswan",
+    "age": "26",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 106866,
+    "liabilities": 0
+  },
+  {
+    "name": "Jauhar Azad",
+    "age": "39",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2387372,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohamad Idris",
+    "age": "64",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8162850,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 102438,
+    "liabilities": 0
+  },
+  {
+    "name": "Nageshwar Prasad Singh",
+    "age": "55",
+    "party": "Rashtriya Rashtrawadi Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1041057,
+    "liabilities": 0
+  },
+  {
+    "name": "Nandan Kumar",
+    "age": "27",
+    "party": "Janata Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5809,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Kumar",
+    "age": "41",
+    "party": "Aap Aur Hum Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3405000,
+    "liabilities": 2450000
+  },
+  {
+    "name": "Pradeep Kumar Singh",
+    "age": "43",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5961760,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Bhushan Chaudhry",
+    "age": "41",
+    "party": "Vikassheel Insaan Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 71600000,
+    "liabilities": 14100000
+  },
+  {
+    "name": "Renu Khari",
+    "age": "57",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6270738,
+    "liabilities": 0
+  },
+  {
+    "name": "Ritesh Prasad",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6080000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Shakti Monu",
+    "age": "34",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1173000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiva Bihari Singhania",
+    "age": "49",
+    "party": "Bharat Nirman Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8886364,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhir Kumar Jha",
+    "age": "40",
+    "party": "Yuva Krantikari Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8678000,
+    "liabilities": 380000
+  },
+  {
+    "name": "Sukhdeo Prasad",
+    "age": "70",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2025238,
+    "liabilities": 300000
+  },
+  {
+    "name": "Surendra Ray",
+    "age": "58",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 16193100,
+    "liabilities": 40000
+  },
+  {
+    "name": "Suresh Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4147000,
+    "liabilities": 1175000
+  },
+  {
+    "name": "Swarnlata Devi",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 33350332,
+    "liabilities": 4737454
+  }
+]

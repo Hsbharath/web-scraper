@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mohan Mandavi",
+    "age": "61",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 28675553,
+    "liabilities": 679000
+  },
+  {
+    "name": "Biresh Thakur",
+    "age": "52",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6666614,
+    "liabilities": 0
+  },
+  {
+    "name": "Durgaprasad Thakur",
+    "age": "43",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2137880,
+    "liabilities": 500000
+  },
+  {
+    "name": "Ghanshyam Jurri",
+    "age": "44",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6323000,
+    "liabilities": 890000
+  },
+  {
+    "name": "Harisingh Sidar",
+    "age": "73",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1080000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Mathan Singh Markam",
+    "age": "40",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 985000,
+    "liabilities": 0
+  },
+  {
+    "name": "Narend Nag",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1012600,
+    "liabilities": 2375000
+  },
+  {
+    "name": "Sube Singh Dhurva",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 896500,
+    "liabilities": 0
+  },
+  {
+    "name": "Umashankar Bhandari",
+    "age": "36",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10515000,
+    "liabilities": 0
+  }
+]

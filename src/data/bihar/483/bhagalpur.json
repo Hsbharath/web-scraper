@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Ajay Kumar Mandal",
+    "age": "41",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6801126,
+    "liabilities": 5364747
+  },
+  {
+    "name": "Abhishek Priyadarshi",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 9709948,
+    "liabilities": 4070000
+  },
+  {
+    "name": "Deepak Kumar",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 2933495,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammad Ashiq Ibrahimi",
+    "age": "67",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 1772515,
+    "liabilities": 0
+  },
+  {
+    "name": "Nurullah",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11289304,
+    "liabilities": 0
+  },
+  {
+    "name": "Satyendra Kumar",
+    "age": "47",
+    "party": "AAP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 29785377,
+    "liabilities": 1520000
+  },
+  {
+    "name": "Shailesh Kumar",
+    "age": "43",
+    "party": "RJD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30364808,
+    "liabilities": 2180647
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12329000,
+    "liabilities": 2300000
+  },
+  {
+    "name": "Sushil Kumar Das",
+    "age": "68",
+    "party": "Bhartiya Dalit Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 505000,
+    "liabilities": 0
+  }
+]

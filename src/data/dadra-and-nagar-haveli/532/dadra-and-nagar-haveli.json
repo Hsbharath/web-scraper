@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Delkar Mohanbhai Sanjibhai",
+    "age": "56",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 708885980,
+    "liabilities": 37268162
+  },
+  {
+    "name": "Bhikhlabhai Vansabhai Khulat",
+    "age": "51",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Dayat Manoj Ranchod",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 168959,
+    "liabilities": 84060
+  },
+  {
+    "name": "Dongarkar Ishwarbhai Gopjibhai",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 84000,
+    "liabilities": 0
+  },
+  {
+    "name": "Halpati Rajeshbhai Bhanabhai",
+    "age": "35",
+    "party": "Navsarjan Bharat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Janathiya Pravinbhai Ladakbhai",
+    "age": "31",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": null,
+    "liabilities": 0
+  },
+  {
+    "name": "Kurada Deepakbhai",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20095,
+    "liabilities": 0
+  },
+  {
+    "name": "Patel Ankita Amrutbhai",
+    "age": "35",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 46486347,
+    "liabilities": 12206998
+  },
+  {
+    "name": "Patel Dhirubhai Chhotubhai",
+    "age": "48",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 19595036,
+    "liabilities": 85861
+  },
+  {
+    "name": "Patel Natubhai Gomanbhai",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "5th Pass",
+    "assets": 496942663,
+    "liabilities": 215617501
+  },
+  {
+    "name": "Tokiya Prabhubhai",
+    "age": "40",
+    "party": "INC",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 5430633,
+    "liabilities": 0
+  }
+]

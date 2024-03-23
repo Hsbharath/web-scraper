@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Rama Devi",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 328364940,
+    "liabilities": 0
+  },
+  {
+    "name": "Abul Kalam Khan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6533000,
+    "liabilities": 1078000
+  },
+  {
+    "name": "Anand Kumar Maurya",
+    "age": "36",
+    "party": "Bahujan Azad Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20548227,
+    "liabilities": 743000
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "47",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4911000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Anil Kumar Tiwari",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2302500,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Prasad Singh",
+    "age": "50",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30585141,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagdish Prasad",
+    "age": "41",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3565000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Kedar Nath Prasad",
+    "age": "73",
+    "party": "IND",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 17741102,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Kumar Jha",
+    "age": "31",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 22447516,
+    "liabilities": 9700000
+  },
+  {
+    "name": "Nabi Hussain",
+    "age": "54",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3320000,
+    "liabilities": 300000
+  },
+  {
+    "name": "Prabhu Narayan",
+    "age": "47",
+    "party": "SHS",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 55746000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Raj Kumar Prasad",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4069008,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Dayal Prasad",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3465029,
+    "liabilities": 96353
+  },
+  {
+    "name": "Shamim Alam",
+    "age": "51",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 6324527,
+    "liabilities": 150000
+  },
+  {
+    "name": "Shyam Kumar",
+    "age": "38",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 6990021,
+    "liabilities": 900000
+  },
+  {
+    "name": "Syed Faisal Ali",
+    "age": "52",
+    "party": "RJD",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 25526590,
+    "liabilities": 8814643
+  },
+  {
+    "name": "Upendra Sahani",
+    "age": "46",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30529762,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Nandan Paswan",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1545086,
+    "liabilities": 0
+  }
+]

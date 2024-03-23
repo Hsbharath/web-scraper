@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Sunil Kumar",
+    "age": "58",
+    "party": "JD(U)",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 60717031,
+    "liabilities": 10277790
+  },
+  {
+    "name": "Amit Chaudhary",
+    "age": "42",
+    "party": "IND",
+    "criminal": "9",
+    "education": "10th Pass",
+    "assets": 31837493,
+    "liabilities": 0
+  },
+  {
+    "name": "Arjun Ray",
+    "age": "47",
+    "party": "RJD",
+    "criminal": "2",
+    "education": "Doctorate",
+    "assets": 18988281,
+    "liabilities": 1511335
+  },
+  {
+    "name": "Braj Kishor Jha",
+    "age": "58",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30910547,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandrika Prasad",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 738000,
+    "liabilities": 40804
+  },
+  {
+    "name": "Dharmendra Kumar",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 8045411,
+    "liabilities": 0
+  },
+  {
+    "name": "Jasem Ahamad",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1664800,
+    "liabilities": 0
+  },
+  {
+    "name": "Junaid Khan",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 12551400,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalbabu Paswan",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Nandan Singh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2277607,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Sah",
+    "age": "61",
+    "party": "Kisan Party of India",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4203500,
+    "liabilities": 0
+  },
+  {
+    "name": "Nand Kishore Gupta",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 704000,
+    "liabilities": 102000
+  },
+  {
+    "name": "Raghunath Kumar",
+    "age": "47",
+    "party": "AAP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 48560000,
+    "liabilities": 8700000
+  },
+  {
+    "name": "Raj Kishore Prasad",
+    "age": "52",
+    "party": "Proutist Bloc, India",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2244813,
+    "liabilities": 235000
+  },
+  {
+    "name": "Ramesh Kumar Mishra",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5833784,
+    "liabilities": 122000
+  },
+  {
+    "name": "Ravindra Kumar Chandra Urf Dr. Raja Babu",
+    "age": "35",
+    "party": "Bhartiya Mitra Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5200,
+    "liabilities": 190000
+  },
+  {
+    "name": "Shashi Kumar Singh",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3500586,
+    "liabilities": 125000
+  },
+  {
+    "name": "Surendra Kumar",
+    "age": "38",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1060000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thakur Chandan Kumar Singh",
+    "age": "35",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Graduate Professional",
+    "assets": 1078194,
+    "liabilities": 100000
+  },
+  {
+    "name": "Vinod Sah",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 539731,
+    "liabilities": 0
+  }
+]

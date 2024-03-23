@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Deepak Kumar Baij",
+    "age": "38",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 7721293,
+    "liabilities": 1801236
+  },
+  {
+    "name": "Aaytu Ram Mandavi",
+    "age": "55",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 547094,
+    "liabilities": 0
+  },
+  {
+    "name": "Baidu Ram Kashyap",
+    "age": "46",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 16073844,
+    "liabilities": 141005
+  },
+  {
+    "name": "Mangalaram Karma",
+    "age": "40",
+    "party": "Akhil Bharat Samagra Kranti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1726000,
+    "liabilities": 0
+  },
+  {
+    "name": "Paneesh Prasad Nag",
+    "age": "29",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3444229,
+    "liabilities": 600000
+  },
+  {
+    "name": "Ramu Ram Mourya",
+    "age": "42",
+    "party": "CPI",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1058000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kawasi",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 13538941,
+    "liabilities": 0
+  }
+]

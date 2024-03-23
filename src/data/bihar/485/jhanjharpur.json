@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Ramprit Mandal",
+    "age": "63",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 88119686,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Bablu Gupta",
+    "age": "26",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 2053000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bipin Kumar Singhwait",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 5582385,
+    "liabilities": 940000
+  },
+  {
+    "name": "Chhedi Ram",
+    "age": "40",
+    "party": "Bhartiya Mitra Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 960000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Prasad Yadav",
+    "age": "65",
+    "party": "Samajwadi Janata Dal Democratic",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11423806,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganga Prasad Yadav",
+    "age": "36",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2062000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganpati Jha",
+    "age": "53",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 45305838,
+    "liabilities": 350000
+  },
+  {
+    "name": "Gulab Yadav",
+    "age": "51",
+    "party": "RJD",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 96821512,
+    "liabilities": 16777175
+  },
+  {
+    "name": "Lakshman Prasad Yadav",
+    "age": "34",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4082100,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Prakash Poddar",
+    "age": "45",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 3143831,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhat Prasad",
+    "age": "65",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3154218,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Singh",
+    "age": "63",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 79900219,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ramanand Thakur",
+    "age": "48",
+    "party": "SHS",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 11310000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramesh Kamat",
+    "age": "32",
+    "party": "Aam Adhikar Morcha",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1656261,
+    "liabilities": 1411261
+  },
+  {
+    "name": "Ratneshwar Jha",
+    "age": "55",
+    "party": "Aadarsh Mithila Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5310000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Sanjay Bhartia",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1165326,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Prasad Suman",
+    "age": "51",
+    "party": "AIFB",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10855000,
+    "liabilities": 0
+  }
+]

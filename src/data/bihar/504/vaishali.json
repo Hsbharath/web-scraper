@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Veena Devi",
+    "age": "48",
+    "party": "LJP",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 337284632,
+    "liabilities": 112089220
+  },
+  {
+    "name": "Abha Rai",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5396670,
+    "liabilities": 680000
+  },
+  {
+    "name": "Abhay Kumar Sharma",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 10245902,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Vikram",
+    "age": "39",
+    "party": "Jantantrik Vikas Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2997200,
+    "liabilities": 350000
+  },
+  {
+    "name": "Arvind Kumar Singh",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 8950750,
+    "liabilities": 0
+  },
+  {
+    "name": "Balak Nath Sahni",
+    "age": "49",
+    "party": "Rashtriya mahan Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 612000,
+    "liabilities": 0
+  },
+  {
+    "name": "Beena Devi W/O Ajit Kumar Ray",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 617131,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanvanti Devi",
+    "age": "32",
+    "party": "Lok Chetna Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 7656000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ismohamad Alias Md. Munna",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1595000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalji Kuamr Rakesh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3395535,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Ram",
+    "age": "43",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 28300,
+    "liabilities": 0
+  },
+  {
+    "name": "Pankaj Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 25076000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Raghuvansh Prasad Singh",
+    "age": "72",
+    "party": "RJD",
+    "criminal": "2",
+    "education": "Doctorate",
+    "assets": 7857367,
+    "liabilities": 984703
+  },
+  {
+    "name": "Rameshwar Sah",
+    "age": "38",
+    "party": "Rashtriya Pragati Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 315376,
+    "liabilities": 0
+  },
+  {
+    "name": "Reshami Devi",
+    "age": "46",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 463500,
+    "liabilities": 0
+  },
+  {
+    "name": "Rinku Devi1",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 243300,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Kumar Mishra",
+    "age": "37",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5570000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Mahto",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 7073515,
+    "liabilities": 104766
+  },
+  {
+    "name": "Sudha Rani",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21728929,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Kumar Gupta",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2160000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vidya Bhushan",
+    "age": "49",
+    "party": "Sapaks Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3167829,
+    "liabilities": 0
+  }
+]

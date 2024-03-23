@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Sushil Kumar Singh",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 167895109,
+    "liabilities": 3746607
+  },
+  {
+    "name": "Avinash Kumar",
+    "age": "35",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3717856,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhirendra Kumar Singh",
+    "age": "62",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8389250,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Dharmendra Kumar",
+    "age": "42",
+    "party": "Akhil Hind Forward Bloc (Krantikari)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6006600,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Yadav",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "Literate",
+    "assets": 12674177,
+    "liabilities": 824000
+  },
+  {
+    "name": "Santosh Kumar Sinha",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1275000,
+    "liabilities": 0
+  },
+  {
+    "name": "Som Prakash",
+    "age": "46",
+    "party": "Swaraj Party (Loktantrik)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 143780000,
+    "liabilities": 0
+  },
+  {
+    "name": "Upendra Prasad",
+    "age": "55",
+    "party": "Hindustani Awam Morcha (Secular)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20394370,
+    "liabilities": 471998
+  },
+  {
+    "name": "Yogendra Ram",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 155000,
+    "liabilities": 0
+  }
+]

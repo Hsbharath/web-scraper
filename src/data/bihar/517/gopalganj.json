@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Dr. Alok Kumar Suman",
+    "age": "61",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 32739903,
+    "liabilities": 3576376
+  },
+  {
+    "name": "Ajay Paswan",
+    "age": "46",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 9352000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Kumar Manjhi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 11019000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinanath Manjhi",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6959365,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaya Ram",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7302000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kunal Kishore Vivek",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 200000,
+    "liabilities": 0
+  },
+  {
+    "name": "Om Prakash Manjhi",
+    "age": "37",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 2634834,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Kumar Manjhi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2860000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suraj Kumar",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1483579,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Ram S/O Ganesh Ram",
+    "age": "41",
+    "party": "RJD",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 8195606,
+    "liabilities": 21600
+  },
+  {
+    "name": "Surendra Ram S/O Late Chandradev Ram",
+    "age": "46",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Literate",
+    "assets": 4069000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Uma Shankar Kharwar",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 32115837,
+    "liabilities": 0
+  }
+]

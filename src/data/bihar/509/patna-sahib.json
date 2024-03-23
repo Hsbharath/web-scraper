@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Ravi Shankar Prasad",
+    "age": "64",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 235275591,
+    "liabilities": 0
+  },
+  {
+    "name": "Akhilesh Kumar",
+    "age": "44",
+    "party": "Asli Deshi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 18233000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amit Kumar Gupta",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anamika Kumari",
+    "age": "39",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 24070,
+    "liabilities": 0
+  },
+  {
+    "name": "Arvind Kumar",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 41043115,
+    "liabilities": 12207247
+  },
+  {
+    "name": "Ashok Kumar Gupta",
+    "age": "67",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 147248402,
+    "liabilities": 300000
+  },
+  {
+    "name": "Basant Singh",
+    "age": "28",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2958991,
+    "liabilities": 0
+  },
+  {
+    "name": "Javed",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 54714,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Raunak",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 7686000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Mahboob Alam Ansari",
+    "age": "60",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2059386,
+    "liabilities": 0
+  },
+  {
+    "name": "Nimesh Shukla",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1485500,
+    "liabilities": 432437
+  },
+  {
+    "name": "Prabhash Chandra Sharma",
+    "age": "42",
+    "party": "Vanchit Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 493348961,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "38",
+    "party": "Janata Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 34213000,
+    "liabilities": 7380000
+  },
+  {
+    "name": "Rani Devi",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 50859,
+    "liabilities": 0
+  },
+  {
+    "name": "Rita Devi",
+    "age": "39",
+    "party": "Vikassheel Insaan Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 4295541,
+    "liabilities": 0
+  },
+  {
+    "name": "Shatrughan Sinha",
+    "age": "73",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 1935459756,
+    "liabilities": 284863762
+  },
+  {
+    "name": "Sumit Ranjan Sinha",
+    "age": "31",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 86000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vishnu Dev",
+    "age": "59",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 14210591,
+    "liabilities": 500000
+  }
+]

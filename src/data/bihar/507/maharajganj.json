@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Janardan Singh Sigriwal",
+    "age": "55",
+    "party": "BJP",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 10451986,
+    "liabilities": 376000
+  },
+  {
+    "name": "Ali Azhar Ansari",
+    "age": "60",
+    "party": "Maanavvaadi Janta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3035000,
+    "liabilities": 15000
+  },
+  {
+    "name": "Anirudh Prasad",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "5",
+    "education": "Graduate",
+    "assets": 79825395,
+    "liabilities": 22404267
+  },
+  {
+    "name": "Aravind Kumar Sharma",
+    "age": "55",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 238000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Gopal Prasad",
+    "age": "68",
+    "party": "Bhartiya New Sanskar Krantikari Party",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 7625000,
+    "liabilities": 0
+  },
+  {
+    "name": "M.K.Singh Rathour",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 35623127,
+    "liabilities": 1547000
+  },
+  {
+    "name": "Menaka Raman",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7814034,
+    "liabilities": 1678000
+  },
+  {
+    "name": "Rajendra Kumar",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1853206,
+    "liabilities": 0
+  },
+  {
+    "name": "Randhir Kumar Singh",
+    "age": "36",
+    "party": "RJD",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 39112311,
+    "liabilities": 6266511
+  },
+  {
+    "name": "Shree Bhagwan Singh",
+    "age": "67",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 13459000,
+    "liabilities": 950000
+  },
+  {
+    "name": "Subhash Singh",
+    "age": "45",
+    "party": "Jago Hindustan Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 37125000,
+    "liabilities": 0
+  }
+]

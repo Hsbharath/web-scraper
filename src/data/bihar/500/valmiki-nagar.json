@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Baidyanath Prasad Mahto",
+    "age": "62",
+    "party": "JD(U)",
+    "criminal": "4",
+    "education": "10th Pass",
+    "assets": 17934888,
+    "liabilities": 2915945
+  },
+  {
+    "name": "Bhola Ray",
+    "age": "57",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 194000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Yadav",
+    "age": "42",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 569431975,
+    "liabilities": 2409792
+  },
+  {
+    "name": "Durgesh Singh Chauhan",
+    "age": "40",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2777000,
+    "liabilities": 158000
+  },
+  {
+    "name": "Manoj Kumar",
+    "age": "28",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4109638,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Munna Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 27767700,
+    "liabilities": 468500
+  },
+  {
+    "name": "Rajesh Kushwaha",
+    "age": "27",
+    "party": "Rashtriya Sarvjan Vikas Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2389500,
+    "liabilities": 90000
+  },
+  {
+    "name": "Rakesh Kewat",
+    "age": "35",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15516300,
+    "liabilities": 765000
+  },
+  {
+    "name": "Ramesh Prasad",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 16898000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashwat Kedar",
+    "age": "32",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 21470456,
+    "liabilities": 1728000
+  },
+  {
+    "name": "Shiv Kumar Chaudhary",
+    "age": "55",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 40000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suresh Sah",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 4645464,
+    "liabilities": 0
+  },
+  {
+    "name": "Sushma Devi",
+    "age": "38",
+    "party": "SHS",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 41780000,
+    "liabilities": 100000
+  }
+]

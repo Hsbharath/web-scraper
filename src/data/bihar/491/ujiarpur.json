@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Nityanand Rai",
+    "age": "53",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 187007570,
+    "liabilities": 357561
+  },
+  {
+    "name": "A M Izharul Haque",
+    "age": "43",
+    "party": "Sathi Aur Aapka Faisala Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 854501,
+    "liabilities": 0
+  },
+  {
+    "name": "Ajay Kumar",
+    "age": "49",
+    "party": "CPI(M)",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 9481398,
+    "liabilities": 50000
+  },
+  {
+    "name": "Allamaa Shiblee Nomani Halami",
+    "age": "51",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 121000,
+    "liabilities": 0
+  },
+  {
+    "name": "Amrendra Kumar Yadav",
+    "age": "46",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3256028,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr Ajay Singh Almust",
+    "age": "64",
+    "party": "Rashtriya Samta Party (Secular)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 4315459,
+    "liabilities": 1127000
+  },
+  {
+    "name": "Jay Narayan Sah",
+    "age": "64",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1864578,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Gaurav",
+    "age": "45",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 80550000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Lalan Kumar Roy",
+    "age": "25",
+    "party": "Baliraja Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2609880,
+    "liabilities": 20800
+  },
+  {
+    "name": "Mamta Kumari",
+    "age": "31",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 2561450,
+    "liabilities": 350000
+  },
+  {
+    "name": "Manoj Kumar",
+    "age": "37",
+    "party": "Janta Raj Vikas Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 3325000,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Md. Anwar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 2938263,
+    "liabilities": 513600
+  },
+  {
+    "name": "Navin Kumar",
+    "age": "41",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7696000,
+    "liabilities": 980000
+  },
+  {
+    "name": "Pranav Kumar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8665713,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Chauhan",
+    "age": "57",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 104889810,
+    "liabilities": 4452814
+  },
+  {
+    "name": "Ramashray Thakur",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 6404094,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhir Kumar Ray",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 6876444,
+    "liabilities": 1356760
+  },
+  {
+    "name": "Upendra Kushwaha",
+    "age": "56",
+    "party": "Rashtriya Lok Samta Party",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 24441520,
+    "liabilities": 1358960
+  }
+]

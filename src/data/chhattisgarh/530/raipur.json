@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Sunil Kumar Soni",
+    "age": "57",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 46068126,
+    "liabilities": 2482214
+  },
+  {
+    "name": "Ajay Chakole",
+    "age": "50",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 35914112,
+    "liabilities": 0
+  },
+  {
+    "name": "Banmali Chhura",
+    "age": "36",
+    "party": "Bharatiya Bahujan Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 228300,
+    "liabilities": 55500
+  },
+  {
+    "name": "Chhabi Lal Kanwar",
+    "age": "40",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 8354152,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendra Kumar Patil",
+    "age": "37",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 24000,
+    "liabilities": 0
+  },
+  {
+    "name": "Devki Dubey",
+    "age": "51",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 3450000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Dr. Yogita Bajpai",
+    "age": "49",
+    "party": "Sarvodaya Bharat Party",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 4094998,
+    "liabilities": 250000
+  },
+  {
+    "name": "Ikram Saifi",
+    "age": "52",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 60000000,
+    "liabilities": 7000000
+  },
+  {
+    "name": "Khilesh Kumar Sahu",
+    "age": "29",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5485100,
+    "liabilities": 1746536
+  },
+  {
+    "name": "Manish Shrivastav",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1811395,
+    "liabilities": 88000
+  },
+  {
+    "name": "Navin Gupta",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 71374199,
+    "liabilities": 20658188
+  },
+  {
+    "name": "Pramod Dubey",
+    "age": "53",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 64682454,
+    "liabilities": 7605574
+  },
+  {
+    "name": "Pravin Jain",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 28317912,
+    "liabilities": 0
+  },
+  {
+    "name": "Pritesh Pandey",
+    "age": "25",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 383800,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramdyal Dahariya",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2069118,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkrishna Verma",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 15000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rupesh Sahu",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 202000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanju Kumar Yadav",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 22131,
+    "liabilities": 0
+  },
+  {
+    "name": "Santosh Kumar Yadu",
+    "age": "29",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1425000,
+    "liabilities": 504000
+  },
+  {
+    "name": "Santosh Sahu",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1026580,
+    "liabilities": 1045000
+  },
+  {
+    "name": "Shailendra Kumar Banjare",
+    "age": "42",
+    "party": "Shakti Sena (Bharat Desh)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 609836000,
+    "liabilities": 4675000
+  },
+  {
+    "name": "Shankar Lal Vardani",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 335000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tameshwar Sahu",
+    "age": "28",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 3469500,
+    "liabilities": 90000
+  },
+  {
+    "name": "Tarjan Jangde",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2500000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Vijay Kumar Kurre",
+    "age": "36",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 518400,
+    "liabilities": 160000
+  }
+]

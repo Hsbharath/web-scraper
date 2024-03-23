@@ -1,0 +1,101 @@
+[
+  {
+    "name": "R. K. Singh",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 79971720,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar Singh",
+    "age": "66",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2778737,
+    "liabilities": 3008344
+  },
+  {
+    "name": "Bharat Bhushan Pandey",
+    "age": "45",
+    "party": "Akhil Bharatiya Jan Sangh",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 2217678,
+    "liabilities": 160000
+  },
+  {
+    "name": "Dr. Kumar Sheelbhadra",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5237000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Paswan",
+    "age": "48",
+    "party": "Bhartiya Kranti Vir Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 1441500,
+    "liabilities": 65000
+  },
+  {
+    "name": "Lakshaman Kumar Ojha",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 33675230,
+    "liabilities": 10500000
+  },
+  {
+    "name": "Manoj Yadav",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 13998292,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Giri Bhagat",
+    "age": "70",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4437819,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Yadav",
+    "age": "36",
+    "party": "CPI(ML)(L)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 682315,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Raj Singh",
+    "age": "61",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15378047,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Das Singh",
+    "age": "80",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3196572,
+    "liabilities": 0
+  }
+]

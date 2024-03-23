@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Vijay Baghel",
+    "age": "59",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 34429027,
+    "liabilities": 8748686
+  },
+  {
+    "name": "Aatma Ram Sahu",
+    "age": "37",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 48000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anoop Kumar Pandey",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 525000,
+    "liabilities": 0
+  },
+  {
+    "name": "Anurag Singh",
+    "age": "25",
+    "party": "Bhartiya Kisan Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 3490,
+    "liabilities": 0
+  },
+  {
+    "name": "Arun Kumar Joshi",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 113812,
+    "liabilities": 0
+  },
+  {
+    "name": "Farid Mohammad Quraishi",
+    "age": "37",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 232561,
+    "liabilities": 0
+  },
+  {
+    "name": "Geetanjali Singh",
+    "age": "25",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5448306,
+    "liabilities": 2900000
+  },
+  {
+    "name": "Guru Dada Lokesh",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6005000,
+    "liabilities": 0
+  },
+  {
+    "name": "Hidar Bhati",
+    "age": "52",
+    "party": "Sarvadharam Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 1667000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamlesh Kumar Nagarchi",
+    "age": "42",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2606000,
+    "liabilities": 36000
+  },
+  {
+    "name": "Malik Ram Thakur",
+    "age": "57",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 8114967,
+    "liabilities": 350000
+  },
+  {
+    "name": "Manoj Gaykwad Chhattisgarhiya",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pitambar Lal Nishad",
+    "age": "30",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1000000,
+    "liabilities": 550000
+  },
+  {
+    "name": "Pokhraj Meshram",
+    "age": "47",
+    "party": "Bharatiya Prajatantrik Shudh Gandhiwadi Krish",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 122923,
+    "liabilities": 0
+  },
+  {
+    "name": "Pratima Chandrakar",
+    "age": "61",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 54656426,
+    "liabilities": 878370
+  },
+  {
+    "name": "Praveen Tiwari",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 63482500,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Gupta",
+    "age": "66",
+    "party": "Chhattisgarh Swabhiman Manch",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 96788732,
+    "liabilities": 148000
+  },
+  {
+    "name": "Rajesh Kumar Dubey",
+    "age": "49",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9325683,
+    "liabilities": 2900000
+  },
+  {
+    "name": "Sevakram Banjare",
+    "age": "61",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 22752461,
+    "liabilities": 2700000
+  },
+  {
+    "name": "Sunil Kumar Markandey",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 392100,
+    "liabilities": 69000
+  },
+  {
+    "name": "Tressa David",
+    "age": "53",
+    "party": "India Praja Bandhu Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 430000,
+    "liabilities": 0
+  }
+]

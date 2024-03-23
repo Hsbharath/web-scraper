@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chhedi Paswan",
+    "age": "63",
+    "party": "BJP",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 37786578,
+    "liabilities": 2214842
+  },
+  {
+    "name": "Ashok Baitha",
+    "age": "48",
+    "party": "IND",
+    "criminal": "10",
+    "education": "10th Pass",
+    "assets": 816680,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar Paswan",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 407950,
+    "liabilities": 0
+  },
+  {
+    "name": "Dharmraj Paswan",
+    "age": "29",
+    "party": "Lok Jan Vikas Morcha",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Kumar",
+    "age": "35",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8864060,
+    "liabilities": 0
+  },
+  {
+    "name": "Meira Kumar",
+    "age": "74",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 475194636,
+    "liabilities": 0
+  },
+  {
+    "name": "Nirmala Devi",
+    "age": "36",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 172000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raghuni Ram Shastri",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 349588,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajanikant Choudhary",
+    "age": "70",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1308000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramekbal Ram",
+    "age": "55",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10607000,
+    "liabilities": 0
+  },
+  {
+    "name": "Satya Narayan Paswan",
+    "age": "64",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1603300,
+    "liabilities": 0
+  },
+  {
+    "name": "Satya Narayan Ram",
+    "age": "65",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 600853,
+    "liabilities": 0
+  },
+  {
+    "name": "Vidya Jyoti",
+    "age": "47",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 13022788,
+    "liabilities": 1683054
+  }
+]

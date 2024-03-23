@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Gomati",
+    "age": "43",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7043539,
+    "liabilities": 0
+  },
+  {
+    "name": "Amrit Tirkey",
+    "age": "42",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 600000,
+    "liabilities": 0
+  },
+  {
+    "name": "Innocent Kujur",
+    "age": "58",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7697000,
+    "liabilities": 1475000
+  },
+  {
+    "name": "Jai Singh Sidar",
+    "age": "42",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1655057,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti Bhagat",
+    "age": "37",
+    "party": "Kisan Mazdoor Sangharsh Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kripashankar Bhagat",
+    "age": "44",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7403439,
+    "liabilities": 319
+  },
+  {
+    "name": "Laljeet Singh Rathiya",
+    "age": "42",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 7254977,
+    "liabilities": 2080854
+  },
+  {
+    "name": "Naval Kishor Rathiya",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 174000,
+    "liabilities": 0
+  },
+  {
+    "name": "Praksh Kumar Uraon",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 520800,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravishankar Sidar",
+    "age": "29",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4000,
+    "liabilities": 0
+  },
+  {
+    "name": "Tarika Tarangini Uraon",
+    "age": "39",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 300401663,
+    "liabilities": 0
+  },
+  {
+    "name": "Tejram Sidar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 990000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Lakara",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 338025,
+    "liabilities": 3000
+  },
+  {
+    "name": "Vir Kumar Tigga",
+    "age": "41",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 532300,
+    "liabilities": 0
+  }
+]

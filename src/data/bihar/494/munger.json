@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Rajiv Ranjan Singh",
+    "age": "65",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 88324866,
+    "liabilities": 7534918
+  },
+  {
+    "name": "Ajit Kumar",
+    "age": "36",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2191000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Amarjit Patel",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 12545972,
+    "liabilities": 634728
+  },
+  {
+    "name": "Arbind Kumar Sharma",
+    "age": "53",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 107900,
+    "liabilities": 0
+  },
+  {
+    "name": "Dina Saw",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1152595,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishna Murari Kumar",
+    "age": "31",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4435000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Navneet Himanshu",
+    "age": "34",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 4407000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahesh Ram",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 55000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nilam Devi",
+    "age": "48",
+    "party": "INC",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 621659689,
+    "liabilities": 214610632
+  },
+  {
+    "name": "Panchanand Singh",
+    "age": "51",
+    "party": "Jago Hindustan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 66500,
+    "liabilities": 0
+  },
+  {
+    "name": "Pranay Kumar",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6955253,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar Ratnakar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1595000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raushan Kumar",
+    "age": "31",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 30000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Kesari",
+    "age": "44",
+    "party": "SHS",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 913169,
+    "liabilities": 28000
+  },
+  {
+    "name": "Santosh Kumar",
+    "age": "32",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 211000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sonelal Kora",
+    "age": "41",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 25000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suryoday Paswan",
+    "age": "45",
+    "party": "Sankhyanupati Bhagidari Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 1450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uchit Kumar",
+    "age": "46",
+    "party": "Revolutionary Socialist Party of India(Marxis",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 464986,
+    "liabilities": 0
+  },
+  {
+    "name": "Vikash Kumar Arya",
+    "age": "41",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 732214,
+    "liabilities": 0
+  }
+]

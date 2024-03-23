@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Santosh Kumar",
+    "age": "42",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 41036294,
+    "liabilities": 2500000
+  },
+  {
+    "name": "Anirudh Mehta",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 12617500,
+    "liabilities": 0
+  },
+  {
+    "name": "Arjun Singh",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 1728768,
+    "liabilities": 140000
+  },
+  {
+    "name": "Ashok Kumar Sah",
+    "age": "64",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 6111400,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar Singh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 5636784,
+    "liabilities": 0
+  },
+  {
+    "name": "Dr. Mritunjay Kumar Jha",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1422104,
+    "liabilities": 360710
+  },
+  {
+    "name": "Jitendra Urab",
+    "age": "49",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 61497000,
+    "liabilities": 700000
+  },
+  {
+    "name": "Manju Murmu",
+    "age": "46",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 32710000,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Akhtar Ali",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 20524,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 177935,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajiv Kumar Singh",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 9625000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sageer Ahmad",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 458449,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanoj Kumar Chauhan",
+    "age": "40",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2764447,
+    "liabilities": 263815
+  },
+  {
+    "name": "Shobha Soren",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 589000,
+    "liabilities": 400000
+  },
+  {
+    "name": "Shubhash Kumar Thakur",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 601416,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Singh",
+    "age": "66",
+    "party": "INC",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 3418643970,
+    "liabilities": 715792024
+  }
+]

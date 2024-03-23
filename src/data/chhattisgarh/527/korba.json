@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Jyotsna Mahant",
+    "age": "65",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 150639697,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Bhushan Kanwar",
+    "age": "41",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 35600,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepak Kumar Sahu",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 15668237,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti Nand Dubey",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 17097616,
+    "liabilities": 295672
+  },
+  {
+    "name": "Lakhan Lal Dewangan",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1874834,
+    "liabilities": 0
+  },
+  {
+    "name": "Lilambar Singh",
+    "age": "58",
+    "party": "Bhartiya Tribal Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 20495882,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmit Singh",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 6504950,
+    "liabilities": 840000
+  },
+  {
+    "name": "Pramod Kumar Sharma",
+    "age": "60",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 12197539,
+    "liabilities": 5600000
+  },
+  {
+    "name": "Raj Kumar Yadav",
+    "age": "67",
+    "party": "Bhartiya Panchyat Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 14078261,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Pandey",
+    "age": "43",
+    "party": "Bharat Bhoomi Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 1858000,
+    "liabilities": 439000
+  },
+  {
+    "name": "Ramdayal Uraon",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suman Lal Khande",
+    "age": "42",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 620270,
+    "liabilities": 0
+  },
+  {
+    "name": "Tuleshwar Markam",
+    "age": "45",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 2713663,
+    "liabilities": 0
+  }
+]

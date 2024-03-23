@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Ashwini Kumar Choubey",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 40183612,
+    "liabilities": 1350667
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "46",
+    "party": "Jantantrik Vikas Party",
+    "criminal": "22",
+    "education": "Graduate",
+    "assets": 162240912,
+    "liabilities": 13103750
+  },
+  {
+    "name": "Anil Kumar Rai",
+    "age": "56",
+    "party": "Rashtriya Dal United",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 11457400,
+    "liabilities": 168000
+  },
+  {
+    "name": "Arvind Kumar Pandey",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1521000,
+    "liabilities": 0
+  },
+  {
+    "name": "Binod Kumar Bikrant",
+    "age": "43",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 465000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanjit Singh",
+    "age": "43",
+    "party": "Voters Party International",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 5500000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jagadanand Singh",
+    "age": "75",
+    "party": "RJD",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 35871242,
+    "liabilities": 530000
+  },
+  {
+    "name": "Jay Prakash Ram",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 478000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Kumar Rai",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 46812000,
+    "liabilities": 86000
+  },
+  {
+    "name": "Ranjit Singh",
+    "age": "75",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 24344242,
+    "liabilities": 500000
+  },
+  {
+    "name": "Ravi Raj",
+    "age": "40",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6957512,
+    "liabilities": 2800000
+  },
+  {
+    "name": "Santosh Kumar Yadav",
+    "age": "46",
+    "party": "Bahujan Mukti Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3408807,
+    "liabilities": 720000
+  },
+  {
+    "name": "Sushil Kumar Singh",
+    "age": "50",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 9632514,
+    "liabilities": 265000
+  },
+  {
+    "name": "Uday Narayan Rai",
+    "age": "34",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 695070,
+    "liabilities": 0
+  }
+]

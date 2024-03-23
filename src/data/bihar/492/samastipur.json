@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Ramchandra Paswan",
+    "age": "58",
+    "party": "LJP",
+    "criminal": "5",
+    "education": "10th Pass",
+    "assets": 17375975,
+    "liabilities": 999057
+  },
+  {
+    "name": "Asha Devi",
+    "age": "25",
+    "party": "Aam Adhikar Morcha",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1628121,
+    "liabilities": 51000
+  },
+  {
+    "name": "Dr. Ashok Kumar",
+    "age": "64",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 20396690,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalo Paswan",
+    "age": "51",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 15400,
+    "liabilities": 0
+  },
+  {
+    "name": "Mantesh Kumar",
+    "age": "40",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2540500,
+    "liabilities": 20000
+  },
+  {
+    "name": "Pinku Paswan",
+    "age": "30",
+    "party": "Yuva Krantikari Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 207667,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Ram",
+    "age": "51",
+    "party": "Bharatiya Momin Front",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 236000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ratan Bihari",
+    "age": "26",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 756000,
+    "liabilities": 0
+  },
+  {
+    "name": "Suraj Kumar Das",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 1432734,
+    "liabilities": 445000
+  },
+  {
+    "name": "Vidya Nand Ram",
+    "age": "46",
+    "party": "Wazib Adhikar Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 593059,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Kumar Ram",
+    "age": "32",
+    "party": "Vanchit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 33000,
+    "liabilities": 50000
+  }
+]

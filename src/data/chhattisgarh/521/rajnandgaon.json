@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Santosh Pandey",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 24861970,
+    "liabilities": 1519820
+  },
+  {
+    "name": "Ajay Pali",
+    "age": "40",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 502403,
+    "liabilities": 880
+  },
+  {
+    "name": "Baidya Shekhu Ram Verma",
+    "age": "52",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6480674,
+    "liabilities": 820000
+  },
+  {
+    "name": "Bhola Ram Sahu",
+    "age": "60",
+    "party": "INC",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 12428558,
+    "liabilities": 657124
+  },
+  {
+    "name": "Dr. Gojupal",
+    "age": "53",
+    "party": "RPI(A)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2350000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kamini Sahu",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kranti Gupta",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1092000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mahendra Kumar Sahu",
+    "age": "35",
+    "party": "Forward Democratic Labour Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 1749490,
+    "liabilities": 681000
+  },
+  {
+    "name": "Pratima Santosh Washnik",
+    "age": "38",
+    "party": "Republican Paksha (Khoripa)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 6000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramkhilawan Dahariya",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5820000,
+    "liabilities": 1400000
+  },
+  {
+    "name": "Ravita Lakra (Dhruv)",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3892830,
+    "liabilities": 23000
+  },
+  {
+    "name": "Sachchidanand Kaushik",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 514600,
+    "liabilities": 290000
+  },
+  {
+    "name": "Sudesh Tikam",
+    "age": "52",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 2915682,
+    "liabilities": 252190
+  },
+  {
+    "name": "Vishwanath Singh Porte",
+    "age": "49",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5420000,
+    "liabilities": 0
+  }
+]

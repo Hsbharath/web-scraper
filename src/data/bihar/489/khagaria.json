@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Choudhary Mahbub Ali Kaisar",
+    "age": "52",
+    "party": "LJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 109788313,
+    "liabilities": 0
+  },
+  {
+    "name": "Bandan Kumar Singh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 603000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhirendra Choudhary",
+    "age": "38",
+    "party": "Aam Adhikar Morcha",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1519500,
+    "liabilities": 0
+  },
+  {
+    "name": "Kundan Kumar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 405500,
+    "liabilities": 0
+  },
+  {
+    "name": "Madhuvala Devi",
+    "age": "51",
+    "party": "Aam Janta Party Rashtriya",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7783673,
+    "liabilities": 3300000
+  },
+  {
+    "name": "Moni Kumar",
+    "age": "35",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 566260,
+    "liabilities": 50000
+  },
+  {
+    "name": "Mukesh Sahani",
+    "age": "40",
+    "party": "Vikassheel Insaan Party",
+    "criminal": "4",
+    "education": "8th Pass",
+    "assets": 119699803,
+    "liabilities": 16547563
+  },
+  {
+    "name": "Nagendra Singh Tyagi",
+    "age": "44",
+    "party": "IND",
+    "criminal": "4",
+    "education": "Graduate",
+    "assets": 7051000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parmanand Singh",
+    "age": "54",
+    "party": "IND",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 28089980,
+    "liabilities": 0
+  },
+  {
+    "name": "Priyadarshi Dinkar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 321000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramakant Choudhari",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 6945000,
+    "liabilities": 16000
+  },
+  {
+    "name": "Sandip Kumar Saket",
+    "age": "37",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8091400,
+    "liabilities": 0
+  },
+  {
+    "name": "Sangram Kumar Sada",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 367500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Narayan Singh",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4575000,
+    "liabilities": 25000
+  },
+  {
+    "name": "Sobha Devi",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 711000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Yadav",
+    "age": "33",
+    "party": "Garib Janshakti Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 4959800,
+    "liabilities": 0
+  },
+  {
+    "name": "Tej Bahadur Singh",
+    "age": "76",
+    "party": "Proutist Sarva Samaj",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6730000,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Chandra Bharti",
+    "age": "58",
+    "party": "Aadarsh Mithila Party",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 1250000,
+    "liabilities": 0
+  },
+  {
+    "name": "Upendra Sahani",
+    "age": "46",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 30575125,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar Varun",
+    "age": "48",
+    "party": "Janhit Kisan Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10497000,
+    "liabilities": 450000
+  }
+]

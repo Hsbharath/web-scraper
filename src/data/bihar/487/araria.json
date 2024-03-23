@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Pradeep Kumar Singh",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 5010577,
+    "liabilities": 1159200
+  },
+  {
+    "name": "Abdul Wahid Khan",
+    "age": "69",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1545000,
+    "liabilities": 119028
+  },
+  {
+    "name": "Md Matin",
+    "age": "31",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 602510,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Minhaz Alam",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1110500,
+    "liabilities": 0
+  },
+  {
+    "name": "Md Mobinul Haque",
+    "age": "46",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 572000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mukesh Singh",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1240800,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Narayan Bharti",
+    "age": "46",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6916000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Ramanand Rishideo",
+    "age": "66",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sarfaraz Alam",
+    "age": "50",
+    "party": "RJD",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 76618366,
+    "liabilities": 8566199
+  },
+  {
+    "name": "Shaheen Praveen",
+    "age": "28",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 12421636,
+    "liabilities": 300000
+  },
+  {
+    "name": "Sudama Singh",
+    "age": "54",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 5695500,
+    "liabilities": 99000
+  },
+  {
+    "name": "Tarachand Paswan",
+    "age": "60",
+    "party": "Bahujan Mukti Party",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 4915399,
+    "liabilities": 1174006
+  }
+]

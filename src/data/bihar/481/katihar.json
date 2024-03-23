@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Dulal Chandra Goswami",
+    "age": "51",
+    "party": "JD(U)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 13302734,
+    "liabilities": 3130766
+  },
+  {
+    "name": "Abdur Rahman",
+    "age": "56",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 276540,
+    "liabilities": 40000
+  },
+  {
+    "name": "Basukinath Sah",
+    "age": "30",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ganga Kebat",
+    "age": "49",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 288000,
+    "liabilities": 0
+  },
+  {
+    "name": "Marang Hansda",
+    "age": "39",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 180000,
+    "liabilities": 0
+  },
+  {
+    "name": "Muhammad Shakur",
+    "age": "76",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6330089,
+    "liabilities": 65000
+  },
+  {
+    "name": "Samir Kumar Jha",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25106000,
+    "liabilities": 5783943
+  },
+  {
+    "name": "Shah Tariq Anwar",
+    "age": "68",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 119291973,
+    "liabilities": 582950
+  },
+  {
+    "name": "Shivnandan Mandal",
+    "age": "81",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 275788,
+    "liabilities": 0
+  }
+]

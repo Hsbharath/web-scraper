@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Ashok Kumar Yadav",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 46699125,
+    "liabilities": 7892847
+  },
+  {
+    "name": "Abhijit Kumar Singh",
+    "age": "58",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 30046633,
+    "liabilities": 900000
+  },
+  {
+    "name": "Abubakar Rahmani",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 757606,
+    "liabilities": 0
+  },
+  {
+    "name": "Anand Kumar Jha",
+    "age": "39",
+    "party": "Akhil Bhartiya Mithila Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 189200,
+    "liabilities": 0
+  },
+  {
+    "name": "Anil Kumar Sah",
+    "age": "35",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Literate",
+    "assets": 543000,
+    "liabilities": 60000
+  },
+  {
+    "name": "Dhaneshwar Mahto",
+    "age": "43",
+    "party": "Bhartiya Mitra Party",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 31450000,
+    "liabilities": 2700000
+  },
+  {
+    "name": "Dr. Shakeel Ahmad",
+    "age": "63",
+    "party": "INC",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 26802196,
+    "liabilities": 0
+  },
+  {
+    "name": "Hema Jha",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 10874083,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Khalique Ansari",
+    "age": "26",
+    "party": "Pragatishil Samajwadi Party (Lohia)",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 1120000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raju Kumar Raj",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 2356028,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Swarup Bharti",
+    "age": "63",
+    "party": "Voters Party International",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1169783,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjit Kumar",
+    "age": "29",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rekha Ranjan Yadav",
+    "age": "30",
+    "party": "RPI(A)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 4171200,
+    "liabilities": 0
+  },
+  {
+    "name": "Satish Chandra Jha",
+    "age": "51",
+    "party": "Purvanchal Janta Party (Secular)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 14252124,
+    "liabilities": 1327234
+  },
+  {
+    "name": "Subhash Chandra Jha",
+    "age": "50",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 12529191,
+    "liabilities": 0
+  },
+  {
+    "name": "Vidya Sagar Mandal",
+    "age": "36",
+    "party": "Jago Hindustan Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 3125000,
+    "liabilities": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chunni Lal Sahu",
+    "age": "51",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17591683,
+    "liabilities": 1383014
+  },
+  {
+    "name": "Ashok Soni",
+    "age": "40",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 100000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhojlal Netam",
+    "age": "69",
+    "party": "CPI(ML) Red Star",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 726000,
+    "liabilities": 0
+  },
+  {
+    "name": "Champalal Patel",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2079441,
+    "liabilities": 0
+  },
+  {
+    "name": "Devendar Singh Thakur (Rajput)",
+    "age": "33",
+    "party": "IND",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 3775400,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhanendra Sahu",
+    "age": "66",
+    "party": "INC",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 92123717,
+    "liabilities": 106791
+  },
+  {
+    "name": "Dhansing Kosariya",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 676500,
+    "liabilities": 160000
+  },
+  {
+    "name": "Dr. Virendra Choudhary",
+    "age": "52",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 18920000,
+    "liabilities": 3400000
+  },
+  {
+    "name": "Jagmohan Bhagwat Kosariya",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 244730,
+    "liabilities": 0
+  },
+  {
+    "name": "Khilawan Singh Dhruw",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 4405000,
+    "liabilities": 155000
+  },
+  {
+    "name": "Rohit Kumar Kosre",
+    "age": "38",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 158000,
+    "liabilities": 100000
+  },
+  {
+    "name": "Santosh Banjare",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 581000,
+    "liabilities": 200000
+  },
+  {
+    "name": "Tarun Kumar Dadsena",
+    "age": "48",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 3025013,
+    "liabilities": 972167
+  }
+]

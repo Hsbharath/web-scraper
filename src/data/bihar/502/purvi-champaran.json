@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Radha Mohan Singh",
+    "age": "69",
+    "party": "BJP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 33791375,
+    "liabilities": 1146627
+  },
+  {
+    "name": "Aakash Kumar",
+    "age": "27",
+    "party": "Rashtriya Lok Samta Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 25867226,
+    "liabilities": 0
+  },
+  {
+    "name": "Aniket Ranjan",
+    "age": "28",
+    "party": "IND",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 3768500,
+    "liabilities": 100000
+  },
+  {
+    "name": "Devendra Singh",
+    "age": "35",
+    "party": "Rashtriya Sarvjan Vikas Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 53290135,
+    "liabilities": 220000
+  },
+  {
+    "name": "Dinesh Sahani",
+    "age": "34",
+    "party": "Rashtriya mahan Gantantra Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 2230000,
+    "liabilities": 0
+  },
+  {
+    "name": "Manoj Tiwari",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1514000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Mohammad Ajmer Alam",
+    "age": "35",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2481716,
+    "liabilities": 0
+  },
+  {
+    "name": "Muneshwar Tiwary",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11122472,
+    "liabilities": 0
+  },
+  {
+    "name": "Parasnath Pandey",
+    "age": "59",
+    "party": "Janvadi Party(Socialist)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Parasnath Ram",
+    "age": "42",
+    "party": "Janata Party",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 5000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhakar Jayaswal",
+    "age": "55",
+    "party": "CPI",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 290251911,
+    "liabilities": 367711
+  },
+  {
+    "name": "Pradip Singh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "2",
+    "education": "Literate",
+    "assets": 11069100,
+    "liabilities": 650000
+  },
+  {
+    "name": "Rajiv Ranjan",
+    "age": "44",
+    "party": "Janta Dal Rashtravadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 46495000,
+    "liabilities": 11900000
+  },
+  {
+    "name": "Ramchandra Sah",
+    "age": "69",
+    "party": "Rashtriya Jansambhavna Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1334000,
+    "liabilities": 0
+  },
+  {
+    "name": "Randhir Kumar Tiwari",
+    "age": "31",
+    "party": "Asli Deshi Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1992480,
+    "liabilities": 0
+  },
+  {
+    "name": "Sachin Paswan",
+    "age": "34",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2597200,
+    "liabilities": 0
+  },
+  {
+    "name": "Satyam Yadav",
+    "age": "30",
+    "party": "Bahujan Nyay Dal",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 2595500,
+    "liabilities": 77904
+  },
+  {
+    "name": "Shakti Kumar",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7181900,
+    "liabilities": 0
+  },
+  {
+    "name": "Shatrughna Tiwary",
+    "age": "59",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "1",
+    "education": "8th Pass",
+    "assets": 87880034,
+    "liabilities": 330000
+  },
+  {
+    "name": "Shekh Seraj",
+    "age": "25",
+    "party": "Akhil Bhartiya Apna Dal",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 115500,
+    "liabilities": 0
+  },
+  {
+    "name": "Shobha Devi",
+    "age": "42",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 210000,
+    "liabilities": 0
+  },
+  {
+    "name": "Vinay Kumar Srivastava",
+    "age": "38",
+    "party": "Rashtriya Samta Party (Secular)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 14835935,
+    "liabilities": 0
+  }
+]

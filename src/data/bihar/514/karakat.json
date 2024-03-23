@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Mahabali Singh",
+    "age": "64",
+    "party": "JD(U)",
+    "criminal": "3",
+    "education": "8th Pass",
+    "assets": 43442051,
+    "liabilities": 3000000
+  },
+  {
+    "name": "Abhiram Priyadarshi",
+    "age": "30",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 535000,
+    "liabilities": 0
+  },
+  {
+    "name": "Arif Isain Husain",
+    "age": "38",
+    "party": "Janta Dal Rashtravadi",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 240000,
+    "liabilities": 0
+  },
+  {
+    "name": "Basudeo Hazarika",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 10501023,
+    "liabilities": 2273000
+  },
+  {
+    "name": "Dharmendra Singh",
+    "age": "48",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 31715000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Ghanshyam Tiwari",
+    "age": "39",
+    "party": "SP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 6792703,
+    "liabilities": 4580000
+  },
+  {
+    "name": "Gorakh Ram",
+    "age": "48",
+    "party": "Voters Party International",
+    "criminal": "3",
+    "education": "Post Graduate",
+    "assets": 4004164,
+    "liabilities": 0
+  },
+  {
+    "name": "Jyoti Rashmi",
+    "age": "35",
+    "party": "Rashtra Sewa Dal",
+    "criminal": "4",
+    "education": "12th Pass",
+    "assets": 18026562,
+    "liabilities": 1180000
+  },
+  {
+    "name": "Kamlesh Ram (Prasad)",
+    "age": "42",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 411000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Saurabh",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 10243062,
+    "liabilities": 2955000
+  },
+  {
+    "name": "Mamta Pandey",
+    "age": "43",
+    "party": "Rashtriya Samta Party (Secular)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3945000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Manoj Singh Kushvaha",
+    "age": "45",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 26934906,
+    "liabilities": 3380000
+  },
+  {
+    "name": "Mohammad Atahar Hussain",
+    "age": "48",
+    "party": "Ambedkar National Congress",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 621955,
+    "liabilities": 299896
+  },
+  {
+    "name": "Nand Kishor Yadav",
+    "age": "50",
+    "party": "Swaraj Party (Loktantrik)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 20000000,
+    "liabilities": 0
+  },
+  {
+    "name": "Neelam Kumari",
+    "age": "53",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 43629000,
+    "liabilities": 1500000
+  },
+  {
+    "name": "Pradeep Chouhan",
+    "age": "42",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 14524704,
+    "liabilities": 700000
+  },
+  {
+    "name": "Prakash Chandra Goyal",
+    "age": "36",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 1020973,
+    "liabilities": 0
+  },
+  {
+    "name": "Prithvi Nath Prasad",
+    "age": "51",
+    "party": "Asli Deshi Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6499000,
+    "liabilities": 0
+  },
+  {
+    "name": "Punam Devi",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 17112000,
+    "liabilities": 900000
+  },
+  {
+    "name": "Raj Narayan Tiwari",
+    "age": "45",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7420911,
+    "liabilities": 70000
+  },
+  {
+    "name": "Raja Ram Singh",
+    "age": "63",
+    "party": "CPI(ML)(L)",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 13381190,
+    "liabilities": 1480000
+  },
+  {
+    "name": "Ram Ayodhya Singh",
+    "age": "47",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 25286369,
+    "liabilities": 0
+  },
+  {
+    "name": "Rameshwar Singh",
+    "age": "65",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 9755000,
+    "liabilities": 299
+  },
+  {
+    "name": "Ramji Singh Kanta",
+    "age": "62",
+    "party": "Akhil Hind Forward Bloc (Krantikari)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2297000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashikant Singh",
+    "age": "41",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 7054000,
+    "liabilities": 600000
+  },
+  {
+    "name": "Upendra Kushwaha",
+    "age": "56",
+    "party": "Rashtriya Lok Samta Party",
+    "criminal": "5",
+    "education": "Post Graduate",
+    "assets": 31034113,
+    "liabilities": 1358960
+  },
+  {
+    "name": "Usha Sharan",
+    "age": "59",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 4000000,
+    "liabilities": 40000
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Giriraj Singh",
+    "age": "66",
+    "party": "BJP",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 83024577,
+    "liabilities": 12236000
+  },
+  {
+    "name": "Amar Kumar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 4300000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dhiraj Narain",
+    "age": "78",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 130000,
+    "liabilities": 0
+  },
+  {
+    "name": "Gaurav Kumar",
+    "age": "29",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 411026,
+    "liabilities": 0
+  },
+  {
+    "name": "Kanhaiya Kumar",
+    "age": "32",
+    "party": "CPI",
+    "criminal": "5",
+    "education": "Doctorate",
+    "assets": 557848,
+    "liabilities": 0
+  },
+  {
+    "name": "Maksudan Paswan",
+    "age": "57",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1470855,
+    "liabilities": 30000
+  },
+  {
+    "name": "Md. Tanweer Hassan",
+    "age": "59",
+    "party": "RJD",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 15483136,
+    "liabilities": 1446000
+  },
+  {
+    "name": "Saurabh",
+    "age": "27",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2017370,
+    "liabilities": 0
+  },
+  {
+    "name": "Shambhu Kumar Singh",
+    "age": "41",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 775000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Umesh Patel",
+    "age": "57",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2753500,
+    "liabilities": 0
+  }
+]

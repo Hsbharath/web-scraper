@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Rajiv Pratap Rudy",
+    "age": "58",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 80740349,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhisham Kumar Ray",
+    "age": "39",
+    "party": "Purvanchal Mahapanchayat",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 3345700,
+    "liabilities": 600000
+  },
+  {
+    "name": "Chandrika Roy",
+    "age": "61",
+    "party": "RJD",
+    "criminal": "3",
+    "education": "Doctorate",
+    "assets": 96944980,
+    "liabilities": 1901831
+  },
+  {
+    "name": "Dharamveer Kumar",
+    "age": "32",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3287540,
+    "liabilities": 0
+  },
+  {
+    "name": "Ishteyaque Ahmad",
+    "age": "41",
+    "party": "Yuva Krantikari Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1285000,
+    "liabilities": 0
+  },
+  {
+    "name": "Juned Khan",
+    "age": "31",
+    "party": "Bhartiya Insan Party",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 6336,
+    "liabilities": 0
+  },
+  {
+    "name": "Lalu Prasad Yadav",
+    "age": "39",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 286000,
+    "liabilities": 0
+  },
+  {
+    "name": "Prabhat Kumar",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 2067500,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kishor Prasad",
+    "age": "58",
+    "party": "Vanchit Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 70000,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Ray",
+    "age": "43",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1050000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sheojee Ram",
+    "age": "44",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 11000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shiv Brat Singh",
+    "age": "53",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Doctorate",
+    "assets": 7698001,
+    "liabilities": 300000
+  }
+]

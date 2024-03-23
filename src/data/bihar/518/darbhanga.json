@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Gopaljee Thakur",
+    "age": "49",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 19301808,
+    "liabilities": 1039660
+  },
+  {
+    "name": "Abdul Ajij",
+    "age": "69",
+    "party": "IND",
+    "criminal": "2",
+    "education": "8th Pass",
+    "assets": 435000,
+    "liabilities": 0
+  },
+  {
+    "name": "Abdul Bari Siddiqui",
+    "age": "67",
+    "party": "RJD",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21127716,
+    "liabilities": 911152
+  },
+  {
+    "name": "Md. Mukhtar",
+    "age": "54",
+    "party": "BSP",
+    "criminal": "1",
+    "education": "Literate",
+    "assets": 7761074,
+    "liabilities": 120000
+  },
+  {
+    "name": "Pankaj Kumar Singh",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 632125,
+    "liabilities": 0
+  },
+  {
+    "name": "Saguni Ray",
+    "age": "58",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 574658,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Paswan",
+    "age": "45",
+    "party": "IND",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 464226,
+    "liabilities": 0
+  },
+  {
+    "name": "Saroj Kumar Chaudhary",
+    "age": "42",
+    "party": "Mithilanchal Mukti Morcha",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 3452000,
+    "liabilities": 0
+  }
+]

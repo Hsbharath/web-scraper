@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Vijay Kumar",
+    "age": "55",
+    "party": "JD(U)",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 12766141,
+    "liabilities": 3148932
+  },
+  {
+    "name": "Dayanand Rajwanshi",
+    "age": "27",
+    "party": "Moolniwasi Samaj Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 414000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dilip Kumar",
+    "age": "48",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1822000,
+    "liabilities": 166454
+  },
+  {
+    "name": "Din Dayal Bharti",
+    "age": "47",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3440000,
+    "liabilities": 0
+  },
+  {
+    "name": "Giridhar Sapera",
+    "age": "38",
+    "party": "Bharatiya Rashtriya Morcha",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 602000,
+    "liabilities": 0
+  },
+  {
+    "name": "Jitan Ram Manjhi",
+    "age": "73",
+    "party": "Hindustani Awam Morcha (Secular)",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 3594156,
+    "liabilities": 61622
+  },
+  {
+    "name": "Prakash Chandra",
+    "age": "53",
+    "party": "Public Mission Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8191437,
+    "liabilities": 3840400
+  },
+  {
+    "name": "Rajesh Kumar Paswan",
+    "age": "38",
+    "party": "Aam Janta Party Rashtriya",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 986000,
+    "liabilities": 500000
+  },
+  {
+    "name": "Rakesh Chaudhari",
+    "age": "46",
+    "party": "Moulik Adhikar Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3534000,
+    "liabilities": 218000
+  },
+  {
+    "name": "Shiv Shankar",
+    "age": "61",
+    "party": "Ambedkarite Party of India",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 4080034,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Paswan",
+    "age": "52",
+    "party": "Bharat Bhrashtachar Mitao Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1694622,
+    "liabilities": 0
+  },
+  {
+    "name": "Umesh Rajak",
+    "age": "49",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 135315,
+    "liabilities": 0
+  },
+  {
+    "name": "Vijay Kumar Chaudhari",
+    "age": "49",
+    "party": "Janta Dal Rashtravadi",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 4545813,
+    "liabilities": 559100
+  }
+]

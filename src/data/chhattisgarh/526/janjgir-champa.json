@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Guharam Ajgalle",
+    "age": "52",
+    "party": "BJP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 18400837,
+    "liabilities": 0
+  },
+  {
+    "name": "Aashish Ratre",
+    "age": "52",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 7280000,
+    "liabilities": 0
+  },
+  {
+    "name": "Asharam Ratnakar",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1024000,
+    "liabilities": 50000
+  },
+  {
+    "name": "Bhojram Banjare",
+    "age": "60",
+    "party": "Rashtriya Jansabha Party",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 5169500,
+    "liabilities": 0
+  },
+  {
+    "name": "Dauram Satnami",
+    "age": "60",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 18596521,
+    "liabilities": 1970757
+  },
+  {
+    "name": "Lakhan Ram Chouhan",
+    "age": "67",
+    "party": "Bahujan Mukti Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 5270000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Bai Jangde",
+    "age": "30",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 18000,
+    "liabilities": 0
+  },
+  {
+    "name": "Naresh Kumar Dahriya",
+    "age": "41",
+    "party": "Rashtriya Gondvana Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 681713,
+    "liabilities": 0
+  },
+  {
+    "name": "Nitesh Kumar Ratre",
+    "age": "26",
+    "party": "Sunder Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 119500,
+    "liabilities": 0
+  },
+  {
+    "name": "Ravindra Shekhar Bharadwaj",
+    "age": "42",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 15316449,
+    "liabilities": 744582
+  },
+  {
+    "name": "Seema Ajay",
+    "age": "25",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 999354,
+    "liabilities": 0
+  },
+  {
+    "name": "Shanti Kumar Ratre",
+    "age": "39",
+    "party": "Gondvana Gantantra Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 4444500,
+    "liabilities": 200000
+  },
+  {
+    "name": "Sitabai Chouhan",
+    "age": "30",
+    "party": "Bhartiya Shakti Chetna Party",
+    "criminal": "0",
+    "education": "Not Given",
+    "assets": 66000,
+    "liabilities": 0
+  },
+  {
+    "name": "Uday Das Ratre",
+    "age": "52",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 16300000,
+    "liabilities": 5200000
+  },
+  {
+    "name": "Vranda Chouhan",
+    "age": "40",
+    "party": "Chhattisgarh Vikas Ganga Rashtriya Party",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 1020000,
+    "liabilities": 0
+  }
+]

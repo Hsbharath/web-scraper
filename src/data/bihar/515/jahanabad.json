@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chandeshwar Prasad",
+    "age": "68",
+    "party": "JD(U)",
+    "criminal": "3",
+    "education": "10th Pass",
+    "assets": 139271693,
+    "liabilities": 0
+  },
+  {
+    "name": "Arbind Kumar",
+    "age": "68",
+    "party": "Rajnaitik Vikalp Party",
+    "criminal": "1",
+    "education": "Doctorate",
+    "assets": 912002858,
+    "liabilities": 1292562
+  },
+  {
+    "name": "Arun Kumar",
+    "age": "60",
+    "party": "Rashtriya Samta Party (Secular)",
+    "criminal": "3",
+    "education": "Doctorate",
+    "assets": 69473960,
+    "liabilities": 1115692
+  },
+  {
+    "name": "Avinash Kumar",
+    "age": "27",
+    "party": "Bharatiya Bahujan Congress",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 996000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chandra Prakash",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 12502946,
+    "liabilities": 8500000
+  },
+  {
+    "name": "Kunti Devi",
+    "age": "54",
+    "party": "CPI(ML)(L)",
+    "criminal": "5",
+    "education": "Literate",
+    "assets": 415800,
+    "liabilities": 0
+  },
+  {
+    "name": "Mira Kumari Yadav",
+    "age": "41",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 61482,
+    "liabilities": 0
+  },
+  {
+    "name": "Nityanand Singh",
+    "age": "38",
+    "party": "BSP",
+    "criminal": "3",
+    "education": "12th Pass",
+    "assets": 36929975,
+    "liabilities": 698096
+  },
+  {
+    "name": "Rajendra Paswan",
+    "age": "67",
+    "party": "Lok Jan Vikas Morcha",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 102000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ramjee Kewat",
+    "age": "56",
+    "party": "Rashtriya mahan Gantantra Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 5432000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Kumar",
+    "age": "38",
+    "party": "Peoples Party of India (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 2553613,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Prasad Yadav",
+    "age": "60",
+    "party": "RJD",
+    "criminal": "8",
+    "education": "Post Graduate",
+    "assets": 87352346,
+    "liabilities": 3063057
+  },
+  {
+    "name": "Uma Shankar Verma",
+    "age": "40",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4056240,
+    "liabilities": 0
+  }
+]

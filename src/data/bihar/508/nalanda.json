@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Kaushlendra Kumar",
+    "age": "60",
+    "party": "JD(U)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 29251651,
+    "liabilities": 2712389
+  },
+  {
+    "name": "Anil Kumar",
+    "age": "58",
+    "party": "Bharatiya Jan Kranti Dal (Democratic)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 287302,
+    "liabilities": 0
+  },
+  {
+    "name": "Ashok Kumar",
+    "age": "42",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 2952708,
+    "liabilities": 100000
+  },
+  {
+    "name": "Ashok Kumar Azad",
+    "age": "46",
+    "party": "Hindustani Awam Morcha (Secular)",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 56786845,
+    "liabilities": 1129071
+  },
+  {
+    "name": "Brahamdev Prasad",
+    "age": "60",
+    "party": "Shoshit Samaj Dal",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3273000,
+    "liabilities": 0
+  },
+  {
+    "name": "Chiranjib Kumar",
+    "age": "39",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27647098,
+    "liabilities": 7600000
+  },
+  {
+    "name": "Dilip Rawat",
+    "age": "38",
+    "party": "Maanavvaadi Janta Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1898000,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinanath Pandey",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Illiterate",
+    "assets": 400000,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumar Hari Charan Singh Yadav",
+    "age": "49",
+    "party": "Bharatiya Momin Front",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 36000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mintu Kumar",
+    "age": "31",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1510000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammad Surkhab Alam",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 7820000,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohan Bind",
+    "age": "41",
+    "party": "IND",
+    "criminal": "3",
+    "education": "5th Pass",
+    "assets": 1333000,
+    "liabilities": 0
+  },
+  {
+    "name": "Nita Devi",
+    "age": "36",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 76454511,
+    "liabilities": 488000
+  },
+  {
+    "name": "Pawan Kumar Pandey",
+    "age": "35",
+    "party": "Bhartiya Lokmat Rashtrwadi Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 3040470,
+    "liabilities": 90000
+  },
+  {
+    "name": "Punit Kumar",
+    "age": "30",
+    "party": "IND",
+    "criminal": "2",
+    "education": "12th Pass",
+    "assets": 8089711,
+    "liabilities": 1925500
+  },
+  {
+    "name": "Purushotam Sharma",
+    "age": "47",
+    "party": "National Jagaran Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21248052,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajeev Ranjan Kumar",
+    "age": "25",
+    "party": "Jan Adhikar Party",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 8117833,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajnish Kumar Paswan",
+    "age": "40",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 187386,
+    "liabilities": 0
+  },
+  {
+    "name": "Rakesh Paswan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 592000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ram Charitra Prasad Singh",
+    "age": "72",
+    "party": "Hindusthan Nirman Dal",
+    "criminal": "1",
+    "education": "12th Pass",
+    "assets": 8975000,
+    "liabilities": 1984000
+  },
+  {
+    "name": "Ramchandra Prasad",
+    "age": "76",
+    "party": "Samagra Utthan Party",
+    "criminal": "6",
+    "education": "Graduate",
+    "assets": 2256100,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Ramchandra Singh",
+    "age": "45",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 8870231,
+    "liabilities": 133463
+  },
+  {
+    "name": "Ramvilaf Paswan",
+    "age": "61",
+    "party": "Rashtriya Hind Sena",
+    "criminal": "0",
+    "education": "5th Pass",
+    "assets": 4514580,
+    "liabilities": 1925
+  },
+  {
+    "name": "Rekha Kumari",
+    "age": "34",
+    "party": "Purvanchal Mahapanchayat",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 26631500,
+    "liabilities": 0
+  },
+  {
+    "name": "Sampati Kumar",
+    "age": "36",
+    "party": "Suheldev Bhartiya Samaj Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 21750000,
+    "liabilities": 1000000
+  },
+  {
+    "name": "Sanjeet Kumar",
+    "age": "38",
+    "party": "Jantantrik Vikas Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 22030093,
+    "liabilities": 788813
+  },
+  {
+    "name": "Shailendra Chaudhari",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 63072,
+    "liabilities": 0
+  },
+  {
+    "name": "Shankar Pandey",
+    "age": "37",
+    "party": "Bahujan Nyay Dal",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2985000,
+    "liabilities": 0
+  },
+  {
+    "name": "Shashi Kumar",
+    "age": "50",
+    "party": "NCP",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3615616,
+    "liabilities": 160000
+  },
+  {
+    "name": "Shashi Kumar",
+    "age": "33",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2562000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sohavan Paswan",
+    "age": "43",
+    "party": "Public Mission Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1776043,
+    "liabilities": 100000
+  },
+  {
+    "name": "Sudhir Kumar",
+    "age": "37",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 21000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sunil Ravidas",
+    "age": "30",
+    "party": "RPI",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 226000,
+    "liabilities": 0
+  },
+  {
+    "name": "Surendra Singh",
+    "age": "62",
+    "party": "Bharat Prabhat Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 450000,
+    "liabilities": 0
+  },
+  {
+    "name": "Usha Devi",
+    "age": "63",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 875000,
+    "liabilities": 0
+  }
+]

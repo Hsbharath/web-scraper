@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Pashupati Kumar Paras",
+    "age": "66",
+    "party": "LJP",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 62834200,
+    "liabilities": 6744375
+  },
+  {
+    "name": "Arvind Paswan",
+    "age": "33",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1205263,
+    "liabilities": 47000
+  },
+  {
+    "name": "Balendra Das",
+    "age": "47",
+    "party": "Jai Prakash Janata Dal",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 1291243,
+    "liabilities": 120000
+  },
+  {
+    "name": "Dasai Chaudhary",
+    "age": "67",
+    "party": "NCP",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18700047,
+    "liabilities": 900000
+  },
+  {
+    "name": "Jibas Paswan",
+    "age": "45",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 543600,
+    "liabilities": 50000
+  },
+  {
+    "name": "Kumari Aashiki",
+    "age": "30",
+    "party": "Sathi Aur Aapka Faisala Party",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 3142887,
+    "liabilities": 0
+  },
+  {
+    "name": "Raj Kumar Paswan",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 27000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajgir Paswan",
+    "age": "41",
+    "party": "Bajjikanchal Vikas Party",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 1082600,
+    "liabilities": 0
+  },
+  {
+    "name": "Shivchandra Ram",
+    "age": "49",
+    "party": "RJD",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 18630915,
+    "liabilities": 4997011
+  },
+  {
+    "name": "Shiwani Kant",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 4532567,
+    "liabilities": 1556750
+  },
+  {
+    "name": "Umesh Das",
+    "age": "47",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 11021433,
+    "liabilities": 1500000
+  }
+]

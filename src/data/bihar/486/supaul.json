@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Dileshwar Kamait",
+    "age": "73",
+    "party": "JD(U)",
+    "criminal": "2",
+    "education": "Graduate",
+    "assets": 23441606,
+    "liabilities": 0
+  },
+  {
+    "name": "Anand Pathak",
+    "age": "32",
+    "party": "Hind Samrajya Party",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 6850000,
+    "liabilities": 0
+  },
+  {
+    "name": "Bhim Kumar Gupta",
+    "age": "41",
+    "party": "Jammu & Kashmir National Panthers Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 52000,
+    "liabilities": 0
+  },
+  {
+    "name": "Binod Kumar Sahu",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 7525000,
+    "liabilities": 0
+  },
+  {
+    "name": "Deep Narayan Mandal",
+    "age": "61",
+    "party": "SHS",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 6064918,
+    "liabilities": 0
+  },
+  {
+    "name": "Dinesh Prasad Yadav",
+    "age": "52",
+    "party": "IND",
+    "criminal": "3",
+    "education": "Graduate Professional",
+    "assets": 7370423,
+    "liabilities": 50000
+  },
+  {
+    "name": "Kiran Devi",
+    "age": "32",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 834000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishandev Mandal",
+    "age": "50",
+    "party": "Rashtravadi Janata Party",
+    "criminal": "1",
+    "education": "5th Pass",
+    "assets": 9917500,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Afroj Alam",
+    "age": "29",
+    "party": "IND",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 1452300,
+    "liabilities": 0
+  },
+  {
+    "name": "Mohammad Abul Kalam Azad",
+    "age": "27",
+    "party": "Jai Hind Party",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 2066100,
+    "liabilities": 0
+  },
+  {
+    "name": "Naveen Kumar Singh",
+    "age": "39",
+    "party": "Bihar Lok Nirman Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 4941000,
+    "liabilities": 0
+  },
+  {
+    "name": "Pramod Kumar Nirala",
+    "age": "48",
+    "party": "Vanchit Samaj Party",
+    "criminal": "3",
+    "education": "Graduate",
+    "assets": 25235000,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar S/O Jawahar Lal Das",
+    "age": "28",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 473206,
+    "liabilities": 0
+  },
+  {
+    "name": "Rajesh Kumar S/O Yugeshwar Sah",
+    "age": "26",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 680000,
+    "liabilities": 0
+  },
+  {
+    "name": "Ranjeet Ranjan",
+    "age": "46",
+    "party": "INC",
+    "criminal": "5",
+    "education": "12th Pass",
+    "assets": 119543561,
+    "liabilities": 17695194
+  },
+  {
+    "name": "Sandeep Kumar Singh",
+    "age": "41",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 60808000,
+    "liabilities": 0
+  },
+  {
+    "name": "Sanjay Sardar",
+    "age": "40",
+    "party": "Lok Sewa Dal",
+    "criminal": "0",
+    "education": "Literate",
+    "assets": 8715000,
+    "liabilities": 650000
+  },
+  {
+    "name": "Sanjeet Kumar Chaudhary",
+    "age": "41",
+    "party": "Aam Janta Party Rashtriya",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2124233,
+    "liabilities": 0
+  },
+  {
+    "name": "Satya Narayan Mehta",
+    "age": "59",
+    "party": "Jan Adhikar Party",
+    "criminal": "1",
+    "education": "Others",
+    "assets": 3442357,
+    "liabilities": 0
+  },
+  {
+    "name": "Sudhakar Jha",
+    "age": "50",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 10191402,
+    "liabilities": 0
+  }
+]
