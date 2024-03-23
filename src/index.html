@@ -6,53 +6,14 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-        <style>
-            .country {
-                width: 100%;
-            }
-
-            .state {
-                width: inherit;
-            }
-
-            .constituency {
-                margin-bottom: 10px; 
-            }
-
-            .state-btn {
-                width: 100%;
-                background-color: #f0f0f0;
-                border: none;
-                padding: 10px;
-                text-align: left; 
-                cursor: pointer; 
-                outline: none; 
-            }
-
-            .constituency-list {
-                display: none; 
-            }
-
-            .constituency-list a {
-                display: block;
-                padding: 5px 10px; 
-                text-decoration: none;
-                color: #333;
-            }
-
-            .active .constituency-list {
-                display: block;
-            }
-
-        </style>
+        <link rel="stylesheet" href="index.css">
     </head>
     <body>
         <div class="country">
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '62')"> ANDAMAN &amp; NICOBAR ISLANDS </button>
-                    <div id="item_62">
+                    <div class="constituency-list" id="item_62">
                         <a href="state_id=62"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=431">ANDAMAN AND NICOBAR ISLANDS</a>
                     </div>
@@ -61,7 +22,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '34')"> ANDHRA PRADESH </button>
-                    <div id="item_34">
+                    <div class="constituency-list" id="item_34">
                         <a href="state_id=34"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=438">AMALAPURAM</a> <a href="constituency_id=436">ANAKAPALLE</a> <a
                             href="constituency_id=450">ANANTAPUR</a> <a href="constituency_id=432">ARAKU</a> <a
@@ -82,7 +43,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '35')"> ARUNACHAL PRADESH </button>
-                    <div id="item_35">
+                    <div class="constituency-list" id="item_35">
                         <a href="state_id=35"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=460">ARUNACHAL EAST</a> <a href="constituency_id=459">ARUNACHAL WEST</a>
                     </div>
@@ -91,7 +52,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '36')"> ASSAM </button>
-                    <div id="item_36">
+                    <div class="constituency-list" id="item_36">
                         <a href="state_id=36"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=468">AUTONOMOUS DISTRICT</a> <a href="constituency_id=473">BARPETA</a> <a
                             href="constituency_id=471">DHUBRI</a> <a href="constituency_id=464">DIBRUGARH</a> <a
@@ -106,7 +67,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '37')"> BIHAR </button>
-                    <div id="item_37">
+                    <div class="constituency-list" id="item_37">
                         <a href="state_id=37"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=487">ARARIA</a> <a href="constituency_id=511">ARRAH</a> <a
                             href="constituency_id=476">AURANGABAD</a> <a href="constituency_id=484">BANKA</a> <a
@@ -137,7 +98,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '63')"> CHANDIGARH </button>
-                    <div id="item_63">
+                    <div class="constituency-list" id="item_63">
                         <a href="state_id=63"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=519">CHANDIGARH</a>
                     </div>
@@ -146,7 +107,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '59')"> CHHATTISGARH </button>
-                    <div id="item_59">
+                    <div class="constituency-list" id="item_59">
                         <a href="state_id=59"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=520">BASTAR</a> <a href="constituency_id=528">BILASPUR</a> <a
                             href="constituency_id=529">DURG</a> <a href="constituency_id=526">JANJGIR CHAMPA</a> <a
@@ -160,7 +121,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '64')"> DADRA &amp; NAGAR HAVELI </button>
-                    <div id="item_64">
+                    <div class="constituency-list" id="item_64">
                         <a href="state_id=64"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=532">DADRA AND NAGAR HAVELI</a>
                     </div>
@@ -169,7 +130,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '65')"> DAMAN &amp; DIU </button>
-                    <div id="item_65">
+                    <div class="constituency-list" id="item_65">
                         <a href="state_id=65"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=533">DAMAN AND DIU</a>
                     </div>
@@ -178,7 +139,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '38')"> GOA </button>
-                    <div id="item_38">
+                    <div class="constituency-list" id="item_38">
                         <a href="state_id=38"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=541">NORTH GOA</a> <a href="constituency_id=542">SOUTH GOA</a>
                     </div>
@@ -187,7 +148,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '39')"> GUJARAT </button>
-                    <div id="item_39">
+                    <div class="constituency-list" id="item_39">
                         <a href="state_id=39"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=549">AHMEDABAD EAST</a> <a href="constituency_id=550">AHMEDABAD WEST</a> <a
                             href="constituency_id=556">AMRELI</a> <a href="constituency_id=558">ANAND</a> <a
@@ -208,7 +169,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '40')"> HARYANA </button>
-                    <div id="item_40">
+                    <div class="constituency-list" id="item_40">
                         <a href="state_id=40"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=571">AMBALA</a> <a href="constituency_id=578">BHIWANI MAHENDRAGARH</a> <a
                             href="constituency_id=580">FARIDABAD</a> <a href="constituency_id=579">GURGAON</a> <a
@@ -221,7 +182,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '41')"> HIMACHAL PRADESH </button>
-                    <div id="item_41">
+                    <div class="constituency-list" id="item_41">
                         <a href="state_id=41"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=584">HAMIRPUR</a> <a href="constituency_id=582">KANGRA</a> <a
                             href="constituency_id=583">MANDI</a>
@@ -231,7 +192,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '42')"> JAMMU &amp; KASHMIR </button>
-                    <div id="item_42">
+                    <div class="constituency-list" id="item_42">
                         <a href="state_id=42"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=1004">ANANTNAG</a> <a href="constituency_id=1005">BARAMULLA</a> <a
                             href="constituency_id=1006">JAMMU</a> <a href="constituency_id=1009">LADAKH</a> <a
@@ -242,7 +203,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '60')"> JHARKHAND </button>
-                    <div id="item_60">
+                    <div class="constituency-list" id="item_60">
                         <a href="state_id=60"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=586" title="Date of Election 29-04-2019">CHATRA</a> <a
                             href="constituency_id=594">DHANBAD</a> <a href="constituency_id=598">DUMKA</a> <a
@@ -259,7 +220,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '43')"> KARNATAKA </button>
-                    <div id="item_43">
+                    <div class="constituency-list" id="item_43">
                         <a href="state_id=43"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=618">BAGALKOT</a> <a href="constituency_id=611">BANGALORE CENTRAL</a> <a
                             href="constituency_id=610">BANGALORE NORTH</a> <a href="constituency_id=609">BANGALORE RURAL</a> <a
@@ -281,7 +242,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '44')"> KERALA </button>
-                    <div id="item_44">
+                    <div class="constituency-list" id="item_44">
                         <a href="state_id=44"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=646">ALAPPUZHA</a> <a href="constituency_id=639">ALATHUR</a> <a
                             href="constituency_id=650">ATTINGAL</a> <a href="constituency_id=641">CHALAKUDY</a> <a
@@ -299,7 +260,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '67')"> LAKSHADWEEP </button>
-                    <div id="item_67">
+                    <div class="constituency-list" id="item_67">
                         <a href="state_id=67"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=652">LAKSHADWEEP</a>
                     </div>
@@ -308,7 +269,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '45')"> MADHYA PRADESH </button>
-                    <div id="item_45">
+                    <div class="constituency-list" id="item_45">
                         <a href="state_id=45"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=657" title="Date of Election 29-04-2019">BALAGHAT</a> <a
                             href="constituency_id=665">BETUL</a> <a href="constituency_id=668">BHIND</a> <a
@@ -333,7 +294,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '46')"> MAHARASHTRA </button>
-                    <div id="item_46">
+                    <div class="constituency-list" id="item_46">
                         <a href="state_id=46"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=709">AHMEDNAGAR</a> <a href="constituency_id=692">AKOLA</a> <a
                             href="constituency_id=693">AMRAVATI</a> <a href="constituency_id=705">AURANGABAD</a> <a
@@ -374,7 +335,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '47')"> MANIPUR </button>
-                    <div id="item_47">
+                    <div class="constituency-list" id="item_47">
                         <a href="state_id=47"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=736">INNER MANIPUR</a> <a href="constituency_id=735">OUTER MANIPUR</a>
                     </div>
@@ -383,7 +344,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '48')"> MEGHALAYA </button>
-                    <div id="item_48">
+                    <div class="constituency-list" id="item_48">
                         <a href="state_id=48"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=737">SHILLONG</a> <a href="constituency_id=738">TURA</a>
                     </div>
@@ -392,7 +353,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '49')"> MIZORAM </button>
-                    <div id="item_49">
+                    <div class="constituency-list" id="item_49">
                         <a href="state_id=49"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=739">MIZORAM</a>
                     </div>
@@ -401,7 +362,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '50')"> NAGALAND </button>
-                    <div id="item_50">
+                    <div class="constituency-list" id="item_50">
                         <a href="state_id=50"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=740">NAGALAND</a>
                     </div>
@@ -411,7 +372,7 @@
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '66')"> NATIONAL CAPITAL TERRITORY OF DELHI
                     </button>
-                    <div id="item_66">
+                    <div class="constituency-list" id="item_66">
                         <a href="state_id=66"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=534">CHANDNI CHOWK</a> <a href="constituency_id=536">EAST DELHI</a> <a
                             href="constituency_id=537">NEW DELHI</a> <a href="constituency_id=535">NORTH EAST DELHI</a> <a
@@ -423,7 +384,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '51')"> ODISHA </button>
-                    <div id="item_51">
+                    <div class="constituency-list" id="item_51">
                         <a href="state_id=51"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=749">ASKA</a> <a href="constituency_id=758"
                             title="Date of Election 29-04-2019">BALASORE</a> <a href="constituency_id=745">BARGARH</a> <a
@@ -445,7 +406,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '68')"> PUDUCHERRY </button>
-                    <div id="item_68">
+                    <div class="constituency-list" id="item_68">
                         <a href="state_id=68"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=763">PUDUCHERRY</a>
                     </div>
@@ -454,7 +415,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '52')"> PUNJAB </button>
-                    <div id="item_52">
+                    <div class="constituency-list" id="item_52">
                         <a href="state_id=52"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=765">AMRITSAR</a> <a href="constituency_id=769">ANANDPUR SAHIB</a> <a
                             href="constituency_id=774">BATHINDA</a> <a href="constituency_id=772">FARIDKOT</a> <a
@@ -469,7 +430,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '53')"> RAJASTHAN </button>
-                    <div id="item_53">
+                    <div class="constituency-list" id="item_53">
                         <a href="state_id=53"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=779" title="Date of Election 29-04-2019">AJMER</a> <a
                             href="constituency_id=799">ALWAR</a> <a href="constituency_id=785"
@@ -496,7 +457,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '54')"> SIKKIM </button>
-                    <div id="item_54">
+                    <div class="constituency-list" id="item_54">
                         <a href="state_id=54"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=805">SIKKIM</a>
                     </div>
@@ -505,7 +466,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '55')"> TAMIL NADU </button>
-                    <div id="item_55">
+                    <div class="constituency-list" id="item_55">
                         <a href="state_id=55"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=812">ARAKKONAM</a> <a href="constituency_id=817">ARANI</a> <a
                             href="constituency_id=809">CHENNAI CENTRAL</a> <a href="constituency_id=807">CHENNAI NORTH</a> <a
@@ -533,7 +494,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '69')"> TELANGANA </button>
-                    <div id="item_69">
+                    <div class="constituency-list" id="item_69">
                         <a href="state_id=69"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=848">ADILABAD</a> <a href="constituency_id=861">BHONGIR</a> <a
                             href="constituency_id=857">CHEVELLA</a> <a href="constituency_id=856">HYDERABAD</a> <a
@@ -550,7 +511,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '56')"> TRIPURA </button>
-                    <div id="item_56">
+                    <div class="constituency-list" id="item_56">
                         <a href="state_id=56"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=867">TRIPURA EAST</a> <a href="constituency_id=866">TRIPURA WEST</a>
                     </div>
@@ -559,7 +520,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '57')"> UTTAR PRADESH </button>
-                    <div id="item_57">
+                    <div class="constituency-list" id="item_57">
                         <a href="state_id=57"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=883">AGRA</a> <a href="constituency_id=905"
                             title="Date of Election 29-04-2019">AKBARPUR</a> <a href="constituency_id=879">ALIGARH</a> <a
@@ -613,7 +574,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '61')"> UTTARAKHAND </button>
-                    <div id="item_61">
+                    <div class="constituency-list" id="item_61">
                         <a href="state_id=61"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=956">ALMORA</a> <a href="constituency_id=955">GARHWAL</a> <a
                             href="constituency_id=958">HARIDWAR</a> <a href="constituency_id=957">NAINITAL-UDHAMSINGH NAGAR</a>
@@ -624,7 +585,7 @@
             <div class="state">
                 <div class="constituency">
                     <button class="state-btn" onclick="handle_dropdown('item', '58')"> WEST BENGAL </button>
-                    <div id="item_58">
+                    <div class="constituency-list" id="item_58">
                         <a href="state_id=58"> ALL CONSTITUENCIES </a>
                         <a href="constituency_id=960">ALIPURDUARS</a> <a href="constituency_id=984">ARAMBAG</a> <a
                             href="constituency_id=975" title="Date of Election 29-04-2019">ASANSOL</a> <a
@@ -655,13 +616,5 @@
                 </div>
             </div>
         </div>
-        
-        <script>
-
-            function handle_dropdown(item, id) {
-                const item = document.getElementById(`${'item_'+id}`);
-                item.classList.toggle('active');
-            }
-        </script>
     </body>
 </html>
