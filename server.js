@@ -45,7 +45,7 @@ async function checkStatus() {
 // Function to scrape constituencies in batches
 async function scrapeConstituencies(constituencies) {
   // Define batch size and delay between requests
-  const batchSize = 10;
+  const batchSize = 15;
   const delayBetweenRequests = 20000;
 
   // Process constituencies in batches
@@ -159,7 +159,7 @@ async function scrapeListOfConstituenciesStateWise() {
 
     // Process constituencies by state
     Object.entries(constituenciesByState).map(([key, value]) => {
-      if (key === 'daman-and-diu') {
+      if (key === 'west-bengal') {
         scrapeConstituencies(value);
       }
     });
@@ -167,6 +167,7 @@ async function scrapeListOfConstituenciesStateWise() {
     console.error('Error:', error);
   } finally {
     // Close the browser
+    console.log('completed!!!');
     await browser.close();
   }
 }
@@ -215,10 +216,7 @@ async function scrapeData(state, constituencyId, constituencyFile) {
     });
 
     // Define paths for data storage
-    const dataFolderPath = path.join(
-      __dirname,
-      `/src/data/${state}/${constituencyId}`
-    );
+    const dataFolderPath = path.join(__dirname, `/src/data/${state}/`);
     const jsonFilePath = path.join(dataFolderPath, `${constituencyFile}.json`);
 
     // Create folder if not exists

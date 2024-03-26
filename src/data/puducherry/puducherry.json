@@ -1,0 +1,155 @@
+[
+  {
+    "name": "V. Vaithilingam",
+    "age": "68",
+    "party": "INC",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 108015548,
+    "liabilities": 520989
+  },
+  {
+    "name": "A.G.Pathimaraj",
+    "age": "33",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 397117,
+    "liabilities": 179146
+  },
+  {
+    "name": "Baskaran.S",
+    "age": "42",
+    "party": "Puducherry Development Party",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 5582500,
+    "liabilities": 2200000
+  },
+  {
+    "name": "Dr. Narayanasamy Kesavan",
+    "age": "29",
+    "party": "All India N.R. Congress",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 83719044,
+    "liabilities": 12739010
+  },
+  {
+    "name": "Dr.M.A.S. Subramanian",
+    "age": "72",
+    "party": "Makkal Needhi Maiam",
+    "criminal": "0",
+    "education": "Graduate Professional",
+    "assets": 393586982,
+    "liabilities": 28820830
+  },
+  {
+    "name": "Ims. Balaji",
+    "age": "32",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 1350000,
+    "liabilities": 0
+  },
+  {
+    "name": "K. Ramadoss",
+    "age": "54",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 75000,
+    "liabilities": 0
+  },
+  {
+    "name": "K.Arunachalam",
+    "age": "43",
+    "party": "Agila India Makkal Kazhagam",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 63000,
+    "liabilities": 0
+  },
+  {
+    "name": "Krishnamurthy.M",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 18819553,
+    "liabilities": 3535000
+  },
+  {
+    "name": "Muthu.U",
+    "age": "49",
+    "party": "SUCI(C)",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 2275000,
+    "liabilities": 0
+  },
+  {
+    "name": "N. Tamizh Marane",
+    "age": "46",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 3088900,
+    "liabilities": 2830000
+  },
+  {
+    "name": "Ramesh.D",
+    "age": "49",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 365000,
+    "liabilities": 0
+  },
+  {
+    "name": "S. Mothilal",
+    "age": "40",
+    "party": "CPI(ML)(L)",
+    "criminal": "1",
+    "education": "10th Pass",
+    "assets": 1784000,
+    "liabilities": 200000
+  },
+  {
+    "name": "S. Thirugnanam",
+    "age": "55",
+    "party": "Anti Corruption Dynamic Party",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 50000,
+    "liabilities": 0
+  },
+  {
+    "name": "Thangavelu.S",
+    "age": "34",
+    "party": "IND",
+    "criminal": "1",
+    "education": "Graduate Professional",
+    "assets": 60181,
+    "liabilities": 0
+  },
+  {
+    "name": "Tiravitamankai Alias Lourdhumary",
+    "age": "57",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 3355052,
+    "liabilities": 121000
+  },
+  {
+    "name": "V. Ramamurthi",
+    "age": "74",
+    "party": "IND",
+    "criminal": "0",
+    "education": "8th Pass",
+    "assets": 2246,
+    "liabilities": 0
+  }
+]

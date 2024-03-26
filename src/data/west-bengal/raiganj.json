@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Debasree Chaudhuri",
+    "age": "48",
+    "party": "BJP",
+    "criminal": "2",
+    "education": "Post Graduate",
+    "assets": 6139123,
+    "liabilities": 823416
+  },
+  {
+    "name": "Advocate Anjay Debsarma",
+    "age": "38",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 706000,
+    "liabilities": 0
+  },
+  {
+    "name": "Agarwal Kanaialal",
+    "age": "64",
+    "party": "AITC",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 20695117,
+    "liabilities": 0
+  },
+  {
+    "name": "Akik Hossain Chowdhury",
+    "age": "48",
+    "party": "Kamatapur Peoples Party (United)",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 1065000,
+    "liabilities": 0
+  },
+  {
+    "name": "Binoy Kumar Das",
+    "age": "72",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Graduate",
+    "assets": 188788000,
+    "liabilities": 0
+  },
+  {
+    "name": "Churka Murmu",
+    "age": "63",
+    "party": "BSP",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 17307942,
+    "liabilities": 0
+  },
+  {
+    "name": "Deepa Dasmunsi",
+    "age": "58",
+    "party": "INC",
+    "criminal": "4",
+    "education": "Post Graduate",
+    "assets": 15615375,
+    "liabilities": 0
+  },
+  {
+    "name": "Kumaresh Sarkar",
+    "age": "44",
+    "party": "IND",
+    "criminal": "0",
+    "education": "10th Pass",
+    "assets": 418000,
+    "liabilities": 0
+  },
+  {
+    "name": "Lakshman Murmu",
+    "age": "30",
+    "party": "Ambedkarite Party of India",
+    "criminal": "0",
+    "education": "12th Pass",
+    "assets": 377482,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Sahajan Badsha",
+    "age": "34",
+    "party": "IND",
+    "criminal": "0",
+    "education": "Others",
+    "assets": 57678,
+    "liabilities": 0
+  },
+  {
+    "name": "Md. Salim",
+    "age": "61",
+    "party": "CPI(M)",
+    "criminal": "1",
+    "education": "Post Graduate",
+    "assets": 9690051,
+    "liabilities": 619755
+  },
+  {
+    "name": "Raju Paul",
+    "age": "30",
+    "party": "IND",
+    "criminal": "2",
+    "education": "10th Pass",
+    "assets": 980000,
+    "liabilities": 0
+  },
+  {
+    "name": "Santhapan Hasdak",
+    "age": "43",
+    "party": "JMM",
+    "criminal": "0",
+    "education": "Post Graduate",
+    "assets": 556386,
+    "liabilities": 0
+  },
+  {
+    "name": "Sujan Krishna Paul",
+    "age": "40",
+    "party": "SUCI(C)",
+    "criminal": "1",
+    "education": "Graduate",
+    "assets": 629956,
+    "liabilities": 194320
+  }
+]
